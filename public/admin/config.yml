@@ -15,7 +15,7 @@ collections:
     files:
       - label: Bonus
         name: bonus
-        file: content/alerts/bonus.json
+        file: content/$LOCALE/alerts/bonus.json
         fields:
           - name: bonusCodeIncorrect
             label: Bonus Code Incorrect
@@ -117,7 +117,7 @@ collections:
                 widget: string
       - label: Free Spin
         name: freeSpin
-        file: content/alerts/free-spin.json
+        file: content/$LOCALE/alerts/free-spin.json
         fields:
           - name: freeSpinIssued
             label: Free Spin Issued
@@ -186,7 +186,7 @@ collections:
                 widget: string
       - label: Global
         name: global
-        file: content/alerts/global.json
+        file: content/$LOCALE/alerts/global.json
         fields:
           - name: somethingWrong
             label: Something Wrong
@@ -213,7 +213,7 @@ collections:
                 widget: string
       - label: Limit
         name: limit
-        file: content/alerts/limit.json
+        file: content/$LOCALE/alerts/limit.json
         fields:
           - name: limitedRealGame
             label: Limited Real Game
@@ -302,7 +302,7 @@ collections:
                 widget: string
       - label: Profile
         name: profile
-        file: content/alerts/profile.json
+        file: content/$LOCALE/alerts/profile.json
         fields:
           - name: sentResetLink
             label: Sent Reset Link
@@ -410,7 +410,7 @@ collections:
                 widget: string
       - label: Wallet
         name: wallet
-        file: content/alerts/wallet.json
+        file: content/$LOCALE/alerts/wallet.json
         fields:
           - name: withdrawalProcessed
             label: Withdrawal Processed
@@ -562,7 +562,7 @@ collections:
     summary: '{{fields.title}}'
     extension: json
     format: json
-    folder: content/bonus
+    folder: content/$LOCALE/bonus
     editor:
       preview: false
     fields:
@@ -613,6 +613,7 @@ collections:
           label: Page Seo
           widget: object
           collapsed: true
+          required: false
           fields:
             - name: title
               label: Page Title
@@ -647,7 +648,7 @@ collections:
     files:
       - label: Fields Controls
         name: fieldsControls
-        file: content/fields-settings/fields-controls.json
+        file: content/$LOCALE/fields-settings/fields-controls.json
         fields:
           - name: repeatNewPassword
             label: Repeat New Password
@@ -1075,7 +1076,7 @@ collections:
                 widget: string
       - label: Validation Messages
         name: validationMessages
-        file: content/fields-settings/validation-messages.json
+        file: content/$LOCALE/fields-settings/validation-messages.json
         fields:
           - name: ContentName
             label: ' Content Name'
@@ -1203,7 +1204,7 @@ collections:
     files:
       - label: Benefits
         name: benefits
-        file: content/global-components/benefits.json
+        file: content/$LOCALE/global-components/benefits.json
         fields:
           - name: items
             label: Benefit Cards
@@ -1256,7 +1257,7 @@ collections:
               - new
       - label: Cards Group
         name: cardsGroup
-        file: content/global-components/cards-group.json
+        file: content/$LOCALE/global-components/cards-group.json
         fields:
           - name: moreButton
             label: More Button
@@ -1310,7 +1311,7 @@ collections:
                 widget: string
       - label: Categories
         name: categories
-        file: content/global-components/categories.json
+        file: content/$LOCALE/global-components/categories.json
         fields:
           - name: categoriesList
             label: Categories List
@@ -1333,7 +1334,7 @@ collections:
               hint: Identity must be the same as backoffice category identity!
       - label: Constants
         name: constants
-        file: content/global-components/constants.json
+        file: content/$LOCALE/global-components/constants.json
         fields:
           - name: bonusTypes
             label: Bonus Types
@@ -1473,7 +1474,7 @@ collections:
                 widget: string
       - label: Currency Popup
         name: currencyPopup
-        file: content/global-components/currency-popup.json
+        file: content/$LOCALE/global-components/currency-popup.json
         fields:
           - name: tabs
             label: Tabs
@@ -1497,7 +1498,7 @@ collections:
                 widget: string
       - label: Error
         name: error
-        file: content/global-components/error.json
+        file: content/$LOCALE/global-components/error.json
         fields:
           - name: title
             label: Title
@@ -1517,7 +1518,7 @@ collections:
                 widget: string
       - label: Game Tags
         name: gameTags
-        file: content/global-components/game-tags.json
+        file: content/$LOCALE/global-components/game-tags.json
         fields:
           - name: gameTagsList
             label:
@@ -1547,7 +1548,7 @@ collections:
               label: Tag Color
       - label: Global Seo
         name: globalSeo
-        file: content/global-components/global-seo.json
+        file: content/$LOCALE/global-components/global-seo.json
         fields:
           - name: title
             label: Title
@@ -1557,7 +1558,7 @@ collections:
             widget: string
       - label: Originals
         name: originals
-        file: content/global-components/originals.json
+        file: content/$LOCALE/global-components/originals.json
         fields:
           - name: items
             label: Items
@@ -1580,7 +1581,7 @@ collections:
             widget: boolean
       - label: Promotions
         name: promotions
-        file: content/global-components/promotions.json
+        file: content/$LOCALE/global-components/promotions.json
         fields:
           - name: label
             label: Label
@@ -1619,7 +1620,7 @@ collections:
             summary: '{{fields.title}}'
       - label: Turbogames
         name: turbogames
-        file: content/global-components/turbogames.json
+        file: content/$LOCALE/global-components/turbogames.json
         fields:
           - name: isShow
             label: Show Content
@@ -1671,7 +1672,7 @@ collections:
     files:
       - label: Bets
         name: bets
-        file: content/history/bets.json
+        file: content/$LOCALE/history/bets.json
         fields:
           - name: tabLabel
             label: Tab Label
@@ -1725,7 +1726,7 @@ collections:
                 widget: string
       - label: Bonuses
         name: bonuses
-        file: content/history/bonuses.json
+        file: content/$LOCALE/history/bonuses.json
         fields:
           - name: empty
             label: Empty
@@ -1799,7 +1800,7 @@ collections:
             widget: string
       - label: Sessions
         name: sessions
-        file: content/history/sessions.json
+        file: content/$LOCALE/history/sessions.json
         fields:
           - name: tabLabel
             label: Tab Label
@@ -1838,7 +1839,7 @@ collections:
             widget: number
       - label: Spins
         name: spins
-        file: content/history/spins.json
+        file: content/$LOCALE/history/spins.json
         fields:
           - name: empty
             label: Empty
@@ -1919,7 +1920,7 @@ collections:
                 widget: string
       - label: Transactions
         name: transactions
-        file: content/history/transactions.json
+        file: content/$LOCALE/history/transactions.json
         fields:
           - name: currencyLabel
             label: Currency Label
@@ -2060,7 +2061,7 @@ collections:
     files:
       - label: Cookie
         name: cookie
-        file: content/layout/cookie.json
+        file: content/$LOCALE/layout/cookie.json
         fields:
           - name: text
             label: Text
@@ -2070,7 +2071,7 @@ collections:
             widget: string
       - label: Footer
         name: footer
-        file: content/layout/footer.json
+        file: content/$LOCALE/layout/footer.json
         fields:
           - name: promoMenu
             label: Promo Menu
@@ -2153,7 +2154,7 @@ collections:
             widget: string
       - label: Header
         name: header
-        file: content/layout/header.json
+        file: content/$LOCALE/layout/header.json
         fields:
           - name: loginButton
             label: Login Button
@@ -2292,7 +2293,7 @@ collections:
                     widget: image
       - label: Mobile Menu
         name: mobileMenu
-        file: content/layout/mobile-menu.json
+        file: content/$LOCALE/layout/mobile-menu.json
         fields:
           - name: menu
             label: Menu
@@ -2312,7 +2313,7 @@ collections:
             summary: '{{fields.title}}'
       - label: Profile Sidebar
         name: profileSidebar
-        file: content/layout/profile-sidebar.json
+        file: content/$LOCALE/layout/profile-sidebar.json
         fields:
           - name: profileLinks
             label: Profile Links
@@ -2335,14 +2336,14 @@ collections:
             widget: string
       - label: Return Game
         name: returnGame
-        file: content/layout/return-game.json
+        file: content/$LOCALE/layout/return-game.json
         fields:
           - name: playLabel
             label: Play Label
             widget: string
       - label: Site Sidebar
         name: siteSidebar
-        file: content/layout/site-sidebar.json
+        file: content/$LOCALE/layout/site-sidebar.json
         fields:
           - name: socials
             label: Socials
@@ -2592,7 +2593,7 @@ collections:
     files:
       - label: Add Cash Limit
         name: addCashLimit
-        file: content/modals/add-cash-limit.json
+        file: content/$LOCALE/modals/add-cash-limit.json
         fields:
           - name: chooseCurrencyError
             label: Choose Currency Error
@@ -2623,7 +2624,7 @@ collections:
             widget: string
       - label: Balance In Fiat
         name: balanceInFiat
-        file: content/modals/balance-in-fiat.json
+        file: content/$LOCALE/modals/balance-in-fiat.json
         fields:
           - name: title
             label: Title
@@ -2636,7 +2637,7 @@ collections:
             widget: string
       - label: Cancel Bonus
         name: cancelBonus
-        file: content/modals/cancel-bonus.json
+        file: content/$LOCALE/modals/cancel-bonus.json
         fields:
           - name: title
             label: Title
@@ -2655,7 +2656,7 @@ collections:
             widget: string
       - label: Cancel Deposit
         name: cancelDeposit
-        file: content/modals/cancel-deposit.json
+        file: content/$LOCALE/modals/cancel-deposit.json
         fields:
           - name: title
             label: Title
@@ -2674,7 +2675,7 @@ collections:
             widget: string
       - label: Cancel Registration
         name: cancelRegistration
-        file: content/modals/cancel-registration.json
+        file: content/$LOCALE/modals/cancel-registration.json
         fields:
           - name: title
             label: Title
@@ -2694,7 +2695,7 @@ collections:
             widget: string
       - label: Change Active Bonus
         name: changeActiveBonus
-        file: content/modals/change-active-bonus.json
+        file: content/$LOCALE/modals/change-active-bonus.json
         fields:
           - name: title
             label: Title
@@ -2710,7 +2711,7 @@ collections:
             widget: string
       - label: Delete Cash Limit
         name: deleteCashLimit
-        file: content/modals/delete-cash-limit.json
+        file: content/$LOCALE/modals/delete-cash-limit.json
         fields:
           - name: title
             label: Title
@@ -2726,11 +2727,11 @@ collections:
             widget: string
       - label: Deposit
         name: deposit
-        file: content/modals/deposit.json
+        file: content/$LOCALE/modals/deposit.json
         fields: []
       - label: Edit Cash Limit
         name: editCashLimit
-        file: content/modals/edit-cash-limit.json
+        file: content/$LOCALE/modals/edit-cash-limit.json
         fields:
           - name: greaterAmountTitle
             label: Greater Amount Title
@@ -2796,7 +2797,7 @@ collections:
                 widget: string
       - label: Error
         name: error
-        file: content/modals/error.json
+        file: content/$LOCALE/modals/error.json
         fields:
           - name: title
             label: Title
@@ -2809,7 +2810,7 @@ collections:
             widget: string
       - label: Forgot
         name: forgot
-        file: content/modals/forgot.json
+        file: content/$LOCALE/modals/forgot.json
         fields:
           - name: title
             label: Title
@@ -2827,7 +2828,7 @@ collections:
             hint: Put text inside "*" to highlight it
       - label: Game Limit Reached
         name: gameLimitReached
-        file: content/modals/game-limit-reached.json
+        file: content/$LOCALE/modals/game-limit-reached.json
         fields:
           - name: label
             label: Label
@@ -2837,7 +2838,7 @@ collections:
             widget: string
       - label: Login
         name: login
-        file: content/modals/login.json
+        file: content/$LOCALE/modals/login.json
         fields:
           - name: title
             label: Title
@@ -2855,7 +2856,7 @@ collections:
             hint: Put text inside "*" to highlight it
       - label: Mobile Game
         name: mobileGame
-        file: content/modals/mobile-game.json
+        file: content/$LOCALE/modals/mobile-game.json
         fields:
           - name: deposit
             label: Deposit
@@ -2874,7 +2875,7 @@ collections:
             widget: string
       - label: Profile Confirmed
         name: profileConfirmed
-        file: content/modals/profile-confirmed.json
+        file: content/$LOCALE/modals/profile-confirmed.json
         fields:
           - name: title
             label: Title
@@ -2884,7 +2885,7 @@ collections:
             widget: string
       - label: Registration
         name: registration
-        file: content/modals/registration.json
+        file: content/$LOCALE/modals/registration.json
         fields:
           - name: title
             label: Title
@@ -2951,7 +2952,7 @@ collections:
             widget: string
       - label: Reset
         name: reset
-        file: content/modals/reset.json
+        file: content/$LOCALE/modals/reset.json
         fields:
           - name: title
             label: Title
@@ -2961,7 +2962,7 @@ collections:
             widget: string
       - label: Self Exclusion Confirm
         name: selfExclusionConfirm
-        file: content/modals/self-exclusion-confirm.json
+        file: content/$LOCALE/modals/self-exclusion-confirm.json
         fields:
           - name: updateTitle
             label: Update Title
@@ -2977,7 +2978,7 @@ collections:
             widget: string
       - label: Success
         name: success
-        file: content/modals/success.json
+        file: content/$LOCALE/modals/success.json
         fields:
           - name: title
             label: Title
@@ -2990,7 +2991,7 @@ collections:
             widget: string
       - label: Wallet Bonus Details
         name: walletBonusDetails
-        file: content/modals/wallet-bonus-details.json
+        file: content/$LOCALE/modals/wallet-bonus-details.json
         fields:
           - name: title
             label: Title
@@ -3046,7 +3047,7 @@ collections:
                 widget: string
       - label: Wallet
         name: wallet
-        file: content/modals/wallet.json
+        file: content/$LOCALE/modals/wallet.json
         fields:
           - name: balanceLabel
             label: Balance Label
@@ -3270,7 +3271,7 @@ collections:
     files:
       - label: Casino
         name: casino
-        file: content/pages/casino.json
+        file: content/$LOCALE/pages/casino.json
         fields:
           - name: slider
             label: Slider
@@ -3355,7 +3356,7 @@ collections:
             seo: *ref_3
       - label: Contacts
         name: contacts
-        file: content/pages/contacts.json
+        file: content/$LOCALE/pages/contacts.json
         fields:
           - name: image
             label: Image
@@ -3386,7 +3387,7 @@ collections:
             seo: *ref_3
       - label: Favorites
         name: favorites
-        file: content/pages/favorites.json
+        file: content/$LOCALE/pages/favorites.json
         fields:
           - name: title
             label: Title
@@ -3427,7 +3428,7 @@ collections:
             seo: *ref_3
       - label: Game
         name: game
-        file: content/pages/game.json
+        file: content/$LOCALE/pages/game.json
         fields:
           - name: demoLabel
             label: Demo Label
@@ -3487,7 +3488,7 @@ collections:
                 widget: string
       - label: Games
         name: games
-        file: content/pages/games.json
+        file: content/$LOCALE/pages/games.json
         fields:
           - name: empty
             label: Empty
@@ -3574,7 +3575,7 @@ collections:
             summary: '{{fields.title}}'
       - label: Home
         name: home
-        file: content/pages/home.json
+        file: content/$LOCALE/pages/home.json
         fields:
           - name: banner
             label: Banner
@@ -3752,7 +3753,7 @@ collections:
             seo: *ref_3
       - label: Providers
         name: providers
-        file: content/pages/providers.json
+        file: content/$LOCALE/pages/providers.json
         fields:
           - name: title
             label: Title
@@ -3823,7 +3824,7 @@ collections:
             seo: *ref_3
       - label: Question
         name: question
-        file: content/pages/question.json
+        file: content/$LOCALE/pages/question.json
         fields:
           - name: title
             label: Title
@@ -3851,7 +3852,7 @@ collections:
             seo: *ref_3
       - label: Recently
         name: recently
-        file: content/pages/recently.json
+        file: content/$LOCALE/pages/recently.json
         fields:
           - name: title
             label: Title
@@ -3886,7 +3887,7 @@ collections:
             seo: *ref_3
       - label: Referrals
         name: referrals
-        file: content/pages/referrals.json
+        file: content/$LOCALE/pages/referrals.json
         fields:
           - name: received
             label: Received
@@ -3986,7 +3987,7 @@ collections:
             widget: string
       - label: Sportsbook
         name: sportsbook
-        file: content/pages/sportsbook.json
+        file: content/$LOCALE/pages/sportsbook.json
         fields:
           - name: seo
             label: Seo
@@ -4005,14 +4006,14 @@ collections:
             seo: *ref_3
       - label: Support
         name: support
-        file: content/pages/support.json
+        file: content/$LOCALE/pages/support.json
         fields:
           - name: title
             label: Title
             widget: string
       - label: Token
         name: token
-        file: content/pages/token.json
+        file: content/$LOCALE/pages/token.json
         fields:
           - name: seo
             label: Seo
@@ -4031,7 +4032,7 @@ collections:
             seo: *ref_3
       - label: Welcome Bonuses
         name: welcomeBonuses
-        file: content/pages/welcome-bonuses.json
+        file: content/$LOCALE/pages/welcome-bonuses.json
         fields:
           - name: title
             label: Title
@@ -4267,14 +4268,14 @@ collections:
     files:
       - label: Account
         name: account
-        file: content/profile/account.json
+        file: content/$LOCALE/profile/account.json
         fields:
           - name: connectionsTitle
             label: Connections Title
             widget: string
       - label: Bonuses
         name: bonuses
-        file: content/profile/bonuses.json
+        file: content/$LOCALE/profile/bonuses.json
         fields:
           - name: title
             label: Title
@@ -4337,7 +4338,7 @@ collections:
                 widget: string
       - label: History
         name: history
-        file: content/profile/history.json
+        file: content/$LOCALE/profile/history.json
         fields:
           - name: title
             label: Title
@@ -4352,7 +4353,7 @@ collections:
             seo: *ref_3
       - label: Info
         name: info
-        file: content/profile/info.json
+        file: content/$LOCALE/profile/info.json
         fields:
           - name: verifyButton
             label: Verify Button
@@ -4453,7 +4454,7 @@ collections:
             seo: *ref_3
       - label: Limits
         name: limits
-        file: content/profile/limits.json
+        file: content/$LOCALE/profile/limits.json
         fields:
           - name: setButtonLabel
             label: Set Button Label
@@ -4570,7 +4571,7 @@ collections:
             widget: string
       - label: Security
         name: security
-        file: content/profile/security.json
+        file: content/$LOCALE/profile/security.json
         fields:
           - name: title
             label: Title
@@ -4662,7 +4663,7 @@ collections:
                     widget: string
       - label: Settings
         name: settings
-        file: content/profile/settings.json
+        file: content/$LOCALE/profile/settings.json
         fields:
           - name: title
             label: Title
@@ -4681,7 +4682,7 @@ collections:
             summary: '{{fields.title}}'
       - label: Tabs
         name: tabs
-        file: content/profile/tabs.json
+        file: content/$LOCALE/profile/tabs.json
         fields:
           - name: profile
             label: Profile
@@ -4709,7 +4710,7 @@ collections:
             summary: '{{fields.title}}'
       - label: Wallet
         name: wallet
-        file: content/profile/wallet.json
+        file: content/$LOCALE/profile/wallet.json
         fields:
           - name: changeButton
             label: Change Button
@@ -4773,7 +4774,7 @@ collections:
     summary: '{{fields.title}}'
     extension: json
     format: json
-    folder: content/question-pages
+    folder: content/$LOCALE/question-pages
     editor:
       preview: false
     fields:
@@ -4811,7 +4812,7 @@ collections:
     summary: '{{fields.title}}'
     extension: json
     format: json
-    folder: content/static
+    folder: content/$LOCALE/static
     editor:
       preview: false
     fields:
