@@ -2,7 +2,7 @@ backend:
   cms_label_prefix: cms/$LOCALE/
   repo: SkyNetRu/Nuxt3-starter__Decap-cm
   branch: main
-  name: 'Nuxt3-starter__Decap-cms'
+  name: 'GitHub'
 media_folder: public/img/uploads
 public_folder: /img/uploads
 collections:
