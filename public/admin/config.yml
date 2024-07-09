@@ -608,37 +608,36 @@ collections:
         label: Terms Content
         widget: markdown
       - &ref_4
-        seo: &ref_3
-          name: IPageMeta
-          label: Page Seo
-          widget: object
-          collapsed: true
-          required: false
-          fields:
-            - name: title
-              label: Page Title
-              widget: string
-              required: false
-            - name: description
-              label: Page Description
-              widget: text
-              required: false
-            - name: text
-              label: Page Seo Text
-              widget: object
-              fields:
-                - name: visible
-                  label: Visible Text
-                  widget: markdown
-                  required: false
-                - name: hidden
-                  label: Hidden Text
-                  widget: markdown
-                  required: false
-                - name: button
-                  label: More Button Label
-                  widget: string
-                  required: false
+        name: IPageMeta
+        label: Page Seo
+        widget: object
+        collapsed: true
+        required: false
+        fields: &ref_3
+          - name: title
+            label: Page Title
+            widget: string
+            required: false
+          - name: description
+            label: Page Description
+            widget: text
+            required: false
+          - name: text
+            label: Page Seo Text
+            widget: object
+            fields:
+              - name: visible
+                label: Visible Text
+                widget: markdown
+                required: false
+              - name: hidden
+                label: Hidden Text
+                widget: markdown
+                required: false
+              - name: button
+                label: More Button Label
+                widget: string
+                required: false
   - name: fieldsSettings
     label: Fields Settings
     extension: json
@@ -3330,30 +3329,12 @@ collections:
               widget: markdown
             content:
               widget: markdown
-          - name: seo
-            label: Seo
+          - name: IPageMeta
+            label: Page Seo
             widget: object
-            fields:
-              - name: title
-                label: Title
-                widget: string
-              - name: description
-                label: Description
-                widget: string
-              - name: text
-                label: Text
-                widget: object
-                fields:
-                  - name: visible
-                    label: Visible
-                    widget: string
-                  - name: hidden
-                    label: Hidden
-                    widget: string
-                  - name: button
-                    label: Button
-                    widget: string
-            seo: *ref_3
+            fields: *ref_3
+            collapsed: true
+            required: false
       - label: Contacts
         name: contacts
         file: content/$LOCALE/pages/contacts.json
@@ -3370,21 +3351,12 @@ collections:
           - name: buttonLabel
             label: Button Label
             widget: string
-          - name: seo
-            label: Seo
+          - name: IPageMeta
+            label: Page Seo
             widget: object
-            fields:
-              - name: text
-                label: Text
-                widget: object
-                fields:
-                  - name: visible
-                    label: Visible
-                    widget: string
-              - name: title
-                label: Title
-                widget: string
-            seo: *ref_3
+            fields: *ref_3
+            collapsed: true
+            required: false
       - label: Favorites
         name: favorites
         file: content/$LOCALE/pages/favorites.json
@@ -3405,27 +3377,12 @@ collections:
               - name: description
                 label: Description
                 widget: string
-          - name: seo
-            label: Seo
+          - name: IPageMeta
+            label: Page Seo
             widget: object
-            fields:
-              - name: text
-                label: Text
-                widget: object
-                fields:
-                  - name: visible
-                    label: Visible
-                    widget: string
-                  - name: hidden
-                    label: Hidden
-                    widget: string
-                  - name: button
-                    label: Button
-                    widget: string
-              - name: title
-                label: Title
-                widget: string
-            seo: *ref_3
+            fields: *ref_3
+            collapsed: true
+            required: false
       - label: Game
         name: game
         file: content/$LOCALE/pages/game.json
@@ -3458,21 +3415,12 @@ collections:
               - name: registration
                 label: Registration
                 widget: string
-          - name: seo
-            label: Seo
+          - name: IPageMeta
+            label: Page Seo
             widget: object
-            fields:
-              - name: text
-                label: Text
-                widget: object
-                fields:
-                  - name: visible
-                    label: Visible
-                    widget: string
-              - name: title
-                label: Title
-                widget: string
-            seo: *ref_3
+            fields: *ref_3
+            collapsed: true
+            required: false
           - name: plug
             label: Plug
             widget: object
@@ -3543,21 +3491,12 @@ collections:
           - name: sortLabel
             label: Sort Label
             widget: string
-          - name: seo
-            label: Seo
+          - name: IPageMeta
+            label: Page Seo
             widget: object
-            fields:
-              - name: text
-                label: Text
-                widget: object
-                fields:
-                  - name: visible
-                    label: Visible
-                    widget: string
-              - name: title
-                label: Title
-                widget: string
-            seo: *ref_3
+            fields: *ref_3
+            collapsed: true
+            required: false
           - name: sortOptions
             label: Sort Options
             widget: list
@@ -3727,30 +3666,12 @@ collections:
               - name: display
                 label: Show Content
                 widget: boolean
-          - name: seo
-            label: Seo
+          - name: IPageMeta
+            label: Page Seo
             widget: object
-            fields:
-              - name: title
-                label: Title
-                widget: string
-              - name: description
-                label: Description
-                widget: string
-              - name: text
-                label: Text
-                widget: object
-                fields:
-                  - name: visible
-                    label: Visible
-                    widget: string
-                  - name: hidden
-                    label: Hidden
-                    widget: string
-                  - name: button
-                    label: Button
-                    widget: string
-            seo: *ref_3
+            fields: *ref_3
+            collapsed: true
+            required: false
       - label: Providers
         name: providers
         file: content/$LOCALE/pages/providers.json
@@ -3814,14 +3735,12 @@ collections:
                 widget: string
             label_singular: card
             summary: '{{fields.title}}'
-          - name: seo
-            label: Seo
+          - name: IPageMeta
+            label: Page Seo
             widget: object
-            fields:
-              - name: title
-                label: Title
-                widget: string
-            seo: *ref_3
+            fields: *ref_3
+            collapsed: true
+            required: false
       - label: Question
         name: question
         file: content/$LOCALE/pages/question.json
@@ -3829,27 +3748,12 @@ collections:
           - name: title
             label: Title
             widget: string
-          - name: seo
-            label: Seo
+          - name: IPageMeta
+            label: Page Seo
             widget: object
-            fields:
-              - name: text
-                label: Text
-                widget: object
-                fields:
-                  - name: visible
-                    label: Visible
-                    widget: string
-                  - name: button
-                    label: Button
-                    widget: string
-                  - name: hidden
-                    label: Hidden
-                    widget: string
-              - name: title
-                label: Title
-                widget: string
-            seo: *ref_3
+            fields: *ref_3
+            collapsed: true
+            required: false
       - label: Recently
         name: recently
         file: content/$LOCALE/pages/recently.json
@@ -3870,21 +3774,12 @@ collections:
               - name: description
                 label: Description
                 widget: string
-          - name: seo
-            label: Seo
+          - name: IPageMeta
+            label: Page Seo
             widget: object
-            fields:
-              - name: text
-                label: Text
-                widget: object
-                fields:
-                  - name: visible
-                    label: Visible
-                    widget: string
-              - name: title
-                label: Title
-                widget: string
-            seo: *ref_3
+            fields: *ref_3
+            collapsed: true
+            required: false
       - label: Referrals
         name: referrals
         file: content/$LOCALE/pages/referrals.json
@@ -3989,21 +3884,12 @@ collections:
         name: sportsbook
         file: content/$LOCALE/pages/sportsbook.json
         fields:
-          - name: seo
-            label: Seo
+          - name: IPageMeta
+            label: Page Seo
             widget: object
-            fields:
-              - name: text
-                label: Text
-                widget: object
-                fields:
-                  - name: visible
-                    label: Visible
-                    widget: string
-              - name: title
-                label: Title
-                widget: string
-            seo: *ref_3
+            fields: *ref_3
+            collapsed: true
+            required: false
       - label: Support
         name: support
         file: content/$LOCALE/pages/support.json
@@ -4015,21 +3901,12 @@ collections:
         name: token
         file: content/$LOCALE/pages/token.json
         fields:
-          - name: seo
-            label: Seo
+          - name: IPageMeta
+            label: Page Seo
             widget: object
-            fields:
-              - name: text
-                label: Text
-                widget: object
-                fields:
-                  - name: visible
-                    label: Visible
-                    widget: string
-              - name: title
-                label: Title
-                widget: string
-            seo: *ref_3
+            fields: *ref_3
+            collapsed: true
+            required: false
       - label: Welcome Bonuses
         name: welcomeBonuses
         file: content/$LOCALE/pages/welcome-bonuses.json
@@ -4237,21 +4114,12 @@ collections:
                         widget: string
                 label_singular: card
                 summary: '{{fields.title}}'
-          - name: seo
-            label: Seo
+          - name: IPageMeta
+            label: Page Seo
             widget: object
-            fields:
-              - name: text
-                label: Text
-                widget: object
-                fields:
-                  - name: visible
-                    label: Visible
-                    widget: string
-              - name: title
-                label: Title
-                widget: string
-            seo: *ref_3
+            fields: *ref_3
+            collapsed: true
+            required: false
           - name: IPageMeta
             label: ' I Page Meta'
             widget: object
@@ -4321,14 +4189,12 @@ collections:
               - name: waitingResult
                 label: Waiting Result
                 widget: string
-          - name: seo
-            label: Seo
+          - name: IPageMeta
+            label: Page Seo
             widget: object
-            fields:
-              - name: title
-                label: Title
-                widget: string
-            seo: *ref_3
+            fields: *ref_3
+            collapsed: true
+            required: false
           - name: freeSpins
             label: Free Spins
             widget: object
@@ -4343,14 +4209,12 @@ collections:
           - name: title
             label: Title
             widget: string
-          - name: seo
-            label: Seo
+          - name: IPageMeta
+            label: Page Seo
             widget: object
-            fields:
-              - name: title
-                label: Title
-                widget: string
-            seo: *ref_3
+            fields: *ref_3
+            collapsed: true
+            required: false
       - label: Info
         name: info
         file: content/$LOCALE/profile/info.json
@@ -4431,27 +4295,12 @@ collections:
               - name: onlineSupport
                 label: Online Support
                 widget: string
-          - name: seo
-            label: Seo
+          - name: IPageMeta
+            label: Page Seo
             widget: object
-            fields:
-              - name: text
-                label: Text
-                widget: object
-                fields:
-                  - name: visible
-                    label: Visible
-                    widget: string
-                  - name: hidden
-                    label: Hidden
-                    widget: string
-                  - name: button
-                    label: Button
-                    widget: string
-              - name: title
-                label: Title
-                widget: string
-            seo: *ref_3
+            fields: *ref_3
+            collapsed: true
+            required: false
       - label: Limits
         name: limits
         file: content/$LOCALE/profile/limits.json
@@ -4586,14 +4435,12 @@ collections:
               - name: saveButton
                 label: Save Button
                 widget: string
-          - name: seo
-            label: Seo
+          - name: IPageMeta
+            label: Page Seo
             widget: object
-            fields:
-              - name: title
-                label: Title
-                widget: string
-            seo: *ref_3
+            fields: *ref_3
+            collapsed: true
+            required: false
           - name: documents
             label: Documents
             widget: object
@@ -4746,27 +4593,12 @@ collections:
               - name: title
                 label: Title
                 widget: string
-          - name: seo
-            label: Seo
+          - name: IPageMeta
+            label: Page Seo
             widget: object
-            fields:
-              - name: text
-                label: Text
-                widget: object
-                fields:
-                  - name: visible
-                    label: Visible
-                    widget: string
-                  - name: hidden
-                    label: Hidden
-                    widget: string
-                  - name: button
-                    label: Button
-                    widget: string
-              - name: title
-                label: Title
-                widget: string
-            seo: *ref_3
+            fields: *ref_3
+            collapsed: true
+            required: false
   - name: questionPages
     label: Question Pages
     create: true
@@ -4826,3 +4658,4 @@ collections:
         label: Page Content
         widget: markdown
       - *ref_4
+
