@@ -1,5 +1,5 @@
 backend:
-  cms_label_prefix: cms/$LOCALE/
+  cms_label_prefix: cms
   repo: SkyNetRu/Nuxt3-starter__Decap-cm
   branch: main
   name: 'git-gateway'
@@ -15,7 +15,7 @@ collections:
     files:
       - label: Benefits
         name: benefits
-        file: content/$LOCALE/global-components/benefits.json
+        file: content/global-components/benefits.json
         fields:
           - name: items
             label: Benefit Cards
@@ -68,7 +68,7 @@ collections:
               - new
       - label: Cards Group
         name: cardsGroup
-        file: content/$LOCALE/global-components/cards-group.json
+        file: content/global-components/cards-group.json
         fields:
           - name: moreButton
             label: More Button
@@ -122,7 +122,7 @@ collections:
                 widget: string
       - label: Categories
         name: categories
-        file: content/$LOCALE/global-components/categories.json
+        file: content/global-components/categories.json
         fields:
           - name: categoriesList
             label: Cards
@@ -145,7 +145,7 @@ collections:
               hint: Identity must be the same as backoffice category identity!
       - label: Constants
         name: constants
-        file: content/$LOCALE/global-components/constants.json
+        file: content/global-components/constants.json
         fields:
           - name: bonusTypes
             label: Bonus Types
@@ -285,7 +285,7 @@ collections:
                 widget: string
       - label: Currency Popup
         name: currencyPopup
-        file: content/$LOCALE/global-components/currency-popup.json
+        file: content/global-components/currency-popup.json
         fields:
           - name: tabs
             label: Tabs
@@ -309,7 +309,7 @@ collections:
                 widget: string
       - label: Error
         name: error
-        file: content/$LOCALE/global-components/error.json
+        file: content/global-components/error.json
         fields:
           - name: title
             label: Title
@@ -329,7 +329,7 @@ collections:
                 widget: string
       - label: Game Tags
         name: gameTags
-        file: content/$LOCALE/global-components/game-tags.json
+        file: content/global-components/game-tags.json
         fields:
           - name: gameTagsList
             label: Cards
@@ -352,7 +352,7 @@ collections:
             summary: '{{fields.title}}'
       - label: Global Seo
         name: globalSeo
-        file: content/$LOCALE/global-components/global-seo.json
+        file: content/global-components/global-seo.json
         fields:
           - name: title
             label: Title
@@ -362,7 +362,7 @@ collections:
             widget: string
       - label: Originals
         name: originals
-        file: content/$LOCALE/global-components/originals.json
+        file: content/global-components/originals.json
         fields:
           - name: items
             label: Cards
@@ -385,7 +385,7 @@ collections:
             widget: boolean
       - label: Promotions
         name: promotions
-        file: content/$LOCALE/global-components/promotions.json
+        file: content/global-components/promotions.json
         fields:
           - name: label
             label: Label
@@ -424,7 +424,7 @@ collections:
             summary: '{{fields.title}}'
       - label: Turbogames
         name: turbogames
-        file: content/$LOCALE/global-components/turbogames.json
+        file: content/global-components/turbogames.json
         fields:
           - name: isShow
             label: Is Show
