@@ -1,17 +1,17 @@
 <template>
 	<main id="main" class="home">
-		<MiscParseMarkdown :markdownString="home.content" />
+<!--		<MiscParseMarkdown :markdownString="home.content" />-->
 	</main>
 
 </template>
 
 <script setup>
 
-const { data: home } = reactive(await useAsyncData("home", () =>
-	queryContent("/pages/home").findOne())
-);
-
-setSeoHead(home.SEOmetaData);
+// const { data: home } = reactive(await useAsyncData("home", () =>
+// 	queryContent("/pages/home").findOne())
+// );
+//
+// setSeoHead(home.SEOmetaData);
 
 </script>
 
