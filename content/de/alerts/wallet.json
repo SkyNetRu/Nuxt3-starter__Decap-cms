@@ -1,0 +1,32 @@
+{
+  "withdrawalProcessed": {
+    "type": "pending",
+    "title": "Ausstehend!",
+    "description": "Ihre Auszahlung wird bearbeitet. Wir werden Ihre Anfrage in Kürze prüfen."
+  },
+  "userCanceledWithdrawal": {
+    "type": "done",
+    "title": "Erfolg",
+    "description": "Sie haben Ihre Auszahlung erfolgreich storniert."
+  },
+  "depositSuccess": {
+    "type": "done",
+    "title": "Erfolg",
+    "description": "Ihre {sum} Einzahlung am {date} ist erfolgreich!"
+  },
+  "depositError": {
+    "title": "Fehlermeldung",
+    "description": "Entschuldigung, aber mit Ihrer {sum} Einzahlung von {date} ist etwas schief gelaufen. Bitte versuchen Sie es erneut.",
+    "type": "error"
+  },
+  "withdrawSuccess": {
+    "title": "Erfolg",
+    "description": "Ihre {Summe} Auszahlung vom {Datum} wurde genehmigt!",
+    "type": "done"
+  },
+  "withdrawError": {
+    "type": "error",
+    "title": "Stornierte Auszahlung",
+    "description": "Ihre {Summe}-Auszahlung von {Datum} wird storniert. Bitte kontaktieren Sie unser Support-Team für weitere Informationen."
+  }
+}

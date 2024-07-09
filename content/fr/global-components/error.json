@@ -1,0 +1,8 @@
+{
+  "title": "Quelque chose n'a pas fonctionné",
+  "description": "La page à laquelle vous essayez d'accéder n'existe pas ou a été déplacée. Essayez de revenir à notre page d'accueil.",
+  "button": {
+    "label": "Page d'accueil",
+    "url": "/"
+  }
+}

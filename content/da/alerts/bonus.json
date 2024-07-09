@@ -1,0 +1,32 @@
+{
+  "bonusCodeIncorrect": {
+    "title": "Beklager, men du har indtastet den forkerte bonuskode."
+  },
+  "bonusCodeNotAvailable": {
+    "title": "Beklager, men bonussen med den indtastede bonuskode er ikke tilgængelig for dig."
+  },
+  "bonusIssued": {
+    "title": "Udstedt",
+    "description": "Bonussen {amount} er blevet udstedt"
+  },
+  "bonusActivated": {
+    "title": "Aktiveret",
+    "description": "Bonussen {amount} er blevet aktiveret"
+  },
+  "bonusPlayed": {
+    "title": "Gennemspillet",
+    "description": "{amount}-bonussen er blevet omsat med succes. Dine gevinster er allerede på din rigtige saldo"
+  },
+  "bonusCanceled": {
+    "title": "Annulleret",
+    "description": "Bonussen {amount} er blevet annulleret"
+  },
+  "bonusExpired": {
+    "title": "Udløbet",
+    "description": "{amount}-bonussen er udløbet"
+  },
+  "bonusLost": {
+    "title": "Tabt",
+    "description": "Bonussen {amount} er ikke blevet omsat"
+  }
+}

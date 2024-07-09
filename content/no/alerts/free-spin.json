@@ -1,0 +1,22 @@
+{
+  "freeSpinIssued": {
+    "title": "Utstedt",
+    "description": "Du har blitt tildelt {count} på {currency}-lommeboken din for spillet {game}."
+  },
+  "freeSpinActivated": {
+    "title": "Aktiv",
+    "description": "{count} på {currency}-lommeboken din for {game}-spillet er aktivert"
+  },
+  "freeSpinPlayed": {
+    "title": "Ferdig",
+    "description": "Du har spilt {count} på {currency}-lommeboken din for spillet {game}."
+  },
+  "freeSpinCanceled": {
+    "title": "Avbrutt",
+    "description": "{count} på din {currency}-lommebok for spillet {game} har blitt kansellert"
+  },
+  "freeSpinExpired": {
+    "title": "Utløpt",
+    "description": "{count} på din {currency}-lommebok for spillet {game} er utløpt"
+  }
+}

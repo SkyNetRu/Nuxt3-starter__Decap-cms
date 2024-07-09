@@ -1,0 +1,155 @@
+{
+  "password": {
+    "label": "Password",
+    "placeholder": "Inserire la password"
+  },
+  "currentPassword": {
+    "label": "Password attuale",
+    "placeholder": "Inserire la password attuale"
+  },
+  "newPassword": {
+    "label": "Nuova password",
+    "placeholder": "Inserire la nuova password"
+  },
+  "repeatNewPassword": {
+    "label": "Nuova password",
+    "placeholder": "Reinserire la nuova password"
+  },
+  "firstName": {
+    "label": "Nome",
+    "placeholder": "Inserire il nome"
+  },
+  "lastName": {
+    "label": "Cognome",
+    "placeholder": "Inserire il cognome"
+  },
+  "nationality": {
+    "label": "Nazionalità",
+    "placeholder": "Inserisci la tua nazionalità"
+  },
+  "nickname": {
+    "label": "Soprannome",
+    "placeholder": "Inserisci il tuo soprannome"
+  },
+  "gender": {
+    "label": "Genere",
+    "maleLabel": "maschile",
+    "femaleLabel": "femminile",
+    "otherLabel": "Altro"
+  },
+  "city": {
+    "label": "Città",
+    "placeholder": "Inserisci la tua città"
+  },
+  "address": {
+    "label": "Indirizzo",
+    "placeholder": "Inserire l'indirizzo"
+  },
+  "additionalAddress": {
+    "label": "Indirizzo aggiuntivo",
+    "placeholder": "Inserite il vostro indirizzo aggiuntivo"
+  },
+  "postalCode": {
+    "label": "Codice postale",
+    "placeholder": "Inserire il codice postale"
+  },
+  "timeZone": {
+    "label": "Fuso orario",
+    "placeholder": "Selezionare il fuso orario"
+  },
+  "profession": {
+    "label": "Professione",
+    "placeholder": "Inserire la professione"
+  },
+  "language": {
+    "label": "Lingua",
+    "placeholder": "Inserire la propria lingua"
+  },
+  "bonusCode": {
+    "label": "Codice (opzionale)",
+    "placeholder": "Inserire il codice"
+  },
+  "securityQuestion": {
+    "label": "Domanda di sicurezza",
+    "placeholder": "Inserire la domanda di sicurezza"
+  },
+  "securityAnswer": {
+    "label": "Risposta di sicurezza",
+    "placeholder": "Inserire la risposta alla domanda di sicurezza"
+  },
+  "email": {
+    "label": "Indirizzo e-mail",
+    "placeholder": "Inserisci il tuo indirizzo e-mail"
+  },
+  "country": {
+    "label": "Paese",
+    "placeholder": "Seleziona il tuo paese"
+  },
+  "currency": {
+    "label": "Valuta",
+    "placeholder": "Seleziona la tua valuta"
+  },
+  "agreements": {
+    "label": "Accetto i <a href=\"/static/terms-and-conditions\" target=\"_blank\" > Termini e condizioni</a> e <a href=\"/static/privacy-policy\" target=\"_blank\" >Privacy Policy</a>"
+  },
+  "receiveEmailPromo": {
+    "label": "Inviare promozioni via e-mail"
+  },
+  "receiveSmsPromo": {
+    "label": "Inviare promozioni via SMS"
+  },
+  "receiveBonus": {
+    "label": "Ricevere i bonus"
+  },
+  "phone": {
+    "label": "Telefono cellulare",
+    "placeholder": "Inserire il numero di telefono"
+  },
+  "birthdate": {
+    "label": "Data di nascita",
+    "placeholderDay": "Giorno",
+    "placeholderMonth": "Mese",
+    "placeholderYear": "Anno"
+  },
+  "placeOfBirth": {
+    "label": "Luogo di nascita",
+    "placeholder": "Inserire il luogo di nascita"
+  },
+  "personalIdNumber": {
+    "label": "Numero di identificazione personale",
+    "placeholder": "Numero di riferimento dell'identità (se disponibile)"
+  },
+  "message": {
+    "label": "Testo",
+    "placeholder": "Inserire il messaggio"
+  },
+  "wallet_id": {
+    "label": "Indirizzo del portafoglio",
+    "placeholder": "Inserire l'indirizzo del portafoglio"
+  },
+  "card_number": {
+    "label": "Numero di carta",
+    "placeholder": "Inserire il numero della carta"
+  },
+  "card_holder": {
+    "label": "Titolare della carta",
+    "placeholder": "Inserire il nome del titolare della carta di credito"
+  },
+  "exp_month": {
+    "label": "Mese di scadenza",
+    "placeholder": "Inserire il mese di scadenza"
+  },
+  "exp_year": {
+    "label": "Scadenza anno",
+    "placeholder": "Inserire l'anno di scadenza"
+  },
+  "networkSelect": {
+    "label": "Selezionare la rete",
+    "placeholder": "Rete",
+    "info": "Per continuare,<br>selezionare la rete 👆👆👆👆"
+  },
+  "age": {
+    "label": "Età",
+    "placeholder": "Inserisci la tua età"
+  }
+}

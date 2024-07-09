@@ -1,0 +1,14 @@
+{
+  "tabLabel": "Sessioonid",
+  "sessionsStatuses": {
+    "current": "Praegune",
+    "active": "Aktiivne",
+    "closed": "Suletud"
+  },
+  "tableColumns": {
+    "country": "Riik",
+    "userAgent": "Kasutaja Agent",
+    "createdAt": "Loodud aadressil",
+    "status": "Staatus"
+  }
+}

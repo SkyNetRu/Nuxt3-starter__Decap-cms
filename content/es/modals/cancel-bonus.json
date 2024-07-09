@@ -1,0 +1,7 @@
+{
+  "title": "Confirmar cancelación del bono",
+  "activeBonusDescription": "Todas sus ganancias se perderán. ¿Está seguro de que desea cancelar esta bonificación?",
+  "issuedBonusDescription": "¿Está seguro de que desea cancelar esta bonificación?",
+  "confirmButton": "Sí",
+  "cancelButton": "No"
+}

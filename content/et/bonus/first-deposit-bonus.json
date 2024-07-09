@@ -1,0 +1,16 @@
+{
+  "pageUrl": "first-deposit-bonus",
+  "termsLabel": "Boonustingimused:",
+  "termsContent": "**Kasiino esimese sissemakse boonuse tingimused:**",
+  "button": {
+    "label": "Hangi boonus"
+  },
+  "backgroundColor": "red",
+  "subtitle": "Saate oma 100% boonuse kuni 500 EUR-ni",
+  "title": "1. deposiidi boonus",
+  "image": "/img/uploads/1-deposit-new.png",
+  "description": "Win.Casino tervitab teid suure esimese boonusega! Kuna olete meiega uustulnuk, pakume teile esimesel sissemaksel 100% boonust kuni 500 eurot.",
+  "seo": {
+    "title": "Win.Casino | Esimese deposiidi boonus"
+  }
+}

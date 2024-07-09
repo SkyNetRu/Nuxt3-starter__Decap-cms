@@ -1,0 +1,147 @@
+{
+  "socials": {
+    "isShow": false
+  },
+  "bottomMenu": [
+    {
+      "url": "/contact",
+      "label": "Υποστήριξη",
+      "icon": "live-support"
+    }
+  ],
+  "userMenu": [
+    {
+      "icon": "heart",
+      "label": "Αγαπημένα",
+      "url": "/favorites"
+    },
+    {
+      "icon": "history",
+      "url": "/recently-played",
+      "label": "Πρόσφατα έπαιξε"
+    }
+  ],
+  "bonusesMenu": [
+    {
+      "items": [
+        {
+          "url": "/welcome-package",
+          "label": "Πακέτο καλωσορίσματος"
+        },
+        {
+          "label": "Μπόνους Επαναφόρτωσης Δευτέρας",
+          "url": "/bonus/monday-reload-bonus"
+        },
+        {
+          "label": "Τετάρτη Δωρεάν Περιστροφές",
+          "url": "/bonus/wednesday-free-spins"
+        },
+        {
+          "label": "Εβδομαδιαία Επιστροφή Χρημάτων",
+          "url": "/bonus/weekly-cashback"
+        }
+      ],
+      "icon": "bonuses",
+      "label": "Μπόνους"
+    }
+  ],
+  "ctaMenu": {
+    "isShow": false
+  },
+  "topMenu": {
+    "integratedElement": {
+      "label": "AVIATOR",
+      "url": "https://win.city/games/spribe-aviator?real=true",
+      "isShow": true,
+      "order": 2,
+      "backgroundImage": "/img/uploads/cta-bg.png"
+    },
+    "items": [
+      {
+        "label": "Υποδοχή",
+        "url": "/games?category=slots",
+        "icon": "slots"
+      },
+      {
+        "icon": "live-casino",
+        "url": "/games?category=live",
+        "label": "Ζωντανό Καζίνο"
+      },
+      {
+        "icon": "table-games",
+        "label": "Επιτραπέζια Παιχνίδια",
+        "url": "/games?category=table"
+      },
+      {
+        "url": "/games?category=turbogames",
+        "icon": "turbo-games",
+        "label": "Τούρμπο παιχνίδια",
+        "gameList": [
+          {
+            "gameIdentity": "crash-x-turbo-games"
+          },
+          {
+            "gameIdentity": "dice-twice-turbo-games"
+          },
+          {
+            "gameIdentity": "mines-turbo-games"
+          },
+          {
+            "gameIdentity": "turbo-games-turboplinko"
+          }
+        ]
+      },
+      {
+        "url": "/betting",
+        "icon": "sport-book",
+        "label": "Αθλητικό στοίχημα"
+      }
+    ]
+  },
+  "sidebarFooterMenu": [
+    {
+      "label": "όροι και προϋποθέσεις",
+      "url": "/static/terms-and-conditions"
+    },
+    {
+      "label": "Όροι μπόνους",
+      "url": "/static/bonus-terms"
+    },
+    {
+      "label": "Γαμήσω",
+      "url": "/questions"
+    },
+    {
+      "label": "απορρήτου",
+      "url": "/static/privacy-policy"
+    },
+    {
+      "url": "/static/gambling-with-responsibility",
+      "label": "Τυχερά παιχνίδια με ευθύνη"
+    },
+    {
+      "url": "/static/kyc-policy",
+      "label": "Πολιτική KYC"
+    }
+  ],
+  "tokenMenu": [
+    {
+      "icon": "tfs-token",
+      "url": "/sbt-token",
+      "label": "Κέρμα Win.Casino"
+    }
+  ],
+  "gamesToggler": {
+    "buttonFirst": {
+      "label": "Καζίνο",
+      "url": "/main",
+      "icon": "cherry"
+    },
+    "buttonSecond": {
+      "label": "Αθλητισμός",
+      "url": "/betting",
+      "icon": "sport"
+    }
+  },
+  "chatLabel": "συζήτηση"
+}

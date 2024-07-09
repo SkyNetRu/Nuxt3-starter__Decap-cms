@@ -1,0 +1,13 @@
+{
+  "empty": {
+    "title": "No se ha encontrado nada",
+    "description": "Intente buscar otra cosa"
+  },
+  "providersLabel": "Proveedores",
+  "sortLabel": "Ordenar por",
+  "seo": {
+    "title": "Win.Casino | Buscar juegos y tragaperras favoritos"
+  },
+  "allProvidersOption": "Todos los proveedores",
+  "clearProviders": "Limpiar todo"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Portofel",
+  "addButton": "Adăugați moneda",
+  "changeButton": "Utilizați moneda",
+  "hideButton": "Ascundeți moneda",
+  "depositButton": "Depuneți",
+  "hideZeroBalances": "Hide zero balances",
+  "zeroBalance": {
+    "imgPath": "/img/uploads/empty.png",
+    "title": "There are no funds on your balance"
+  },
+  "withdrawButton": "Retrageți",
+  "seo": {
+    "title": "Win.Casino | Portofel"
+  }
+}

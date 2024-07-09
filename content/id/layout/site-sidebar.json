@@ -1,0 +1,147 @@
+{
+  "socials": {
+    "isShow": false
+  },
+  "bottomMenu": [
+    {
+      "label": "Dukungan",
+      "url": "/contact",
+      "icon": "live-support"
+    }
+  ],
+  "userMenu": [
+    {
+      "label": "Favorit",
+      "url": "/favorites",
+      "icon": "heart"
+    },
+    {
+      "icon": "history",
+      "url": "/recently-played",
+      "label": "Baru-baru ini diputar"
+    }
+  ],
+  "bonusesMenu": [
+    {
+      "icon": "bonuses",
+      "items": [
+        {
+          "label": "Paket selamat datang",
+          "url": "/welcome-package"
+        },
+        {
+          "label": "Bonus Isi Ulang Hari Senin",
+          "url": "/bonus/monday-reload-bonus"
+        },
+        {
+          "label": "Putaran Gratis Hari Rabu",
+          "url": "/bonus/wednesday-free-spins"
+        },
+        {
+          "url": "/bonus/weekly-cashback",
+          "label": "Cashback Mingguan"
+        }
+      ],
+      "label": "Bonus"
+    }
+  ],
+  "ctaMenu": {
+    "isShow": false
+  },
+  "topMenu": {
+    "integratedElement": {
+      "label": "AVIATOR",
+      "url": "https://win.city/games/spribe-aviator?real=true",
+      "isShow": true,
+      "backgroundImage": "/img/uploads/cta-bg.png",
+      "order": 2
+    },
+    "items": [
+      {
+        "icon": "slots",
+        "label": "Slots",
+        "url": "/games?category=slots"
+      },
+      {
+        "url": "/games?category=live",
+        "icon": "live-casino",
+        "label": "Kasino Langsung"
+      },
+      {
+        "url": "/games?category=table",
+        "icon": "table-games",
+        "label": "Permainan Meja"
+      },
+      {
+        "icon": "turbo-games",
+        "label": "Turbo permainan",
+        "url": "/games?category=turbogames",
+        "gameList": [
+          {
+            "gameIdentity": "crash-x-turbo-games"
+          },
+          {
+            "gameIdentity": "dice-twice-turbo-games"
+          },
+          {
+            "gameIdentity": "mines-turbo-games"
+          },
+          {
+            "gameIdentity": "turbo-games-turboplinko"
+          }
+        ]
+      },
+      {
+        "url": "/betting",
+        "icon": "sport-book",
+        "label": "Buku olahraga"
+      }
+    ]
+  },
+  "sidebarFooterMenu": [
+    {
+      "label": "T&C",
+      "url": "/static/terms-and-conditions"
+    },
+    {
+      "label": "Ketentuan bonus",
+      "url": "/static/bonus-terms"
+    },
+    {
+      "label": "F.A.Q",
+      "url": "/questions"
+    },
+    {
+      "label": "Kebijakan Privasi",
+      "url": "/static/privacy-policy"
+    },
+    {
+      "label": "Berjudi dengan tanggung jawab",
+      "url": "/static/gambling-with-responsibility"
+    },
+    {
+      "url": "/static/kyc-policy",
+      "label": "Kebijakan KYC"
+    }
+  ],
+  "tokenMenu": [
+    {
+      "label": "Win.Casino Coin",
+      "icon": "tfs-token",
+      "url": "/sbt-token"
+    }
+  ],
+  "gamesToggler": {
+    "buttonFirst": {
+      "label": "Kasino",
+      "url": "/main",
+      "icon": "cherry"
+    },
+    "buttonSecond": {
+      "label": "Olahraga",
+      "url": "/betting",
+      "icon": "sport"
+    }
+  },
+  "chatLabel": "obrolan"
+}

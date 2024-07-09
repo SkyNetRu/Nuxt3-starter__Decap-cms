@@ -1,0 +1,9 @@
+{
+  "somethingWrong": {
+    "title": "Hata!",
+    "description": "Bir şeyler yanlış gitti!"
+  },
+  "sentMessage": {
+    "title": "Teşekkürler!"
+  }
+}

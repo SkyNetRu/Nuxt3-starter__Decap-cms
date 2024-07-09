@@ -1,0 +1,9 @@
+{
+  "somethingWrong": {
+    "title": "خطا",
+    "description": "مشکلی پیش آمد!"
+  },
+  "sentMessage": {
+    "title": "از شما متشکریم!"
+  }
+}

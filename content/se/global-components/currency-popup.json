@@ -1,0 +1,10 @@
+{
+  "tabs": {
+    "allTab": "Alla",
+    "cryptoTab": "Krypto"
+  },
+  "empty": {
+    "title": "Klart!",
+    "description": "Du har redan lagt till alla valutor"
+  }
+}

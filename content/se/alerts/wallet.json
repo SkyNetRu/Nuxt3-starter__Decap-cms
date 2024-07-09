@@ -1,0 +1,26 @@
+{
+  "withdrawalProcessed": {
+    "title": "Pågående!",
+    "description": "Ditt uttag håller på att behandlas. Vi kommer att kontrollera din begäran om en kort stund."
+  },
+  "userCanceledWithdrawal": {
+    "title": "Framgång",
+    "description": "Du har framgångsrikt avbrutit ditt uttag."
+  },
+  "depositSuccess": {
+    "title": "Framgång",
+    "description": "Din {sum} insättning som gjordes den {date} är framgångsrik!"
+  },
+  "depositError": {
+    "title": "Fel",
+    "description": "Tyvärr, men något gick fel med din {sum} insättning från {date}. Vänligen försök igen."
+  },
+  "withdrawSuccess": {
+    "title": "Framgång",
+    "description": "Ditt {sum} uttag från {date} godkändes!"
+  },
+  "withdrawError": {
+    "title": "Annullerat uttag",
+    "description": "Ditt {sum} uttag från {date} håller på att annulleras. Vänligen kontakta vårt supportteam för mer information."
+  }
+}

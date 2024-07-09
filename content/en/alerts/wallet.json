@@ -1,0 +1,58 @@
+{
+  "withdrawalProcessed": {
+    "type": "pending",
+    "title": "Pending!",
+    "description": "Your withdrawal is being processed. We will check your request in a short while."
+  },
+
+  "copyUniqueNumberSuccess": {
+    "type": "done",
+    "title": "Success",
+    "description": "ID copied to clipboard"
+  },
+  "copySecretCodeSuccess": {
+    "type": "done",
+    "title": "Success",
+    "description": "Secret code copied to clipboard"
+  },
+  "userCanceledWithdrawal": {
+    "type": "done",
+    "title": "Success",
+    "description": "You have successfully canceled your withdrawal."
+  },
+  "depositSuccess": {
+    "type": "done",
+    "title": "Success",
+    "description": "Your {sum} deposit made on {date} is successful!"
+  },
+  "depositError": {
+    "title": "Error",
+    "description": "Sorry, but something went wrong with your {sum} deposit from {date}. Please try again.",
+    "type": "error"
+  },
+  "withdrawSuccess": {
+    "title": "Success",
+    "description": "Your {sum} withdrawal from {date} was approved!",
+    "type": "done"
+  },
+  "withdrawError": {
+    "type": "error",
+    "title": "Canceled withdrawal",
+    "description": "Your {sum} withdrawal from {date} is being canceled. Please, contact our Support Team for more information."
+  },
+  "copyAddressSuccess": {
+    "type": "done",
+    "title": "Success",
+    "description": "Address copied to clipboard"
+  },
+  "transactionSent": {
+    "type": "done",
+    "title": "Success",
+    "description": "The transaction has been formed. Open your web3 wallet and confirm the transaction."
+  },
+  "transactionIsPending": {
+    "type": "pending",
+    "title": "Transaction in progress",
+    "description": "You will be notified as soon as the funds arrive in your account."
+  }
+}

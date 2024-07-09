@@ -1,0 +1,58 @@
+{
+  "banner": {
+    "title": "#### Juega y gana todos los días en Win.Casino",
+    "button": {
+      "label": "Jugar ahora"
+    },
+    "images": {
+      "backgroundImage": "/img/uploads/eu-banner-bg.webp",
+      "faceImage": "/img/uploads/eu-banner-person.webp"
+    }
+  },
+  "categories": {
+    "casino": {
+      "title": "Casino",
+      "description": "Disfrute de más de 3.000 juegos y tragaperras probadamente justos",
+      "button": {
+        "label": "Tiradas Gratis",
+        "url": "/main"
+      },
+      "image": "/img/uploads/casino-new-1-.png"
+    },
+    "betting": {
+      "title": "Apuestas",
+      "description": "Las cuotas y los mercados más competitivos. Apueste y gane ahora mismo",
+      "button": {
+        "label": "Apueste ahora",
+        "url": "/betting"
+      },
+      "image": "/img/uploads/betting-new-1-.png"
+    },
+    "esports": {
+      "title": "Esports",
+      "description": "Las cuotas y los mercados más competitivos.",
+      "button": {
+        "label": "Apueste ya",
+        "url": "/betting"
+      },
+      "image": "/img/uploads/esports-1.png"
+    }
+  },
+  "seo": {
+    "title": "Win.Casino | El criptocasino más seguro",
+    "text": {
+      "visible": "## Bitcoin Betting Flagship",
+      "hidden": "## Bitcoin Sportsbook con mucho que ofrecer",
+      "button": "Ver más"
+    }
+  },
+  "aeroGroup": {
+    "label": "Juegos de Win.Casino",
+    "collectionIdentity": "accidente",
+    "game": {
+      "identity": "spribe-aviator",
+      "playButtonLabel": "Juega ahora",
+      "demoButtonLabel": "Demostración"
+    }
+  }
+}

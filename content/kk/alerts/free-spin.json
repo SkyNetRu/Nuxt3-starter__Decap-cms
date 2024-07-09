@@ -1,0 +1,22 @@
+{
+  "freeSpinIssued": {
+    "title": "Берілген",
+    "description": "{game} ойыны үшін {currency} әмияныңызда {count} сыйлық алдыңыз"
+  },
+  "freeSpinActivated": {
+    "title": "Белсенді",
+    "description": "{game} ойынына арналған {currency} әмияныңыздағы {count} белсендірілді"
+  },
+  "freeSpinPlayed": {
+    "title": "Аяқталды",
+    "description": "{game} ойыны үшін {currency} әмияныңызда {count} ойынын сәтті ойнадыңыз"
+  },
+  "freeSpinCanceled": {
+    "title": "Бас тартылды",
+    "description": "{game} ойынына арналған {currency} әмияныңыздағы {count} бас тартылды"
+  },
+  "freeSpinExpired": {
+    "title": "Жарамдылық мерзімі өткен",
+    "description": "{game} ойынына арналған {currency} әмияныңыздағы {count} мерзімі аяқталды"
+  }
+}

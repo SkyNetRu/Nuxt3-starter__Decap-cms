@@ -1,0 +1,49 @@
+{
+  "loginButton": "Log in",
+  "registrationButton": "Registo",
+  "search": {
+    "placeholder": "Caută în jocul tău",
+    "moreButton": "Incarca mai mult",
+    "emptyLabel": "Nimic gasit",
+    "emptyText": "Încercați să căutați altceva",
+    "tryLabel": "Sau încercați aceste jocuri populare:"
+  },
+  "depositButton": "Portofel",
+  "balance": {
+    "tabs": {
+      "balanceTab": "Echilibru",
+      "currencyTab": "Valută"
+    },
+    "fiatToggler": "Display in Fiat",
+    "items": {
+      "real": "Real",
+      "bonus": "Primă",
+      "withdrawal": "Retractabil",
+      "cashback": "Cashback"
+    },
+    "wageringLabel": "Pariere:",
+    "cashbackDateLabel": "De eliberat:"
+  },
+  "playRealButton": "Modul real",
+  "pwa": {
+    "instructionLink": "/static/terms-and-conditions",
+    "mobile": {
+      "title": "Win.Casino - scoateți aplicația gratuită",
+      "description": "Nu va ocupa spațiu pe telefonul dvs.",
+      "install": "Instalare"
+    },
+    "desktop": {
+      "application": "Aplicație",
+      "forOs": "pentru {os}"
+    },
+    "tooltip": {
+      "title": "Win.Casino - scoateți aplicația gratuită",
+      "description": "Nu va ocupa spațiu pe telefonul dvs."
+    }
+  },
+  "wagerTooltip": {
+    "notInWagering": "ㅤ",
+    "wagerMultiplierLessThan": "ㅤ",
+    "wagerMultiplierMoreThan": "ㅤ"
+  }
+}

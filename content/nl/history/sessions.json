@@ -1,0 +1,14 @@
+{
+  "tabLabel": "Sessies",
+  "sessionsStatuses": {
+    "current": "Huidige",
+    "active": "Actief",
+    "closed": "Gesloten"
+  },
+  "tableColumns": {
+    "country": "Land",
+    "userAgent": "Gebruiker Agent",
+    "createdAt": "Gemaakt op",
+    "status": "Status"
+  }
+}

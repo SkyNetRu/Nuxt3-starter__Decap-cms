@@ -1,0 +1,6 @@
+{
+  "title": "Bekräfta bonusuppdatering",
+  "description": "Statusen för den för närvarande aktiva bonusen ändras till Annullerad. Är du säker på att du vill aktivera den här bonusen?",
+  "confirmButton": "Ja",
+  "cancelButton": "Nej Nej Nej"
+}

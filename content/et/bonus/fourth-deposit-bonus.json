@@ -1,0 +1,16 @@
+{
+  "pageUrl": "fourth-deposit-bonus",
+  "termsLabel": "Boonustingimused:",
+  "termsContent": "1. **Kasiino neljanda sissemakse boonuse nõuded ja tingimused:**",
+  "button": {
+    "label": "Hangi boonus"
+  },
+  "backgroundColor": "blue",
+  "subtitle": "Mängige rohkem kasiinos või spordis kuni 500 euro suuruse boonusega",
+  "title": "4. deposiidi boonus",
+  "image": "/img/uploads/4-deposit.png",
+  "description": "Kahekordistame teie neljanda sissemakse. Lihtsalt mängige ja meie teeme ülejäänu teie eest.",
+  "seo": {
+    "title": "Win.Casino | Neljas deposiitboonus"
+  }
+}

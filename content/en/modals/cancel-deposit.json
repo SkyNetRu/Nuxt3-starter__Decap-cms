@@ -1,0 +1,7 @@
+{
+  "title": "Having trouble with the deposit?",
+  "content": "* Try a card which number starts with \"5\" or \"6\"",
+  "primaryButton": "Try another card",
+  "secondaryButton": "Change the deposit method",
+  "confirm": "Cancel deposit"
+}

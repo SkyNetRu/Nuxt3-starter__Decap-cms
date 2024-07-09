@@ -1,0 +1,23 @@
+{
+  "title": "Boonused",
+  "historyLink": "Vaata oma boonuste ajalugu",
+  "bonusCode": {
+    "title": "Kas teil on promokood?",
+    "timerText": "kuni järgmise proovini",
+    "buttonLabel": "Lisa",
+    "tryError": "Boonuskood on vale. Proovige uuesti 3 minuti pärast"
+  },
+  "cashBonuses": {
+    "title": "Sularaha boonused",
+    "wagerHintLabel": "Panustamise nõuded",
+    "casinoWagerLabel": "Kasiino panustamise nõuded - x{wager} Boonus",
+    "sportsbookWagerLabel": "Spordiennustuse nõuded - x{wager} Boonus",
+    "waitingResult": "Spordiennustuse tulemuste ootamine."
+  },
+  "freeSpins": {
+    "title": "Tasuta keerutused"
+  },
+  "seo": {
+    "title": "Win.Casino | Boonused"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "popupLabel": {
+    "edit_daily_3": "Muuda igapäevast hoiustamislimiiti",
+    "edit_weekly_3": "Muuda iganädalast hoiuse limiiti",
+    "edit_monthly_3": "Muuda igakuise hoiuse limiiti",
+    "edit_daily_2": "Muuda igapäevast kahjumi limiiti",
+    "edit_weekly_2": "Edit weekly loss limit (iganädalane kahjumi limiit)",
+    "edit_monthly_2": "Edit monthly loss limit (igakuine kahjumi limiit)",
+    "edit_daily_1": "Edit daily bet limit",
+    "edit_weekly_1": "Edit weekly bet limit (iganädalane panustamislimiit)",
+    "edit_monthly_1": "Edit monthly bet limit (igakuine panustamislimiit)"
+  },
+  "hint": "Vajalik on e-posti kinnitus. Muudatus rakendatakse 24 tunni jooksul.",
+  "actions": {
+    "updateButtonLabel": "Uuenda",
+    "deleteButtonLabel": "Kustuta"
+  },
+  "lessAmountTitle": "Limiidi uuendamine edukalt",
+  "greaterAmountTitle": "Uus limiidi summa on suurem kui eelmine",
+  "greaterAmountDescription": "Palun kontrollige oma e-kirja ja järgige saadud kinnituslinki, et aktiveerida limiidimuutus."
+}

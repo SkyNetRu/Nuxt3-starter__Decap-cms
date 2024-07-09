@@ -1,0 +1,10 @@
+{
+  "tabs": {
+    "allTab": "All",
+    "cryptoTab": "Crypto"
+  },
+  "empty": {
+    "title": "Erledigt!",
+    "description": "Sie haben bereits alle Währungen hinzugefügt"
+  }
+}

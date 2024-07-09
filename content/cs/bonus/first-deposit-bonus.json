@@ -1,0 +1,16 @@
+{
+  "pageUrl": "first-deposit-bonus",
+  "termsLabel": "Bonusové podmínky:",
+  "termsContent": "**Podmínky a podmínky bonusu k prvnímu vkladu kasina:**",
+  "button": {
+    "label": "Získejte bonus"
+  },
+  "backgroundColor": "red",
+  "subtitle": "Získejte svůj 100% bonus až do výše 500 EUR",
+  "title": "Bonus za 1. vklad",
+  "image": "/img/uploads/1-deposit-new.png",
+  "description": "Win.Casino vás vítá obrovským prvním bonusem! Protože jste u nás noví, nabízíme vám 100% bonus až do výše 500 EUR na váš první vklad.",
+  "seo": {
+    "title": "Win.Casino | Bonus za první vklad"
+  }
+}

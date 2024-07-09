@@ -1,0 +1,32 @@
+{
+  "bonusCodeIncorrect": {
+    "title": "با عرض پوزش، شما کد جایزه را اشتباه وارد کردید."
+  },
+  "bonusCodeNotAvailable": {
+    "title": "با عرض پوزش، پاداش با کد جایزه وارد شده برای شما در دسترس نیست."
+  },
+  "bonusIssued": {
+    "title": "اضافه شد",
+    "description": "مبلغ {amount} به حساب بونوس شما اضافه شد."
+  },
+  "bonusActivated": {
+    "title": "فعال",
+    "description": "مبلغ {amount} بونوس فعال شده است"
+  },
+  "bonusPlayed": {
+    "title": "پایان یافت",
+    "description": "مبلغ {amount} بونوس با موفقیت شرط بندی شد. بردهای شما در حال حاضر در موجودی کیف پول اصلی شما هستند"
+  },
+  "bonusCanceled": {
+    "title": "لغو شد",
+    "description": "مبلغ {amount} بونوس لغو شده است"
+  },
+  "bonusExpired": {
+    "title": "منقصی شد",
+    "description": "مبلغ {amount} بونوس منقضی شده است"
+  },
+  "bonusLost": {
+    "title": "باخت شد",
+    "description": "مبلغ {amount} بونوس شرط بندی نشده است"
+  }
+}

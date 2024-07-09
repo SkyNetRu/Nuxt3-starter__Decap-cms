@@ -1,0 +1,16 @@
+{
+  "moreButton": "सब दिखाएं",
+  "recommendedSubtitle": "आपके लिए सर्वोत्तम गेम",
+  "favorites": {
+    "label": "पसंदीदा"
+  },
+  "providers": {
+    "label": "प्रदाताओं"
+  },
+  "latestWinners": {
+    "label": "नवीनतम विजेता"
+  },
+  "recentlyPlayed": {
+    "label": "हाल ही में बजाया"
+  }
+}

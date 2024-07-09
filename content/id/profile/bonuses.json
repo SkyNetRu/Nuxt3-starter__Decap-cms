@@ -1,0 +1,23 @@
+{
+  "title": "Bonus",
+  "historyLink": "Lihat riwayat bonus Anda",
+  "bonusCode": {
+    "title": "Punya kode promosi?",
+    "timerText": "sampai percobaan berikutnya",
+    "buttonLabel": "Tambah",
+    "tryError": "Kode bonus salah. Coba lagi setelah 3 menit"
+  },
+  "cashBonuses": {
+    "title": "Bonus uang tunai",
+    "wagerHintLabel": "Persyaratan taruhan",
+    "casinoWagerLabel": "Persyaratan Taruhan Kasino - x{wager} Bonus",
+    "sportsbookWagerLabel": "Persyaratan Taruhan Sportsbook - x{wager} Bonus",
+    "waitingResult": "Menunggu hasil taruhan Sportsbook."
+  },
+  "freeSpins": {
+    "title": "Putaran gratis"
+  },
+  "seo": {
+    "title": "Win.Casino | Bonus"
+  }
+}

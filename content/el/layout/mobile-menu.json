@@ -1,0 +1,22 @@
+{
+  "menuLabel": "Μενού",
+  "items": {
+    "firstItem": {
+      "label": "Καζίνο",
+      "url": "/main"
+    },
+    "secondItem": {
+      "label": "Αθλητισμός",
+      "url": "/betting"
+    },
+    "thirdItem": {
+      "label": "Υποστήριξη",
+      "url": "/contact"
+    }
+  },
+  "chatLabel": "Live Chat",
+  "contactButton": {
+    "label": "Υποστήριξη",
+    "url": "/contact"
+  }
+}

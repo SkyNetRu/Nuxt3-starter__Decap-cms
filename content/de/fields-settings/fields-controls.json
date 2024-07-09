@@ -1,0 +1,156 @@
+{
+  "repeatNewPassword": {
+    "label": "Neues Passwort erneut",
+    "placeholder": "Neues Passwort erneut eingeben"
+  },
+  "placeOfBirth": {
+    "label": "Geburtsort",
+    "placeholder": "Geben Sie Ihren Geburtsort ein"
+  },
+  "lastName": {
+    "label": "Nachname",
+    "placeholder": "Nachname eingeben"
+  },
+  "gender": {
+    "label": "Geschlecht",
+    "maleLabel": "Männlich",
+    "femaleLabel": "Weiblich",
+    "otherLabel": "Andere"
+  },
+  "wallet_id": {
+    "label": "Wallet-Adresse",
+    "placeholder": "Wallet-Adresse eingeben"
+  },
+  "personalIdNumber": {
+    "label": "Persönliche ID-Nummer",
+    "placeholder": "Identitäts-Referenznummer (falls verfügbar)"
+  },
+  "securityQuestion": {
+    "label": "Sicherheitsfrage",
+    "placeholder": "Geben Sie Ihre Sicherheitsfrage ein"
+  },
+  "message": {
+    "label": "Text",
+    "placeholder": "Geben Sie Ihre Nachricht ein"
+  },
+  "agreements": {
+    "label": "Ich akzeptiere die <a href=\"/static/terms-and-conditions\" target=\"_blank\" > Allgemeinen Geschäftsbedingungen</a> und <a href=\"/static/privacy-policy\" target=\"_blank\" >Datenschutzerklärung</a>"
+  },
+  "networkSelect": {
+    "label": "Wählen Sie Ihr Netzwerk",
+    "info": "Um fortzufahren,<br>wählen Sie Netzwerk 👆👆👆",
+    "placeholder": "Netzwerk"
+  },
+  "city": {
+    "label": "Stadt",
+    "placeholder": "Geben Sie Ihre Stadt ein"
+  },
+  "bonusCode": {
+    "label": "Code (fakultativ)",
+    "placeholder": "Code eingeben"
+  },
+  "birthdate": {
+    "label": "Geburtsdatum",
+    "placeholderDay": "Tag",
+    "placeholderMonth": "Monat",
+    "placeholderYear": "Jahr"
+  },
+  "additionalAddress": {
+    "label": "Zusätzliche Adresse",
+    "placeholder": "Geben Sie Ihre zusätzliche Adresse ein"
+  },
+  "nickname": {
+    "label": "Spitzname",
+    "placeholder": "Gib deinen Spitznamen ein"
+  },
+  "phone": {
+    "label": "Handy",
+    "placeholder": "Telefonnummer eingeben"
+  },
+  "currency": {
+    "label": "Währung",
+    "placeholder": "Wählen Sie Ihre Währung"
+  },
+  "currentPassword": {
+    "label": "Current password",
+    "placeholder": "Geben Sie Ihr aktuelles Passwort ein"
+  },
+  "address": {
+    "label": "Anschrift",
+    "placeholder": "Geben Sie Ihre Adresse ein"
+  },
+  "receiveEmailPromo": {
+    "label": "Werbeaktionen per E-Mail senden"
+  },
+  "country": {
+    "label": "Land",
+    "placeholder": "Wählen Sie Ihr Land"
+  },
+  "postalCode": {
+    "label": "Postleitzahl",
+    "placeholder": "Postleitzahl eingeben"
+  },
+  "language": {
+    "label": "Sprachlich",
+    "placeholder": "Geben Sie Ihre Sprache ein"
+  },
+  "card_number": {
+    "label": "Kartennummer",
+    "placeholder": "Kartennummer eingeben"
+  },
+  "timeZone": {
+    "label": "Zeitzone",
+    "placeholder": "Zeitzone auswählen"
+  },
+  "receiveSmsPromo": {
+    "label": "Werbeaktionen per SMS senden"
+  },
+  "locale": "en",
+  "newPassword": {
+    "label": "Neues Passwort",
+    "placeholder": "Neues Passwort eingeben"
+  },
+  "firstName": {
+    "label": "Vorname",
+    "placeholder": "Vorname eingeben"
+  },
+  "card_holder": {
+    "placeholder": "Name des Kreditkarteninhabers eingeben",
+    "label": "Karteninhaber"
+  },
+  "password": {
+    "label": "Passwort",
+    "placeholder": "Geben Sie Ihr Passwort ein"
+  },
+  "profession": {
+    "label": "Beruf",
+    "placeholder": "Geben Sie Ihren Beruf ein"
+  },
+  "nationality": {
+    "label": "Nationalitaet",
+    "placeholder": "Geben Sie Ihre Nationalität ein"
+  },
+  "receiveBonus": {
+    "label": "Boni erhalten"
+  },
+  "email": {
+    "label": "E-Mail-Adresse",
+    "placeholder": "Geben Sie Ihre E-Mail-Adresse ein"
+  },
+  "exp_month": {
+    "label": "Ablaufmonat",
+    "placeholder": "Ablaufmonat eingeben"
+  },
+  "securityAnswer": {
+    "label": "Sicherheitsantwort",
+    "placeholder": "Geben Sie eine Antwort auf Ihre Sicherheitsfrage ein"
+  },
+  "exp_year": {
+    "label": "Ablaufjahr",
+    "placeholder": "Geben Sie das Ablaufjahr ein"
+  },
+  "age": {
+    "label": "Alter",
+    "placeholder": "Geben Sie Ihr Alter ein"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Lommebok",
+  "addButton": "Legg til valuta",
+  "changeButton": "Bruke valuta",
+  "hideButton": "Skjul valuta",
+  "depositButton": "Innskudd",
+  "hideZeroBalances": "Hide zero balances",
+  "zeroBalance": {
+    "imgPath": "/img/uploads/empty.png",
+    "title": "There are no funds on your balance"
+  },
+  "withdrawButton": "Ta ut",
+  "seo": {
+    "title": "Win.Casino | Lommebok"
+  }
+}

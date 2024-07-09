@@ -1,0 +1,19 @@
+{
+  "tabLabel": "Panused",
+  "settledTab": "Arveldatud",
+  "unsettledTab": "Tasumata",
+  "betCard": {
+    "coefficientLabel": "Kordajad",
+    "betLabel": "Panus",
+    "resultLabel": "Tulemus",
+    "copyButton": "Kopeeri panuse ID",
+    "copyTooltip": "Panuse ID kopeeritakse lõikelauale",
+    "comboLabel": "Combo",
+    "comboDisciplinesTooltip": "rohkem",
+    "comboBetsLabel": "Panused"
+  },
+  "empty": {
+    "title": "Andmed puuduvad veel!",
+    "description": "Sa ei ole veel ühtegi panust teinud."
+  }
+}

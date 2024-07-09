@@ -1,0 +1,8 @@
+{
+  "label": "Turbogames",
+  "showAll": {
+    "label": "Visa alla",
+    "url": "/games?category=turbogames"
+  },
+  "buttonLabel": "Spela nu"
+}

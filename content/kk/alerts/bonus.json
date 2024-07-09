@@ -1,0 +1,32 @@
+{
+  "bonusCodeIncorrect": {
+    "title": "Кешіріңіз, бірақ сіз бонус кодын қате енгіздіңіз."
+  },
+  "bonusCodeNotAvailable": {
+    "title": "Кешіріңіз, бірақ енгізілген бонус коды бар бонус сіз үшін қолжетімді емес."
+  },
+  "bonusIssued": {
+    "title": "Берілген",
+    "description": "{amount} бонус берілді"
+  },
+  "bonusActivated": {
+    "title": "Белсенді",
+    "description": "{amount} бонусы іске қосылды"
+  },
+  "bonusPlayed": {
+    "title": "Аяқталды",
+    "description": "{amount} бонус сәтті ойналды. Сіздің ұтыстарыңыз қазірдің өзінде нақты балансыңызда"
+  },
+  "bonusCanceled": {
+    "title": "Бас тартылды",
+    "description": "{amount} бонустан бас тартылды"
+  },
+  "bonusExpired": {
+    "title": "Жарамдылық мерзімі өткен",
+    "description": "{amount} бонусының мерзімі аяқталды"
+  },
+  "bonusLost": {
+    "title": "Жоғалған",
+    "description": "{amount} бонусы тігілген жоқ"
+  }
+}

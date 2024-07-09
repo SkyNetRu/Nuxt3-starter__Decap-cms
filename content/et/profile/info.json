@@ -1,0 +1,15 @@
+{
+  "title": "Profiili info",
+  "sendButton": "Saada link",
+  "verifyButton": "Kontrollida",
+  "verifiedLabel": "Teie e-posti aadress on kontrollitud",
+  "unverifiedLabel": "Teie e-posti aadress on kinnitamata",
+  "editButton": "Muuda oma profiili",
+  "saveButton": "Salvesta muudatused",
+  "cancelButton": "Tühista",
+  "subscriptionTitle": "Tellimused",
+  "manageTitle": "Konto haldamine",
+  "seo": {
+    "title": "Win.Casino | Profiili info"
+  }
+}

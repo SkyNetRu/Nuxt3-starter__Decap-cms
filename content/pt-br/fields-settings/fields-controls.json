@@ -1,0 +1,155 @@
+{
+  "password": {
+    "label": "Senha",
+    "placeholder": "Digite sua senha"
+  },
+  "currentPassword": {
+    "label": "Senha atual",
+    "placeholder": "Digite sua senha atual"
+  },
+  "newPassword": {
+    "label": "Nova senha",
+    "placeholder": "Digite a nova senha"
+  },
+  "repeatNewPassword": {
+    "label": "New password again (Nova senha novamente)",
+    "placeholder": "Digite novamente a nova senha"
+  },
+  "firstName": {
+    "label": "First name (Nome)",
+    "placeholder": "Digite o primeiro nome"
+  },
+  "lastName": {
+    "label": "Last name (sobrenome)",
+    "placeholder": "Digite o sobrenome"
+  },
+  "nationality": {
+    "label": "Nacionalidade",
+    "placeholder": "Digite sua nacionalidade"
+  },
+  "nickname": {
+    "label": "Apelido",
+    "placeholder": "Digite seu apelido"
+  },
+  "gender": {
+    "label": "Gênero",
+    "maleLabel": "Masculino",
+    "femaleLabel": "Feminino",
+    "otherLabel": "Outro"
+  },
+  "city": {
+    "label": "Cidade",
+    "placeholder": "Digite sua cidade"
+  },
+  "address": {
+    "label": "Endereço",
+    "placeholder": "Digite seu endereço"
+  },
+  "additionalAddress": {
+    "label": "Endereço adicional",
+    "placeholder": "Digite seu endereço adicional"
+  },
+  "postalCode": {
+    "label": "Código postal",
+    "placeholder": "Digite o código postal"
+  },
+  "timeZone": {
+    "label": "Fuso horário",
+    "placeholder": "Selecione o fuso horário"
+  },
+  "profession": {
+    "label": "Profissão",
+    "placeholder": "Digite sua profissão"
+  },
+  "language": {
+    "label": "Idioma",
+    "placeholder": "Digite seu idioma"
+  },
+  "bonusCode": {
+    "label": "Código (opcional)",
+    "placeholder": "Digite o código"
+  },
+  "securityQuestion": {
+    "label": "Pergunta de segurança",
+    "placeholder": "Digite sua pergunta de segurança"
+  },
+  "securityAnswer": {
+    "label": "Resposta de segurança",
+    "placeholder": "Digite uma resposta para sua pergunta de segurança"
+  },
+  "email": {
+    "label": "Endereço de e-mail",
+    "placeholder": "Digite seu e-mail"
+  },
+  "country": {
+    "label": "País",
+    "placeholder": "Selecione seu país"
+  },
+  "currency": {
+    "label": "Moeda",
+    "placeholder": "Selecione sua moeda"
+  },
+  "agreements": {
+    "label": "Aceito os <a href=\"/static/terms-and-conditions\" target=\"_blank\" > Termos e condições</a> e <a href=\"/static/privacy-policy\" target=\"_blank\" >Política de privacidade</a>"
+  },
+  "receiveEmailPromo": {
+    "label": "Enviar promoções por e-mail"
+  },
+  "receiveSmsPromo": {
+    "label": "Enviar promoções por SMS"
+  },
+  "receiveBonus": {
+    "label": "Receber bônus"
+  },
+  "phone": {
+    "label": "Telefone celular",
+    "placeholder": "Digite o número do telefone"
+  },
+  "birthdate": {
+    "label": "Data de nascimento",
+    "placeholderDay": "Dia",
+    "placeholderMonth": "Mês",
+    "placeholderYear": "Ano"
+  },
+  "placeOfBirth": {
+    "label": "Local de nascimento",
+    "placeholder": "Digite seu local de nascimento"
+  },
+  "personalIdNumber": {
+    "label": "Número de identificação pessoal",
+    "placeholder": "Número de referência da identidade (se disponível)"
+  },
+  "message": {
+    "label": "Texto",
+    "placeholder": "Digite sua mensagem"
+  },
+  "wallet_id": {
+    "label": "Endereço da carteira",
+    "placeholder": "Digite o endereço da carteira"
+  },
+  "card_number": {
+    "label": "Número do cartão",
+    "placeholder": "Digite o número do cartão"
+  },
+  "card_holder": {
+    "label": "Titular do cartão",
+    "placeholder": "Digite o nome do titular do cartão de crédito"
+  },
+  "exp_month": {
+    "label": "Mês de vencimento",
+    "placeholder": "Insira o mês de vencimento"
+  },
+  "exp_year": {
+    "label": "Ano de vencimento",
+    "placeholder": "Digite o ano de expiração"
+  },
+  "networkSelect": {
+    "label": "Selecione sua rede",
+    "placeholder": "Rede",
+    "info": "Para continuar,<br>selecione a rede 👆👆👆👆"
+  },
+  "age": {
+    "label": "Idade",
+    "placeholder": "Insira sua idade"
+  }
+}

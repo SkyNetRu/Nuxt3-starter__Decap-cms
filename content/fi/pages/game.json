@@ -1,0 +1,19 @@
+{
+  "demoLabel": "Valmis pelaamaan oikeasti?",
+  "demoButton": "Kyllä, pelata oikeasti",
+  "plug": {
+    "title": "Ole hyvä, kirjaudu sisään",
+    "description": "Tämä peli ei ole käytettävissä hauskassa tilassa, kirjaudu sisään tai rekisteröidy pelataksesi."
+  },
+  "seo": {
+    "title": "Win.Casino | Pelaa yli 4 000 kolikkopeliä ja peliä"
+  },
+  "demoModal": {
+    "label": "Olet demotilassa",
+    "description": "Oletko valmis oikeisiin kauppoihin? Sukella Real-tilaan ja nosta panoksia.",
+    "demo": "Pelaa demoa",
+    "real": "Pelaa Realia",
+    "deposit": "Tallettaa",
+    "registration": "Rekisteröinti"
+  }
+}

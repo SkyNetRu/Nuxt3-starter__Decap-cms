@@ -1,0 +1,18 @@
+{
+  "title": "Λίστα παρόχων",
+  "providersLabel": "Παρόχους",
+  "gamesLabel": "Παιχνίδια",
+  "staticProvider": {
+    "identity": "turbo-games",
+    "button": "Στον ουρανό"
+  },
+  "searchPlaceholder": "Αναζητήστε τον πάροχο σας",
+  "empty": {
+    "title": "Δεν βρέθηκε τίποτα",
+    "description": "Δοκιμάστε να ψάξετε για κάτι άλλο"
+  },
+  "sortLabel": "Ταξινόμηση κατά:",
+  "seo": {
+    "title": "Win.Casino | Λίστα παρόχων"
+  }
+}

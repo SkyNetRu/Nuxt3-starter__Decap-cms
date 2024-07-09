@@ -1,0 +1,14 @@
+{
+  "pageUrl": "wednesday-free-spins",
+  "title": "Gira gratis los miércoles",
+  "subtitle": "Consigue 100 tiradas gratis todos los miércoles",
+  "description": "Los miércoles, nuestros jugadores reciben 30, 50 ó 100 tiradas gratis sólo por hacer un depósito. ¡Asegúrate de aprovechar la oportunidad de conseguir algunas tiradas gratis los miércoles cuando llegue el día!",
+  "button": {
+    "label": "Conseguir bonificación"
+  },
+  "termsLabel": "Condiciones de la bonificación:",
+  "termsContent": "1. Para obtener la bonificación, introduce el código de bonificación MIÉRCOLES antes del ingreso.\n2. Depósito mínimo para obtener un bono:\n\n   * 20 tiradas gratis - 1 mBTC;\n   * 50 tiradas gratuitas - 1,5 mBTC;\n   * 100 tiradas gratis - 2 mBTC.\n3. La apuesta completa requiere realizar apuestas por un importe 40 veces superior al importe de la bonificación recibida: (ganancias de las tiradas gratuitas) ×40.\n4. Las tiradas gratuitas se abonarán automáticamente en su cuenta.\n5. Limitación de la apuesta máxima durante las apuestas es de 0,3 mBTC.\n6. El bono sólo está disponible los miércoles de 00-00 a 23-59.",
+  "seo": {
+    "title": "Win.Casino | Miércoles Tiradas Gratis"
+  }
+}

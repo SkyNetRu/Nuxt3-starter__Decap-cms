@@ -1,0 +1,155 @@
+{
+  "password": {
+    "label": "Heslo",
+    "placeholder": "Zadejte své heslo"
+  },
+  "currentPassword": {
+    "label": "Aktuální heslo",
+    "placeholder": "Zadejte své aktuální heslo"
+  },
+  "newPassword": {
+    "label": "Nové heslo",
+    "placeholder": "Zadejte nové heslo"
+  },
+  "repeatNewPassword": {
+    "label": "Znovu nové heslo",
+    "placeholder": "Znovu zadejte nové heslo"
+  },
+  "firstName": {
+    "label": "Křestní jméno",
+    "placeholder": "Zadejte křestní jméno"
+  },
+  "lastName": {
+    "label": "Příjmení",
+    "placeholder": "Zadejte příjmení"
+  },
+  "nationality": {
+    "label": "Státní příslušnost",
+    "placeholder": "Zadejte svou státní příslušnost"
+  },
+  "nickname": {
+    "label": "Přezdívka",
+    "placeholder": "Zadejte svou přezdívku"
+  },
+  "gender": {
+    "label": "Pohlaví",
+    "maleLabel": "Muž",
+    "femaleLabel": "Žena",
+    "otherLabel": "Další"
+  },
+  "city": {
+    "label": "Město",
+    "placeholder": "Zadejte své město"
+  },
+  "address": {
+    "label": "Adresa",
+    "placeholder": "Zadejte svou adresu"
+  },
+  "additionalAddress": {
+    "label": "Další adresa",
+    "placeholder": "Zadejte svou další adresu"
+  },
+  "postalCode": {
+    "label": "Poštovní směrovací číslo",
+    "placeholder": "Zadejte poštovní směrovací číslo"
+  },
+  "timeZone": {
+    "label": "Časové pásmo",
+    "placeholder": "Vyberte časové pásmo"
+  },
+  "profession": {
+    "label": "Profese",
+    "placeholder": "Zadejte svou profesi"
+  },
+  "language": {
+    "label": "Jazyk",
+    "placeholder": "Zadejte svůj jazyk"
+  },
+  "bonusCode": {
+    "label": "Kód (nepovinné)",
+    "placeholder": "Zadejte kód"
+  },
+  "securityQuestion": {
+    "label": "Bezpečnostní otázka",
+    "placeholder": "Zadejte bezpečnostní otázku"
+  },
+  "securityAnswer": {
+    "label": "Bezpečnostní odpověď",
+    "placeholder": "Zadejte odpověď na bezpečnostní otázku"
+  },
+  "email": {
+    "label": "E-mailová adresa",
+    "placeholder": "Zadejte svůj e-mail"
+  },
+  "country": {
+    "label": "Země",
+    "placeholder": "Vyberte svou zemi"
+  },
+  "currency": {
+    "label": "Měna",
+    "placeholder": "Vyberte svou měnu"
+  },
+  "agreements": {
+    "label": "Souhlasím s <a href=\"/static/terms-and-conditions\" target=\"_blank\" >Obchodními podmínkami</a> a <a href=\"/static/privacy-policy\" target=\"_blank\" >Zásadami ochrany osobních údajů</a>."
+  },
+  "receiveEmailPromo": {
+    "label": "Odesílání propagačních akcí e-mailem"
+  },
+  "receiveSmsPromo": {
+    "label": "Odesílání propagačních zpráv pomocí SMS"
+  },
+  "receiveBonus": {
+    "label": "Obdržet bonusy"
+  },
+  "phone": {
+    "label": "Mobilní telefon",
+    "placeholder": "Zadejte telefonní číslo"
+  },
+  "birthdate": {
+    "label": "Datum narození",
+    "placeholderDay": "Den",
+    "placeholderMonth": "Měsíc",
+    "placeholderYear": "Rok"
+  },
+  "placeOfBirth": {
+    "label": "Místo narození",
+    "placeholder": "Zadejte místo narození"
+  },
+  "personalIdNumber": {
+    "label": "Osobní identifikační číslo",
+    "placeholder": "Identifikační číslo (je-li k dispozici)"
+  },
+  "message": {
+    "label": "Text",
+    "placeholder": "Zadejte svůj vzkaz"
+  },
+  "wallet_id": {
+    "label": "Adresa peněženky",
+    "placeholder": "Zadejte adresu peněženky"
+  },
+  "card_number": {
+    "label": "Číslo karty",
+    "placeholder": "Zadejte číslo karty"
+  },
+  "card_holder": {
+    "label": "Držitel karty",
+    "placeholder": "Zadejte jméno držitele kreditní karty"
+  },
+  "exp_month": {
+    "label": "Měsíc platnosti",
+    "placeholder": "Zadejte měsíc vypršení platnosti"
+  },
+  "exp_year": {
+    "label": "Rok platnosti",
+    "placeholder": "Zadejte rok vypršení platnosti"
+  },
+  "networkSelect": {
+    "label": "Vyberte svou síť",
+    "placeholder": "Síť",
+    "info": "Chcete-li pokračovat,<br>zvolte síť 👆👆👆"
+  },
+  "age": {
+    "label": "Věk",
+    "placeholder": "Zadejte svůj věk"
+  }
+}

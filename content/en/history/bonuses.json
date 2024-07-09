@@ -1,0 +1,27 @@
+{
+  "empty": {
+    "icon": "empty-bonuses",
+    "title": "There is no data yet!",
+    "description": "You have not received bonuses yet"
+  },
+  "tabLabel": "Bonuses",
+  "dateAllFilterOption": "All time",
+  "dateLabel": "Date from / to:",
+  "filter_buttons": {
+    "reset": "Reset",
+    "apply": "Apply",
+    "cancel": "Cancel"
+  },
+  "filter_title": "Filter",
+  "tabPosition": 2,
+  "tableColumns": {
+    "title": "Title",
+    "status": "Status",
+    "amount": "Amount",
+    "progress": "Progress",
+    "created": "Date",
+    "expired": "Valid until"
+  },
+  "cashBonusTab": "Cash Bonuses",
+  "freeSpinsTab": "Free Spins"
+}

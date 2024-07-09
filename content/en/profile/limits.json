@@ -1,0 +1,43 @@
+{
+  "setButtonLabel": "Set",
+  "doneButtonLabel": "Done editing",
+  "addButtonLabel": "Add new",
+  "cancelButtonLabel": "Cancel",
+  "selfExclusion": {
+    "label": "Self exclusion",
+    "hint": "You can set a self-exclusion limit for a definite or an indefinite period of time. The restriction takes effect instantly. During the set period you will not be able to log into your account. To be excluded from gambling on our site for an indefinite period of time, please, contact our support team via [live-chat](#)",
+    "chatLinkText": "live-chat",
+    "selectLabel": "None"
+  },
+  "loss": {
+    "hint": "This setting limits the amount you can deposit per day, week or month",
+    "label": "Loss limits"
+  },
+  "statusActiveTimerLabel": "until reset",
+  "pendingStatusLabel": "Pending till {date}",
+  "titleTooltip": "This setting limits the amount you can deposit per day, week or month.",
+  "bet": {
+    "label": "Bet limits",
+    "hint": "This setting limits the amount you can deposit per day, week or month"
+  },
+  "statusPendingTimerLabel": "until activate",
+  "coolingOff": {
+    "label": "Cooling off",
+    "hint": "The restriction takes effect instantly. You won’t be able to make deposits and play during the specified period, also you will be excluded from all advertising offers.",
+    "pendingStatusLabel": "Pending. Will be activated on {date}",
+    "deleteConfirmTitle": "Limit update successfully",
+    "deleteConfirmDescription": "The limit will be canceled after 24 hours",
+    "selectLabel": "None",
+    "activeStatusLabel": "Active till {date}"
+  },
+  "modeToggle": "Advanced mode",
+  "title": "Limits",
+  "editButtonLabel": "Edit limits ",
+  "availableLimitSum": "{balance} of {amount} {currency} left",
+  "activeStatusLabel": "Active till {date}",
+  "deposit": {
+    "label": "Deposit limits",
+    "hint": "This setting limits the amount you can deposit per day, week or month"
+  },
+  "timerAlmostDoneLabel": "Almost done"
+}

@@ -1,0 +1,26 @@
+{
+  "successRegistration": {
+    "title": "Vítejte na adrese",
+    "description": "Byli jste úspěšně zaregistrováni!"
+  },
+  "sentResetLink": {
+    "title": "Úspěšně",
+    "description": "Byl odeslán odkaz pro obnovení hesla. Klikněte na odkaz v e-mailu a vytvořte si nové heslo."
+  },
+  "invalidResetCode": {
+    "title": "Chyba",
+    "description": "Omlouváme se, ale váš odkaz na obnovení hesla není platný. Požádejte prosím o další reset hesla."
+  },
+  "passwordChanged": {
+    "title": "Úspěch",
+    "description": "Úspěšně jste změnili své heslo."
+  },
+  "accountBlocked": {
+    "title": "Chyba",
+    "description": "Je nám líto, ale váš účet je zablokován. Pro více informací se prosím obraťte na náš tým podpory."
+  },
+  "resentVerification": {
+    "title": "Úspěch",
+    "description": "Na vaši e-mailovou adresu jsme odeslali e-mail s ověřovacím odkazem."
+  }
+}

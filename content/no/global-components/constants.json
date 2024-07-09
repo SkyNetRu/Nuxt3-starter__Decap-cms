@@ -1,0 +1,42 @@
+{
+  "bonusTypes": {
+    "1": "Penger",
+    "2": "Prosentdel",
+    "3": "Gratisspinn",
+    "4": "Penger tilbake"
+  },
+  "betStatuses": {
+    "1": "Avventer",
+    "2": "Vant",
+    "3": "Tapt",
+    "4": "Refusjon",
+    "5": "Kontanter ut"
+  },
+  "invoiceStatuses": {
+    "1": "Avventer",
+    "2": "Suksess",
+    "3": "Avvist",
+    "4": "Behandling"
+  },
+  "invoiceTypes": {
+    "1": "Innskudd",
+    "2": "Uttak",
+    "3": "Balansekorreksjon",
+    "4": "Kjøp",
+    "5": "Virtuell utbetaling"
+  },
+  "limitPeriods": {
+    "daily": "Daglig",
+    "weekly": "Ukentlig",
+    "monthly": "Månedlig",
+    "1_day": "1 dag",
+    "3_days": "3 dager",
+    "1_week": "1 uke",
+    "1_month": "1 måned",
+    "3_months": "3 måneder",
+    "6_months": "6 måneder",
+    "9_months": "9 måneder",
+    "1_year": "1 år",
+    "forever": "For alltid"
+  }
+}

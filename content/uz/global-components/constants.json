@@ -1,0 +1,42 @@
+{
+  "bonusTypes": {
+    "1": "Naqd pul",
+    "2": "Foiz",
+    "3": "Bepul aylantirish",
+    "4": "Keshbek"
+  },
+  "betStatuses": {
+    "1": "Kutilmoqda",
+    "2": "Yutuq",
+    "3": "Yo'qotilgan",
+    "4": "To'lovni qaytarish",
+    "5": "Naqd pul chiqarish"
+  },
+  "invoiceStatuses": {
+    "1": "Kutilmoqda",
+    "2": "Muvaffaqiyat",
+    "3": "Rad etilgan",
+    "4": "Qayta ishlash"
+  },
+  "invoiceTypes": {
+    "1": "Depozit",
+    "2": "Olib tashlash",
+    "3": "Balansni tuzatish",
+    "4": "Sotib olish",
+    "5": "Virtual to'lov"
+  },
+  "limitPeriods": {
+    "daily": "Kundalik",
+    "weekly": "Haftalik",
+    "monthly": "Oylik",
+    "1_day": "1 kun",
+    "3_days": "3 kun",
+    "1_week": "1 hafta",
+    "1_month": "1 oy",
+    "3_months": "3 oy",
+    "6_months": "6 oy",
+    "9_months": "9 oy",
+    "1_year": "1 yil",
+    "forever": "Abadiy"
+  }
+}

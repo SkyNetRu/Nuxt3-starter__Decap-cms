@@ -1,0 +1,26 @@
+{
+  "successRegistration": {
+    "title": "Witamy",
+    "description": "Rejestracja przebiegła pomyślnie!"
+  },
+  "sentResetLink": {
+    "title": "Sukces",
+    "description": "Wysłano link do resetowania hasła. Kliknij link w wiadomości e-mail, aby utworzyć nowe hasło."
+  },
+  "invalidResetCode": {
+    "title": "Błąd",
+    "description": "Przepraszamy, ale link do resetowania hasła jest nieprawidłowy. Poproś o ponowne zresetowanie hasła."
+  },
+  "passwordChanged": {
+    "title": "Sukces",
+    "description": "Hasło zostało pomyślnie zmienione."
+  },
+  "accountBlocked": {
+    "title": "Błąd",
+    "description": "Przepraszamy, ale Twoje konto jest zablokowane. Skontaktuj się z naszym zespołem pomocy technicznej, aby uzyskać więcej informacji."
+  },
+  "resentVerification": {
+    "title": "Sukces",
+    "description": "Wysłaliśmy wiadomość e-mail z linkiem weryfikacyjnym na Twój adres e-mail."
+  }
+}

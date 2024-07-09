@@ -1,0 +1,16 @@
+{
+  "title": "Cartera",
+  "addButton": "Añadir moneda",
+  "changeButton": "Utilizar divisa",
+  "hideButton": "Ocultar divisa",
+  "depositButton": "Depositar",
+  "hideZeroBalances": "Hide zero balances",
+  "zeroBalance": {
+    "imgPath": "/img/uploads/empty.png",
+    "title": "There are no funds on your balance"
+  },
+  "withdrawButton": "Retirar",
+  "seo": {
+    "title": "Win.Casino | Monedero"
+  }
+}

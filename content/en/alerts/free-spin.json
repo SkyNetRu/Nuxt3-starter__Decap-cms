@@ -1,0 +1,27 @@
+{
+  "freeSpinIssued": {
+    "title": "Issued",
+    "description": "You have been awarded {count} on your {currency} wallet for the {game} game",
+    "type": "pending"
+  },
+  "freeSpinActivated": {
+    "title": "Active",
+    "description": "{count} on your {currency} wallet for the {game} game have been activated",
+    "type": "done"
+  },
+  "freeSpinPlayed": {
+    "title": "Finished",
+    "description": "You have been successfully played {count} on your {currency} wallet for the {game} game",
+    "type": "done"
+  },
+  "freeSpinCanceled": {
+    "title": "Canceled",
+    "description": "{count} on your {currency} wallet for the {game} game have been canceled",
+    "type": "error"
+  },
+  "freeSpinExpired": {
+    "title": "Expired",
+    "description": "{count} on your {currency} wallet for the {game} game have been expired",
+    "type": "error"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "bonusTypes": {
+    "1": "sularaha",
+    "2": "Protsent",
+    "3": "Tasuta spin",
+    "4": "Raha tagasi"
+  },
+  "betStatuses": {
+    "1": "Ootel",
+    "2": "Võitis",
+    "3": "Kadunud",
+    "4": "Tagasimakse",
+    "5": "Raha välja"
+  },
+  "invoiceStatuses": {
+    "1": "Ootel",
+    "2": "Edu",
+    "3": "Tagasi lükatud",
+    "4": "Töötlemine"
+  },
+  "invoiceTypes": {
+    "1": "Deposiit",
+    "2": "Väljavõtmine",
+    "3": "Tasakaalu korrigeerimine",
+    "4": "ostma",
+    "5": "Virtuaalne väljamakse"
+  },
+  "limitPeriods": {
+    "daily": "Igapäevane",
+    "weekly": "Iganädalane",
+    "monthly": "Igakuine",
+    "1_day": "1 päev",
+    "3_days": "3 päeva",
+    "1_week": "1 nädal",
+    "1_month": "1 kuu",
+    "3_months": "3 kuud",
+    "6_months": "6 kuud",
+    "9_months": "9 kuud",
+    "1_year": "1 aasta",
+    "forever": "Igavesti"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "tabs": {
+    "allTab": "Όλα",
+    "cryptoTab": "Crypto"
+  },
+  "empty": {
+    "title": "Έγινε!",
+    "description": "Έχετε ήδη προσθέσει όλα τα νομίσματα"
+  }
+}

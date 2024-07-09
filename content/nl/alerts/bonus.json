@@ -1,0 +1,32 @@
+{
+  "bonusCodeIncorrect": {
+    "title": "Sorry, maar je hebt de verkeerde bonuscode ingevoerd."
+  },
+  "bonusCodeNotAvailable": {
+    "title": "Sorry, maar de bonus met de ingevoerde bonuscode is niet beschikbaar voor jou."
+  },
+  "bonusIssued": {
+    "title": "Uitgegeven",
+    "description": "De {amount} bonus is uitgegeven"
+  },
+  "bonusActivated": {
+    "title": "Actief",
+    "description": "De {amount} bonus is geactiveerd"
+  },
+  "bonusPlayed": {
+    "title": "Voltooid",
+    "description": "De {amount} bonus is succesvol ingezet. Uw winsten staan al op uw echte balans"
+  },
+  "bonusCanceled": {
+    "title": "Geannuleerd",
+    "description": "De {amount} bonus is geannuleerd"
+  },
+  "bonusExpired": {
+    "title": "Verlopen",
+    "description": "De {amount} bonus is verlopen"
+  },
+  "bonusLost": {
+    "title": "Verloren",
+    "description": "De {amount} bonus is niet ingezet"
+  }
+}

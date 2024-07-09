@@ -1,0 +1,20 @@
+{
+  "title": "Bonus Details",
+  "titleImage": "/img/uploads/nft_gift.png",
+  "readMore": "Read more about Bonuses",
+  "infoLabels": {
+    "from": "From:",
+    "to": "To:",
+    "excluded": "Excluded:",
+    "depositAmount": "Deposit:",
+    "bonusType": "Bonus Type:",
+    "freeSpins": "Free Spins:",
+    "casinoWager": "Casino Wager:",
+    "sportsbookWager": "Sportsbook Wager:",
+    "maxWin": "Max Win Sum:",
+    "casinoBetSum": "Casino Bet:",
+    "sportsbookBetSum": "Sportsbook Bet:",
+    "providers": "Providers:",
+    "games": "Games:"
+  }
+}

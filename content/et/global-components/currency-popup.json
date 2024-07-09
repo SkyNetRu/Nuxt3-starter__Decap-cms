@@ -1,0 +1,10 @@
+{
+  "tabs": {
+    "allTab": "Kõik",
+    "cryptoTab": "Crypto"
+  },
+  "empty": {
+    "title": "Valmis!",
+    "description": "Sa oled juba lisanud kõik valuutad"
+  }
+}

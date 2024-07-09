@@ -1,0 +1,27 @@
+{
+  "tabLabel": "Tapahtumat",
+  "dateLabel": "Päivämäärä alkaen / päättyen:",
+  "allFilterOption": "Kaikki",
+  "typeFilterLabel": "Tyyppi:",
+  "currencyLabel": "Valuutta:",
+  "statusFilterLabel": "Status:",
+  "tableColumns": {
+    "date": "Päivämäärä",
+    "type": "Tyyppi",
+    "method": "Maksutapa",
+    "status": "Status",
+    "sum": "Summa"
+  },
+  "cancelPaymentButton": "Peruuta maksu",
+  "empty": {
+    "title": "Tietoja ei vielä ole!",
+    "description": "Sinulla ei ole vielä yhtään onnistunutta maksutapahtumaa."
+  },
+  "securityCode": {
+    "getCodeButton": "Hanki koodi",
+    "codeLabel": "Salainen koodi:",
+    "codeTooltip": "Salainen koodi kopioitu",
+    "clientLabel": "Asiakastunnus:",
+    "clientTooltip": "Asiakastunnus kopioitu"
+  }
+}

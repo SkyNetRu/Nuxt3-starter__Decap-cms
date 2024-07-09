@@ -1,0 +1,14 @@
+{
+  "tabLabel": "نشست های فعال",
+  "sessionsStatuses": {
+    "current": "جاری",
+    "active": "فعال",
+    "closed": "بسته شد"
+  },
+  "tableColumns": {
+    "country": "کشور",
+    "userAgent": "ایجنت کاربر",
+    "createdAt": "ایجاد شده در",
+    "status": "وضعیت"
+  }
+}

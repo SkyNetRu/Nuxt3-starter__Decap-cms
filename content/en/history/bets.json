@@ -1,0 +1,20 @@
+{
+  "tabLabel": "Bets",
+  "tabPosition": 4,
+  "empty": {
+    "title": "There is no data yet!",
+    "description": "You have not placed any bets yet."
+  },
+  "settledTab": "Settled",
+  "unsettledTab": "Unsettled",
+  "betCard": {
+    "coefficientLabel": "Odds",
+    "betLabel": "Bet",
+    "resultLabel": "Result",
+    "copyButton": "Copy bet ID",
+    "copyTooltip": "Bet ID copied to clipboard",
+    "comboLabel": "Combo",
+    "comboDisciplinesTooltip": "more",
+    "comboBetsLabel": "Bets"
+  }
+}

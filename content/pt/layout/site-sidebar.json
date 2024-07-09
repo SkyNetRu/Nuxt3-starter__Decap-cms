@@ -1,0 +1,147 @@
+{
+  "socials": {
+    "isShow": false
+  },
+  "bottomMenu": [
+    {
+      "label": "Apoio",
+      "url": "/contact",
+      "icon": "live-support"
+    }
+  ],
+  "userMenu": [
+    {
+      "label": "Favoritos",
+      "icon": "heart",
+      "url": "/favorites"
+    },
+    {
+      "label": "Jogado recentemente",
+      "url": "/recently-played",
+      "icon": "history"
+    }
+  ],
+  "bonusesMenu": [
+    {
+      "label": "Bónus",
+      "icon": "bonuses",
+      "items": [
+        {
+          "label": "Pacote de boas-vindas",
+          "url": "/welcome-package"
+        },
+        {
+          "label": "Bónus De Segunda-Feira",
+          "url": "/bonus/monday-reload-bonus"
+        },
+        {
+          "url": "/bonus/wednesday-free-spins",
+          "label": "Rodadas Grátis De Quarta-Feira"
+        },
+        {
+          "url": "/bonus/weekly-cashback",
+          "label": "Cashback Semanal"
+        }
+      ]
+    }
+  ],
+  "ctaMenu": {
+    "isShow": false
+  },
+  "topMenu": {
+    "integratedElement": {
+      "label": "AVIATOR",
+      "url": "https://win.city/games/spribe-aviator?real=true",
+      "backgroundImage": "/img/uploads/cta-bg.png",
+      "isShow": true,
+      "order": 2
+    },
+    "items": [
+      {
+        "label": "Slots",
+        "url": "/games?category=slots",
+        "icon": "slots"
+      },
+      {
+        "label": "Casino Ao Vivo",
+        "url": "/games?category=live",
+        "icon": "live-casino"
+      },
+      {
+        "label": "Jogos De Mesa",
+        "icon": "table-games",
+        "url": "/games?category=table"
+      },
+      {
+        "url": "/games?category=turbogames",
+        "icon": "turbo-games",
+        "label": "Turbogames",
+        "gameList": [
+          {
+            "gameIdentity": "crash-x-turbo-games"
+          },
+          {
+            "gameIdentity": "dice-twice-turbo-games"
+          },
+          {
+            "gameIdentity": "mines-turbo-games"
+          },
+          {
+            "gameIdentity": "turbo-games-turboplinko"
+          }
+        ]
+      },
+      {
+        "url": "/betting",
+        "icon": "sport-book",
+        "label": "Livro de esportes"
+      }
+    ]
+  },
+  "sidebarFooterMenu": [
+    {
+      "label": "T&C",
+      "url": "/static/terms-and-conditions"
+    },
+    {
+      "label": "Condições de bónus",
+      "url": "/static/bonus-terms"
+    },
+    {
+      "url": "/questions",
+      "label": "F.A.Q"
+    },
+    {
+      "url": "/static/privacy-policy",
+      "label": "Política De Privacidade"
+    },
+    {
+      "url": "/static/gambling-with-responsibility",
+      "label": "Jogar com responsabilidade"
+    },
+    {
+      "url": "/static/kyc-policy",
+      "label": "Política KYC"
+    }
+  ],
+  "tokenMenu": [
+    {
+      "label": "Win.Casino Coin",
+      "url": "/sbt-token",
+      "icon": "tfs-token"
+    }
+  ],
+  "gamesToggler": {
+    "buttonFirst": {
+      "label": "Casino",
+      "url": "/main",
+      "icon": "cherry"
+    },
+    "buttonSecond": {
+      "label": "Desporto",
+      "url": "/betting",
+      "icon": "sport"
+    }
+  },
+  "chatLabel": "chat"
+}

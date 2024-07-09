@@ -1,0 +1,14 @@
+{
+  "tabLabel": "الجلسات",
+  "sessionsStatuses": {
+    "current": "الحالي",
+    "active": "نشط",
+    "closed": "مغلق"
+  },
+  "tableColumns": {
+    "country": "الدولة",
+    "userAgent": "وكيل المستخدم",
+    "createdAt": "أنشئت في",
+    "status": "الحالة"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Lompakko",
+  "addButton": "Lisää valuuttaa",
+  "changeButton": "Käytä valuuttaa",
+  "hideButton": "Piilota valuutta",
+  "depositButton": "Talletus",
+  "hideZeroBalances": "Hide zero balances",
+  "zeroBalance": {
+    "imgPath": "/img/uploads/empty.png",
+    "title": "There are no funds on your balance"
+  },
+  "withdrawButton": "Nosta",
+  "seo": {
+    "title": "Win.Casino | Lompakko"
+  }
+}

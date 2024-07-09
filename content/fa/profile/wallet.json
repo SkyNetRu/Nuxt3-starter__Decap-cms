@@ -1,0 +1,16 @@
+{
+  "title": "کیف پول",
+  "addButton": "اضافه کردن واحد ارزی",
+  "changeButton": "واحد ارزی استفاده شده",
+  "hideButton": "پنهان کردن واحد ارزی",
+  "depositButton": "واریز ",
+  "hideZeroBalances": "Hide zero balances",
+  "zeroBalance": {
+    "imgPath": "/img/uploads/empty.png",
+    "title": "There are no funds on your balance"
+  },
+  "withdrawButton": "برداشت از حساب",
+  "seo": {
+    "title": "Win.Casino | کیف پول"
+  }
+}

@@ -1,89 +1,468 @@
-# disable in production:  
-local_backend: true
-# command to run a local Decap instance: npx-decap-server
-
 backend:
-  name: git-gateway
-  branch: master # Branch to update (optional; defaults to master)
-
-media_folder: "public/upload"
-public_folder: "/"
-
-site_url: https://sailsnake-decapcms.netlify.app
-
-media_library:
-  name: cloudinary
-  output_filename_only: true
-  config:
-    cloud_name: <YOUR_CLOUD_NAME_HERE>
-    api_key: <YOUR_API_KEY_HERE> 
-
-
-# SEO anchor:
-seo: &seo
-  name: "SEOmetaData"
-  label: "SEO"
-  widget: "object"
-  collapsed: true
-  fields: 
-    - { name: "metaTitle", label: "SEO Title", widget: "string", default: "{{ title }}", required: true }
-    - { name: "metaDescription", label: "SEO Description", widget: "string", pattern: [".{20,160}", "between 20 and 160 characters"], required: true, hint: "must be between 20 and 160 characters" }
-    - { name: "metaImage", label: "SEO image", widget: "image"}
-    - { name: "keywords", label: "keywords", widget: "string", hint: "keywords are comma seperated", required: false }
-
-
-
+  cms_label_prefix: cms/$LOCALE/
+  repo: platform/customer-frontends/tg-wincity
+  branch: mega-main
+media_folder: public/img/uploads
+public_folder: /img/uploads
 collections:
-  - name: "globalContent"
-    label: "global content"
-    files: 
-      - label: "buttons"
-        name: "buttons"
-        file: "content/site/buttons.md"    
-        fields: 
-          - label: "next"
-            name: "next"
-            widget: "string"        
-          - label: "previous"
-            name: "previous"
-            widget: "string"        
-          - label: "close"
-            name: "close"
-            widget: "string"        
-          - label: "article: more"
-            name: "article"
-            widget: "string"
-            default: "read more"
-          - label: "form: send"
-            name: "send"
-            widget: "string"
-        
-  # SINGLE PAGES
-  - name: "pages"
-    label: "Pages"
+  - name: globalComponents
+    label: Global Components
+    extension: json
+    format: json
+    editor:
+      preview: false
     files:
-      - name: "home"
-        label: "Home"
-        file: "content/pages/home.md"
+      - label: Benefits
+        name: benefits
+        file: content/$LOCALE/global-components/benefits.json
         fields:
-          - { name: "title", label: "Title", widget: "string" }
-          - { name: "content", label: "Content", widget: "markdown" }
-          - *seo
-      - name: "typography"
-        label: "Typography"
-        file: "content/pages/typography.md"
+          - name: items
+            label: Benefit Cards
+            widget: list
+            fields:
+              - name: image
+                label: Image
+                widget: image
+              - name: title
+                label: Title
+                widget: string
+              - name: text
+                label: Text
+                widget: string
+            label_singular: card
+            summary: '{{fields.title}}'
+          - name: Block Label
+            label: Label
+            widget: string
+          - name: icon
+            label: Icon
+            widget: select
+            options: &ref_0
+              - cherry
+              - sport
+              - slots
+              - live-casino
+              - table-games
+              - turbo-games
+              - sport-book
+              - tfs-token
+              - bonuses
+              - live-support
+              - vip
+              - tournament
+              - lottery
+              - quest
+              - shop
+              - heart
+              - history
+              - wallet
+              - bonus
+              - user
+              - log-out
+              - speed
+              - gamepad
+              - security
+              - age
+              - hot
+              - new
+      - label: Cards Group
+        name: cardsGroup
+        file: content/$LOCALE/global-components/cards-group.json
         fields:
-          - { name: "title", label: "Title", widget: "string" }
-          - { name: "content", label: "Content", widget: "markdown" }
-      - name: "Fiddly diddlies"
-        label: "diddlies"
-        extension: json
-        file: "content/pages/fiddly-diddlies.json"
+          - name: moreButton
+            label: More Button
+            widget: string
+          - name: recommendedSubtitle
+            label: Recommended Subtitle
+            widget: string
+          - name: favorites
+            label: Favorites
+            widget: object
+            fields:
+              - name: icon
+                label: Icon
+                widget: select
+                options: *ref_0
+              - name: label
+                label: Label
+                widget: string
+          - name: providers
+            label: Providers
+            widget: object
+            fields:
+              - name: icon
+                label: Icon
+                widget: select
+                options: *ref_0
+              - name: label
+                label: Label
+                widget: string
+          - name: latestWinners
+            label: Latest Winners
+            widget: object
+            fields:
+              - name: icon
+                label: Icon
+                widget: select
+                options: *ref_0
+              - name: label
+                label: Label
+                widget: string
+          - name: recentlyPlayed
+            label: Recently Played
+            widget: object
+            fields:
+              - name: icon
+                label: Icon
+                widget: select
+                options: *ref_0
+              - name: label
+                label: Label
+                widget: string
+      - label: Categories
+        name: categories
+        file: content/$LOCALE/global-components/categories.json
         fields:
-          - { name: "title", label: "Title", widget: "string" }
-          - { name: "test-fields", label: "field objects test", widget: "string", default: "fields.title" }
-          - { name: "content", label: "Content", widget: "markdown" }
-     
-
-          
-
+          - name: categoriesList
+            label: Cards
+            widget: list
+            fields:
+              - name: icon
+                label: Icon
+                widget: select
+                options: *ref_0
+              - name: identity
+                label: Identity
+                widget: string
+                hint: Identity must be the same as backoffice category identity!
+              - name: label
+                label: Label
+                widget: string
+            label_singular: category
+            summary: '{{fields.label}}'
+            identity:
+              hint: Identity must be the same as backoffice category identity!
+      - label: Constants
+        name: constants
+        file: content/$LOCALE/global-components/constants.json
+        fields:
+          - name: bonusTypes
+            label: Bonus Types
+            widget: object
+            fields:
+              - name: '1'
+                label: Cash Bonus
+                widget: string
+              - name: '2'
+                label: Percentage Bonus
+                widget: string
+              - name: '3'
+                label: Freespin Bonus
+                widget: string
+              - name: '4'
+                label: Cashback Bonus
+                widget: string
+          - name: betStatuses
+            label: Bet Statuses
+            widget: object
+            fields:
+              - name: '1'
+                label: Pending
+                widget: string
+              - name: '2'
+                label: Won
+                widget: string
+              - name: '3'
+                label: Lost
+                widget: string
+              - name: '4'
+                label: Refund
+                widget: string
+              - name: '5'
+                label: Cash Out
+                widget: string
+          - name: invoiceStatuses
+            label: Invoice Statuses
+            widget: object
+            fields:
+              - name: '1'
+                label: Pending
+                widget: string
+              - name: '2'
+                label: Success
+                widget: string
+              - name: '3'
+                label: Rejected
+                widget: string
+              - name: '4'
+                label: Processing
+                widget: string
+          - name: invoiceTypes
+            label: Invoice Types
+            widget: object
+            fields:
+              - name: '1'
+                label: Deposit
+                widget: string
+              - name: '2'
+                label: Withdrawal
+                widget: string
+              - name: '3'
+                label: Balance correction
+                widget: string
+              - name: '4'
+                label: Purchase
+                widget: string
+              - name: '5'
+                label: Virtual payout
+                widget: string
+          - name: limitPeriods
+            label: Limit Periods
+            widget: object
+            fields:
+              - name: daily
+                label: Daily
+                widget: string
+              - name: weekly
+                label: Weekly
+                widget: string
+              - name: monthly
+                label: Monthly
+                widget: string
+              - name: 1Day
+                label: 1 Day
+                widget: string
+              - name: 3Days
+                label: 3 Days
+                widget: string
+              - name: 1Week
+                label: 1 Week
+                widget: string
+              - name: 1Month
+                label: 1 Month
+                widget: string
+              - name: 3Months
+                label: 3 Months
+                widget: string
+              - name: 6Months
+                label: 6 Months
+                widget: string
+              - name: 9Months
+                label: 9 Months
+                widget: string
+              - name: 1Year
+                label: 1 Year
+                widget: string
+              - name: forever
+                label: Forever
+                widget: string
+          - name: spinsResults
+            label: Spins Results
+            widget: object
+            fields:
+              - name: '1'
+                label: Win
+                widget: string
+              - name: '2'
+                label: Lose
+                widget: string
+          - name: bonusStatuses
+            label: Bonus Statuses
+            widget: object
+            fields:
+              - name: '1'
+                label: Issued
+                widget: string
+              - name: '2'
+                label: Active
+                widget: string
+              - name: '3'
+                label: Finished
+                widget: string
+              - name: '4'
+                label: Queued
+                widget: string
+      - label: Currency Popup
+        name: currencyPopup
+        file: content/$LOCALE/global-components/currency-popup.json
+        fields:
+          - name: tabs
+            label: Tabs
+            widget: object
+            fields:
+              - name: allTab
+                label: All Tab
+                widget: string
+              - name: cryptoTab
+                label: Crypto Tab
+                widget: string
+          - name: empty
+            label: Empty
+            widget: object
+            fields:
+              - name: title
+                label: Title
+                widget: string
+              - name: description
+                label: Description
+                widget: string
+      - label: Error
+        name: error
+        file: content/$LOCALE/global-components/error.json
+        fields:
+          - name: title
+            label: Title
+            widget: string
+          - name: description
+            label: Description
+            widget: string
+          - name: button
+            label: Button
+            widget: object
+            fields:
+              - name: label
+                label: Label
+                widget: string
+              - name: url
+                label: Url
+                widget: string
+      - label: Game Tags
+        name: gameTags
+        file: content/$LOCALE/global-components/game-tags.json
+        fields:
+          - name: gameTagsList
+            label: Cards
+            widget: list
+            fields:
+              - name: identity
+                label: Identity
+                widget: string
+              - name: label
+                label: Label
+                widget: string
+              - name: color
+                label: Color
+                widget: string
+              - name: icon
+                label: Icon
+                widget: select
+                options: *ref_0
+            label_singular: card
+            summary: '{{fields.title}}'
+      - label: Global Seo
+        name: globalSeo
+        file: content/$LOCALE/global-components/global-seo.json
+        fields:
+          - name: title
+            label: Title
+            widget: string
+          - name: description
+            label: Description
+            widget: string
+      - label: Originals
+        name: originals
+        file: content/$LOCALE/global-components/originals.json
+        fields:
+          - name: items
+            label: Cards
+            widget: list
+            fields:
+              - name: identity
+                label: Identity
+                widget: string
+            label_singular: card
+            summary: '{{fields.title}}'
+          - name: label
+            label: Label
+            widget: string
+          - name: icon
+            label: Icon
+            widget: select
+            options: *ref_0
+          - name: display
+            label: Display
+            widget: boolean
+      - label: Promotions
+        name: promotions
+        file: content/$LOCALE/global-components/promotions.json
+        fields:
+          - name: label
+            label: Label
+            widget: string
+          - name: icon
+            label: Icon
+            widget: select
+            options: *ref_0
+          - name: items
+            label: Cards
+            widget: list
+            fields:
+              - name: image
+                label: Image
+                widget: image
+              - name: title
+                label: Title
+                widget: string
+              - name: description
+                label: Description
+                widget: string
+              - name: buttonLabel
+                label: Button Label
+                widget: string
+              - name: link
+                label: Link
+                widget: object
+                fields:
+                  - name: label
+                    label: Label
+                    widget: string
+                  - name: url
+                    label: Url
+                    widget: string
+            label_singular: card
+            summary: '{{fields.title}}'
+      - label: Turbogames
+        name: turbogames
+        file: content/$LOCALE/global-components/turbogames.json
+        fields:
+          - name: isShow
+            label: Is Show
+            widget: boolean
+          - name: label
+            label: Label
+            widget: string
+          - name: icon
+            label: Icon
+            widget: select
+            options: *ref_0
+          - name: buttonLabel
+            label: Button Label
+            widget: string
+          - name: items
+            label: Cards
+            widget: list
+            fields:
+              - name: url
+                label: Url
+                widget: string
+              - name: image
+                label: Image
+                widget: image
+              - name: title
+                label: Title
+                widget: string
+              - name: categoryValue
+                label: Category Value
+                widget: string
+            label_singular: card
+            summary: '{{fields.title}}'
+          - name: showAll
+            label: Show All
+            widget: object
+            fields:
+              - name: label
+                label: Label
+                widget: string
+              - name: url
+                label: Url
+                widget: string

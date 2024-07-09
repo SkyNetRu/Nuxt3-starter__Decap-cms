@@ -1,0 +1,23 @@
+{
+  "title": "I bonus",
+  "historyLink": "Vedere la cronologia dei bonus",
+  "bonusCode": {
+    "title": "Hai un codice promozionale?",
+    "timerText": "fino al prossimo tentativo",
+    "buttonLabel": "Aggiungi",
+    "tryError": "Il codice bonus non è corretto. Riprova dopo 3 minuti"
+  },
+  "cashBonuses": {
+    "title": "Bonus in denaro",
+    "wagerHintLabel": "Requisiti di puntata",
+    "casinoWagerLabel": "Requisiti di puntata del casinò - x{wager} Bonus",
+    "sportsbookWagerLabel": "Requisiti di puntata per le scommesse sportive - x{wager} Bonus",
+    "waitingResult": "In attesa dei risultati delle scommesse sulle scommesse sportive."
+  },
+  "freeSpins": {
+    "title": "Giri gratis"
+  },
+  "seo": {
+    "title": "Bonus di Win.Casino"
+  }
+}

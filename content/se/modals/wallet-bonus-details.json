@@ -1,0 +1,19 @@
+{
+  "title": "Bonus Detaljer",
+  "readMore": "Läs mer om bonusar",
+  "infoLabels": {
+    "from": "Från:",
+    "to": "Att:",
+    "excluded": "Utesluta:",
+    "depositAmount": "Insättning:",
+    "bonusType": "Bonus Typ:",
+    "freeSpins": "gratisspel:",
+    "casinoWager": "Casino Wager:",
+    "sportsbookWager": "Sportsbook Wager:",
+    "maxWin": "Max Vinstsumma:",
+    "casinoBetSum": "Casino Bet:",
+    "sportsbookBetSum": "Sportsbook Bet:",
+    "providers": "Leverantörer:",
+    "games": "Spel:"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "tabLabel": "Sessões",
+  "sessionsStatuses": {
+    "current": "Atuais",
+    "active": "Ativas",
+    "closed": "Fechadas"
+  },
+  "tableColumns": {
+    "country": "País",
+    "userAgent": "Agente do usuário",
+    "createdAt": "Criado em",
+    "status": "Status"
+  }
+}

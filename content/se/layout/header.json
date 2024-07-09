@@ -1,0 +1,49 @@
+{
+  "loginButton": "Logga in",
+  "registrationButton": "Registo",
+  "search": {
+    "placeholder": "Sök i ditt spel",
+    "moreButton": "Ladda mer",
+    "emptyLabel": "Inget hittat",
+    "emptyText": "Försök att söka efter något annat",
+    "tryLabel": "Eller prova dessa populära spel:"
+  },
+  "depositButton": "Plånbok",
+  "balance": {
+    "tabs": {
+      "balanceTab": "Balans",
+      "currencyTab": "Valuta"
+    },
+    "fiatToggler": "Display i Fiat",
+    "items": {
+      "real": "Verklig",
+      "bonus": "Bonus",
+      "withdrawal": "Uttagbar",
+      "cashback": "Pengar tillbaka"
+    },
+    "wageringLabel": "Satsning:",
+    "cashbackDateLabel": "Ska utfärdas:"
+  },
+  "playRealButton": "Verkligt läge",
+  "pwa": {
+    "instructionLink": "/static/terms-and-conditions",
+    "mobile": {
+      "title": "Win.Casino - få ut gratis app",
+      "description": "Det tar inte upp plats på din telefon.",
+      "install": "Installera"
+    },
+    "desktop": {
+      "application": "Ansökan",
+      "forOs": "för {os}"
+    },
+    "tooltip": {
+      "title": "Win.Casino - få ut gratis app",
+      "description": "Det tar inte upp plats på din telefon."
+    }
+  },
+  "wagerTooltip": {
+    "notInWagering": "ㅤ",
+    "wagerMultiplierLessThan": "ㅤ",
+    "wagerMultiplierMoreThan": "ㅤ"
+  }
+}

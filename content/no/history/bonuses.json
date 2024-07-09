@@ -1,0 +1,17 @@
+{
+  "tabLabel": "Bonuser",
+  "cashBonusTab": "Kontantbonuser",
+  "freeSpinsTab": "Gratisspinn",
+  "tableColumns": {
+    "title": "Tittel",
+    "status": "Status",
+    "amount": "Beløp",
+    "progress": "Fremgang",
+    "created": "Dato",
+    "expired": "Gyldig til"
+  },
+  "empty": {
+    "title": "Det finnes ingen data ennå!",
+    "description": "Du har ikke mottatt bonuser ennå"
+  }
+}

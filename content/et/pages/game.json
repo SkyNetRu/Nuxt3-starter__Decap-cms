@@ -1,0 +1,19 @@
+{
+  "demoLabel": "Kas oled valmis mängima päriselt?",
+  "demoButton": "Jah, mängida päriselt",
+  "plug": {
+    "title": "Palun, logi sisse",
+    "description": "See mäng ei ole lõbusas režiimis saadaval, mängimiseks logi sisse või registreeru."
+  },
+  "seo": {
+    "title": "Win.Casino | Mängige üle 4000 sloti ja mängu"
+  },
+  "demoModal": {
+    "label": "Olete demorežiimis",
+    "description": "Kas olete valmis tõelisteks tehinguteks? Sukelduge reaalrežiimi ja suurendage panuseid.",
+    "demo": "Esita demo",
+    "real": "Mängi Real",
+    "deposit": "Deposiit",
+    "registration": "Registreerimine"
+  }
+}

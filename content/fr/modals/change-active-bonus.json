@@ -1,0 +1,6 @@
+{
+  "title": "Confirmer la mise à jour du bonus",
+  "description": "Le statut du bonus actuellement actif passe à Annulé. Êtes-vous sûr de vouloir activer ce bonus ?",
+  "confirmButton": "Oui",
+  "cancelButton": "Non"
+}

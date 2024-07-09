@@ -1,0 +1,18 @@
+{
+  "title": "Seznam poskytovatelů",
+  "providersLabel": "Poskytovatelé",
+  "gamesLabel": "hry",
+  "staticProvider": {
+    "identity": "turbo-games",
+    "button": "Do nebe"
+  },
+  "searchPlaceholder": "Vyhledejte svého poskytovatele",
+  "empty": {
+    "title": "Nic nalezeno",
+    "description": "Zkuste hledat něco jiného"
+  },
+  "sortLabel": "Seřazeno podle:",
+  "seo": {
+    "title": "Win.Casino | Seznam poskytovatelů"
+  }
+}

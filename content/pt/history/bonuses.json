@@ -1,0 +1,17 @@
+{
+  "tabLabel": "Bónus",
+  "cashBonusTab": "Bónus em dinheiro",
+  "freeSpinsTab": "Rodadas Grátis",
+  "tableColumns": {
+    "title": "Título",
+    "status": "Estado",
+    "amount": "Montante",
+    "progress": "Progresso",
+    "created": "Data",
+    "expired": "Válido até"
+  },
+  "empty": {
+    "title": "Ainda não existem dados!",
+    "description": "Ainda não recebeu bónus"
+  }
+}

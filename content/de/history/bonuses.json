@@ -1,0 +1,19 @@
+{
+  "empty": {
+    "icon": "empty-bonuses",
+    "title": "Es gibt noch keine Daten!",
+    "description": "Sie haben noch keine Boni erhalten"
+  },
+  "tabLabel": "Bonus",
+  "tabPosition": 2,
+  "tableColumns": {
+    "title": "Titelleiste",
+    "status": "Status",
+    "amount": "Menge",
+    "progress": "Fortschritt",
+    "created": "Datum",
+    "expired": "Gültig bis"
+  },
+  "cashBonusTab": "Bargeldbonus",
+  "freeSpinsTab": "Freirunden"
+}

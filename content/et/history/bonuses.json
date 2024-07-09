@@ -1,0 +1,17 @@
+{
+  "tabLabel": "Boonused",
+  "cashBonusTab": "Sularahaboonused",
+  "freeSpinsTab": "Tasuta keerutused",
+  "tableColumns": {
+    "title": "Pealkiri",
+    "status": "Staatus",
+    "amount": "Summa",
+    "progress": "Progress",
+    "created": "Kuupäev",
+    "expired": "Kehtiv kuni"
+  },
+  "empty": {
+    "title": "Andmeid veel ei ole!",
+    "description": "Te ei ole veel boonuseid saanud"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Únete a Win.Casino",
+  "agreeEmailLabel": "Acepto recibir bonos y correos electrónicos de marketing",
+  "agreeSmsLabel": "Recibir promociones por SMS",
+  "registrationButton": "Registrarse",
+  "loginButton": "¿Ya eres usuario? *Iniciar sesión",
+  "promo": {
+    "title": "Paquete de bienvenida",
+    "secondTitle": "3000 EUR + 200 FS",
+    "additionalTitle": "sobre deporte y casino",
+    "images": {
+      "mobile": {
+        "backgroundImage": "/img/uploads/registration-mobile.webp"
+      },
+      "desktop": {
+        "backgroundImage": "/img/uploads/eu-registration.webp"
+      }
+    },
+    "displayAdvantages": false
+  }
+}

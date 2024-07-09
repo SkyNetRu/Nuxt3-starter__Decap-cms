@@ -1,0 +1,13 @@
+{
+  "tabLabel": "Döndürme",
+  "tableColumns": {
+    "game": "Oyun",
+    "bet": "Bahis",
+    "result": "Sonuç",
+    "date": "Tarih"
+  },
+  "empty": {
+    "title": "Henüz veri yok!",
+    "description": "Henüz bahis oynamadınız"
+  }
+}

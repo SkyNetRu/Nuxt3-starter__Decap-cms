@@ -1,0 +1,58 @@
+{
+  "banner": {
+    "title": "#### Gioca e vinci su Win.Casino",
+    "button": {
+      "label": "Gioca ora"
+    },
+    "images": {
+      "backgroundImage": "/img/uploads/eu-banner-bg.webp",
+      "faceImage": "/img/uploads/eu-banner-person.webp"
+    }
+  },
+  "categories": {
+    "casino": {
+      "title": "Casinò",
+      "description": "Divertiti con oltre 4.000 giochi dimostrabilmente equi",
+      "button": {
+        "label": "Giri gratis",
+        "url": "/main"
+      },
+      "image": "/img/uploads/casino-new-1-.png"
+    },
+    "betting": {
+      "title": "Scommesse",
+      "description": "Le quote e i mercati più competitivi. Scommetti e vinci subito",
+      "button": {
+        "label": "Scommetti ora",
+        "url": "/betting"
+      },
+      "image": "/img/uploads/betting-new-1-.png"
+    },
+    "esports": {
+      "title": "Sport",
+      "description": "Le quote e i mercati più competitivi.",
+      "button": {
+        "label": "Scommetti ora",
+        "url": "/betting"
+      },
+      "image": "/img/uploads/esports-1.png"
+    }
+  },
+  "seo": {
+    "title": "Win.Casino | Casinò crittografico più sicuro",
+    "text": {
+      "visible": "##Win.Casino ti dà il benvenuto!",
+      "hidden": "## Libro sportivo con molto da offrire",
+      "button": "Mostra di più"
+    }
+  },
+  "aeroGroup": {
+    "label": "Giochi Win.Casino",
+    "collectionIdentity": "crash",
+    "game": {
+      "identity": "spribe-aviator",
+      "playButtonLabel": "Riproduci ora",
+      "demoButtonLabel": "Dimostrazione"
+    }
+  }
+}

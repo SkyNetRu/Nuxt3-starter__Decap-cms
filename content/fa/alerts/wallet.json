@@ -1,0 +1,26 @@
+{
+  "withdrawalProcessed": {
+    "title": "منتظر تایید!",
+    "description": "برداشت شما در حال پردازش است. ما در مدت کوتاهی درخواست شما را بررسی خواهیم کرد."
+  },
+  "userCanceledWithdrawal": {
+    "title": "موفق",
+    "description": "شما با موفقیت برداشت خود را لغو کردید."
+  },
+  "depositSuccess": {
+    "title": "موفق",
+    "description": "{sum} واریز شما در {date} با موفقیت انجام شد!"
+  },
+  "depositError": {
+    "title": "خطا",
+    "description": "متأسفیم، مشکلی در واریز {sum} شما از {date} رخ داد. لطفا دوباره تلاش کنید."
+  },
+  "withdrawSuccess": {
+    "title": "موفق",
+    "description": "برداشت {sum} شما در تاریخ {date} تایید شد!"
+  },
+  "withdrawError": {
+    "title": "برداشت لغو شد",
+    "description": "برداشت {sum} شما در {date} در حال لغو است. لطفاً برای اطلاعات بیشتر با تیم پشتیبانی ما تماس بگیرید."
+  }
+}

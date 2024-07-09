@@ -1,0 +1,16 @@
+{
+  "moreButton": "Visa alla",
+  "recommendedSubtitle": "De bästa spelen för dig",
+  "favorites": {
+    "label": "Favoriter"
+  },
+  "providers": {
+    "label": "Leverantörer"
+  },
+  "latestWinners": {
+    "label": "Senaste vinnare"
+  },
+  "recentlyPlayed": {
+    "label": "Nyligen spelade"
+  }
+}

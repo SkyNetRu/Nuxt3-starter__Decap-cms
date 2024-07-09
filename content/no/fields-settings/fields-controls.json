@@ -1,0 +1,155 @@
+{
+  "password": {
+    "label": "Passord",
+    "placeholder": "Skriv inn passordet ditt"
+  },
+  "currentPassword": {
+    "label": "Gjeldende passord",
+    "placeholder": "Skriv inn ditt nåværende passord"
+  },
+  "newPassword": {
+    "label": "Nytt passord",
+    "placeholder": "Skriv inn nytt passord"
+  },
+  "repeatNewPassword": {
+    "label": "Nytt passord på nytt",
+    "placeholder": "Skriv inn nytt passord på nytt"
+  },
+  "firstName": {
+    "label": "Fornavn",
+    "placeholder": "Skriv inn fornavn"
+  },
+  "lastName": {
+    "label": "Etternavn",
+    "placeholder": "Skriv inn etternavn"
+  },
+  "nationality": {
+    "label": "Nasjonalitet",
+    "placeholder": "Skriv inn nasjonalitet"
+  },
+  "nickname": {
+    "label": "Kallenavn",
+    "placeholder": "Skriv inn kallenavnet ditt"
+  },
+  "gender": {
+    "label": "Kjønn",
+    "maleLabel": "Mann",
+    "femaleLabel": "Kvinnelig",
+    "otherLabel": "Annet"
+  },
+  "city": {
+    "label": "By",
+    "placeholder": "Skriv inn byen din"
+  },
+  "address": {
+    "label": "Adresse",
+    "placeholder": "Skriv inn adressen din"
+  },
+  "additionalAddress": {
+    "label": "Tilleggsadresse",
+    "placeholder": "Skriv inn tilleggsadressen din"
+  },
+  "postalCode": {
+    "label": "Postnummer",
+    "placeholder": "Skriv inn postnummer"
+  },
+  "timeZone": {
+    "label": "Tidssone",
+    "placeholder": "Velg tidssone"
+  },
+  "profession": {
+    "label": "Yrke",
+    "placeholder": "Skriv inn yrke"
+  },
+  "language": {
+    "label": "Språk",
+    "placeholder": "Skriv inn språket ditt"
+  },
+  "bonusCode": {
+    "label": "Kode (valgfritt)",
+    "placeholder": "Skriv inn kode"
+  },
+  "securityQuestion": {
+    "label": "Sikkerhetsspørsmål",
+    "placeholder": "Skriv inn sikkerhetsspørsmålet ditt"
+  },
+  "securityAnswer": {
+    "label": "Sikkerhetssvar",
+    "placeholder": "Skriv inn et svar på sikkerhetsspørsmålet ditt"
+  },
+  "email": {
+    "label": "E-postadresse",
+    "placeholder": "Skriv inn e-postadressen din"
+  },
+  "country": {
+    "label": "Ditt land",
+    "placeholder": "Velg ditt land"
+  },
+  "currency": {
+    "label": "Valuta",
+    "placeholder": "Velg din valuta"
+  },
+  "agreements": {
+    "label": "Jeg godtar <a href=\"/static/terms-and-conditions\" target=\"_blank\" >Vilkår og betingelser</a> og <a href=\"/static/privacy-policy\" target=\"_blank\" >Privacy Policy</a>."
+  },
+  "receiveEmailPromo": {
+    "label": "Send kampanjer via e-post"
+  },
+  "receiveSmsPromo": {
+    "label": "Send kampanjer på SMS"
+  },
+  "receiveBonus": {
+    "label": "Motta bonuser"
+  },
+  "phone": {
+    "label": "Mobiltelefon",
+    "placeholder": "Skriv inn telefonnummer"
+  },
+  "birthdate": {
+    "label": "Fødselsdato",
+    "placeholderDay": "Dag",
+    "placeholderMonth": "Måned",
+    "placeholderYear": "Årstall"
+  },
+  "placeOfBirth": {
+    "label": "Fødested",
+    "placeholder": "Skriv inn fødestedet ditt"
+  },
+  "personalIdNumber": {
+    "label": "Personlig ID-nummer",
+    "placeholder": "Identitetsreferansenummer (hvis tilgjengelig)"
+  },
+  "message": {
+    "label": "Tekst",
+    "placeholder": "Skriv inn meldingen din"
+  },
+  "wallet_id": {
+    "label": "Adresse til lommeboken",
+    "placeholder": "Skriv inn adressen til lommeboken"
+  },
+  "card_number": {
+    "label": "Kortnummer",
+    "placeholder": "Skriv inn kortnummer"
+  },
+  "card_holder": {
+    "label": "Kortinnehaver",
+    "placeholder": "Skriv inn kredittkortinnehaverens navn"
+  },
+  "exp_month": {
+    "label": "Utløpsmåned",
+    "placeholder": "Angi utløpsmåned"
+  },
+  "exp_year": {
+    "label": "Utløpsår",
+    "placeholder": "Angi utløpsår"
+  },
+  "networkSelect": {
+    "label": "Velg nettverk",
+    "placeholder": "Nettverk",
+    "info": "For å fortsette,<br>velg nettverk 👆👆👆👆"
+  },
+  "age": {
+    "label": "Alder",
+    "placeholder": "Skriv inn alderen din"
+  }
+}

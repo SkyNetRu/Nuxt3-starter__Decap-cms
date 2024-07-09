@@ -1,0 +1,26 @@
+{
+  "withdrawalProcessed": {
+    "title": "Afventer!",
+    "description": "Din udbetaling er ved at blive behandlet. Vi tjekker din anmodning om et øjeblik."
+  },
+  "userCanceledWithdrawal": {
+    "title": "Succes",
+    "description": "Du har annulleret din udbetaling med succes."
+  },
+  "depositSuccess": {
+    "title": "Succes",
+    "description": "Din {sum}-indbetaling foretaget den {date} er en succes!"
+  },
+  "depositError": {
+    "title": "Fejl",
+    "description": "Beklager, men noget gik galt med din {sum}-indbetaling fra {date}. Prøv venligst igen."
+  },
+  "withdrawSuccess": {
+    "title": "Succes",
+    "description": "Din {sum}-udbetaling fra {date} blev godkendt!"
+  },
+  "withdrawError": {
+    "title": "Annulleret udbetaling",
+    "description": "Din {sum}-udbetaling fra {date} er ved at blive annulleret. Kontakt venligst vores supportteam for mere information."
+  }
+}

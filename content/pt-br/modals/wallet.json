@@ -1,0 +1,42 @@
+{
+  "balanceLabel": "Saldo",
+  "methodMin": "min",
+  "percentageMax": "max",
+  "tabs": {
+    "deposit": "Depósito",
+    "withdraw": "Retirar"
+  },
+  "notAvailableText": "Desculpe, não há métodos de pagamento disponíveis",
+  "deposit": {
+    "title": "Depósito",
+    "sumLabel": "Soma do depósito",
+    "minSum": "Depósito mínimo:",
+    "addressTitle": "Endereço",
+    "addressInputLabel": "Envie qualquer valor para:",
+    "addressDescription": "Este é o seu endereço pessoal para depósitos. Seus fundos estarão disponíveis assim que passarem pelas confirmações necessárias.",
+    "bonuses": {
+      "title": "Escolheu um Bônus",
+      "infoDescription": "Assim que seu depósito for creditado, ele ativará um Bônus selecionado. Se você já fez um depósito, não altere o bônus selecionado até que o depósito seja creditado no saldo do jogo.",
+      "minDeposit": "Min. Depósito:",
+      "deposit": "Depósito:",
+      "maxDeposit": "Max. Depósito:",
+      "moreInfo": "Mais info"
+    },
+    "togglerLabel": "Tenho Código bônus",
+    "addBonusCode": "Adicionar",
+    "cancelBonusCode": "Cancelar",
+    "depositButton": "Depósito",
+    "limit": {
+      "title": "Você atingiu seu limite de depósito",
+      "description": "Você configurou seu limite de depósito:",
+      "moreInfo": "Mais info"
+    }
+  },
+  "withdraw": {
+    "title": "Desistência",
+    "withdrawLabel": "Sacável",
+    "sumLabel": "Soma de retirada",
+    "minSum": "Retirada mínima:",
+    "withdrawButton": "Retirar"
+  }
+}

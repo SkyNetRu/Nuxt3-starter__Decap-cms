@@ -1,0 +1,38 @@
+{
+  "title": "Providers",
+  "providersLabel": "Providers",
+  "gamesLabel": "games",
+  "defaultProviderLogo": "/img/uploads/provider-placeholder.png",
+  "staticProvider": {
+    "identity": "turbo-games",
+    "bgImage": "/img/uploads/sample.png",
+    "button": "To the Sky"
+  },
+  "searchPlaceholder": "Search your provider",
+  "empty": {
+    "image": "/img/uploads/search-bg.png",
+    "title": "Nothing found",
+    "description": "Try searching for something else"
+  },
+  "sortLabel": "Sort by:",
+  "sortOptions": [
+    {
+      "label": "Most popular",
+      "sortBy": "order",
+      "sortOrder": "asc"
+    },
+    {
+      "label": "A-Z",
+      "sortBy": "name",
+      "sortOrder": "asc"
+    },
+    {
+      "label": "Z-A",
+      "sortBy": "name",
+      "sortOrder": "desc"
+    }
+  ],
+  "seo": {
+    "title": "Win.Casino | Providers list"
+  }
+}

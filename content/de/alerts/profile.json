@@ -1,0 +1,32 @@
+{
+  "sentResetLink": {
+    "type": "done",
+    "title": "Erfolg",
+    "description": "Ein Link zum Zurücksetzen des Passworts wurde gesendet. Klicken Sie auf den Link in der E-Mail, um ein neues Passwort zu erstellen."
+  },
+  "invalidResetCode": {
+    "type": "error",
+    "title": "Fehlermeldung",
+    "description": "Entschuldigung, aber Ihr Link zum Zurücksetzen des Passworts ist ungültig. Bitte fordern Sie ein weiteres Zurücksetzen des Passworts an."
+  },
+  "passwordChanged": {
+    "type": "done",
+    "title": "Erfolg",
+    "description": "Sie haben Ihr Passwort erfolgreich geändert."
+  },
+  "accountBlocked": {
+    "type": "error",
+    "title": "Fehlermeldung",
+    "description": "Entschuldigung, aber Ihr Konto ist gesperrt. Bitte kontaktieren Sie unser Support-Team für weitere Informationen."
+  },
+  "successRegistration": {
+    "type": "done",
+    "title": "Willkommen",
+    "description": "Sie wurden erfolgreich registriert!"
+  },
+  "resentVerification": {
+    "title": "Erfolg",
+    "description": "Wir haben eine E-Mail mit dem Bestätigungslink an Ihre E-Mail-Adresse gesendet.",
+    "type": "done"
+  }
+}

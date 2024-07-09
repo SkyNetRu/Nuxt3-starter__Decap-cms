@@ -1,0 +1,16 @@
+{
+  "pageUrl": "weekly-cashback",
+  "termsLabel": "Bonus Koşulları:",
+  "termsContent": "**1.** Her hafta, oynanan bahisler ile bu bahislere yapılan ödemeler arasındaki toplam farkı hesaplıyoruz ve para iadesini ödüyoruz.",
+  "button": {
+    "label": "Bonus alın"
+  },
+  "backgroundColor": "gray",
+  "subtitle": "Her Salı %15'e varan nakit iadenizi alın",
+  "title": "Haftalık Para İadesi",
+  "image": "https://win.city/img/uploads/weekly-big.webp",
+  "description": "Haftalık nakit para iademiz sayesinde her Salı, yatırdığınız paranın bir kısmını geri alabilirsiniz. Seninkini al",
+  "seo": {
+    "title": "Win.Casino | Haftalık Cashback"
+  }
+}

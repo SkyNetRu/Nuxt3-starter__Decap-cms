@@ -1,0 +1,32 @@
+{
+  "bonusCodeIncorrect": {
+    "title": "Przepraszamy, ale wprowadzono nieprawidłowy kod bonusowy."
+  },
+  "bonusCodeNotAvailable": {
+    "title": "Przepraszamy, ale bonus z wprowadzonym kodem bonusowym nie jest dostępny."
+  },
+  "bonusIssued": {
+    "title": "Wydano",
+    "description": "Bonus {amount} został wydany"
+  },
+  "bonusActivated": {
+    "title": "Aktywny",
+    "description": "Bonus {amount} został aktywowany"
+  },
+  "bonusPlayed": {
+    "title": "Zakończono",
+    "description": "Bonus {amount} został pomyślnie obrócony. Twoje wygrane są już na Twoim prawdziwym saldzie"
+  },
+  "bonusCanceled": {
+    "title": "Anulowany",
+    "description": "Bonus {amount} został anulowany."
+  },
+  "bonusExpired": {
+    "title": "Wygasł",
+    "description": "Bonus {amount} wygasł"
+  },
+  "bonusLost": {
+    "title": "Przegrana",
+    "description": "Bonus {amount} nie został obrócony."
+  }
+}

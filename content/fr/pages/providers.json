@@ -1,0 +1,18 @@
+{
+  "title": "Liste des fournisseurs",
+  "providersLabel": "Prestataires",
+  "gamesLabel": "jeux",
+  "staticProvider": {
+    "identity": "turbo-games",
+    "button": "Vers le Ciel"
+  },
+  "searchPlaceholder": "Recherchez votre fournisseur",
+  "empty": {
+    "title": "Rien trouvé",
+    "description": "Essayez de chercher autre chose"
+  },
+  "sortLabel": "Trier par:",
+  "seo": {
+    "title": "Win.Casino | Liste des fournisseurs"
+  }
+}

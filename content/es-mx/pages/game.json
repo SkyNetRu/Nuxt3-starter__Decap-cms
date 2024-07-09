@@ -1,0 +1,19 @@
+{
+  "demoLabel": "¿Listo para jugar de verdad?",
+  "demoButton": "Sí, juega de verdad",
+  "plug": {
+    "title": "Por favor, inicia sesión",
+    "description": "Este juego no está disponible en el modo diversión, por favor inicia sesión o regístrate para jugar."
+  },
+  "seo": {
+    "title": "Win.Casino | Juega a más de 3000 tragaperras y juegos"
+  },
+  "demoModal": {
+    "label": "Estás en modo de demostración",
+    "description": "¿Listo para las ofertas reales? Sumérgete en el modo Real y sube las apuestas.",
+    "demo": "Jugar demo",
+    "real": "Juega de verdad",
+    "deposit": "Depósito",
+    "registration": "Registro"
+  }
+}

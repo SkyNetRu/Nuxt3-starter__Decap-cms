@@ -1,0 +1,19 @@
+{
+  "demoLabel": "Gotowy na prawdziwą grę?",
+  "demoButton": "Tak, grać na poważnie",
+  "plug": {
+    "title": "Proszę się zalogować",
+    "description": "Ta gra nie jest dostępna w trybie zabawy, zaloguj się lub zarejestruj, aby zagrać."
+  },
+  "seo": {
+    "title": "Win.Casino | Zagraj w ponad 4 000 automatów i gier"
+  },
+  "demoModal": {
+    "label": "Jesteś w trybie demonstracyjnym",
+    "description": "Gotowy na prawdziwe okazje? Zanurz się w trybie rzeczywistym i podnieś stawkę.",
+    "demo": "Grać w demo",
+    "real": "Graj naprawdę",
+    "deposit": "Depozyt",
+    "registration": "Rejestracja"
+  }
+}

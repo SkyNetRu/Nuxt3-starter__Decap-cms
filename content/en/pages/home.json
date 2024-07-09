@@ -1,0 +1,70 @@
+{
+  "banner": {
+    "images": {
+      "backgroundImage": "/img/uploads/back-bg.webp",
+      "faceImage": "/img/uploads/home-face-desktop.png"
+    },
+    "title": "#### Play and win at Win.Casino",
+    "button": {
+      "label": "Play now",
+      "icon": "cherry"
+    }
+  },
+  "categories": {
+    "casino": {
+      "image": "/img/uploads/casino-new-1-.png",
+      "title": "Casino",
+      "description": "Enjoy more than 4 000+ provably fair games",
+      "button": {
+        "label": "Free Spins",
+        "url": "/main"
+      }
+    },
+    "betting": {
+      "image": "/img/uploads/betting-new-1-.png",
+      "title": "Betting",
+      "description": "The most competitive odds and markets. Bet and win right now",
+      "button": {
+        "label": "Bet Now",
+        "url": "/betting"
+      }
+    },
+    "esports": {
+      "button": {
+        "label": "Bet Now",
+        "url": "/betting"
+      },
+      "title": "Esports",
+      "description": "Great markets and events in Esport",
+      "image": "/img/uploads/esports-1.png"
+    }
+  },
+  "aeroGroup": {
+    "images": {
+      "mobile": {
+        "backgroundImage": "/img/uploads/aero-group-mobile-bg.png"
+      },
+      "desktop": {
+        "backgroundImage": "/img/uploads/aero-group-desktop-bg.png"
+      }
+    },
+    "game": {
+      "identity": "spribe-aviator",
+      "image": "/img/uploads/aero-group-game-image.png",
+      "playButtonLabel": "Play now",
+      "demoButtonLabel": "Demo"
+    },
+    "collectionIdentity": "crash",
+    "label": "Win.Casino Games",
+    "display": true
+  },
+  "seo": {
+    "title": "Win.Casino | Safest crypto casino",
+    "description": "",
+    "text": {
+      "visible": "## Win.Casino welcomes you!",
+      "hidden": "## Sports-book with a lot to offer",
+      "button": "Show more"
+    }
+  }
+}

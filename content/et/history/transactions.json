@@ -1,0 +1,27 @@
+{
+  "tabLabel": "Tehingud",
+  "dateLabel": "Kuupäev alates / kuni:",
+  "allFilterOption": "Kõik",
+  "typeFilterLabel": "Tüüp:",
+  "currencyLabel": "Valuuta:",
+  "statusFilterLabel": "Valuuta: Staatus:",
+  "tableColumns": {
+    "date": "Kuupäev",
+    "type": "Tüüp",
+    "method": "Makseviis",
+    "status": "Staatus",
+    "sum": "Summa"
+  },
+  "cancelPaymentButton": "Makse tühistamine",
+  "empty": {
+    "title": "Andmeid veel ei ole!",
+    "description": "Sul ei ole veel ühtegi edukat tehingut."
+  },
+  "securityCode": {
+    "getCodeButton": "Hangi kood",
+    "codeLabel": "Salakood:",
+    "codeTooltip": "Salakood kopeeritud",
+    "clientLabel": "Kliendi ID:",
+    "clientTooltip": "Kliendi ID on kopeeritud"
+  }
+}

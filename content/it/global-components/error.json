@@ -1,0 +1,8 @@
+{
+  "title": "Qualcosa è andato storto",
+  "description": "La pagina a cui si sta cercando di accedere non esiste o è stata spostata. Provi a tornare alla nostra homepage.",
+  "button": {
+    "label": "Homepage",
+    "url": "/"
+  }
+}

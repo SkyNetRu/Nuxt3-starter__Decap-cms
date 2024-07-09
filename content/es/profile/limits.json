@@ -1,0 +1,41 @@
+{
+  "title": "Límites",
+  "addButtonLabel": "Añadir nuevo",
+  "editButtonLabel": "Editar límites",
+  "doneButtonLabel": "Edición finalizada",
+  "setButtonLabel": "Establecer",
+  "modeToggle": "Modo avanzado",
+  "titleTooltip": "Este ajuste limita la cantidad que puede depositar por día, semana o mes.",
+  "availableLimitSum": "{balance} de {amount} {currency} restante",
+  "activeStatusLabel": "Activo hasta {date}",
+  "pendingStatusLabel": "Pendiente hasta {date}",
+  "statusPendingTimerLabel": "hasta activar",
+  "statusActiveTimerLabel": "hasta reiniciar",
+  "timerAlmostDoneLabel": "Casi hecho",
+  "deposit": {
+    "label": "Límites de depósito",
+    "hint": "Esta opción limita la cantidad que puede depositar por día, semana o mes."
+  },
+  "loss": {
+    "label": "Límites de pérdidas",
+    "hint": "Esta opción limita la cantidad que puede depositar por día, semana o mes."
+  },
+  "bet": {
+    "label": "Límites de apuesta",
+    "hint": "Esta opción limita la cantidad que puede depositar por día, semana o mes."
+  },
+  "coolingOff": {
+    "label": "Enfriamiento",
+    "selectLabel": "Ninguno",
+    "hint": "La restricción tiene efecto instantáneo. No podrás hacer depósitos ni jugar durante el periodo especificado, también quedarás excluido de todas las ofertas publicitarias.",
+    "activeStatusLabel": "Activo hasta {date}",
+    "pendingStatusLabel": "Pendiente. Se activará el {date}",
+    "deleteConfirmTitle": "Actualización del límite con éxito",
+    "deleteConfirmDescription": "El límite será cancelado después de 24 horas"
+  },
+  "selfExclusion": {
+    "label": "Autoexclusión",
+    "selectLabel": "Ninguna",
+    "hint": "Puede establecer un límite de autoexclusión para un periodo de tiempo definido o indefinido. La restricción entra en vigor instantáneamente. Durante el periodo establecido no podrá acceder a su cuenta. Para ser excluido de jugar en nuestro sitio por un periodo de tiempo indefinido, por favor, contacte con nuestro equipo de soporte a través de [live-chat](#)"
+  }
+}

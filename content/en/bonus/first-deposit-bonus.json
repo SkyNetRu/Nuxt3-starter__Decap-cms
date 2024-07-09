@@ -1,0 +1,16 @@
+{
+  "pageUrl": "first-deposit-bonus",
+  "termsLabel": "Bonus Terms:",
+  "termsContent": "**Casino first deposit bonus terms & conditions:**",
+  "button": {
+    "label": "Get bonus"
+  },
+  "backgroundColor": "red",
+  "subtitle": "Get your 100% bonus up to 500 EUR",
+  "title": "1st deposit bonus",
+  "image": "/img/uploads/1-deposit-new.png",
+  "description": "Win.Casino greeting you with a huge first bonus! As you’re new to us, we’re offering you a 100% bonus up to 500 EURon your first deposit. ",
+  "seo": {
+    "title": "Win.Casino | First deposit bonus"
+  }
+}

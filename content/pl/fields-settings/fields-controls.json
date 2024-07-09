@@ -1,0 +1,155 @@
+{
+  "password": {
+    "label": "Hasło",
+    "placeholder": "Wprowadź hasło"
+  },
+  "currentPassword": {
+    "label": "Aktualne hasło",
+    "placeholder": "Wprowadź aktualne hasło"
+  },
+  "newPassword": {
+    "label": "Nowe hasło",
+    "placeholder": "Wprowadź nowe hasło"
+  },
+  "repeatNewPassword": {
+    "label": "Ponownie wprowadź nowe hasło",
+    "placeholder": "Wprowadź ponownie nowe hasło"
+  },
+  "firstName": {
+    "label": "Imię",
+    "placeholder": "Wprowadź imię"
+  },
+  "lastName": {
+    "label": "Nazwisko",
+    "placeholder": "Wprowadź nazwisko"
+  },
+  "nationality": {
+    "label": "Narodowość",
+    "placeholder": "Wpisz swoją narodowość"
+  },
+  "nickname": {
+    "label": "Pseudonim",
+    "placeholder": "Wpisz swój pseudonim"
+  },
+  "gender": {
+    "label": "Płeć",
+    "maleLabel": "Mężczyzna",
+    "femaleLabel": "Kobieta",
+    "otherLabel": "Inne"
+  },
+  "city": {
+    "label": "Miasto",
+    "placeholder": "Wpisz swoje miasto"
+  },
+  "address": {
+    "label": "Adres",
+    "placeholder": "Wpisz swój adres"
+  },
+  "additionalAddress": {
+    "label": "Dodatkowy adres",
+    "placeholder": "Wprowadź dodatkowy adres"
+  },
+  "postalCode": {
+    "label": "Kod pocztowy",
+    "placeholder": "Wprowadź kod pocztowy"
+  },
+  "timeZone": {
+    "label": "Strefa czasowa",
+    "placeholder": "Wybierz strefę czasową"
+  },
+  "profession": {
+    "label": "Zawód",
+    "placeholder": "Wprowadź swój zawód"
+  },
+  "language": {
+    "label": "Język",
+    "placeholder": "Wprowadź swój język"
+  },
+  "bonusCode": {
+    "label": "Kod (opcjonalnie)",
+    "placeholder": "Wprowadź kod"
+  },
+  "securityQuestion": {
+    "label": "Pytanie zabezpieczające",
+    "placeholder": "Wprowadź pytanie zabezpieczające"
+  },
+  "securityAnswer": {
+    "label": "Odpowiedź bezpieczeństwa",
+    "placeholder": "Wprowadź odpowiedź na pytanie bezpieczeństwa"
+  },
+  "email": {
+    "label": "Adres e-mail",
+    "placeholder": "Wprowadź swój adres e-mail"
+  },
+  "country": {
+    "label": "Kraj",
+    "placeholder": "Wybierz swój kraj"
+  },
+  "currency": {
+    "label": "Waluta",
+    "placeholder": "Wybierz walutę"
+  },
+  "agreements": {
+    "label": "Akceptuję <a href=\"/static/terms-and-conditions\" target=\"_blank\">Zasady i warunki</a> oraz <a href=\"/static/privacy-policy\" target=\"_blank\">Politykę prywatności</a>."
+  },
+  "receiveEmailPromo": {
+    "label": "Wysyłanie promocji przez e-mail"
+  },
+  "receiveSmsPromo": {
+    "label": "Wysyłanie promocji przez SMS"
+  },
+  "receiveBonus": {
+    "label": "Otrzymuj bonusy"
+  },
+  "phone": {
+    "label": "Telefon komórkowy",
+    "placeholder": "Wprowadź numer telefonu"
+  },
+  "birthdate": {
+    "label": "Data urodzenia",
+    "placeholderDay": "Dzień",
+    "placeholderMonth": "Miesiąc",
+    "placeholderYear": "Rok"
+  },
+  "placeOfBirth": {
+    "label": "Miejsce urodzenia",
+    "placeholder": "Wprowadź swoje miejsce urodzenia"
+  },
+  "personalIdNumber": {
+    "label": "Numer dowodu osobistego",
+    "placeholder": "Numer referencyjny tożsamości (jeśli jest dostępny)"
+  },
+  "message": {
+    "label": "Tekst",
+    "placeholder": "Wprowadź wiadomość"
+  },
+  "wallet_id": {
+    "label": "Adres portfela",
+    "placeholder": "Wprowadź adres portfela"
+  },
+  "card_number": {
+    "label": "Numer karty",
+    "placeholder": "Wprowadź numer karty"
+  },
+  "card_holder": {
+    "label": "Posiadacz karty",
+    "placeholder": "Wprowadź nazwę posiadacza karty kredytowej"
+  },
+  "exp_month": {
+    "label": "Miesiąc wygaśnięcia",
+    "placeholder": "Wprowadź miesiąc wygaśnięcia"
+  },
+  "exp_year": {
+    "label": "Rok wygaśnięcia",
+    "placeholder": "Wprowadź rok wygaśnięcia"
+  },
+  "networkSelect": {
+    "label": "Wybierz sieć",
+    "placeholder": "Sieć",
+    "info": "Aby kontynuować,<br>wybierz sieć 👆👆👆"
+  },
+  "age": {
+    "label": "Wiek",
+    "placeholder": "Wpisz swój wiek"
+  }
+}

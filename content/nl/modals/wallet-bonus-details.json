@@ -1,0 +1,19 @@
+{
+  "title": "Bonus Details",
+  "readMore": "Lees meer over bonussen",
+  "infoLabels": {
+    "from": "Van:",
+    "to": "Naar:",
+    "excluded": "Buitengesloten:",
+    "depositAmount": "Storting:",
+    "bonusType": "Bonus Type:",
+    "freeSpins": "Free Spins:",
+    "casinoWager": "Casino Wager:",
+    "sportsbookWager": "Sportsbook Wager:",
+    "maxWin": "Max Win Som:",
+    "casinoBetSum": "Casino Bet:",
+    "sportsbookBetSum": "Sportsbook Weddenschap:",
+    "providers": "Aanbieders:",
+    "games": "Spel:"
+  }
+}

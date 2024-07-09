@@ -1,0 +1,19 @@
+{
+  "demoLabel": "Klar til å spille på ordentlig?",
+  "demoButton": "Ja, spill på ekte",
+  "plug": {
+    "title": "Vennligst logg inn",
+    "description": "Dette spillet er ikke tilgjengelig i moro-modus, vennligst logg inn eller registrer deg for å spille."
+  },
+  "seo": {
+    "title": "Win.Casino | Spill over 4 000 spilleautomater og spill"
+  },
+  "demoModal": {
+    "label": "Du er i demomodus",
+    "description": "Klar for de virkelige tilbudene? Dykk inn i Real-modus og opp innsatsen.",
+    "demo": "Spill demo",
+    "real": "Spill ekte",
+    "deposit": "Innskudd",
+    "registration": "Registrering"
+  }
+}

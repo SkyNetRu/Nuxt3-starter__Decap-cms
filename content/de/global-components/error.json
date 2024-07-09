@@ -1,0 +1,8 @@
+{
+  "title": "Etwas ist schief gelaufen",
+  "description": "Die Seite, auf die Sie zugreifen möchten, existiert nicht oder wurde verschoben. Versuchen Sie, auf unsere Homepage zurückzukehren.",
+  "button": {
+    "label": "Homepage",
+    "url": "/"
+  }
+}

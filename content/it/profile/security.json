@@ -1,0 +1,35 @@
+{
+  "title": "Sicurezza e verifica",
+  "documents": {
+    "hideText": "Nascondi testo",
+    "moreInfo": "Ulteriori informazioni",
+    "uploadPlaceholder": "Selezionare un file o trascinarlo qui",
+    "uploadHint": "Sono accettati i seguenti tipi di file: .png, .jpg, .pdf. Dimensione massima 2MB.",
+    "uploadButton": "Carica file",
+    "uploadMore": "Carica altri file",
+    "identity": {
+      "label": "Identità",
+      "description": "Caricate il vostro documento d'identità. Tutti i documenti devono essere posati su una superficie piana con tutti e 4 gli angoli all'interno della cornice. Tutte le informazioni devono essere chiare e identificabili. Caricare anche un selfie con il passaporto/la carta d'identità in mano.",
+      "identity_front": "Prova d'identità (fronte)",
+      "identity_back": "Prova d'identità (retro)",
+      "identity_selfie_id": "Selfie e documento d'identità"
+    },
+    "address": {
+      "label": "Indirizzo",
+      "description": "Caricare la bolletta della luce, la bolletta telefonica o l'estratto conto bancario in cui è riportato il proprio nome.",
+      "address": "Prova di indirizzo"
+    },
+    "payment": {
+      "label": "Pagamento",
+      "description": "Caricare la schermata o la foto della banca online, dell'estratto conto bancario, della pagina Skrill, ecc.",
+      "payment": "Prova di pagamento"
+    }
+  },
+  "password": {
+    "label": "Modifica della password",
+    "saveButton": "Salva le modifiche"
+  },
+  "seo": {
+    "title": "Win.Casino | Sicurezza e verifica"
+  }
+}

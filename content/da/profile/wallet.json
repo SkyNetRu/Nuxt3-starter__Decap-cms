@@ -1,0 +1,16 @@
+{
+  "title": "Pung",
+  "addButton": "Tilføj valuta",
+  "changeButton": "Brug valuta",
+  "hideButton": "Skjul valuta",
+  "depositButton": "Indbetaling",
+  "hideZeroBalances": "Hide zero balances",
+  "zeroBalance": {
+    "imgPath": "/img/uploads/empty.png",
+    "title": "There are no funds on your balance"
+  },
+  "withdrawButton": "Udbetaling",
+  "seo": {
+    "title": "Win.Casino | Tegnebog"
+  }
+}

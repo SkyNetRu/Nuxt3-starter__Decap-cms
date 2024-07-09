@@ -1,0 +1,46 @@
+{
+  "label": "Win.Casino promotions",
+  "icon": "bonuses",
+  "items": [
+    {
+      "image": "/img/uploads/promotion-1.png",
+      "title": "Welcome pack",
+      "description": "3 000 EUR + 300 FS",
+      "buttonLabel": "Get bonus",
+      "link": {
+        "label": "Learn more",
+        "url": "/welcome-package"
+      }
+    },
+    {
+      "image": "/img/uploads/promotion-2.png",
+      "title": "Reload for sport and casino",
+      "description": "Get your money back",
+      "buttonLabel": "Get bonus",
+      "link": {
+        "label": "Learn more",
+        "url": "/bonus/cashback"
+      }
+    },
+    {
+      "image": "/img/uploads/promotion-3.png",
+      "title": "Weekly Cashback",
+      "description": "Just play and get 20% cashback",
+      "buttonLabel": "Get bonus",
+      "link": {
+        "label": "Learn more",
+        "url": "/bonus/weekly-cashback"
+      }
+    },
+    {
+      "image": "/img/uploads/promotion-4.png",
+      "title": "Great sport bonuses",
+      "description": "every week",
+      "buttonLabel": "Get bonus",
+      "link": {
+        "label": "Learn more",
+        "url": "/betting"
+      }
+    }
+  ]
+}

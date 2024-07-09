@@ -1,0 +1,49 @@
+{
+  "loginButton": "Logi sisse",
+  "registrationButton": "Registo",
+  "search": {
+    "placeholder": "Otsige oma mängu",
+    "moreButton": "Lae rohkem",
+    "emptyLabel": "Ei leitud midagi",
+    "emptyText": "Proovige otsida midagi muud",
+    "tryLabel": "Või proovige neid populaarseid mänge:"
+  },
+  "depositButton": "Rahakott",
+  "balance": {
+    "tabs": {
+      "balanceTab": "Tasakaal",
+      "currencyTab": "Valuuta"
+    },
+    "fiatToggler": "Ekraan Fiati",
+    "items": {
+      "real": "Päris",
+      "bonus": "Boonus",
+      "withdrawal": "Väljavõetav",
+      "cashback": "Raha tagasi"
+    },
+    "wageringLabel": "Panustamine:",
+    "cashbackDateLabel": "Välja antakse:"
+  },
+  "playRealButton": "Päris režiim",
+  "pwa": {
+    "instructionLink": "/static/terms-and-conditions",
+    "mobile": {
+      "title": "Win.Casino – väljuge tasuta rakendusest",
+      "description": "See ei võta teie telefonis ruumi.",
+      "install": "Installige"
+    },
+    "desktop": {
+      "application": "Rakendus",
+      "forOs": "{os} jaoks"
+    },
+    "tooltip": {
+      "title": "Win.Casino – väljuge tasuta rakendusest",
+      "description": "See ei võta teie telefonis ruumi."
+    }
+  },
+  "wagerTooltip": {
+    "notInWagering": "ㅤ",
+    "wagerMultiplierLessThan": "ㅤ",
+    "wagerMultiplierMoreThan": "ㅤ"
+  }
+}

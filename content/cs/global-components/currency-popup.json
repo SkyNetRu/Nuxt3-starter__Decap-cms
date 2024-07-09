@@ -1,0 +1,10 @@
+{
+  "tabs": {
+    "allTab": "Vše",
+    "cryptoTab": "Crypto"
+  },
+  "empty": {
+    "title": "Hotovo!",
+    "description": "Již jste přidali všechny měny"
+  }
+}

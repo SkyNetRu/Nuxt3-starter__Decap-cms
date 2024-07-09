@@ -1,0 +1,49 @@
+{
+  "loginButton": "Acceso",
+  "registrationButton": "registro",
+  "search": {
+    "placeholder": "Busca tu juego",
+    "moreButton": "Carga más",
+    "emptyLabel": "Nada Encontrado",
+    "emptyText": "Intenta buscar algo más",
+    "tryLabel": "O prueba estos juegos populares:"
+  },
+  "depositButton": "Billetera",
+  "balance": {
+    "tabs": {
+      "balanceTab": "Balance",
+      "currencyTab": "Divisa"
+    },
+    "fiatToggler": "Pantalla en Fiat",
+    "items": {
+      "real": "Real",
+      "bonus": "Prima",
+      "withdrawal": "Retirable",
+      "cashback": "Devolución de dinero"
+    },
+    "wageringLabel": "Apuestas:",
+    "cashbackDateLabel": "Ser tramitado:"
+  },
+  "playRealButton": "modo real",
+  "pwa": {
+    "instructionLink": "/static/terms-and-conditions",
+    "mobile": {
+      "title": "Win.Casino - obtenga la aplicación gratuita",
+      "description": "No ocupará espacio en tu teléfono.",
+      "install": "Instalar"
+    },
+    "desktop": {
+      "application": "Solicitud",
+      "forOs": "para {os}"
+    },
+    "tooltip": {
+      "title": "Win.Casino - obtenga la aplicación gratuita",
+      "description": "No ocupará espacio en tu teléfono."
+    }
+  },
+  "wagerTooltip": {
+    "notInWagering": "ㅤ",
+    "wagerMultiplierLessThan": "ㅤ",
+    "wagerMultiplierMoreThan": "ㅤ"
+  }
+}

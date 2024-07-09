@@ -1,0 +1,155 @@
+{
+  "password": {
+    "label": "Salasana",
+    "placeholder": "Syötä salasanasi"
+  },
+  "currentPassword": {
+    "label": "Nykyinen salasana",
+    "placeholder": "Syötä nykyinen salasanasi"
+  },
+  "newPassword": {
+    "label": "Uusi salasana",
+    "placeholder": "Anna uusi salasana"
+  },
+  "repeatNewPassword": {
+    "label": "Uusi salasana uudelleen",
+    "placeholder": "Syötä uusi salasana uudelleen"
+  },
+  "firstName": {
+    "label": "Etunimi",
+    "placeholder": "Syötä etunimi"
+  },
+  "lastName": {
+    "label": "Sukunimi",
+    "placeholder": "Kirjoita sukunimi"
+  },
+  "nationality": {
+    "label": "Kansalaisuus",
+    "placeholder": "Kirjoita kansalaisuutesi"
+  },
+  "nickname": {
+    "label": "Lempinimi",
+    "placeholder": "Kirjoita lempinimesi"
+  },
+  "gender": {
+    "label": "Sukupuoli",
+    "maleLabel": "Mies",
+    "femaleLabel": "Nainen",
+    "otherLabel": "Muu"
+  },
+  "city": {
+    "label": "Kaupunki",
+    "placeholder": "Kirjoita kaupunkisi"
+  },
+  "address": {
+    "label": "Osoite",
+    "placeholder": "Kirjoita osoitteesi"
+  },
+  "additionalAddress": {
+    "label": "Lisäosoite",
+    "placeholder": "Kirjoita lisäosoitteesi"
+  },
+  "postalCode": {
+    "label": "Postinumero",
+    "placeholder": "Kirjoita postinumero"
+  },
+  "timeZone": {
+    "label": "Aikavyöhyke",
+    "placeholder": "Valitse aikavyöhyke"
+  },
+  "profession": {
+    "label": "Ammatti",
+    "placeholder": "Kirjoita ammattisi"
+  },
+  "language": {
+    "label": "Kieli",
+    "placeholder": "Kirjoita kielesi"
+  },
+  "bonusCode": {
+    "label": "Koodi (valinnainen)",
+    "placeholder": "Kirjoita koodi"
+  },
+  "securityQuestion": {
+    "label": "Turvallisuuskysymys",
+    "placeholder": "Kirjoita turvakysymys"
+  },
+  "securityAnswer": {
+    "label": "Turvallisuusvastaus",
+    "placeholder": "Kirjoita vastaus turvakysymykseen"
+  },
+  "email": {
+    "label": "Sähköpostiosoite",
+    "placeholder": "Kirjoita sähköpostiosoitteesi"
+  },
+  "country": {
+    "label": "Maa",
+    "placeholder": "Valitse maasi"
+  },
+  "currency": {
+    "label": "Valuutta",
+    "placeholder": "Valitse valuuttasi"
+  },
+  "agreements": {
+    "label": "Hyväksyn <a href=\"/static/terms-and-conditions\" target=\"_blank\" >Etu- ja sopimusehdot</a> ja <a href=\"/static/privacy-policy\" target=\"_blank\" >Tietosuojakäytäntö</a>."
+  },
+  "receiveEmailPromo": {
+    "label": "Lähetä promoja sähköpostitse"
+  },
+  "receiveSmsPromo": {
+    "label": "Lähetä promoja tekstiviestillä"
+  },
+  "receiveBonus": {
+    "label": "Bonusten saaminen"
+  },
+  "phone": {
+    "label": "Matkapuhelin",
+    "placeholder": "Kirjoita puhelinnumero"
+  },
+  "birthdate": {
+    "label": "Syntymäaika",
+    "placeholderDay": "Päivä",
+    "placeholderMonth": "Kuukausi",
+    "placeholderYear": "Vuosi"
+  },
+  "placeOfBirth": {
+    "label": "Syntymäpaikka",
+    "placeholder": "Kirjoita syntymäpaikkasi"
+  },
+  "personalIdNumber": {
+    "label": "Henkilökohtainen ID-numero",
+    "placeholder": "Henkilötunnus (jos saatavilla)"
+  },
+  "message": {
+    "label": "Teksti",
+    "placeholder": "Kirjoita viestisi"
+  },
+  "wallet_id": {
+    "label": "Lompakon osoite",
+    "placeholder": "Kirjoita lompakon osoite"
+  },
+  "card_number": {
+    "label": "Kortin numero",
+    "placeholder": "Kirjoita kortin numero"
+  },
+  "card_holder": {
+    "label": "Kortin haltija",
+    "placeholder": "Syötä luottokortin haltijan nimi"
+  },
+  "exp_month": {
+    "label": "Viimeinen kuukausi",
+    "placeholder": "Syötä vanhentumiskuukausi"
+  },
+  "exp_year": {
+    "label": "Päättymisvuosi",
+    "placeholder": "Syötä vanhentumisvuosi"
+  },
+  "networkSelect": {
+    "label": "Valitse verkko",
+    "placeholder": "Verkko",
+    "info": "Jatka,<br>valitse verkko 👆👆👆👆"
+  },
+  "age": {
+    "label": "Ikä",
+    "placeholder": "Anna ikäsi"
+  }
+}

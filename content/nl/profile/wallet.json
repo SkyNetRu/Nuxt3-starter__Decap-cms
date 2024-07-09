@@ -1,0 +1,16 @@
+{
+  "title": "Portemonnee",
+  "addButton": "Valuta toevoegen",
+  "changeButton": "Valuta gebruiken",
+  "hideButton": "Valuta verbergen",
+  "depositButton": "Stort",
+  "hideZeroBalances": "Hide zero balances",
+  "zeroBalance": {
+    "imgPath": "/img/uploads/empty.png",
+    "title": "There are no funds on your balance"
+  },
+  "withdrawButton": "Opnemen",
+  "seo": {
+    "title": "Win.Casino | Portemonnee"
+  }
+}

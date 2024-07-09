@@ -1,0 +1,17 @@
+{
+  "tabLabel": "Bonificaciones",
+  "cashBonusTab": "Bonos en efectivo",
+  "freeSpinsTab": "Tiradas Gratis",
+  "tableColumns": {
+    "title": "Título",
+    "status": "Estado",
+    "amount": "Cantidad",
+    "progress": "Progreso",
+    "created": "Fecha",
+    "expired": "Válido hasta"
+  },
+  "empty": {
+    "title": "Aún no hay datos",
+    "description": "Aún no has recibido bonificaciones"
+  }
+}

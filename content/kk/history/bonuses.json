@@ -1,0 +1,17 @@
+{
+  "tabLabel": "Бонустар",
+  "cashBonusTab": "Ақшалай бонустар",
+  "freeSpinsTab": "Тегін айналдыру",
+  "tableColumns": {
+    "title": "Тақырып",
+    "status": "Күй",
+    "amount": "Сома",
+    "progress": "Прогресс",
+    "created": "Күн",
+    "expired": "дейін жарамды"
+  },
+  "empty": {
+    "title": "Әзірге деректер жоқ!",
+    "description": "Сіз әлі бонус алған жоқсыз"
+  }
+}

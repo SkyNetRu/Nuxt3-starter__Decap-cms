@@ -1,0 +1,16 @@
+{
+  "pageUrl": "first-deposit-bonus",
+  "termsLabel": "Termos do bónus:",
+  "termsContent": "**Termos e condições do bônus de primeiro depósito no cassino:**",
+  "button": {
+    "label": "Obter bónus"
+  },
+  "backgroundColor": "red",
+  "subtitle": "Obtenha seu bônus de 100% até 500 EUR",
+  "title": "Bónus de 1º depósito",
+  "image": "/img/uploads/1-deposit-new.png",
+  "description": "Win.Casino cumprimenta você com um grande bônus! Como você é novo conosco, oferecemos um bônus de 100% até 500 EUR no seu primeiro depósito.",
+  "seo": {
+    "title": "Win.Casino | Bónus de primeiro depósito"
+  }
+}

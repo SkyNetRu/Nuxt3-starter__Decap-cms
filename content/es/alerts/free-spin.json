@@ -1,0 +1,22 @@
+{
+  "freeSpinIssued": {
+    "title": "Emitido",
+    "description": "Se le ha concedido {count} en su monedero {currency} para el juego {game}."
+  },
+  "freeSpinActivated": {
+    "title": "Activo",
+    "description": "Se han activado {count} en su monedero de {currency} para el juego {game}."
+  },
+  "freeSpinPlayed": {
+    "title": "Finalizado",
+    "description": "Ha jugado {count} en su monedero {currency} para el juego {game} con éxito"
+  },
+  "freeSpinCanceled": {
+    "title": "Cancelado",
+    "description": "{count} en su monedero {currency} para el juego {game} han sido cancelados"
+  },
+  "freeSpinExpired": {
+    "title": "Caducado",
+    "description": "{count} en su monedero {currency} para el juego {game} han caducado"
+  }
+}

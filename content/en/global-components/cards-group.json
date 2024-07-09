@@ -1,0 +1,20 @@
+{
+  "moreButton": "Show all",
+  "recommendedSubtitle": "The best games for you",
+  "favorites": {
+    "icon": "heart",
+    "label": "Favorites"
+  },
+  "providers": {
+    "icon": "turbo-games",
+    "label": "Providers"
+  },
+  "latestWinners": {
+    "icon": "bonuses",
+    "label": "Latest winners"
+  },
+  "recentlyPlayed": {
+    "icon": "history",
+    "label": "Recently played"
+  }
+}

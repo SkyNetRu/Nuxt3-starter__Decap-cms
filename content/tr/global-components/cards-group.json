@@ -1,0 +1,16 @@
+{
+  "moreButton": "Hepsini göster",
+  "recommendedSubtitle": "Sizin için en iyi oyunlar",
+  "favorites": {
+    "label": "Favoriler"
+  },
+  "providers": {
+    "label": "Sağlayıcılar"
+  },
+  "latestWinners": {
+    "label": "Son kazananlar"
+  },
+  "recentlyPlayed": {
+    "label": "Yakın zamanda oynandı"
+  }
+}

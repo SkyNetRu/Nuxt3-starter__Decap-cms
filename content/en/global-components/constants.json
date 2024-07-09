@@ -1,0 +1,52 @@
+{
+  "bonusTypes": {
+    "1": "Cash",
+    "2": "Percentage",
+    "3": "Free Spin",
+    "4": "Cashback"
+  },
+  "betStatuses": {
+    "1": "Pending",
+    "2": "Won",
+    "3": "Lost",
+    "4": "Refund",
+    "5": "Cash Out"
+  },
+  "invoiceStatuses": {
+    "1": "Pending",
+    "2": "Success",
+    "3": "Rejected",
+    "4": "Processing"
+  },
+  "invoiceTypes": {
+    "1": "Deposit",
+    "2": "Withdrawal",
+    "3": "Balance correction",
+    "4": "Purchase",
+    "5": "Virtual payout"
+  },
+  "limitPeriods": {
+    "daily": "Daily",
+    "weekly": "Weekly",
+    "monthly": "Monthly",
+    "1_day": "1 day",
+    "3_days": "3 days",
+    "1_week": "1 week",
+    "1_month": "1 month",
+    "3_months": "3 months",
+    "6_months": "6 months",
+    "9_months": "9 months",
+    "1_year": "1 year",
+    "forever": "Forever"
+  },
+  "spinsResults": {
+    "1": "Win",
+    "2": "Lose"
+  },
+  "bonusStatuses": {
+    "1": "Issued",
+    "2": "Active",
+    "3": "Finished",
+    "4": "Queued"
+  }
+}

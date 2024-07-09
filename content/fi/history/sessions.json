@@ -1,0 +1,14 @@
+{
+  "tabLabel": "Istunnot",
+  "sessionsStatuses": {
+    "current": "Nykyinen",
+    "active": "Aktiivinen",
+    "closed": "Suljettu"
+  },
+  "tableColumns": {
+    "country": "Maa",
+    "userAgent": "Käyttäjä Agentti",
+    "createdAt": "Created At",
+    "status": "Status"
+  }
+}

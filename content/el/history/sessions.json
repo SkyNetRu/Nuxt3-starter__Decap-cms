@@ -1,0 +1,14 @@
+{
+  "tabLabel": "Συνεδρίες",
+  "sessionsStatuses": {
+    "current": "Τρέχον",
+    "active": "Ενεργό",
+    "closed": "Κλειστό"
+  },
+  "tableColumns": {
+    "country": "Χώρα",
+    "userAgent": "Πράκτορας χρήστη",
+    "createdAt": "Δημιουργήθηκε στο",
+    "status": "Κατάσταση"
+  }
+}

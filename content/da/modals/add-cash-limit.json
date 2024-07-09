@@ -1,0 +1,10 @@
+{
+  "addBetLabel": "Ny indsatsgrænse",
+  "addLossLabel": "Ny tabsgrænse",
+  "addDepositLabel": "Ny indbetalingsgrænse",
+  "hint": "Begrænsningen træder i kraft med det samme. Du kan til enhver tid reducere din grænse, denne ændring træder i kraft med det samme. Du kan øge grænsen, men for at denne ændring skal træde i kraft, har du brug for 24 timer. Annullering af indbetalingsgrænsen tager 24 timer. Når grænsen er overskredet, vil du modtage en e-mail.",
+  "chooseCurrencyLabel": "Vælg valuta",
+  "chooseCurrencyError": "Vælg venligst din valuta for den nye indbetalingsgrænse",
+  "addButton": "Tilføj",
+  "successConfirmLabel": "Grænse sat med succes"
+}

@@ -1,0 +1,16 @@
+{
+  "moreButton": "عرض الكل",
+  "recommendedSubtitle": "أفضل الألعاب لك",
+  "favorites": {
+    "label": "المفضلة"
+  },
+  "providers": {
+    "label": "مقدمي الخدمات"
+  },
+  "latestWinners": {
+    "label": "أحدث الفائزين"
+  },
+  "recentlyPlayed": {
+    "label": "الملعوبة مؤخرا"
+  }
+}

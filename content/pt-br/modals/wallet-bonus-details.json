@@ -1,0 +1,19 @@
+{
+  "title": "Detalhes Do Bônus",
+  "readMore": "Leia mais sobre Bônus",
+  "infoLabels": {
+    "from": "De:",
+    "to": "Para:",
+    "excluded": "Excluídos:",
+    "depositAmount": "Depósito:",
+    "bonusType": "Tipo De Bônus:",
+    "freeSpins": "Giros Grátis:",
+    "casinoWager": "Aposta No Cassino:",
+    "sportsbookWager": "Aposta Sportsbook:",
+    "maxWin": "Max Win Sum:",
+    "casinoBetSum": "Aposta Casino:",
+    "sportsbookBetSum": "Aposta Sportsbook:",
+    "providers": "Provedores:",
+    "games": "Jogos:"
+  }
+}

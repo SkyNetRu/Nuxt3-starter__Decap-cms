@@ -1,0 +1,16 @@
+{
+  "pageUrl": "weekly-cashback",
+  "termsLabel": "Bonusvilkår:",
+  "termsContent": "**1.** Hver uke beregner vi den totale differansen mellom innsatsene som er plassert og utbetalingene på disse spillene og utbetaler cashback.",
+  "button": {
+    "label": "Få bonus"
+  },
+  "backgroundColor": "gray",
+  "subtitle": "Ta din cashback opptil 15 % hver tirsdag",
+  "title": "Ukentlig cashback",
+  "image": "https://win.city/img/uploads/weekly-big.webp",
+  "description": "Hver tirsdag kan du få en del av pengene dine tilbake takket være vår ukentlige cashback. Motta ditt",
+  "seo": {
+    "title": "Win.Casino | Ukentlig cashback"
+  }
+}

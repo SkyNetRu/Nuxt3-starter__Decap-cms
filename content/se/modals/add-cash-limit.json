@@ -1,0 +1,10 @@
+{
+  "addBetLabel": "Ny insatsgräns",
+  "addLossLabel": "Ny förlustgräns",
+  "addDepositLabel": "Ny insättningsgräns",
+  "hint": "Begränsningen träder i kraft omedelbart. Du kan minska din gräns när som helst, denna ändring kommer att träda i kraft omedelbart. Du kan öka gränsen, men för att denna ändring ska träda i kraft behöver du 24 timmar. Annullering av insättningsgränsen tar 24 timmar. När gränsen har överskridits kommer du att få ett e-postmeddelande.",
+  "chooseCurrencyLabel": "Välj valuta",
+  "chooseCurrencyError": "Välj din valuta för den nya insättningsgränsen",
+  "addButton": "Lägg till",
+  "successConfirmLabel": "Gränsen har satts framgångsrikt"
+}

@@ -1,0 +1,27 @@
+{
+  "tabLabel": "Transaksjoner",
+  "dateLabel": "Dato fra/til:",
+  "allFilterOption": "Alle",
+  "typeFilterLabel": "Type:",
+  "currencyLabel": "Valuta:",
+  "statusFilterLabel": "Status:",
+  "tableColumns": {
+    "date": "Dato",
+    "type": "Type",
+    "method": "Betalingsmåte",
+    "status": "Status",
+    "sum": "Sum"
+  },
+  "cancelPaymentButton": "Avbryt betaling",
+  "empty": {
+    "title": "Det finnes ingen data ennå!",
+    "description": "Du har ingen vellykkede transaksjoner ennå."
+  },
+  "securityCode": {
+    "getCodeButton": "Få kode",
+    "codeLabel": "Hemmelig kode:",
+    "codeTooltip": "Hemmelig kode kopiert",
+    "clientLabel": "Klient-ID:",
+    "clientTooltip": "Klient-ID kopiert"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "menu": [
+    {
+      "label": "Home",
+      "url": "/",
+      "icon": "home"
+    },
+    {
+      "label": "Live games",
+      "url": "/games?category=live",
+      "icon": "live-games"
+    },
+    {
+      "label": "Wallet",
+      "url": "/wallet",
+      "icon": "wallet"
+    },
+    {
+      "label": "Referral",
+      "url": "/referral",
+      "icon": "referral"
+    },
+    {
+      "label": "Profile",
+      "url": "/profile/info",
+      "icon": "profile"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Plånbok",
+  "addButton": "Lägg till valuta",
+  "changeButton": "Använd valuta",
+  "hideButton": "Dölj valuta",
+  "depositButton": "Insättning",
+  "hideZeroBalances": "Hide zero balances",
+  "zeroBalance": {
+    "imgPath": "/img/uploads/empty.png",
+    "title": "There are no funds on your balance"
+  },
+  "withdrawButton": "Uttag",
+  "seo": {
+    "title": "Win.Casino | Plånbok"
+  }
+}

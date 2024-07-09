@@ -1,0 +1,13 @@
+{
+  "tabLabel": "Spins",
+  "tableColumns": {
+    "game": "Spil",
+    "bet": "Indsats",
+    "result": "Resultat",
+    "date": "Dato"
+  },
+  "empty": {
+    "title": "Der er ingen data endnu!",
+    "description": "Du har ikke placeret nogen væddemål endnu"
+  }
+}

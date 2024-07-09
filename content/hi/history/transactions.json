@@ -1,0 +1,27 @@
+{
+  "tabLabel": "लेनदेन",
+  "dateLabel": "दिनांक कब से कब तक:",
+  "allFilterOption": "सभी",
+  "typeFilterLabel": "प्रकार:",
+  "currencyLabel": "मुद्रा:",
+  "statusFilterLabel": "स्थिति:",
+  "tableColumns": {
+    "date": "तारीख",
+    "type": "प्रकार",
+    "method": "भुगतान विधि",
+    "status": "स्थिति",
+    "sum": "जोड़"
+  },
+  "cancelPaymentButton": "भुगतान रद्द करें",
+  "empty": {
+    "title": "अभी तक कोई डेटा नहीं है!",
+    "description": "आपका अभी तक कोई सफल लेनदेन नहीं हुआ है."
+  },
+  "securityCode": {
+    "getCodeButton": "कोड प्राप्त करें",
+    "codeLabel": "गुप्त संकेत:",
+    "codeTooltip": "गुप्त कोड कॉपी किया गया",
+    "clientLabel": "ग्राहक की पहचान:",
+    "clientTooltip": "क्लाइंट आईडी कॉपी की गई"
+  }
+}

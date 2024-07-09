@@ -1,0 +1,16 @@
+{
+  "pageUrl": "third-deposit-bonus",
+  "termsLabel": "Bonus shartlari:",
+  "termsContent": "** Casino uchinchi depozit bonusi shartlari:**",
+  "button": {
+    "label": "Bonus oling"
+  },
+  "backgroundColor": "green",
+  "subtitle": "Ko'proq bonuslar, yanada qiziqarli! 500 evrogacha Casino bonusi va 50 FS va 1000 evrogacha sport bonusini oling",
+  "title": "3-depozit bonusi",
+  "image": "/img/uploads/3-deposit.png",
+  "description": "Uchinchi depozit bonusimiz tufayli egizak shaharda o'ynash imkoniyatini qo'lga kiriting",
+  "seo": {
+    "title": "Win.Casino | uchinchi depozit bonusi"
+  }
+}

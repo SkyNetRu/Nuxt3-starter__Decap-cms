@@ -1,0 +1,28 @@
+{
+  "gameTagsList": [
+    {
+      "identity": "hot",
+      "label": "HOT",
+      "color": "orange",
+      "icon": "hot"
+    },
+    {
+      "identity": "new",
+      "label": "NEW",
+      "color": "green",
+      "icon": "new"
+    },
+    {
+      "identity": "fast-games",
+      "label": "TURBO",
+      "color": "red",
+      "icon": "turbo-games"
+    },
+    {
+      "identity": "buy-bonus",
+      "label": "BUY BONUS",
+      "color": "blue",
+      "icon": "bonuses"
+    }
+  ]
+}

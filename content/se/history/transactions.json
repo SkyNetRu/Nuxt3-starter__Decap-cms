@@ -1,0 +1,27 @@
+{
+  "tabLabel": "Transaktioner",
+  "dateLabel": "Datum från / till:",
+  "allFilterOption": "Alla",
+  "typeFilterLabel": "Typ av transaktion:",
+  "currencyLabel": "Valuta:",
+  "statusFilterLabel": "Status:",
+  "tableColumns": {
+    "date": "Datum",
+    "type": "Typ av betalning",
+    "method": "Betalningsmetod",
+    "status": "Status",
+    "sum": "Summa"
+  },
+  "cancelPaymentButton": "Avbryt betalning",
+  "empty": {
+    "title": "Det finns inga data ännu!",
+    "description": "Du har inga framgångsrika transaktioner ännu."
+  },
+  "securityCode": {
+    "getCodeButton": "Hämta kod",
+    "codeLabel": "Hemlig kod:",
+    "codeTooltip": "Hemlig kod kopierad",
+    "clientLabel": "Klient ID:",
+    "clientTooltip": "Klient-ID har kopierats"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "menuLabel": "منو",
+  "items": {
+    "firstItem": {
+      "label": "کازینو",
+      "url": "/main",
+      "icon": "cherry"
+    },
+    "secondItem": {
+      "label": "ورزشی",
+      "url": "/betting",
+      "icon": "sport"
+    },
+    "thirdItem": {
+      "label": "پشتیبان",
+      "url": "/contact",
+      "icon": "live-support"
+    }
+  },
+  "chatLabel": "Live Chat",
+  "contactButton": {
+    "label": "Support",
+    "url": "/contact"
+  }
+}

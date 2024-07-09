@@ -1,0 +1,155 @@
+{
+  "password": {
+    "label": "Kata sandi",
+    "placeholder": "Masukkan kata sandi Anda"
+  },
+  "currentPassword": {
+    "label": "Kata sandi saat ini",
+    "placeholder": "Masukkan kata sandi Anda saat ini"
+  },
+  "newPassword": {
+    "label": "Kata sandi baru",
+    "placeholder": "Masukkan kata sandi baru"
+  },
+  "repeatNewPassword": {
+    "label": "Kata sandi baru lagi",
+    "placeholder": "Masukkan kembali kata sandi baru"
+  },
+  "firstName": {
+    "label": "Nama depan",
+    "placeholder": "Masukkan nama depan"
+  },
+  "lastName": {
+    "label": "Nama belakang",
+    "placeholder": "Masukkan nama belakang"
+  },
+  "nationality": {
+    "label": "Kebangsaan",
+    "placeholder": "Masukkan kewarganegaraan Anda"
+  },
+  "nickname": {
+    "label": "Nama panggilan",
+    "placeholder": "Masukkan nama panggilan Anda"
+  },
+  "gender": {
+    "label": "Jenis Kelamin",
+    "maleLabel": "Laki-laki",
+    "femaleLabel": "Perempuan",
+    "otherLabel": "Lainnya"
+  },
+  "city": {
+    "label": "Kota",
+    "placeholder": "Masukkan kota Anda"
+  },
+  "address": {
+    "label": "Alamat",
+    "placeholder": "Masukkan alamat Anda"
+  },
+  "additionalAddress": {
+    "label": "Alamat Tambahan",
+    "placeholder": "Masukkan alamat tambahan Anda"
+  },
+  "postalCode": {
+    "label": "Kode pos",
+    "placeholder": "Masukkan kode pos"
+  },
+  "timeZone": {
+    "label": "Zona Waktu",
+    "placeholder": "Pilih zona waktu"
+  },
+  "profession": {
+    "label": "Profesi",
+    "placeholder": "Masukkan profesi Anda"
+  },
+  "language": {
+    "label": "Bahasa",
+    "placeholder": "Masukkan bahasa Anda"
+  },
+  "bonusCode": {
+    "label": "Kode (opsional)",
+    "placeholder": "Masukkan kode"
+  },
+  "securityQuestion": {
+    "label": "Pertanyaan Keamanan",
+    "placeholder": "Masukkan pertanyaan keamanan Anda"
+  },
+  "securityAnswer": {
+    "label": "Jawaban Keamanan",
+    "placeholder": "Masukkan jawaban untuk pertanyaan keamanan Anda"
+  },
+  "email": {
+    "label": "Alamat Email",
+    "placeholder": "Masukkan email Anda"
+  },
+  "country": {
+    "label": "Negara",
+    "placeholder": "Pilih negara Anda"
+  },
+  "currency": {
+    "label": "Mata uang",
+    "placeholder": "Pilih mata uang Anda"
+  },
+  "agreements": {
+    "label": "Saya menerima <a href=\"/static/syarat-dan-ketentuan\" target=\"_blank\">Syarat dan Ketentuan</a> dan <a href=\"/static/kebijakan-kebijakan-kepribadian\" target=\"_blank\">Kebijakan-Kebijakan-Kepribadian</a>"
+  },
+  "receiveEmailPromo": {
+    "label": "Kirim promo melalui Email"
+  },
+  "receiveSmsPromo": {
+    "label": "Kirim promo melalui SMS"
+  },
+  "receiveBonus": {
+    "label": "Menerima bonus"
+  },
+  "phone": {
+    "label": "Ponsel",
+    "placeholder": "Masukkan nomor telepon"
+  },
+  "birthdate": {
+    "label": "Tanggal Lahir",
+    "placeholderDay": "Hari",
+    "placeholderMonth": "Bulan",
+    "placeholderYear": "Tahun"
+  },
+  "placeOfBirth": {
+    "label": "Tempat lahir",
+    "placeholder": "Masukkan tempat lahir Anda"
+  },
+  "personalIdNumber": {
+    "label": "Nomor identitas pribadi",
+    "placeholder": "Nomor referensi identitas (jika tersedia)"
+  },
+  "message": {
+    "label": "Teks",
+    "placeholder": "Masukkan pesan Anda"
+  },
+  "wallet_id": {
+    "label": "Alamat dompet",
+    "placeholder": "Masukkan alamat dompet"
+  },
+  "card_number": {
+    "label": "Nomor kartu",
+    "placeholder": "Masukkan nomor kartu"
+  },
+  "card_holder": {
+    "label": "Pemegang kartu",
+    "placeholder": "Masukkan nama pemegang kartu kredit"
+  },
+  "exp_month": {
+    "label": "Bulan kedaluwarsa",
+    "placeholder": "Masukkan bulan kedaluwarsa"
+  },
+  "exp_year": {
+    "label": "Tahun kedaluwarsa",
+    "placeholder": "Masukkan tahun kedaluwarsa"
+  },
+  "networkSelect": {
+    "label": "Pilih jaringan Anda",
+    "placeholder": "Jaringan",
+    "info": "Untuk melanjutkan, <br> pilih jaringan 👆👆👆👆"
+  },
+  "age": {
+    "label": "Umur",
+    "placeholder": "Masukkan umur Anda"
+  }
+}

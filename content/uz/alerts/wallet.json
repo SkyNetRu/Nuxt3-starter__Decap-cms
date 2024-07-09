@@ -1,0 +1,26 @@
+{
+  "withdrawalProcessed": {
+    "title": "Kutilmoqda!",
+    "description": "Pul yechib olish jarayoni ko‘rib chiqilmoqda. Biz sizning so'rovingizni qisqa vaqt ichida tekshiramiz."
+  },
+  "userCanceledWithdrawal": {
+    "title": "muvaffaqiyat",
+    "description": "Siz yechib olishni muvaffaqiyatli bekor qildingiz."
+  },
+  "depositSuccess": {
+    "title": "muvaffaqiyat",
+    "description": "{date} sanasida kiritilgan {sum} depozitingiz muvaffaqiyatli boʻldi!"
+  },
+  "depositError": {
+    "title": "xato",
+    "description": "Kechirasiz, {date} sanasidan boshlab {sum} depozitingiz bilan nimadir noto‘g‘ri ketdi. Iltimos, yana bir bor urinib ko'ring."
+  },
+  "withdrawSuccess": {
+    "title": "muvaffaqiyat",
+    "description": "{date} sanasidan {sum} yechib olishingiz tasdiqlandi!"
+  },
+  "withdrawError": {
+    "title": "qaytarib olish bekor qilindi",
+    "description": "{date} sanasidan {sum} yechib olinmoqda. Qo'shimcha ma'lumot olish uchun qo'llab-quvvatlash guruhimizga murojaat qiling."
+  }
+}

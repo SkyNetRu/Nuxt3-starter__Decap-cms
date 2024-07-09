@@ -1,0 +1,26 @@
+{
+  "successRegistration": {
+    "title": "Benvenuto",
+    "description": "La registrazione è avvenuta con successo!"
+  },
+  "sentResetLink": {
+    "title": "Successo",
+    "description": "È stato inviato un link per la reimpostazione della password. Fare clic sul link contenuto nell'e-mail per creare una nuova password."
+  },
+  "invalidResetCode": {
+    "title": "Errore",
+    "description": "Siamo spiacenti, ma il link per la reimpostazione della password non è valido. Si prega di richiedere un'altra reimpostazione della password."
+  },
+  "passwordChanged": {
+    "title": "Successo",
+    "description": "La password è stata modificata con successo."
+  },
+  "accountBlocked": {
+    "title": "Errore",
+    "description": "Siamo spiacenti, ma il suo account è bloccato. Per favore, contattate il nostro team di supporto per ulteriori informazioni."
+  },
+  "resentVerification": {
+    "title": "Successo",
+    "description": "Abbiamo inviato un'e-mail con il link di verifica al vostro indirizzo e-mail."
+  }
+}

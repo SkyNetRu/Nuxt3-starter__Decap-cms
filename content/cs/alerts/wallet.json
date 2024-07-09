@@ -1,0 +1,26 @@
+{
+  "withdrawalProcessed": {
+    "title": "Probíhá!",
+    "description": "Váš výběr se zpracovává. Vaši žádost za chvíli zkontrolujeme."
+  },
+  "userCanceledWithdrawal": {
+    "title": "Úspěch",
+    "description": "Úspěšně jste zrušili svůj výběr."
+  },
+  "depositSuccess": {
+    "title": "Úspěch",
+    "description": "Váš vklad {sum} provedený dne {date} je úspěšný!"
+  },
+  "depositError": {
+    "title": "Chyba",
+    "description": "Omlouváme se, ale něco se pokazilo s vaším {sum} vkladu ze dne {date}. Zkuste to prosím znovu."
+  },
+  "withdrawSuccess": {
+    "title": "Úspěch",
+    "description": "Váš výběr {sum} z {date} byl schválen!"
+  },
+  "withdrawError": {
+    "title": "Zrušený výběr",
+    "description": "Váš {sum} výběru z {date} byl zrušen. Pro více informací prosím kontaktujte náš tým podpory."
+  }
+}

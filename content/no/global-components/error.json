@@ -1,0 +1,8 @@
+{
+  "title": "Noe gikk galt",
+  "description": "Siden du prøver å få tilgang til, finnes ikke eller har blitt flyttet. Prøv å gå tilbake til hjemmesiden vår.",
+  "button": {
+    "label": "Hjemmeside",
+    "url": "/"
+  }
+}

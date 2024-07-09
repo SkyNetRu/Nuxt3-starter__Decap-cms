@@ -1,0 +1,41 @@
+{
+  "title": "Rajoitukset",
+  "addButtonLabel": "Lisää uusi",
+  "editButtonLabel": "Muokkaa rajoja",
+  "doneButtonLabel": "Muokkaus valmis",
+  "setButtonLabel": "Aseta",
+  "modeToggle": "Edistynyt tila",
+  "titleTooltip": "Tämä asetus rajoittaa summaa, jonka voit tallettaa päivässä, viikossa tai kuukaudessa.",
+  "availableLimitSum": "{balance} {amount} {currency} jäljellä",
+  "activeStatusLabel": "Aktiivinen {date} asti",
+  "pendingStatusLabel": "Vireillä {date} asti",
+  "statusPendingTimerLabel": "kunnes aktivoidaan",
+  "statusActiveTimerLabel": "kunnes nollaus",
+  "timerAlmostDoneLabel": "Melkein valmis",
+  "deposit": {
+    "label": "Talletusrajat",
+    "hint": "Tämä asetus rajoittaa summaa, jonka voit tallettaa päivässä, viikossa tai kuukaudessa."
+  },
+  "loss": {
+    "label": "Tappiorajat",
+    "hint": "Tämä asetus rajoittaa summaa, jonka voit tallettaa päivässä, viikossa tai kuukaudessa."
+  },
+  "bet": {
+    "label": "Vedonlyöntirajat",
+    "hint": "Tämä asetus rajoittaa summaa, jonka voit tallettaa päivässä, viikossa tai kuukaudessa."
+  },
+  "coolingOff": {
+    "label": "Jäähdytys",
+    "selectLabel": "Ei ole",
+    "hint": "Rajoitus tulee voimaan välittömästi. Et voi tehdä talletuksia ja pelata määritetyn ajanjakson aikana, ja sinut suljetaan myös kaikkien mainostarjousten ulkopuolelle.",
+    "activeStatusLabel": "Aktiivinen {date} asti",
+    "pendingStatusLabel": "Vireillä. Aktivoidaan {date}",
+    "deleteConfirmTitle": "Rajoituksen päivitys onnistuneesti",
+    "deleteConfirmDescription": "Limiitti peruutetaan 24 tunnin kuluttua"
+  },
+  "selfExclusion": {
+    "label": "Itsestään poissulkeminen",
+    "selectLabel": "Ei ole",
+    "hint": "Voit asettaa itsestään poissulkemisen rajoituksen määräajaksi tai määrittelemättömäksi ajaksi. Rajoitus tulee voimaan välittömästi. Asetetun ajanjakson aikana et voi kirjautua tilillesi. Jos haluat sulkea itsesi pelaamisen sivustollamme määrittelemättömäksi ajaksi, ota yhteyttä asiakaspalveluumme [live-chat](#) kautta."
+  }
+}

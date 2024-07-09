@@ -1,0 +1,44 @@
+{
+  "loginButton": "Connexion",
+  "registrationButton": "Inscription",
+  "search": {
+    "placeholder": "Cherchez votre jeu",
+    "moreButton": "Charger plus",
+    "emptyLabel": "Rien trouvé",
+    "emptyText": "Essaie de chercher autre chose",
+    "tryLabel": "Ou essayez ces jeux populaires:"
+  },
+  "depositButton": "Dépôt",
+  "balance": {
+    "tabs": {
+      "balanceTab": "Solde",
+      "currencyTab": "Monnaie"
+    },
+    "fiatToggler": "Afficher en Fiat",
+    "items": {
+      "real": "Réel",
+      "bonus": "Bonus",
+      "withdrawal": "Retirable",
+      "cashback": "Remise en Argent"
+    },
+    "wageringLabel": "Mise:",
+    "cashbackDateLabel": "À délivrer:"
+  },
+  "playRealButton": "Mode réel",
+  "pwa": {
+    "instructionLink": "/static/terms-and-conditions",
+    "mobile": {
+      "title": "Win.Casino - sortir de l'application gratuite",
+      "description": "Cela ne prendra pas de place sur votre téléphone.",
+      "install": "Installer"
+    },
+    "desktop": {
+      "application": "Demande",
+      "forOs": "pour {os}"
+    },
+    "tooltip": {
+      "title": "Win.Casino - sortir de l'application gratuite",
+      "description": "Cela ne prendra pas de place sur votre téléphone."
+    }
+  }
+}

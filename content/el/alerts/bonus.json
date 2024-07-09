@@ -1,0 +1,32 @@
+{
+  "bonusCodeIncorrect": {
+    "title": "Λυπούμαστε, αλλά πληκτρολογήσατε λανθασμένο κωδικό μπόνους."
+  },
+  "bonusCodeNotAvailable": {
+    "title": "Λυπούμαστε, αλλά το μπόνους με τον κωδικό μπόνους που πληκτρολογήσατε δεν είναι διαθέσιμο για εσάς."
+  },
+  "bonusIssued": {
+    "title": "Εκδόθηκε",
+    "description": "Το {amount} μπόνους έχει εκδοθεί"
+  },
+  "bonusActivated": {
+    "title": "Ενεργό",
+    "description": "Το επίδομα {amount} έχει ενεργοποιηθεί"
+  },
+  "bonusPlayed": {
+    "title": "Ολοκληρώθηκε",
+    "description": "Το {amount} μπόνους έχει στοιχηματιστεί επιτυχώς. Τα κέρδη σας βρίσκονται ήδη στο πραγματικό σας υπόλοιπο"
+  },
+  "bonusCanceled": {
+    "title": "Ακυρώθηκε",
+    "description": "Το μπόνους {amount} ακυρώθηκε"
+  },
+  "bonusExpired": {
+    "title": "Έληξε",
+    "description": "Το μπόνους {amount} έχει λήξει"
+  },
+  "bonusLost": {
+    "title": "Lost",
+    "description": "Το {amount} μπόνους δεν έχει στοιχηματιστεί"
+  }
+}

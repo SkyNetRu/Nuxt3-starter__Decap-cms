@@ -1,0 +1,58 @@
+{
+  "banner": {
+    "title": "#### Mainkan dan menangkan di Win.Casino",
+    "button": {
+      "label": "Mainkan sekarang"
+    },
+    "images": {
+      "backgroundImage": "/img/uploads/back-bg.webp",
+      "faceImage": "/img/uploads/front-bg.webp"
+    }
+  },
+  "categories": {
+    "casino": {
+      "title": "Kasino",
+      "description": "Nikmati lebih dari 4.000+ permainan yang terbukti adil",
+      "button": {
+        "label": "Putaran Gratis",
+        "url": "/main"
+      },
+      "image": "/img/uploads/casino-new-1-.png"
+    },
+    "betting": {
+      "title": "Taruhan",
+      "description": "Peluang dan pasar paling kompetitif. Bertaruh dan menangkan sekarang juga",
+      "button": {
+        "label": "Taruhan Sekarang",
+        "url": "/betting"
+      },
+      "image": "/img/uploads/betting-new-1-.png"
+    },
+    "esports": {
+      "title": "Olahraga",
+      "description": "Pasar dan acara hebat di Esport",
+      "button": {
+        "label": "Taruhan Sekarang",
+        "url": "/betting"
+      },
+      "image": "/img/uploads/esports-1.png"
+    }
+  },
+  "seo": {
+    "title": "Win.Casino | Kasino kripto teraman",
+    "text": {
+      "visible": "## Win.Casino menyambut Anda!",
+      "hidden": "## Buku olahraga dengan banyak hal yang ditawarkan",
+      "button": "Tampilkan lebih banyak"
+    }
+  },
+  "aeroGroup": {
+    "label": "Permainan Win.Casino",
+    "collectionIdentity": "crash",
+    "game": {
+      "identity": "spribe-aviator",
+      "playButtonLabel": "Main sekarang",
+      "demoButtonLabel": "Demo"
+    }
+  }
+}

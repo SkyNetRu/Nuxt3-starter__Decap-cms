@@ -1,0 +1,23 @@
+{
+  "title": "Bonus",
+  "historyLink": "Sehen Sie Ihre Bonusgeschichte",
+  "bonusCode": {
+    "title": "Haben Sie einen Promo-Code?",
+    "timerText": "bis zum nächsten Versuch",
+    "buttonLabel": "Hinzufügen",
+    "tryError": "Der Bonuscode ist falsch. Versuchen Sie es nach 3 Minuten erneut"
+  },
+  "cashBonuses": {
+    "title": "Bargeldbonus",
+    "wagerHintLabel": "Wettanforderungen",
+    "casinoWagerLabel": "Casino-Wettanforderungen - x {wager} Bonus",
+    "sportsbookWagerLabel": "Wettanforderungen für Sportwetten - x {wager} Bonus",
+    "waitingResult": "Warten auf Ergebnisse von Sportwetten."
+  },
+  "seo": {
+    "title": "Win.Casino | Bonus"
+  },
+  "freeSpins": {
+    "title": "Freirunden"
+  }
+}

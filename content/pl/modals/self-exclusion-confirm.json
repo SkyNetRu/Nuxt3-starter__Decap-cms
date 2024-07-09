@@ -1,0 +1,6 @@
+{
+  "updateTitle": "Potwierdź aktualizację limitu",
+  "updateDescription": "Czy na pewno chcesz ustawić limit samowykluczenia? Podczas ustawionego okresu nie będziesz mógł zalogować się na swoje konto.",
+  "okButtonLabel": "Tak",
+  "cancelButtonLabel": "Nie"
+}

@@ -1,0 +1,16 @@
+{
+  "pageUrl": "first-deposit-bonus",
+  "termsLabel": "Bonus Koşulları:",
+  "termsContent": "**Kumarhanede ilk para yatırma bonusu şartlar ve koşulları:**",
+  "button": {
+    "label": "Bonus alın"
+  },
+  "backgroundColor": "red",
+  "subtitle": "500 EUR'ya kadar %100 bonusunuzu alın",
+  "title": "1. para yatırma bonusu",
+  "image": "/img/uploads/1-deposit-new.png",
+  "description": "Win.Casino sizi büyük bir ilk bonusla selamlıyor! Aramızda yeni olduğunuz için, ilk para yatırma işleminizde size 500 Euro'ya kadar %100 bonus sunuyoruz.",
+  "seo": {
+    "title": "Win.Casino | İlk para yatırma bonusu"
+  }
+}

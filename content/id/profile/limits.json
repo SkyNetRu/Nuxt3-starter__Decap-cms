@@ -1,0 +1,41 @@
+{
+  "title": "Batas",
+  "addButtonLabel": "Tambah baru",
+  "editButtonLabel": "Mengedit batas",
+  "doneButtonLabel": "Selesai mengedit",
+  "setButtonLabel": "Mengatur",
+  "modeToggle": "Mode lanjutan",
+  "titleTooltip": "Pengaturan ini membatasi jumlah yang dapat Anda setorkan per hari, minggu, atau bulan.",
+  "availableLimitSum": "{balance} {amount} {currency} yang tersisa",
+  "activeStatusLabel": "Aktif hingga {date}",
+  "pendingStatusLabel": "Tertunda hingga {date}",
+  "statusPendingTimerLabel": "sampai aktif",
+  "statusActiveTimerLabel": "sampai diatur ulang",
+  "timerAlmostDoneLabel": "Hampir selesai",
+  "deposit": {
+    "label": "Batas setoran",
+    "hint": "Pengaturan ini membatasi jumlah yang dapat Anda setorkan per hari, minggu, atau bulan"
+  },
+  "loss": {
+    "label": "Batas kerugian",
+    "hint": "Pengaturan ini membatasi jumlah yang dapat Anda setorkan per hari, minggu, atau bulan"
+  },
+  "bet": {
+    "label": "Batas taruhan",
+    "hint": "Pengaturan ini membatasi jumlah yang dapat Anda setorkan per hari, minggu, atau bulan"
+  },
+  "coolingOff": {
+    "label": "Pendinginan",
+    "selectLabel": "Tidak ada",
+    "hint": "Pembatasan ini berlaku seketika. Anda tidak akan dapat melakukan deposit dan bermain selama periode yang ditentukan, dan Anda juga akan dikecualikan dari semua penawaran iklan.",
+    "activeStatusLabel": "Aktif hingga {date}",
+    "pendingStatusLabel": "Tertunda. Akan diaktifkan pada {date}",
+    "deleteConfirmTitle": "Pembaruan batas berhasil dilakukan",
+    "deleteConfirmDescription": "Batas akan dibatalkan setelah 24 jam"
+  },
+  "selfExclusion": {
+    "label": "Pengecualian sendiri",
+    "selectLabel": "Tidak ada",
+    "hint": "Anda dapat menetapkan batas pengecualian diri untuk jangka waktu tertentu atau tidak terbatas. Pembatasan akan langsung berlaku. Selama periode yang ditetapkan, Anda tidak akan dapat masuk ke akun Anda. Untuk dikecualikan dari perjudian di situs kami untuk jangka waktu yang tidak terbatas, silakan, hubungi tim dukungan kami melalui [live-chat](#)"
+  }
+}

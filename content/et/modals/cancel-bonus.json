@@ -1,0 +1,7 @@
+{
+  "title": "Kinnitage boonuse tühistamine",
+  "activeBonusDescription": "Kõik teie võidud lähevad kaotsi. Kas olete kindel, et soovite selle boonuse tühistada?",
+  "issuedBonusDescription": "Kas olete kindel, et soovite selle boonuse tühistada?",
+  "confirmButton": "Jah",
+  "cancelButton": "Ei"
+}

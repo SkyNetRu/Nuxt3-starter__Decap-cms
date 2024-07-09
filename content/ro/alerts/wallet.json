@@ -1,0 +1,26 @@
+{
+  "withdrawalProcessed": {
+    "title": "În așteptare!",
+    "description": "Retragerea dvs. este în curs de procesare. Vom verifica cererea dvs. în scurt timp."
+  },
+  "userCanceledWithdrawal": {
+    "title": "Succes",
+    "description": "Ați anulat cu succes retragerea."
+  },
+  "depositSuccess": {
+    "title": "Succes",
+    "description": "Depunerea dvs. {sum} efectuată la {date} a avut succes!"
+  },
+  "depositError": {
+    "title": "Eroare",
+    "description": "Ne pare rău, dar ceva nu a mers bine cu depozitul dvs. {sum} din {date}. Vă rugăm să încercați din nou."
+  },
+  "withdrawSuccess": {
+    "title": "Succes",
+    "description": "Retragerea dvs. din {sum} de la {date} a fost aprobată!"
+  },
+  "withdrawError": {
+    "title": "Retragere anulată",
+    "description": "Retragerea dvs. din {sum} de la {date} a fost anulată. Vă rugăm să contactați echipa noastră de asistență pentru mai multe informații."
+  }
+}

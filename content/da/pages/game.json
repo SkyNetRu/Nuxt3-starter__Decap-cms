@@ -1,0 +1,19 @@
+{
+  "demoLabel": "Klar til at spille rigtigt?",
+  "demoButton": "Ja, spil for alvor",
+  "plug": {
+    "title": "Vær venlig at logge ind",
+    "description": "Dette spil er ikke tilgængeligt i sjov tilstand, log venligst ind eller registrer dig for at spille."
+  },
+  "seo": {
+    "title": "Win.Casino | Spil over 4.000 slots og spil"
+  },
+  "demoModal": {
+    "label": "Du er i demotilstand",
+    "description": "Klar til de rigtige tilbud? Dyk ned i Real mode og op på indsatsen.",
+    "demo": "Spil demo",
+    "real": "Spil Real",
+    "deposit": "Depositum",
+    "registration": "Registrering"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "limitedRealGame": {
+    "title": "Chyba",
+    "description": "Je nám líto, ale v reálném režimu zatím hrát nemůžete. Pro více informací se prosím obraťte na náš tým podpory."
+  },
+  "limitedDeposit": {
+    "title": "Chyba",
+    "description": "Je nám líto, ale prozatím nemůžete vkládat peníze. Pro více informací prosím kontaktujte náš tým podpory."
+  },
+  "cashLimitAdd": {
+    "title": "Limit byl úspěšně nastaven"
+  },
+  "cashLimitEditLargeAmount": {
+    "title": "Úspěšná aktualizace limitů",
+    "description": "Zkontrolujte prosím svůj e-mail a postupujte podle obdrženého potvrzovacího odkazu pro aktivaci změny limitu."
+  },
+  "cashLimitEditSmallerAmount": {
+    "title": "Aktualizace limitu proběhla úspěšně"
+  },
+  "cashLimitCancel": {
+    "title": "Limit úspěšně zrušen",
+    "description": "Limit jste úspěšně zrušili. Změna bude provedena do 24 hodin."
+  },
+  "coolingOfLimitCancel": {
+    "title": "Limit byl úspěšně aktualizován",
+    "description": "Limit bude zrušen po 24 hodinách."
+  }
+}

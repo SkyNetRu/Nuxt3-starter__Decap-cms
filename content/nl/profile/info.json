@@ -1,0 +1,15 @@
+{
+  "title": "Profiel info",
+  "sendButton": "Link verzenden",
+  "verifyButton": "verifiëren",
+  "verifiedLabel": "Je e-mail is geverifieerd",
+  "unverifiedLabel": "Je e-mailadres is niet geverifieerd",
+  "editButton": "Je profiel bewerken",
+  "saveButton": "Wijzigingen opslaan",
+  "cancelButton": "Annuleren",
+  "subscriptionTitle": "Abonnementen",
+  "manageTitle": "Beheer account",
+  "seo": {
+    "title": "Win.Casino | Profiel info"
+  }
+}

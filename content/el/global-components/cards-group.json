@@ -1,0 +1,16 @@
+{
+  "moreButton": "Εμφάνιση όλων",
+  "recommendedSubtitle": "Τα καλύτερα παιχνίδια για εσάς",
+  "favorites": {
+    "label": "Αγαπημένα"
+  },
+  "providers": {
+    "label": "Πάροχοι"
+  },
+  "latestWinners": {
+    "label": "Τελευταίοι νικητές"
+  },
+  "recentlyPlayed": {
+    "label": "Πρόσφατα παιγμένα"
+  }
+}

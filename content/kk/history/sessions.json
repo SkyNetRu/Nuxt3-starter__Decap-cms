@@ -1,0 +1,14 @@
+{
+  "tabLabel": "сеанстар",
+  "sessionsStatuses": {
+    "current": "Ағымдағы",
+    "active": "Белсенді",
+    "closed": "Жабық"
+  },
+  "tableColumns": {
+    "country": "Ел",
+    "userAgent": "Пайдаланушы агенті",
+    "createdAt": "Құрылған",
+    "status": "Күй"
+  }
+}

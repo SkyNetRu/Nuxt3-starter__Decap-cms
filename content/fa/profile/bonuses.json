@@ -1,0 +1,23 @@
+{
+  "title": "بونوس",
+  "historyLink": "تاریخچه بونوس های خود را ببینید",
+  "bonusCode": {
+    "title": "آیا یک کد هدیه دارید؟",
+    "timerText": "تا تلاش بعدی",
+    "buttonLabel": "اضافه کردن",
+    "tryError": "کد بونوس اشتباه است. بعد از 3 دقیقه دوباره امتحان کنید"
+  },
+  "cashBonuses": {
+    "title": "بونوس های نقدی",
+    "wagerHintLabel": "شرایط شرط بندی",
+    "casinoWagerLabel": "شرایط شرط بندی کازینو - x{wager} Bonus",
+    "sportsbookWagerLabel": "شرایط گردش شرطبندی های ورزشی - x{wager} Bonus",
+    "waitingResult": "در انتظار نتایج شرط بندی ورزشی."
+  },
+  "freeSpins": {
+    "title": "چرخش رایگان"
+  },
+  "seo": {
+    "title": "Win.Casino | بونوس ها "
+  }
+}

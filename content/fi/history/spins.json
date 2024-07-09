@@ -1,0 +1,13 @@
+{
+  "tabLabel": "Kierrokset",
+  "tableColumns": {
+    "game": "Peli",
+    "bet": "Panos",
+    "result": "Tulos",
+    "date": "Päivämäärä"
+  },
+  "empty": {
+    "title": "Tietoja ei ole vielä!",
+    "description": "Et ole vielä lyönyt vetoa"
+  }
+}

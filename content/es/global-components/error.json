@@ -1,0 +1,8 @@
+{
+  "title": "Algo ha ido mal",
+  "description": "La página a la que intenta acceder no existe o ha sido movida. Intente volver a nuestra página de inicio.",
+  "button": {
+    "label": "Página de inicio",
+    "url": "/"
+  }
+}

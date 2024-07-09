@@ -1,0 +1,28 @@
+{
+  "limitedRealGame": {
+    "title": "Viga",
+    "description": "Vabandust, kuid praegu ei saa te reaalses režiimis mängida. Palun võtke lisateabe saamiseks ühendust meie tugimeeskonnaga."
+  },
+  "limitedDeposit": {
+    "title": "Viga",
+    "description": "Vabandame, kuid praegu ei saa te deposiiti teha. Palun võtke lisateabe saamiseks ühendust meie tugimeeskonnaga."
+  },
+  "cashLimitAdd": {
+    "title": "Limiit seatud edukalt"
+  },
+  "cashLimitEditLargeAmount": {
+    "title": "Piirangute uuendamine edukalt",
+    "description": "Palun kontrollige oma e-kirja ja järgige saadud kinnituslinki, et aktiveerida limiidi muutmine."
+  },
+  "cashLimitEditSmallerAmount": {
+    "title": "Limiidi uuendamine edukalt"
+  },
+  "cashLimitCancel": {
+    "title": "Limiit tühistati edukalt",
+    "description": "Olete edukalt tühistanud limiidi. Muudatus rakendatakse 24 tunni jooksul."
+  },
+  "coolingOfLimitCancel": {
+    "title": "Limiidi uuendamine edukalt",
+    "description": "Limiit tühistatakse 24 tunni pärast"
+  }
+}

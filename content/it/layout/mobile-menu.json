@@ -1,0 +1,22 @@
+{
+  "menuLabel": "Menu",
+  "items": {
+    "firstItem": {
+      "label": "Casinò",
+      "url": "/main"
+    },
+    "secondItem": {
+      "label": "Sport",
+      "url": "/betting"
+    },
+    "thirdItem": {
+      "label": "Assistenza",
+      "url": "/contact"
+    }
+  },
+  "chatLabel": "Live Chat",
+  "contactButton": {
+    "label": "Assistenza",
+    "url": "/contact"
+  }
+}

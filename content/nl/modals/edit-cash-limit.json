@@ -1,0 +1,21 @@
+{
+  "popupLabel": {
+    "edit_daily_3": "Dagelijkse stortingslimiet bewerken",
+    "edit_weekly_3": "Wekelijkse stortingslimiet bewerken",
+    "edit_monthly_3": "Maandelijkse stortingslimiet bewerken",
+    "edit_daily_2": "Limiet dagelijks verlies bewerken",
+    "edit_weekly_2": "Limiet wekelijkse verliezen bewerken",
+    "edit_monthly_2": "Limiet maandelijks verlies bewerken",
+    "edit_daily_1": "Limiet dagelijkse inzet bewerken",
+    "edit_weekly_1": "Limiet wekelijkse inzet bewerken",
+    "edit_monthly_1": "Maandelijkse inzetlimiet bewerken"
+  },
+  "hint": "Bevestiging per e-mail is vereist. De wijziging wordt binnen 24 uur toegepast.",
+  "actions": {
+    "updateButtonLabel": "bijwerken",
+    "deleteButtonLabel": "Verwijderen"
+  },
+  "lessAmountTitle": "Limiet succesvol bijgewerkt",
+  "greaterAmountTitle": "Nieuwe limietsom is groter dan de vorige",
+  "greaterAmountDescription": "Controleer uw e-mail en volg de ontvangen bevestigingslink om de limietwijziging te activeren."
+}

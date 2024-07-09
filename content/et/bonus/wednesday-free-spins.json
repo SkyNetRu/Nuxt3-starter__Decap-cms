@@ -1,0 +1,14 @@
+{
+  "pageUrl": "wednesday-free-spins",
+  "title": "Kolmapäevased tasuta keerutused",
+  "subtitle": "Saa 100 tasuta keerutusi igal kolmapäeval",
+  "description": "Kolmapäeviti saavad meie mängijad kas 30, 50 või 100 tasuta keerutust lihtsalt sissemakse tegemiseks. Kasutage kindlasti võimalust saada kolmapäevaseid tasuta keerutusi, kui see päev kätte jõuab!",
+  "button": {
+    "label": "Hangi boonus"
+  },
+  "termsLabel": "Boonustingimused:",
+  "termsContent": "1. Boonuse saamiseks sisestage enne sissemakse tegemist boonuskood WEDNESDAY.\n2. Boonuse saamiseks minimaalne sissemakse:\n\n   * 20 tasuta spinni - 1 mBTC;\n   * 50 tasuta keerutust - 1,5 mBTC;\n   * 100 tasuta keerutust - 2 mBTC.\n3. Täielik panustamine nõuab panuse tegemist 40-kordse summa ulatuses, mis vastab saadud boonuse summale: (tasuta spinnide võidud) ×40.\n4. Tasuta keerutused kantakse automaatselt teie kontole!\n5. Maksimaalse panuse piirang panustamise ajal on 0,3 mBTC.\n6. Boonus on saadaval ainult kolmapäeval kell 00-00 kuni 23-59.",
+  "seo": {
+    "title": "Win.Casino | Kolmapäevased tasuta keerutused"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Bonusuri",
+  "historyLink": "Vezi istoricul bonusurilor tale",
+  "bonusCode": {
+    "title": "Aveți un cod promoțional?",
+    "timerText": "până la următoarea încercare",
+    "buttonLabel": "Adăugați",
+    "tryError": "Codul de bonus este incorect. Încearcă din nou după 3 minute"
+  },
+  "cashBonuses": {
+    "title": "Bonusuri în numerar",
+    "wagerHintLabel": "Cerințe de pariere",
+    "casinoWagerLabel": "Cerințele de pariere la cazino - x{wager} Bonus",
+    "sportsbookWagerLabel": "Cerințe de pariere pentru pariuri sportive - x{wager} Bonus",
+    "waitingResult": "Așteptăm rezultatele pariurilor de la Sportsbook."
+  },
+  "freeSpins": {
+    "title": "Rotiri gratuite"
+  },
+  "seo": {
+    "title": "Win.Casino | Bonusuri"
+  }
+}

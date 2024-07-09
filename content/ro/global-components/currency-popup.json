@@ -1,0 +1,10 @@
+{
+  "tabs": {
+    "allTab": "Toate",
+    "cryptoTab": "Crypto"
+  },
+  "empty": {
+    "title": "S-a făcut!",
+    "description": "Ați adăugat deja toate monedele"
+  }
+}

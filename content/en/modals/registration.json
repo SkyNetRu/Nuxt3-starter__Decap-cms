@@ -1,0 +1,35 @@
+{
+  "title": "Join Win.Casino",
+  "registrationButton": "Sign up",
+  "loginButton": " Already a member? *Sign in*",
+  "promo": {
+    "title": "Welcome package",
+    "secondTitle": "3000 EUR + 200 FS",
+    "additionalTitle": "on sport and casino",
+    "advantages": [
+      {
+        "icon": "cherry",
+        "label": "Over 4 000 provably fair games"
+      },
+      {
+        "icon": "speed",
+        "label": "Fast withdrawals"
+      },
+      {
+        "icon": "live-support",
+        "label": "24/7 Live Chat Support"
+      }
+    ],
+    "displayAdvantages": false,
+    "images": {
+      "mobile": {
+        "backgroundImage": "/img/uploads/reg-promo-sm.png"
+      },
+      "desktop": {
+        "backgroundImage": "/img/uploads/reg-promo-lg.png"
+      }
+    }
+  },
+  "agreeEmailLabel": "I agree to receive bonus & marketing emails",
+  "agreeSmsLabel": "Send promos by SMS"
+}

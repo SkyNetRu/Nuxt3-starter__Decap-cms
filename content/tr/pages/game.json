@@ -1,0 +1,19 @@
+{
+  "demoLabel": "Gerçek oynamaya hazır mısınız?",
+  "demoButton": "Evet, gerçek oynayın",
+  "plug": {
+    "title": "Lütfen, giriş yapın",
+    "description": "Bu oyun eğlence modunda mevcut değildir, oynamak için lütfen giriş yapın veya kayıt olun."
+  },
+  "seo": {
+    "title": "Win.Casino | 4.000'den fazla slot ve oyun oynayın"
+  },
+  "demoModal": {
+    "label": "Demo Modundasınız",
+    "description": "Gerçek anlaşmalara hazır mısın? Gerçek moda dalın ve bahisleri artırın.",
+    "demo": "Demo Oyna",
+    "real": "Gerçek Oyna",
+    "deposit": "Depozito",
+    "registration": "Kayıt"
+  }
+}

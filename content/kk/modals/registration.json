@@ -1,0 +1,21 @@
+{
+  "title": "Win.Casino-ке қосылыңыз",
+  "agreeEmailLabel": "Мен бонустық және маркетингтік электрондық хаттарды алуға келісемін",
+  "agreeSmsLabel": "Жарнамаларды SMS арқылы жіберіңіз",
+  "registrationButton": "Тіркелу",
+  "loginButton": "Мүшесіз бе? *Кіру*",
+  "promo": {
+    "title": "Сәлемдесу пакеті",
+    "secondTitle": "3000 Еуро + 200 FS",
+    "additionalTitle": "Спорт және казино туралы",
+    "images": {
+      "mobile": {
+        "backgroundImage": "/img/uploads/registration-mobile.webp"
+      },
+      "desktop": {
+        "backgroundImage": "/img/uploads/eu-registration.webp"
+      }
+    },
+    "displayAdvantages": false
+  }
+}

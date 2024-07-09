@@ -1,0 +1,28 @@
+{
+  "limitedRealGame": {
+    "title": "Fejl",
+    "description": "Beklager, men du kan ikke spille i real mode lige nu. Kontakt venligst vores supportteam for mere information."
+  },
+  "limitedDeposit": {
+    "title": "Fejl",
+    "description": "Beklager, men du kan ikke indbetale lige nu. Kontakt venligst vores supportteam for mere information."
+  },
+  "cashLimitAdd": {
+    "title": "Grænse sat med succes"
+  },
+  "cashLimitEditLargeAmount": {
+    "title": "Limit-opdatering gennemført",
+    "description": "Tjek venligst din e-mail, og følg det modtagne bekræftelseslink for at aktivere grænseændringen."
+  },
+  "cashLimitEditSmallerAmount": {
+    "title": "Grænseopdatering gennemført"
+  },
+  "cashLimitCancel": {
+    "title": "Limit annulleret med succes",
+    "description": "Du har annulleret grænsen med succes. Ændringen vil blive gennemført om 24 timer."
+  },
+  "coolingOfLimitCancel": {
+    "title": "Grænseopdatering gennemført",
+    "description": "Grænsen vil blive annulleret efter 24 timer"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "bonusTypes": {
+    "1": "Peşin",
+    "2": "Yüzde",
+    "3": "Ücretsiz Çevirme",
+    "4": "Nakit para"
+  },
+  "betStatuses": {
+    "1": "Askıda olması",
+    "2": "Kazanmak",
+    "3": "Kayıp",
+    "4": "Geri ödemek",
+    "5": "Param bitti"
+  },
+  "invoiceStatuses": {
+    "1": "Askıda olması",
+    "2": "Başarı",
+    "3": "Reddedilmiş",
+    "4": "İşleme"
+  },
+  "invoiceTypes": {
+    "1": "Depozito",
+    "2": "Para çekme",
+    "3": "Denge düzeltmesi",
+    "4": "Satın almak",
+    "5": "Sanal ödeme"
+  },
+  "limitPeriods": {
+    "daily": "Günlük",
+    "weekly": "Haftalık",
+    "monthly": "Aylık",
+    "1_day": "1 gün",
+    "3_days": "3 gün",
+    "1_week": "1 hafta",
+    "1_month": "1 ay",
+    "3_months": "3 ay",
+    "6_months": "6 ay",
+    "9_months": "9 ay",
+    "1_year": "1 yıl",
+    "forever": "Sonsuza kadar"
+  }
+}

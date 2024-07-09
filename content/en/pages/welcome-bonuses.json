@@ -1,0 +1,102 @@
+{
+  "title": "Welcome package. Up to 3000 USDT + 200 Free Spins",
+  "description": "Welcome package is one of the most generous Win.Casino offers! It's a bonus bundle for your 4 initial deposits after the registration",
+  "howGet": {
+    "label": "How to get your bonuses:",
+    "steps": [
+      "Make a successful deposit from 20 EUR",
+      "Go to Bonuses tab and activate your Free spin",
+      "Enjoy the great gaming experience!"
+    ],
+    "image": "/img/uploads/nft_gift.png"
+  },
+  "welcome": {
+    "label": "Welcome package",
+    "items": [
+      {
+        "topLabel": "1st deposit bonus",
+				"image": "/img/ballcasino.svg",
+        "title": "100% bonus up to 500 EUR",
+        "buttonLabel": "Get bonus",
+        "link": {
+          "label": "More info",
+          "url": "/bonus/first-deposit-bonus"
+        }
+      },
+      {
+        "topLabel": "2nd deposit bonus",
+				"image": "/img/casinochip.svg",
+        "title": "Casino: 25% bonus up to 500 EUR and 50 FS and Sport: 50% up to 1000 EUR",
+        "buttonLabel": "Get bonus",
+        "link": {
+          "label": "More info",
+          "url": "/bonus/second-deposit-bonus"
+        }
+      },
+      {
+        "topLabel": "3rd deposit bonus",
+				"image": "/img/dice.svg",
+        "title": "Casino: 25% bonus up to 500 EUR and 50 FS and Sport: 50% up to 1 000 EUR",
+        "buttonLabel": "Get bonus",
+        "link": {
+          "label": "More info",
+          "url": "/bonus/third-deposit-bonus"
+        }
+      },
+      {
+        "topLabel": "4th deposit bonus",
+				"image": "/img/queencards.svg",
+        "title": "Casino: 50% bonus up to 500 EUR and 100 FS and Sport: 100% up to 500 EUR",
+        "buttonLabel": "Get bonus",
+        "link": {
+          "label": "More info",
+          "url": "/bonus/fourth-deposit-bonus"
+        }
+      }
+    ]
+  },
+  "bonuses": {
+    "label": "Weekly bonuses",
+    "items": [
+      {
+        "title": "Reload Casino",
+        "subtitle": "100% up to 300 EUR and 50 FS",
+        "image": "/img/goldenbox.svg",
+        "buttonLabel": "Get bonus",
+        "link": {
+          "label": "More info",
+          "url": "/bonus/casino-reload-bonus"
+        }
+      },
+      {
+        "title": "Reload Sport",
+        "subtitle": "100% up to 100 EUR",
+        "image": "/img/ballwin.svg",
+        "buttonLabel": "Get bonus",
+        "link": {
+          "label": "More info",
+          "url": "/bonus/sport-reload-bonus"
+        }
+      },
+      {
+        "title": "Weekly Cashback",
+        "subtitle": "Take your cashback every Tuesday",
+        "image": "/img/dicetarget.svg",
+        "buttonLabel": "Get bonus",
+        "link": {
+          "label": "More info",
+          "url": "/bonus/weekly-cashback"
+        }
+      }
+    ]
+  },
+  "seo": {
+    "text": {
+      "visible": ""
+    },
+    "title": "Win.Casino | Bonuses"
+  },
+  "IPageMeta": {
+    "title": "Win.Casino | Bonuses"
+  }
+}

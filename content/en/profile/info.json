@@ -1,0 +1,36 @@
+{
+  "verifyButton": "Verify",
+  "verifiedLabel": "Your email is verified",
+  "cancelButton": "Cancel",
+  "closeButton": "Close",
+  "saveButton": "Save changes",
+  "unverifiedLabel": "Your email is unverified",
+  "manageTitle": "Manage account",
+  "title": "Profile info",
+  "sendButton": "Send link",
+  "subscriptionTitle": "Subscriptions",
+  "editButton": "Edit your profile",
+  "emailPlaceholder": "Enter your email",
+  "emailLabel": "Email address",
+  "languageLabel": "Language",
+  "supportLabel": "Online support",
+  "supportbtnLabel": "Open",
+  "menuTitle": {
+    "favoriteGames": "Favorite games",
+    "recentlyPlayed": "Recently played",
+    "referrals": "Referrals",
+    "bonuses": "Bonuses",
+    "promocode": "Enter promocode",
+    "settings": "Settings",
+    "language": "Language",
+    "onlineSupport": "Online support"
+  },
+  "seo": {
+    "text": {
+      "visible": "",
+      "hidden": "",
+      "button": ""
+    },
+    "title": "Win.Casino | Profile info"
+  }
+}

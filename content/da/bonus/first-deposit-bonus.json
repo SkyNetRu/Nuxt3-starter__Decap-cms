@@ -1,0 +1,16 @@
+{
+  "pageUrl": "first-deposit-bonus",
+  "termsLabel": "Vilkår for bonus:",
+  "termsContent": "**Vilkår og betingelser for casino bonus ved første indbetaling:**",
+  "button": {
+    "label": "Få en bonus"
+  },
+  "backgroundColor": "red",
+  "subtitle": "Få din 100% bonus op til 500 EUR",
+  "title": "1. indskudsbonus",
+  "image": "/img/uploads/1-deposit-new.png",
+  "description": "Win.Casino hilser dig med en kæmpe første bonus! Da du er ny hos os, tilbyder vi dig en 100% bonus op til 500 EUR på din første indbetaling.",
+  "seo": {
+    "title": "Win.Casino | Første indbetalingsbonus"
+  }
+}

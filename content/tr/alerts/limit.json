@@ -1,0 +1,28 @@
+{
+  "limitedRealGame": {
+    "title": "Hata",
+    "description": "Üzgünüz, ancak şimdilik gerçek modda oynayamazsınız. Daha fazla bilgi için lütfen destek ekibimizle iletişime geçin."
+  },
+  "limitedDeposit": {
+    "title": "Hata",
+    "description": "Üzgünüz, şimdilik para yatıramazsınız. Daha fazla bilgi için lütfen destek ekibimizle iletişime geçin."
+  },
+  "cashLimitAdd": {
+    "title": "Limit başarıyla ayarlandı"
+  },
+  "cashLimitEditLargeAmount": {
+    "title": "Limit güncellemesi başarıyla",
+    "description": "Lütfen e-postanızı kontrol edin ve limit değişikliğini etkinleştirmek için alınan onay bağlantısını izleyin."
+  },
+  "cashLimitEditSmallerAmount": {
+    "title": "Limit güncellemesi başarıyla"
+  },
+  "cashLimitCancel": {
+    "title": "Limit başarıyla iptal edildi",
+    "description": "Limiti başarıyla iptal ettiniz. Değişiklik 24 saat içinde uygulanacaktır."
+  },
+  "coolingOfLimitCancel": {
+    "title": "Limit güncellemesi başarıyla",
+    "description": "Limit 24 saat sonra iptal edilecektir"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "addBetLabel": "Ny innsatsgrense",
+  "addLossLabel": "Ny tapsgrense",
+  "addDepositLabel": "Ny innskuddsgrense",
+  "hint": "Begrensningen trer i kraft umiddelbart. Du kan når som helst redusere grensen din, og denne endringen trer i kraft umiddelbart. Du kan øke grensen, men for at denne endringen skal tre i kraft, trenger du 24 timer. Det tar 24 timer å kansellere innskuddsgrensen. Etter at grensen er overskredet, vil du motta et e-postvarsel.",
+  "chooseCurrencyLabel": "Velg valuta",
+  "chooseCurrencyError": "Velg valuta for ny innskuddsgrense",
+  "addButton": "Legg til",
+  "successConfirmLabel": "Grensen er satt med hell"
+}

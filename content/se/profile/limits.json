@@ -1,0 +1,41 @@
+{
+  "title": "Gränser",
+  "addButtonLabel": "Lägg till ny",
+  "editButtonLabel": "Redigera gränser",
+  "doneButtonLabel": "Klar redigering",
+  "setButtonLabel": "Ställ in",
+  "modeToggle": "Avancerat läge",
+  "titleTooltip": "Denna inställning begränsar det belopp du kan sätta in per dag, vecka eller månad.",
+  "availableLimitSum": "{balance} av {amount} {currency} kvar",
+  "activeStatusLabel": "Aktiv till {date}",
+  "pendingStatusLabel": "Väntande till {date}",
+  "statusPendingTimerLabel": "tills aktivering",
+  "statusActiveTimerLabel": "tills återställning",
+  "timerAlmostDoneLabel": "Nästan klar",
+  "deposit": {
+    "label": "Insättningsgränser",
+    "hint": "Denna inställning begränsar det belopp du kan sätta in per dag, vecka eller månad"
+  },
+  "loss": {
+    "label": "Gränser för förlust",
+    "hint": "Denna inställning begränsar det belopp du kan sätta in per dag, vecka eller månad"
+  },
+  "bet": {
+    "label": "Gränser för insatser",
+    "hint": "Denna inställning begränsar det belopp du kan sätta in per dag, vecka eller månad"
+  },
+  "coolingOff": {
+    "label": "Avkylning",
+    "selectLabel": "Ingen",
+    "hint": "Begränsningen träder i kraft omedelbart. Du kommer inte att kunna göra insättningar och spela under den angivna perioden, och du kommer också att uteslutas från alla reklamerbjudanden.",
+    "activeStatusLabel": "Aktiv till {date}",
+    "pendingStatusLabel": "Väntar. Kommer att aktiveras den {date}",
+    "deleteConfirmTitle": "Uppdatering av gräns framgångsrikt",
+    "deleteConfirmDescription": "Gränsen kommer att annulleras efter 24 timmar"
+  },
+  "selfExclusion": {
+    "label": "Egen uteslutning",
+    "selectLabel": "Ingen",
+    "hint": "Du kan ange en gräns för självexkludering för en bestämd eller obestämd tidsperiod. Begränsningen träder i kraft omedelbart. Under den inställda perioden kommer du inte att kunna logga in på ditt konto. För att bli utesluten från spel på vår webbplats under en obestämd tidsperiod, vänligen kontakta vårt supportteam via [live-chat](#)"
+  }
+}

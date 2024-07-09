@@ -1,0 +1,35 @@
+{
+  "title": "Turvallisuus ja todentaminen",
+  "documents": {
+    "hideText": "Piilota teksti",
+    "moreInfo": "Lisätietoja",
+    "uploadPlaceholder": "Valitse tiedosto tai vedä ja pudota tästä",
+    "uploadHint": "Seuraavat tiedostotyypit hyväksytään: .png, .jpg, .pdf. Maksimikoko 2MB.",
+    "uploadButton": "Lataa tiedosto",
+    "uploadMore": "Lataa lisää tiedostoja",
+    "identity": {
+      "label": "Identiteetti",
+      "description": "Lataa henkilöllisyystodistus. Kaikkien asiakirjojen on oltava tasaisella alustalla ja kaikkien 4 kulman on oltava kehyksen sisällä. Kaikkien tietojen on oltava selkeitä ja tunnistettavia. Lataa myös omakuvasi passi/henkilökortti kädessäsi.",
+      "identity_front": "Henkilöllisyystodistus (etupuoli)",
+      "identity_back": "Henkilöllisyystodistus (takana)",
+      "identity_selfie_id": "Selfie ja henkilöllisyystodistus"
+    },
+    "address": {
+      "label": "Osoite",
+      "description": "Lataa yleishyödyllinen laitoslasku, puhelinlasku tai pankkitiliote, jossa nimesi on.",
+      "address": "Osoitetodistus"
+    },
+    "payment": {
+      "label": "Maksu",
+      "description": "Lataa kuvakaappaus tai valokuva verkkopankista, tiliote, Skrill-sivu jne.",
+      "payment": "Todiste maksusta"
+    }
+  },
+  "password": {
+    "label": "Vaihda salasana",
+    "saveButton": "Tallenna muutokset"
+  },
+  "seo": {
+    "title": "Win.Casino | Turvallisuus ja todentaminen"
+  }
+}

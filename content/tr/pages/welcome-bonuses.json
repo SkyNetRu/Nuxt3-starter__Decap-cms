@@ -1,0 +1,19 @@
+{
+  "title": "Hoş geldin paketi. 3 000 EUR'ya kadar + 300 Free Spins",
+  "description": "Hoşgeldin paketi Win.Casino'nin en cömert tekliflerinden biridir! Kayıttan sonraki ilk 4 para yatırma işleminiz için bir bonus paketi",
+  "howGet": {
+    "label": "Bonuslarınızı nasıl alırsınız:",
+    "first": "20 EUR tutarında başarılı bir para yatırma işlemi yapın",
+    "second": "Bonuslar sekmesine gidin ve Ücretsiz çevirmelerinizi ve Nakit Bonuslarınızı etkinleştirin",
+    "third": "Harika oyun deneyiminin tadını çıkarın!"
+  },
+  "welcome": {
+    "label": "Hoş geldin paketi"
+  },
+  "bonuses": {
+    "label": "Haftalık bonuslar"
+  },
+  "seo": {
+    "title": "Win.Casino | Bonuslar"
+  }
+}

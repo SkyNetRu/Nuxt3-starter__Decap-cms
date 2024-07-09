@@ -1,0 +1,18 @@
+{
+  "title": "Lijst met aanbieders",
+  "providersLabel": "Aanbieders",
+  "gamesLabel": "spellen",
+  "staticProvider": {
+    "identity": "turbo-games",
+    "button": "Naar de lucht"
+  },
+  "searchPlaceholder": "Zoek uw aanbieder",
+  "empty": {
+    "title": "Niets gevonden",
+    "description": "Probeer iets anders te zoeken"
+  },
+  "sortLabel": "Sorteer op:",
+  "seo": {
+    "title": "Win.Casino | Lijst met aanbieders"
+  }
+}

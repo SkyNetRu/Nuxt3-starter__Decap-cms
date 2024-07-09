@@ -1,0 +1,42 @@
+{
+  "bonusTypes": {
+    "1": "Dinheiro",
+    "2": "Percentagem",
+    "3": "Giro Grátis",
+    "4": "Dinheiro de volta"
+  },
+  "betStatuses": {
+    "1": "Pendente",
+    "2": "Ganho",
+    "3": "Perdido",
+    "4": "Reembolso",
+    "5": "Sacar"
+  },
+  "invoiceStatuses": {
+    "1": "Pendente",
+    "2": "Sucesso",
+    "3": "Rejeitado",
+    "4": "Em processamento"
+  },
+  "invoiceTypes": {
+    "1": "Depósito",
+    "2": "Cancelamento",
+    "3": "Correção de equilíbrio",
+    "4": "Comprar",
+    "5": "Pagamento virtual"
+  },
+  "limitPeriods": {
+    "daily": "Diário",
+    "weekly": "Semanalmente",
+    "monthly": "Por mês",
+    "1_day": "1 dia",
+    "3_days": "3 dias",
+    "1_week": "1 semana",
+    "1_month": "1 mês",
+    "3_months": "3 meses",
+    "6_months": "6 meses",
+    "9_months": "9 meses",
+    "1_year": "1 ano",
+    "forever": "Para sempre"
+  }
+}

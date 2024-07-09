@@ -1,0 +1,25 @@
+{
+  "menuLabel": "Menü",
+  "items": {
+    "firstItem": {
+      "label": "Casino",
+      "url": "/main",
+      "icon": "cherry"
+    },
+    "secondItem": {
+      "label": "Sports",
+      "url": "/betting",
+      "icon": "sport"
+    },
+    "thirdItem": {
+      "label": "Support",
+      "url": "/contact",
+      "icon": "live-support"
+    }
+  },
+  "chatLabel": "Livechat",
+  "contactButton": {
+    "label": "Unterstützung",
+    "url": "/contact"
+  }
+}

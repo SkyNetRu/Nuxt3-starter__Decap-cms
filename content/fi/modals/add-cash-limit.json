@@ -1,0 +1,10 @@
+{
+  "addBetLabel": "Uusi panosraja",
+  "addLossLabel": "Uusi tappiorajoitus",
+  "addDepositLabel": "Uusi talletusraja",
+  "hint": "Rajoitus astuu voimaan välittömästi. Voit pienentää rajaa milloin tahansa, muutos astuu voimaan välittömästi. Voit nostaa rajaa, mutta tämän muutoksen voimaantuloon tarvitaan 24 tuntia. Talletusrajan peruuttaminen kestää 24 tuntia. Kun raja on ylitetty, saat sähköposti-ilmoituksen.",
+  "chooseCurrencyLabel": "Valitse valuutta",
+  "chooseCurrencyError": "Valitse valuutta uutta talletusrajaa varten",
+  "addButton": "Lisää",
+  "successConfirmLabel": "Raja asetettu onnistuneesti"
+}

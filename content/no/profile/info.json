@@ -1,0 +1,15 @@
+{
+  "title": "Profilinformasjon",
+  "sendButton": "Send lenke",
+  "verifyButton": "Bekreft",
+  "verifiedLabel": "E-postadressen din er bekreftet",
+  "unverifiedLabel": "E-postadressen din er ikke bekreftet",
+  "editButton": "Rediger profilen din",
+  "saveButton": "Lagre endringer",
+  "cancelButton": "Avbryt",
+  "subscriptionTitle": "Abonnementer",
+  "manageTitle": "Administrer konto",
+  "seo": {
+    "title": "Win.Casino | Profilinfo"
+  }
+}

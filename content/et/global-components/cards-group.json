@@ -1,0 +1,16 @@
+{
+  "moreButton": "Näita kõiki",
+  "recommendedSubtitle": "Parimad mängud sinu jaoks",
+  "favorites": {
+    "label": "Lemmikud"
+  },
+  "providers": {
+    "label": "Teenusepakkujad"
+  },
+  "latestWinners": {
+    "label": "Viimased võitjad"
+  },
+  "recentlyPlayed": {
+    "label": "Hiljuti mängitud"
+  }
+}

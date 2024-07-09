@@ -1,0 +1,155 @@
+{
+  "password": {
+    "label": "Palavra-passe",
+    "placeholder": "Introduza a sua palavra-passe"
+  },
+  "currentPassword": {
+    "label": "Palavra-passe atual",
+    "placeholder": "Introduza a sua palavra-passe atual"
+  },
+  "newPassword": {
+    "label": "Nova palavra-passe",
+    "placeholder": "Introduzir a nova palavra-passe"
+  },
+  "repeatNewPassword": {
+    "label": "Nova palavra-passe novamente",
+    "placeholder": "Introduzir novamente a nova palavra-passe"
+  },
+  "firstName": {
+    "label": "Nome próprio",
+    "placeholder": "Introduzir o primeiro nome"
+  },
+  "lastName": {
+    "label": "Último nome",
+    "placeholder": "Introduzir o último nome"
+  },
+  "nationality": {
+    "label": "Nacionalidade",
+    "placeholder": "Introduza a sua nacionalidade"
+  },
+  "nickname": {
+    "label": "Apelido",
+    "placeholder": "Introduza o seu apelido"
+  },
+  "gender": {
+    "label": "Género",
+    "maleLabel": "Sexo masculino",
+    "femaleLabel": "Feminino",
+    "otherLabel": "Outro"
+  },
+  "city": {
+    "label": "Cidade",
+    "placeholder": "Introduza a sua cidade"
+  },
+  "address": {
+    "label": "Endereço",
+    "placeholder": "Introduza o seu endereço"
+  },
+  "additionalAddress": {
+    "label": "Endereço adicional",
+    "placeholder": "Introduza o seu endereço adicional"
+  },
+  "postalCode": {
+    "label": "Código postal",
+    "placeholder": "Introduzir o código postal"
+  },
+  "timeZone": {
+    "label": "Fuso horário",
+    "placeholder": "Selecionar o fuso horário"
+  },
+  "profession": {
+    "label": "Profissão",
+    "placeholder": "Introduza a sua profissão"
+  },
+  "language": {
+    "label": "Língua",
+    "placeholder": "Introduza a sua língua"
+  },
+  "bonusCode": {
+    "label": "Código (opcional)",
+    "placeholder": "Introduza o código"
+  },
+  "securityQuestion": {
+    "label": "Pergunta de segurança",
+    "placeholder": "Introduza a sua pergunta de segurança"
+  },
+  "securityAnswer": {
+    "label": "Resposta de segurança",
+    "placeholder": "Introduza uma resposta à sua pergunta de segurança"
+  },
+  "email": {
+    "label": "Endereço de correio eletrónico",
+    "placeholder": "Introduza o seu e-mail"
+  },
+  "country": {
+    "label": "País",
+    "placeholder": "Seleccione o seu país"
+  },
+  "currency": {
+    "label": "Moeda",
+    "placeholder": "Seleccione a sua moeda"
+  },
+  "agreements": {
+    "label": "Aceito os <a href=\"/static/terms-and-conditions\" target=\"_blank\" >Termos e Condições</a> e <a href=\"/static/privacy-policy\" target=\"_blank\" >Política de Privacidade</a>"
+  },
+  "receiveEmailPromo": {
+    "label": "Enviar promoções por correio eletrónico"
+  },
+  "receiveSmsPromo": {
+    "label": "Enviar promoções por SMS"
+  },
+  "receiveBonus": {
+    "label": "Receber bónus"
+  },
+  "phone": {
+    "label": "Telemóvel",
+    "placeholder": "Introduzir o número de telefone"
+  },
+  "birthdate": {
+    "label": "Data de nascimento",
+    "placeholderDay": "Dia",
+    "placeholderMonth": "Mês",
+    "placeholderYear": "Ano"
+  },
+  "placeOfBirth": {
+    "label": "Local de nascimento",
+    "placeholder": "Introduza o seu local de nascimento"
+  },
+  "personalIdNumber": {
+    "label": "Número de identificação pessoal",
+    "placeholder": "Número de referência do bilhete de identidade (se disponível)"
+  },
+  "message": {
+    "label": "Texto",
+    "placeholder": "Introduza a sua mensagem"
+  },
+  "wallet_id": {
+    "label": "Endereço da carteira",
+    "placeholder": "Introduzir o endereço da carteira"
+  },
+  "card_number": {
+    "label": "Número do cartão",
+    "placeholder": "Introduzir o número do cartão"
+  },
+  "card_holder": {
+    "label": "Titular do cartão",
+    "placeholder": "Introduzir o nome do titular do cartão de crédito"
+  },
+  "exp_month": {
+    "label": "Mês de expiração",
+    "placeholder": "Introduzir o mês de expiração"
+  },
+  "exp_year": {
+    "label": "Ano de expiração",
+    "placeholder": "Introduzir o ano de expiração"
+  },
+  "networkSelect": {
+    "label": "Seleccione a sua rede",
+    "placeholder": "Rede",
+    "info": "Para continuar,<br>selecionar a rede 👆👆👆👆"
+  },
+  "age": {
+    "label": "Idade",
+    "placeholder": "Insira sua idade"
+  }
+}

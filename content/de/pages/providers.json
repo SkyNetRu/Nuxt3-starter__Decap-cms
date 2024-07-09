@@ -1,0 +1,18 @@
+{
+  "title": "Anbieterliste",
+  "providersLabel": "Provider",
+  "gamesLabel": "Games",
+  "staticProvider": {
+    "identity": "turbo-games",
+    "button": "In den Himmel"
+  },
+  "searchPlaceholder": "Suchen Sie Ihren Anbieter",
+  "empty": {
+    "title": "Nichts gefunden",
+    "description": "Versuchen Sie, nach etwas anderem zu suchen"
+  },
+  "sortLabel": "Sortieren nach:",
+  "seo": {
+    "title": "Win.Casino | Anbieterliste"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "withdrawalProcessed": {
+    "title": "Pendiente.",
+    "description": "Su retirada está siendo procesada. Comprobaremos su solicitud en breve."
+  },
+  "userCanceledWithdrawal": {
+    "title": "Éxito",
+    "description": "Ha cancelado correctamente su retirada."
+  },
+  "depositSuccess": {
+    "title": "Éxito",
+    "description": "Su ingreso de {sum} realizado en {date} se ha realizado correctamente."
+  },
+  "depositError": {
+    "title": "Error",
+    "description": "Lo sentimos, pero algo ha ido mal con su ingreso de {sum} de {date}. Por favor, inténtelo de nuevo."
+  },
+  "withdrawSuccess": {
+    "title": "Éxito",
+    "description": "Su {sum} de {date} ha sido aprobada."
+  },
+  "withdrawError": {
+    "title": "Retirada cancelada",
+    "description": "Su retirada de {sum} de {date} ha sido cancelada. Por favor, contacte con nuestro Equipo de Soporte para más información."
+  }
+}

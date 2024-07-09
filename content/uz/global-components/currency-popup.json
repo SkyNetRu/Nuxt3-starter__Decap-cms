@@ -1,0 +1,10 @@
+{
+  "tabs": {
+    "allTab": "Hammasi",
+    "cryptoTab": "Kripto"
+  },
+  "empty": {
+    "title": "Bajarildi!",
+    "description": "Siz allaqachon barcha valyutalarni qo'shdingiz"
+  }
+}

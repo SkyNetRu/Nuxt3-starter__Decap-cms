@@ -1,0 +1,8 @@
+{
+  "label": "Turbogames",
+  "showAll": {
+    "label": "Hepsini göster",
+    "url": "/games?category=turbogames"
+  },
+  "buttonLabel": "Şimdi oyna"
+}

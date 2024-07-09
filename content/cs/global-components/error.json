@@ -1,0 +1,8 @@
+{
+  "title": "Něco se pokazilo",
+  "description": "Stránka, na kterou se snažíte dostat, neexistuje nebo byla přesunuta. Zkuste se vrátit na naši domovskou stránku.",
+  "button": {
+    "label": "Domovská stránka",
+    "url": "/"
+  }
+}

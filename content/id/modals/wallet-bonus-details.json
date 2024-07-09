@@ -1,0 +1,19 @@
+{
+  "title": "Rincian Bonus",
+  "readMore": "Baca lebih lanjut tentang Bonus",
+  "infoLabels": {
+    "from": "Dari:",
+    "to": "Untuk:",
+    "excluded": "Tidak termasuk:",
+    "depositAmount": "Deposit:",
+    "bonusType": "Jenis Bonus:",
+    "freeSpins": "Gratis Spins:",
+    "casinoWager": "Taruhan Kasino:",
+    "sportsbookWager": "Taruhan Sportsbook:",
+    "maxWin": "Jumlah Kemenangan Maksimal:",
+    "casinoBetSum": "Kasino Bet:",
+    "sportsbookBetSum": "Taruhan Sportsbook:",
+    "providers": "Penyedia:",
+    "games": "Permainan:"
+  }
+}

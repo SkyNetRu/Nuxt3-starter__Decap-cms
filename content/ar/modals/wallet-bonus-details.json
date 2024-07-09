@@ -1,0 +1,19 @@
+{
+  "title": "تفاصيل المكافأة",
+  "readMore": "اقرأ المزيد عن المكافآت",
+  "infoLabels": {
+    "from": "من:",
+    "to": "حتى:",
+    "excluded": "المستبعد:",
+    "depositAmount": "إيداع:",
+    "bonusType": "نوع المكافأة:",
+    "freeSpins": "اللفات المجانية:",
+    "casinoWager": "رهان الكازينو:",
+    "sportsbookWager": "الرهان الرياضي:",
+    "maxWin": "الحد الأقصى لمبلغ الفوز:",
+    "casinoBetSum": "رهان الكازينو:",
+    "sportsbookBetSum": "الرهان الرياضي:",
+    "providers": "مقدمي الخدمة:",
+    "games": "ألعاب:"
+  }
+}

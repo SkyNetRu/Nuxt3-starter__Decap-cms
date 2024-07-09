@@ -1,0 +1,27 @@
+{
+  "tabLabel": "Tranzacții",
+  "dateLabel": "Data de la / până la:",
+  "allFilterOption": "Toate",
+  "typeFilterLabel": "Tip:",
+  "currencyLabel": "Monedă:",
+  "statusFilterLabel": "Stare:",
+  "tableColumns": {
+    "date": "Data",
+    "type": "Tip",
+    "method": "Metoda de plată",
+    "status": "Stare",
+    "sum": "Suma"
+  },
+  "cancelPaymentButton": "Anulează plata",
+  "empty": {
+    "title": "Nu există date încă!",
+    "description": "Nu aveți încă nicio tranzacție reușită."
+  },
+  "securityCode": {
+    "getCodeButton": "Obțineți codul",
+    "codeLabel": "Cod secret:",
+    "codeTooltip": "Cod secret copiat",
+    "clientLabel": "ID client:",
+    "clientTooltip": "ID-ul clientului a fost copiat"
+  }
+}

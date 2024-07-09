@@ -1,0 +1,16 @@
+{
+  "pageUrl": "sport-reload-bonus",
+  "termsLabel": "Bonus Koşulları:",
+  "termsContent": "1. Bonusu almak için en az 30 EUR veya diğer para birimlerinde aynı değerde para yatırmanız gerekir.\n2. Maksimum bonus tutarı, depozito tutarının% 100'üdür, ancak 100 Eur'dan fazla veya diğer para birimlerinde aynı değerde değildir.\n3. Para yatırma bonusu, aldığınız tarihten itibaren 5 gün boyunca geçerlidir.\n4. Tam bahis, alınan bonusun 5 katı bahis yapılmasını gerektirir: (para yatırma bonusu) × 5 \n5. Her Açılan bahis 3 veya daha fazla etkinlik içermelidir, açılan oranlar 1.4 - 2.4;",
+  "button": {
+    "label": "Bonus alın"
+  },
+  "backgroundColor": "gray",
+  "subtitle": "Cumartesi günü 100 Eur'ya kadar% 100 bonus",
+  "title": "Cumartesi Sporu Yeniden Yükleme Bonusu",
+  "image": "https://win.city/img/uploads/monday-big.webp",
+  "description": "Win.Casino ile yüksek notta hafta sonunuzun tadını çıkarın! Kendinize 100 Euro'ya kadar% 100 bonus almak kolaydır:\n\n\n1. En az 30 EUR depozito yatırın.\n2. Yatırdığınız tutarın% 100'ü değerinde (maksimum 100 Euro'ya kadar) anında bonus kazanın.",
+  "seo": {
+    "title": "Win.Casino | Pazartesi Yeniden Yükleme bonusu"
+  }
+}

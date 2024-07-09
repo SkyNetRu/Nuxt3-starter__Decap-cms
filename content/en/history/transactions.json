@@ -1,0 +1,49 @@
+{
+  "currencyLabel": "Currency:",
+  "dateLabel": "Date from / to:",
+  "statusFilterLabel": "Status:",
+  "empty": {
+    "icon": "empty-transactions",
+    "title": "There is no data yet!",
+    "description": "You don’t have any successful transactions yet."
+  },
+  "allFilterOption": "All",
+  "dateAllFilterOption": "All time",
+  "filter_buttons": {
+    "reset": "Reset",
+    "apply": "Apply",
+    "cancel": "Cancel"
+  },
+  "filter_title": "Filter",
+  "securityCode": {
+    "getCodeButton": "Get code",
+    "codeLabel": "Secret code:",
+    "codeTooltip": "Secret code copied",
+    "clientLabel": "Client ID:",
+    "clientTooltip": "Client ID copied"
+  },
+  "tableColumns": {
+    "date": "Date",
+    "type": "Type",
+    "method": "Payment Method",
+    "status": "Status",
+    "sum": "Sum"
+  },
+  "cancel_payment": {
+    "title": "Cancel payment?",
+    "description": "Are you sure you want to withdraw the payment?",
+    "cancel": "Cancel",
+    "reset": "Reset"
+  },
+  "get_code": {
+    "title": "Tell the agent your details",
+    "description": "Do not tell anyone except the agent your ID and secret code!",
+    "copy": "Copy",
+    "close": "Close",
+    "button": "Get code"
+  },
+  "typeFilterLabel": "Type:",
+  "cancelPaymentButton": "Cancel payment",
+  "tabPosition": 5,
+  "tabLabel": "Transactions"
+}

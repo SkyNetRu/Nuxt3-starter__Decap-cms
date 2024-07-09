@@ -1,0 +1,18 @@
+{
+  "title": "Provayderlar ro'yxati",
+  "providersLabel": "Provayderlar",
+  "gamesLabel": "o'yinlar",
+  "staticProvider": {
+    "identity": "turbo-games",
+    "button": "Osmonga"
+  },
+  "searchPlaceholder": "Provayderingizni qidiring",
+  "empty": {
+    "title": "Hech narsa topilmadi",
+    "description": "Boshqa narsani qidirib ko'ring"
+  },
+  "sortLabel": "Saralash turi:",
+  "seo": {
+    "title": "Win.Casino | Provayderlar ro'yxati"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "withdrawalProcessed": {
+    "title": "En attente!",
+    "description": "Votre retrait est en cours de traitement. Nous vérifierons votre demande dans un court laps de temps."
+  },
+  "userCanceledWithdrawal": {
+    "title": "Succès",
+    "description": "Vous avez annulé votre retrait avec succès."
+  },
+  "depositSuccess": {
+    "title": "Succès",
+    "description": "Votre dépôt {sum} effectué le {date} est réussi !"
+  },
+  "depositError": {
+    "title": "Erreur",
+    "description": "Désolé, mais un problème est survenu lors de votre dépôt de {sum} effectué le {date}. Veuillez réessayer."
+  },
+  "withdrawSuccess": {
+    "title": "Succès",
+    "description": "Votre retrait de {sum} effectué le {date} a été approuvé !"
+  },
+  "withdrawError": {
+    "title": "Retrait annulé",
+    "description": "Votre retrait de {sum} du {date} a été annulé. Veuillez contacter notre équipe d'assistance pour plus d'informations."
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "tabs": {
+    "allTab": "Semua",
+    "cryptoTab": "Kripto"
+  },
+  "empty": {
+    "title": "Selesai!",
+    "description": "Anda sudah menambahkan semua mata uang"
+  }
+}

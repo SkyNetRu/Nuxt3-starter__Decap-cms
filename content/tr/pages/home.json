@@ -1,0 +1,58 @@
+{
+  "banner": {
+    "title": "#### Win.Casino'de oynayın ve kazanın",
+    "button": {
+      "label": "Şimdi oyna"
+    },
+    "images": {
+      "faceImage": "/img/uploads/front-bg.webp",
+      "backgroundImage": "/img/uploads/back-bg.webp"
+    }
+  },
+  "categories": {
+    "casino": {
+      "title": "Kumarhane",
+      "description": "4.000'den fazla kanıtlanabilir adil oyunun tadını çıkarın",
+      "button": {
+        "label": "Ücretsiz Döndürme",
+        "url": "/main"
+      },
+      "image": "/img/uploads/casino-new-1-.png"
+    },
+    "betting": {
+      "title": "Bahis",
+      "description": "En rekabetçi oranlar ve pazarlar. Hemen bahis yap ve kazan",
+      "button": {
+        "label": "Şimdi Bahis Yapın",
+        "url": "/betting"
+      },
+      "image": "/img/uploads/betting-new-1-.png"
+    },
+    "esports": {
+      "title": "Espor",
+      "description": "En rekabetçi oranlar ve piyasalar.",
+      "button": {
+        "label": "Şimdi Bahis Yapın",
+        "url": "/betting"
+      },
+      "image": "/img/uploads/esports-1.png"
+    }
+  },
+  "seo": {
+    "title": "Win.Casino | En güvenli kripto casino",
+    "text": {
+      "visible": "## Bitcoin Bahis Amiral Gemisi",
+      "hidden": "## Sunacak çok şeyi olan Bitcoin Spor Kitabı",
+      "button": "Daha fazla göster"
+    }
+  },
+  "aeroGroup": {
+    "label": "Win.Casino Oyunları",
+    "collectionIdentity": "crash",
+    "game": {
+      "identity": "spribe-aviator",
+      "playButtonLabel": "Şimdi oyna",
+      "demoButtonLabel": "Demo"
+    }
+  }
+}

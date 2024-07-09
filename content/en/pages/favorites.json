@@ -1,0 +1,16 @@
+{
+  "title": "Favorite games",
+  "empty": {
+    "image": "/img/uploads/search-bg.png",
+    "title": "Nothing found",
+    "description": "You have no favorite games yet"
+  },
+  "seo": {
+    "text": {
+      "visible": "",
+      "hidden": "",
+      "button": ""
+    },
+    "title": "Win.Casino | Favorite games"
+  }
+}

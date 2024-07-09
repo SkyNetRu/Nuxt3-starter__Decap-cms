@@ -1,0 +1,26 @@
+{
+  "successRegistration": {
+    "title": "Bienvenido",
+    "description": "Se ha registrado correctamente."
+  },
+  "sentResetLink": {
+    "title": "Éxito",
+    "description": "Se ha enviado un enlace para restablecer la contraseña. Haga clic en el enlace del correo electrónico para crear una nueva contraseña."
+  },
+  "invalidResetCode": {
+    "title": "Error",
+    "description": "Lo sentimos, pero el enlace de restablecimiento de contraseña no es válido. Solicita otro restablecimiento de contraseña."
+  },
+  "passwordChanged": {
+    "title": "Éxito",
+    "description": "Ha cambiado correctamente su contraseña."
+  },
+  "accountBlocked": {
+    "title": "Error",
+    "description": "Lo sentimos, pero su cuenta está bloqueada. Póngase en contacto con nuestro equipo de asistencia para obtener más información."
+  },
+  "resentVerification": {
+    "title": "Éxito",
+    "description": "Hemos enviado un correo electrónico con el enlace de verificación a su dirección de correo electrónico."
+  }
+}

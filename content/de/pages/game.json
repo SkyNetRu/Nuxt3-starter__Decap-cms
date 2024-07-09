@@ -1,0 +1,23 @@
+{
+  "demoLabel": "Bereit um Echtgeld zu spielen?",
+  "demoButton": "Ja, um echtes Geld spielen",
+  "seo": {
+    "text": {
+      "visible": ""
+    },
+    "title": "Win.Casino | Spielen Sie über 4 000 Slots und Spiele"
+  },
+  "plug": {
+    "title": "Bitte loggen Sie sich ein",
+    "image": "/img/uploads/ex-sign.svg",
+    "description": "Dieses Spiel ist im Spaßmodus nicht verfügbar.Bitte loggen Sie sich ein oder registrieren Sie sich, um zu spielen."
+  },
+  "demoModal": {
+    "label": "Sie befinden sich im Demo-Modus",
+    "description": "Bereit für die echten Deals? Tauchen Sie ein in den Real-Modus und erhöhen Sie den Einsatz.",
+    "demo": "Demo spielen",
+    "real": "Echt spielen",
+    "deposit": "Einzahlung",
+    "registration": "Registrierung"
+  }
+}

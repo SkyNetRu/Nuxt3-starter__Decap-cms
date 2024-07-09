@@ -1,0 +1,18 @@
+{
+  "title": "Lista dostawców",
+  "providersLabel": "Dostawcy",
+  "gamesLabel": "Gry",
+  "staticProvider": {
+    "identity": "turbo-games",
+    "button": "Do nieba"
+  },
+  "searchPlaceholder": "Wyszukaj swojego dostawcę",
+  "empty": {
+    "title": "Nic nie znaleziono",
+    "description": "Spróbuj poszukać czegoś innego"
+  },
+  "sortLabel": "Sortuj według:",
+  "seo": {
+    "title": "Win.Casino | Lista dostawców"
+  }
+}

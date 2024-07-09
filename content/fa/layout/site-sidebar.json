@@ -1,0 +1,147 @@
+{
+  "socials": {
+    "isShow": false
+  },
+  "bottomMenu": [
+    {
+      "url": "/contact",
+      "label": "پشتیبانی",
+      "icon": "live-support"
+    }
+  ],
+  "userMenu": [
+    {
+      "url": "/favorites",
+      "icon": "heart",
+      "label": "علاقه مندی ها"
+    },
+    {
+      "url": "/recently-played",
+      "label": "بازی های اخیر",
+      "icon": "history"
+    }
+  ],
+  "bonusesMenu": [
+    {
+      "items": [
+        {
+          "url": "/welcome-package",
+          "label": "بسته خوش آمدید"
+        },
+        {
+          "label": "پاداش بارگیری مجدد دوشنبه",
+          "url": "/bonus/monday-reload-bonus"
+        },
+        {
+          "url": "/bonus/wednesday-free-spins",
+          "label": "چهارشنبه چرخش رایگان"
+        },
+        {
+          "url": "/bonus/weekly-cashback",
+          "label": "نقدی هفتگی"
+        }
+      ],
+      "icon": "bonuses",
+      "label": "پاداش"
+    }
+  ],
+  "ctaMenu": {
+    "isShow": false
+  },
+  "topMenu": {
+    "integratedElement": {
+      "label": "AVIATOR",
+      "url": "https://win.city/games/spribe-aviator?real=true",
+      "isShow": true,
+      "backgroundImage": "/img/uploads/cta-bg.png",
+      "order": 2
+    },
+    "items": [
+      {
+        "url": "/games?category=slots",
+        "label": "شکافها",
+        "icon": "slots"
+      },
+      {
+        "url": "/games?category=live",
+        "label": "زنده کازینو",
+        "icon": "live-casino"
+      },
+      {
+        "label": "بازی های روی میز",
+        "url": "/games?category=table",
+        "icon": "table-games"
+      },
+      {
+        "label": "بازی های توربو",
+        "url": "/games?category=turbogames",
+        "icon": "turbo-games",
+        "gameList": [
+          {
+            "gameIdentity": "crash-x-turbo-games"
+          },
+          {
+            "gameIdentity": "dice-twice-turbo-games"
+          },
+          {
+            "gameIdentity": "mines-turbo-games"
+          },
+          {
+            "gameIdentity": "turbo-games-turboplinko"
+          }
+        ]
+      },
+      {
+        "label": "کتاب ورزشی",
+        "url": "/betting",
+        "icon": "sport-book"
+      }
+    ]
+  },
+  "sidebarFooterMenu": [
+    {
+      "url": "/static/terms-and-conditions",
+      "label": "شرایط و ضوابط"
+    },
+    {
+      "url": "/static/bonus-terms",
+      "label": "شرایط پاداش"
+    },
+    {
+      "url": "/questions",
+      "label": "سوالات متداول"
+    },
+    {
+      "label": "سیاست حفظ حریم خصوصی",
+      "url": "/static/privacy-policy"
+    },
+    {
+      "label": "قمار با مسئولیت",
+      "url": "/static/gambling-with-responsibility"
+    },
+    {
+      "label": "سیاست KYC",
+      "url": "/static/kyc-policy"
+    }
+  ],
+  "tokenMenu": [
+    {
+      "label": "سکه وینسیتی",
+      "icon": "tfs-token",
+      "url": "/sbt-token"
+    }
+  ],
+  "gamesToggler": {
+    "buttonFirst": {
+      "label": "کازینو",
+      "url": "/main",
+      "icon": "cherry"
+    },
+    "buttonSecond": {
+      "label": "ورزشی",
+      "url": "/betting",
+      "icon": "sport"
+    }
+  },
+  "chatLabel": "چت"
+}

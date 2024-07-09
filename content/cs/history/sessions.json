@@ -1,0 +1,14 @@
+{
+  "tabLabel": "Relace",
+  "sessionsStatuses": {
+    "current": "Aktuální",
+    "active": "Aktivní",
+    "closed": "Uzavřené"
+  },
+  "tableColumns": {
+    "country": "Země",
+    "userAgent": "Agent uživatele",
+    "createdAt": "Vytvořeno v",
+    "status": "Stav"
+  }
+}

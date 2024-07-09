@@ -1,0 +1,35 @@
+{
+  "limitedRealGame": {
+    "type": "error",
+    "title": "Fehlermeldung",
+    "description": "Entschuldigung, aber Sie können vorerst nicht im Real-Modus spielen. Bitte kontaktieren Sie unser Support-Team für weitere Informationen."
+  },
+  "limitedDeposit": {
+    "type": "error",
+    "title": "Fehlermeldung",
+    "description": "Entschuldigung, aber Sie können vorerst nicht einzahlen. Bitte kontaktieren Sie unser Support-Team für weitere Informationen."
+  },
+  "cashLimitAdd": {
+    "title": "Limit erfolgreich gesetzt",
+    "type": "done"
+  },
+  "cashLimitEditLargeAmount": {
+    "title": "Update erfolgreich begrenzen",
+    "description": "Bitte überprüfen Sie Ihre E-Mails und folgen Sie dem erhaltenen Bestätigungslink, um die Limitänderung zu aktivieren.",
+    "type": "warning"
+  },
+  "cashLimitEditSmallerAmount": {
+    "title": "Update erfolgreich begrenzen",
+    "type": "done"
+  },
+  "cashLimitCancel": {
+    "title": "Limit erfolgreich storniert",
+    "description": "Sie haben das Limit erfolgreich storniert. Die Änderung wird in 24 Stunden angewendet.",
+    "type": "warning"
+  },
+  "coolingOfLimitCancel": {
+    "title": "Update erfolgreich begrenzen",
+    "description": "Das Limit wird nach 24 Stunden aufgehoben",
+    "type": "warning"
+  }
+}

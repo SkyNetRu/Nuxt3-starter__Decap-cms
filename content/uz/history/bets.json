@@ -1,0 +1,19 @@
+{
+  "tabLabel": "Gambling",
+  "settledTab": "Oʻrnatildi",
+  "unsettledTab": "Beqaror",
+  "betCard": {
+    "coefficientLabel": "Imkoniyatlar",
+    "betLabel": "Gambling",
+    "resultLabel": "natija",
+    "copyButton": "Tikish identifikatoridan nusxa oling",
+    "copyTooltip": "Tikish identifikatori vaqtinchalik xotiraga nusxalandi",
+    "comboLabel": "Kombo",
+    "comboDisciplinesTooltip": "Ko'proq",
+    "comboBetsLabel": "Gambling"
+  },
+  "empty": {
+    "title": "Hali hech qanday ma'lumot yo'q!",
+    "description": "Siz hali hech qanday pul tikmagansiz."
+  }
+}

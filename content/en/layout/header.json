@@ -1,0 +1,48 @@
+{
+  "loginButton": "Login",
+  "registrationButton": "Registration",
+  "search": {
+    "placeholder": "Search your game",
+    "moreButton": "Load more",
+    "emptyLabel": "Nothing found",
+    "emptyText": "Try searching for something else",
+    "tryLabel": "Or try these popular games:"
+  },
+  "depositButton": "Wallet",
+  "playRealButton": "Real mode",
+  "balance": {
+    "tabs": {
+      "balanceTab": "Balance",
+      "currencyTab": "Currency",
+      "coins": "Change coins"
+    },
+    "fiatToggler": "Display in Fiat",
+    "currencyToggler": "Use currency",
+    "wageringLabel": "Wagering:",
+    "cashbackDateLabel": "To be issued:",
+    "items": {
+      "real": "Real",
+      "bonus": "Bonus",
+      "withdrawal": "Withdrawable",
+      "cashback": "Cashback"
+    }
+  },
+  "pwa": {
+    "instructionLink": "/static/terms-and-conditions",
+    "mobile": {
+      "title": "Win.Casino - get out free app",
+      "description": "It won’t take up space on your phone.",
+      "install": "Install"
+    },
+    "desktop": {
+      "application": "Application",
+      "forOs": "for {os}"
+    },
+    "tooltip": {
+      "title": "Win.Casino - get out free app",
+      "description": "It won’t take up space on your phone.",
+      "backgroundImage": "/img/uploads/pwa-tooltip-bg.png",
+      "image": "/img/uploads/pwa-tooltip-img.png"
+    }
+  }
+}

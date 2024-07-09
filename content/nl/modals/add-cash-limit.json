@@ -1,0 +1,10 @@
+{
+  "addBetLabel": "Nieuwe inzetlimiet",
+  "addLossLabel": "Nieuwe verlieslimiet",
+  "addDepositLabel": "Nieuwe stortingslimiet",
+  "hint": "De beperking wordt onmiddellijk van kracht. Je kunt je limiet op elk moment verlagen, deze verandering wordt onmiddellijk van kracht. Je kunt de limiet verhogen, maar voordat deze wijziging van kracht wordt, heb je 24 uur nodig. Het annuleren van de stortingslimiet duurt 24 uur. Als de limiet is overschreden, ontvang je een melding per e-mail.",
+  "chooseCurrencyLabel": "Valuta kiezen",
+  "chooseCurrencyError": "Selecteer uw valuta voor de nieuwe stortingslimiet",
+  "addButton": "Voeg  toe",
+  "successConfirmLabel": "Limiet succesvol ingesteld"
+}

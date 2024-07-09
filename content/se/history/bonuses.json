@@ -1,0 +1,17 @@
+{
+  "tabLabel": "Bonusar",
+  "cashBonusTab": "Kontantbonusar",
+  "freeSpinsTab": "Gratissnurr",
+  "tableColumns": {
+    "title": "Titel",
+    "status": "Status",
+    "amount": "Belopp",
+    "progress": "Framsteg",
+    "created": "Datum",
+    "expired": "Giltig till"
+  },
+  "empty": {
+    "title": "Det finns inga data ännu!",
+    "description": "Du har inte fått några bonusar ännu"
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "socials": {
+    "isShow": false
+  },
+  "bottomMenu": [
+    {
+      "label": "Ondersteuning",
+      "url": "/contact",
+      "icon": "live-support"
+    }
+  ],
+  "userMenu": [
+    {
+      "label": "Favorieten",
+      "icon": "heart",
+      "url": "/favorites"
+    },
+    {
+      "url": "/recently-played",
+      "icon": "history",
+      "label": "Recent gespeeld"
+    }
+  ],
+  "bonusesMenu": [
+    {
+      "items": [
+        {
+          "url": "/welcome-package",
+          "label": "Welkomstpakket"
+        },
+        {
+          "url": "/bonus/monday-reload-bonus",
+          "label": "Maandag Reload Bonus"
+        },
+        {
+          "url": "/bonus/wednesday-free-spins",
+          "label": "Woensdag Gratis Spins"
+        },
+        {
+          "url": "/bonus/weekly-cashback",
+          "label": "Weekly Cashback"
+        }
+      ],
+      "icon": "bonuses",
+      "label": "Bonus"
+    }
+  ],
+  "ctaMenu": {
+    "isShow": false
+  },
+  "topMenu": {
+    "integratedElement": {
+      "label": "AVIATOR",
+      "url": "https://win.city/games/spribe-aviator?real=true",
+      "isShow": true,
+      "order": 2,
+      "backgroundImage": "/img/uploads/cta-bg.png"
+    },
+    "items": [
+      {
+        "url": "/games?category=slots",
+        "icon": "slots",
+        "label": "Sleuven"
+      },
+      {
+        "url": "/games?category=live",
+        "icon": "live-casino",
+        "label": "Live Casino"
+      },
+      {
+        "url": "/games?category=table",
+        "label": "tafelspel",
+        "icon": "table-games"
+      },
+      {
+        "gameList": [
+          {
+            "gameIdentity": "crash-x-turbo-games"
+          },
+          {
+            "gameIdentity": "dice-twice-turbo-games"
+          },
+          {
+            "gameIdentity": "mines-turbo-games"
+          },
+          {
+            "gameIdentity": "turbo-games-turboplinko"
+          }
+        ],
+        "url": "/games?category=turbogames",
+        "label": "Turbogames",
+        "icon": "turbo-games"
+      },
+      {
+        "url": "/betting",
+        "label": "Bookmaker",
+        "icon": "sport-book"
+      }
+    ]
+  },
+  "sidebarFooterMenu": [
+    {
+      "label": "T&C",
+      "url": "/static/terms-and-conditions"
+    },
+    {
+      "url": "/static/bonus-terms",
+      "label": "Bonus voorwaarden"
+    },
+    {
+      "url": "/questions",
+      "label": "F.A.Q"
+    },
+    {
+      "url": "/static/privacy-policy",
+      "label": "privacybeleid"
+    },
+    {
+      "url": "/static/gambling-with-responsibility",
+      "label": "Gokken met verantwoordelijkheid"
+    },
+    {
+      "url": "/static/kyc-policy",
+      "label": "KYC-beleid"
+    }
+  ],
+  "tokenMenu": [
+    {
+      "url": "/sbt-token",
+      "icon": "tfs-token",
+      "label": "Win.Casino Coin"
+    }
+  ],
+  "gamesToggler": {
+    "buttonFirst": {
+      "label": "Casino",
+      "url": "/main",
+      "icon": "cherry"
+    },
+    "buttonSecond": {
+      "label": "Sport",
+      "url": "/betting",
+      "icon": "sport"
+    }
+  },
+  "chatLabel": "chat"
+}

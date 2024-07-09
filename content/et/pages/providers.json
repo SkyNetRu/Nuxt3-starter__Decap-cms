@@ -1,0 +1,18 @@
+{
+  "title": "Pakkujate nimekiri",
+  "providersLabel": "Pakkujad",
+  "gamesLabel": "mängud",
+  "staticProvider": {
+    "identity": "turbo-games",
+    "button": "Taeva poole"
+  },
+  "searchPlaceholder": "Otsige oma teenusepakkujalt",
+  "empty": {
+    "title": "Ei leitud midagi",
+    "description": "Proovige otsida midagi muud"
+  },
+  "sortLabel": "Sorteerima:",
+  "seo": {
+    "title": "Win.Casino | Pakkujate nimekiri"
+  }
+}

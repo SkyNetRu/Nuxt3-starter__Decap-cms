@@ -1,0 +1,19 @@
+{
+  "title": "Bonus Detayları",
+  "readMore": "Bonuslar hakkında devamını oku",
+  "infoLabels": {
+    "from": "-den:",
+    "to": "-e doğru:",
+    "excluded": "Hariç tutulan:",
+    "depositAmount": "Depozito:",
+    "bonusType": "Bonus Türü:",
+    "freeSpins": "Bedava Döndürmeler:",
+    "casinoWager": "Casino Bahisleri:",
+    "sportsbookWager": "Bahis Bahisleri:",
+    "maxWin": "Maksimum Kazanç Toplamı:",
+    "casinoBetSum": "Casino Bahisleri:",
+    "sportsbookBetSum": "Bahis Bahisleri:",
+    "providers": "Sağlayıcılar:",
+    "games": "Oyunlar:"
+  }
+}

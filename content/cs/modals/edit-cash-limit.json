@@ -1,0 +1,21 @@
+{
+  "popupLabel": {
+    "edit_daily_3": "Upravit denní limit vkladu",
+    "edit_weekly_3": "Upravit týdenní limit vkladu",
+    "edit_monthly_3": "Upravit měsíční limit vkladu",
+    "edit_daily_2": "Upravit denní limit ztrát",
+    "edit_weekly_2": "Upravit týdenní limit ztrát",
+    "edit_monthly_2": "Upravit měsíční limit ztrát",
+    "edit_daily_1": "Upravit denní limit sázek",
+    "edit_weekly_1": "Upravit týdenní limit sázek",
+    "edit_monthly_1": "Upravit měsíční limit sázek"
+  },
+  "hint": "Potvrzení bude vyžadováno e-mailem. Změna bude provedena do 24 hodin.",
+  "actions": {
+    "updateButtonLabel": "Aktualizace",
+    "deleteButtonLabel": "Smazat"
+  },
+  "lessAmountTitle": "Aktualizace limitu proběhla úspěšně",
+  "greaterAmountTitle": "Nová částka limitu je vyšší než předchozí",
+  "greaterAmountDescription": "Zkontrolujte prosím svůj e-mail a postupujte podle obdrženého potvrzovacího odkazu pro aktivaci změny limitu."
+}

@@ -1,0 +1,42 @@
+{
+  "balanceLabel": "Balans",
+  "methodMin": "minsta",
+  "percentageMax": "maximal",
+  "tabs": {
+    "deposit": "Insättning",
+    "withdraw": "Dra"
+  },
+  "notAvailableText": "Tyvärr finns det inga tillgängliga betalningsmetoder",
+  "deposit": {
+    "title": "Insättning",
+    "sumLabel": "Insättningsbelopp",
+    "minSum": "Min insättning:",
+    "addressTitle": "Adress",
+    "addressInputLabel": "Skicka valfritt belopp till:",
+    "addressDescription": "Detta är din personliga adress för insättningar. Dina medel kommer att finnas tillgängliga så snart de passerar de nödvändiga bekräftelserna.",
+    "bonuses": {
+      "title": "Välj en bonus",
+      "infoDescription": "När din insättning krediteras aktiveras en vald bonus. Om du redan har gjort en insättning, ändra inte den valda bonusen förrän insättningen krediteras spelsaldot.",
+      "minDeposit": "Minsta Insättning:",
+      "deposit": "Insättning:",
+      "maxDeposit": "Maximal Insättning:",
+      "moreInfo": "Mer info"
+    },
+    "togglerLabel": "Jag har bonuskod",
+    "addBonusCode": "Lägga",
+    "cancelBonusCode": "Avbryta",
+    "depositButton": "Insättning",
+    "limit": {
+      "title": "Du har nått din insättningsgräns",
+      "description": "Du har ställt in din insättningsgräns:",
+      "moreInfo": "Mer info"
+    }
+  },
+  "withdraw": {
+    "title": "Uttag",
+    "withdrawLabel": "Uttagbar",
+    "sumLabel": "Uttagsbelopp",
+    "minSum": "Min uttag:",
+    "withdrawButton": "Dra"
+  }
+}

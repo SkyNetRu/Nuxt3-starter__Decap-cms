@@ -1,0 +1,18 @@
+{
+  "title": "Daftar penyedia",
+  "providersLabel": "Penyedia",
+  "gamesLabel": "permainan",
+  "staticProvider": {
+    "identity": "turbo-games",
+    "button": "Ke langit"
+  },
+  "searchPlaceholder": "Cari penyedia Anda",
+  "empty": {
+    "title": "Tidak ada yang ditemukan",
+    "description": "Coba cari yang lain"
+  },
+  "sortLabel": "Sortir dengan:",
+  "seo": {
+    "title": "Win.Casino | Daftar penyedia"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "balanceLabel": "Echilibru",
+  "methodMin": "min",
+  "percentageMax": "max",
+  "tabs": {
+    "deposit": "Depozit",
+    "withdraw": "Retragere"
+  },
+  "notAvailableText": "Ne pare rău, nu există metode de plată disponibile",
+  "deposit": {
+    "title": "Depozit",
+    "sumLabel": "Suma depozitului",
+    "minSum": "Depozit minim:",
+    "addressTitle": "Adresa",
+    "addressInputLabel": "Trimite orice sumă la:",
+    "addressDescription": "Aceasta este adresa dvs. personală pentru depozite. Fondurile dvs. vor fi disponibile imediat ce vor trece prin confirmările necesare.",
+    "bonuses": {
+      "title": "Alege un bonus",
+      "infoDescription": "Odată ce depozitul dvs. este creditat, acesta va activa un bonus selectat. Dacă ați făcut deja o depunere, vă rugăm să nu modificați bonusul selectat până când depunerea nu este creditată în soldul jocului.",
+      "minDeposit": "Min. Depozit:",
+      "deposit": "Depozit:",
+      "maxDeposit": "Max. Depozit:",
+      "moreInfo": "Mai multe informații"
+    },
+    "togglerLabel": "Am codul de bonus",
+    "addBonusCode": "Adaugă",
+    "cancelBonusCode": "Anulează",
+    "depositButton": "Depozit",
+    "limit": {
+      "title": "Ați atins limita de depunere",
+      "description": "Ați setat limita de depunere:",
+      "moreInfo": "Mai multe informații"
+    }
+  },
+  "withdraw": {
+    "title": "Retragere",
+    "withdrawLabel": "Retractabil",
+    "sumLabel": "Suma retragerii",
+    "minSum": "Retragere Min:",
+    "withdrawButton": "Retragere"
+  }
+}

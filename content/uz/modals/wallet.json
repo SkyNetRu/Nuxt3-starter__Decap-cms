@@ -1,0 +1,42 @@
+{
+  "balanceLabel": "Balans",
+  "methodMin": "min",
+  "percentageMax": "maks",
+  "tabs": {
+    "deposit": "Depozit",
+    "withdraw": "Qaytish"
+  },
+  "notAvailableText": "Kechirasiz, to'lov usullari mavjud emas",
+  "deposit": {
+    "title": "Depozit",
+    "sumLabel": "Depozit summasi",
+    "minSum": "Min depozit:",
+    "addressTitle": "Manzil",
+    "addressInputLabel": "Istalgan miqdorni yuboring:",
+    "addressDescription": "Bu sizning depozitlar bo'yicha shaxsiy manzilingiz. Sizning mablag'laringiz kerakli tasdiqlardan o'tishi bilanoq mavjud bo'ladi.",
+    "bonuses": {
+      "title": "Bonusni tanladi",
+      "infoDescription": "Sizning depozit kirim so'ng, u tanlangan bonus faollashtiradi. Agar siz allaqachon depozit qo'ygan bo'lsangiz, iltimos, depozit o'yin balansiga tushmaguncha tanlangan bonusni o'zgartirmang.",
+      "minDeposit": "Min. Depozit:",
+      "deposit": "Depozit:",
+      "maxDeposit": "Maks. Depozit:",
+      "moreInfo": "Qo'shimcha ma'lumot"
+    },
+    "togglerLabel": "Menda bonus kodi bor",
+    "addBonusCode": "Qo'shish",
+    "cancelBonusCode": "Bekor qilish",
+    "depositButton": "Depozit",
+    "limit": {
+      "title": "Siz depozit limitiga yetdingiz",
+      "description": "Siz o'rnatish sizning depozit chegarasi bor:",
+      "moreInfo": "Qo'shimcha ma'lumot"
+    }
+  },
+  "withdraw": {
+    "title": "Qaytish",
+    "withdrawLabel": "Qaytarib olinadigan",
+    "sumLabel": "Qaytish summasi",
+    "minSum": "Min qaytish:",
+    "withdrawButton": "Qaytish"
+  }
+}

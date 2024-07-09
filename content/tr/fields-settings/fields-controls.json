@@ -1,0 +1,155 @@
+{
+  "password": {
+    "label": "Şifre",
+    "placeholder": "Şifrenizi girin"
+  },
+  "currentPassword": {
+    "label": "Geçerli şifre",
+    "placeholder": "Geçerli şifrenizi girin"
+  },
+  "newPassword": {
+    "label": "Yeni şifre",
+    "placeholder": "Yeni şifre girin"
+  },
+  "repeatNewPassword": {
+    "label": "Tekrar yeni şifre",
+    "placeholder": "Yeni şifreyi tekrar girin"
+  },
+  "firstName": {
+    "label": "İlk isim",
+    "placeholder": "İlk adı girin"
+  },
+  "lastName": {
+    "label": "Soyadı",
+    "placeholder": "Soyadı girin"
+  },
+  "nationality": {
+    "label": "Uyruk",
+    "placeholder": "Uyruğunuzu girin"
+  },
+  "nickname": {
+    "label": "Takma ad",
+    "placeholder": "Takma adınızı girin"
+  },
+  "gender": {
+    "label": "Cinsiyet",
+    "maleLabel": "Erkek",
+    "femaleLabel": "Kadın",
+    "otherLabel": "Diğer"
+  },
+  "city": {
+    "label": "Şehir",
+    "placeholder": "Şehrinizi girin"
+  },
+  "address": {
+    "label": "Adres",
+    "placeholder": "Adresinizi girin"
+  },
+  "additionalAddress": {
+    "label": "Ek Adres",
+    "placeholder": "Ek adresinizi girin"
+  },
+  "postalCode": {
+    "label": "Posta kodu",
+    "placeholder": "Posta kodunu girin"
+  },
+  "timeZone": {
+    "label": "Saat Dilimi",
+    "placeholder": "Saat dilimini seçin"
+  },
+  "profession": {
+    "label": "Meslek",
+    "placeholder": "Mesleğinizi girin"
+  },
+  "language": {
+    "label": "Dil",
+    "placeholder": "Dilinizi girin"
+  },
+  "bonusCode": {
+    "label": "Kod (isteğe bağlı)",
+    "placeholder": "Kodu girin"
+  },
+  "securityQuestion": {
+    "label": "Güvenlik Sorusu",
+    "placeholder": "Güvenlik sorunuzu girin"
+  },
+  "securityAnswer": {
+    "label": "Güvenlik Cevabı",
+    "placeholder": "Güvenlik sorunuza bir yanıt girin"
+  },
+  "email": {
+    "label": "E-posta Adresi",
+    "placeholder": "E-posta adresinizi girin"
+  },
+  "country": {
+    "label": "Ülke",
+    "placeholder": "Ülkenizi seçin"
+  },
+  "currency": {
+    "label": "Para Birimi",
+    "placeholder": "Para biriminizi seçin"
+  },
+  "agreements": {
+    "label": "<a href=\"/static/terms-and-conditions\" target=\"_blank\" >Hüküm ve Koşulları</a> ve <a href=\"/static/privacy-policy\" target=\"_blank\" >Gizlilik Politikasını</a> kabul ediyorum"
+  },
+  "receiveEmailPromo": {
+    "label": "Promosyonları E-posta ile gönderin"
+  },
+  "receiveSmsPromo": {
+    "label": "SMS ile promosyonlar gönderin"
+  },
+  "receiveBonus": {
+    "label": "İkramiye alın"
+  },
+  "phone": {
+    "label": "Cep telefonu",
+    "placeholder": "Telefon numarasını girin"
+  },
+  "birthdate": {
+    "label": "Doğum Tarihi",
+    "placeholderDay": "Gün",
+    "placeholderMonth": "Ay",
+    "placeholderYear": "Yıl"
+  },
+  "placeOfBirth": {
+    "label": "Doğum yeri",
+    "placeholder": "Doğum yerinizi girin"
+  },
+  "personalIdNumber": {
+    "label": "Kişisel kimlik numarası",
+    "placeholder": "Kimlik referans numarası (varsa)"
+  },
+  "message": {
+    "label": "Metin",
+    "placeholder": "Mesajınızı girin"
+  },
+  "wallet_id": {
+    "label": "Cüzdan adresi",
+    "placeholder": "Cüzdan adresini girin"
+  },
+  "card_number": {
+    "label": "Kart numarası",
+    "placeholder": "Kart numarasını girin"
+  },
+  "card_holder": {
+    "label": "Kart tutucu",
+    "placeholder": "Kredi kartı sahibinin adını girin"
+  },
+  "exp_month": {
+    "label": "Sona erme ayı",
+    "placeholder": "Son kullanma ayını girin"
+  },
+  "exp_year": {
+    "label": "Sona erme yılı",
+    "placeholder": "Son kullanma yılını girin"
+  },
+  "networkSelect": {
+    "label": "Ağınızı seçin",
+    "placeholder": "Şebeke",
+    "info": "Devam etmek için,<br>ağ'ı seçin 👆👆👆"
+  },
+  "age": {
+    "label": "Yaş",
+    "placeholder": "Yaşınızı girin"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "tabs": {
+    "allTab": "Alle",
+    "cryptoTab": "Crypto"
+  },
+  "empty": {
+    "title": "Klaar!",
+    "description": "Je hebt alle valuta al toegevoegd"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "tabLabel": "Transações",
+  "dateLabel": "Data de / até:",
+  "allFilterOption": "Todas",
+  "typeFilterLabel": "Tipo:",
+  "currencyLabel": "Moeda:",
+  "statusFilterLabel": "Status:",
+  "tableColumns": {
+    "date": "Data",
+    "type": "Tipo de pagamento",
+    "method": "Método de pagamento",
+    "status": "Status",
+    "sum": "Soma"
+  },
+  "cancelPaymentButton": "Cancelar pagamento",
+  "empty": {
+    "title": "Ainda não há dados!",
+    "description": "Você ainda não tem nenhuma transação bem-sucedida."
+  },
+  "securityCode": {
+    "getCodeButton": "Obter código",
+    "codeLabel": "Codigo secreto:",
+    "codeTooltip": "Código secreto copiado",
+    "clientLabel": "ID do Cliente:",
+    "clientTooltip": "ID do cliente copiado"
+  }
+}

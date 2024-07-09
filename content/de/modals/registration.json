@@ -1,0 +1,35 @@
+{
+  "title": "Treten Sie Win.Casino bei",
+  "registrationButton": "Anmelden",
+  "loginButton": "Bereits Mitglied? *Anmelden*",
+  "promo": {
+    "title": "Willkommenspaket",
+    "secondTitle": "3 000 EUR + 200 FS",
+    "additionalTitle": "auf Sport und Casino",
+    "advantages": [
+      {
+        "icon": "turbo-games",
+        "label": "Over 3000 provably fair games(test)"
+      },
+      {
+        "icon": "speed",
+        "label": "Fast withdrawals"
+      },
+      {
+        "icon": "live-support",
+        "label": "24/7 Live Chat Support"
+      }
+    ],
+    "displayAdvantages": false,
+    "images": {
+      "mobile": {
+        "backgroundImage": "/img/uploads/registration-mobile.webp"
+      },
+      "desktop": {
+        "backgroundImage": "/img/uploads/eu-registration.webp"
+      }
+    }
+  },
+  "agreeEmailLabel": "Ich bin damit einverstanden, Bonus- und Marketing-E-Mails zu erhalten",
+  "agreeSmsLabel": "Werbeaktionen per SMS senden"
+}

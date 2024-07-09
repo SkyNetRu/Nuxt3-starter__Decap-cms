@@ -1,0 +1,16 @@
+{
+  "pageUrl": "first-deposit-bonus",
+  "termsLabel": "شرایط جایزه:",
+  "termsContent": "**شرایط و شرایط جایزه واریز اول کازینو:**",
+  "button": {
+    "label": "جایزه بگیرید"
+  },
+  "backgroundColor": "red",
+  "subtitle": "پاداش 100% خود را تا 500 یورو دریافت کنید",
+  "title": "پاداش سپرده 1",
+  "image": "/img/uploads/1-deposit-new.png",
+  "description": "Win.Casino با اولین جایزه بزرگ به شما تبریک می گوید! از آنجایی که با ما تازه کار هستید، ما به شما یک جایزه 100٪ تا سقف 500 یورو در اولین سپرده شما ارائه می دهیم.",
+  "seo": {
+    "title": "Win.Casino | بونوس اولین واریز"
+  }
+}

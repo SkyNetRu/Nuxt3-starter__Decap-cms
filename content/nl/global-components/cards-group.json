@@ -1,0 +1,16 @@
+{
+  "moreButton": "Toon alle",
+  "recommendedSubtitle": "De beste spellen voor jou",
+  "favorites": {
+    "label": "Favorieten"
+  },
+  "providers": {
+    "label": "Aanbieders"
+  },
+  "latestWinners": {
+    "label": "Laatste winnaars"
+  },
+  "recentlyPlayed": {
+    "label": "Recent gespeeld"
+  }
+}

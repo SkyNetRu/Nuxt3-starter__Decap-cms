@@ -1,0 +1,16 @@
+{
+  "moreButton": "Mostrar todos",
+  "recommendedSubtitle": "Os melhores jogos para você",
+  "favorites": {
+    "label": "Favoritos"
+  },
+  "providers": {
+    "label": "Provedores"
+  },
+  "latestWinners": {
+    "label": "Últimos vencedores"
+  },
+  "recentlyPlayed": {
+    "label": "Jogado recentemente"
+  }
+}

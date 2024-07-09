@@ -1,0 +1,6 @@
+{
+  "title": "Confirmar la actualización del bono",
+  "description": "El estado del bono actualmente activo cambiará a Cancelado. ¿Está seguro de que desea activar esta bonificación?",
+  "confirmButton": "Sí",
+  "cancelButton": "No"
+}

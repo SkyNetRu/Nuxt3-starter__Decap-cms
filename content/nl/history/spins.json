@@ -1,0 +1,13 @@
+{
+  "tabLabel": "Spins",
+  "tableColumns": {
+    "game": "Spel",
+    "bet": "Inzet",
+    "result": "Resultaat",
+    "date": "Datum"
+  },
+  "empty": {
+    "title": "Er zijn nog geen gegevens!",
+    "description": "Je hebt nog geen weddenschappen geplaatst"
+  }
+}

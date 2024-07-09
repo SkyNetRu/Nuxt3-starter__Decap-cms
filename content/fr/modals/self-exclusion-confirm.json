@@ -1,0 +1,6 @@
+{
+  "updateTitle": "Confirmer la mise à jour de la limite",
+  "updateDescription": "Êtes-vous sûr de vouloir fixer une limite d'auto-exclusion ? Pendant la période définie, vous ne pourrez pas vous connecter à votre compte.",
+  "okButtonLabel": "Oui",
+  "cancelButtonLabel": "Non"
+}

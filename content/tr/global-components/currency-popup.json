@@ -1,0 +1,10 @@
+{
+  "tabs": {
+    "allTab": "Tümü",
+    "cryptoTab": "Kripto"
+  },
+  "empty": {
+    "title": "Tamamlandı!",
+    "description": "Tüm para birimlerini zaten eklediniz"
+  }
+}

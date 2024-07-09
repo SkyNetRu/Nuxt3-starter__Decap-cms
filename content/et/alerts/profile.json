@@ -1,0 +1,26 @@
+{
+  "successRegistration": {
+    "title": "Tere tulemast",
+    "description": "Teid on edukalt registreeritud!"
+  },
+  "sentResetLink": {
+    "title": "Edu",
+    "description": "Saadeti parooli lähetuslink. Uue parooli loomiseks klõpsake e-kirjas olevale lingile."
+  },
+  "invalidResetCode": {
+    "title": "Viga",
+    "description": "Vabandame, kuid teie parooli lähtestamise link ei ole kehtiv. Palun taotlege uut parooli lähtestamist."
+  },
+  "passwordChanged": {
+    "title": "Edu",
+    "description": "Olete edukalt muutnud oma salasõna."
+  },
+  "accountBlocked": {
+    "title": "Viga",
+    "description": "Vabandame, kuid teie konto on blokeeritud. Palun võtke ühendust meie klienditoega, et saada lisateavet."
+  },
+  "resentVerification": {
+    "title": "Edu",
+    "description": "Oleme saatnud teie e-posti aadressile e-kirja koos kontroll-linkiga."
+  }
+}

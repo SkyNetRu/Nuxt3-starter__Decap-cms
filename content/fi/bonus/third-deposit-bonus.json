@@ -1,0 +1,16 @@
+{
+  "pageUrl": "third-deposit-bonus",
+  "termsLabel": "Bonusehdot:",
+  "termsContent": "**Kasinon kolmannen talletuksen bonusehdot:**",
+  "button": {
+    "label": "Hanki bonus"
+  },
+  "backgroundColor": "green",
+  "subtitle": "Enemmän bonuksia, hauskempaa! Hanki kasinobonus jopa 500 euroa ja 50 FS ja urheilubonus jopa 1000 euroa",
+  "title": "3. talletusbonus",
+  "image": "/img/uploads/3-deposit.png",
+  "description": "Tartu tilaisuuteen pelata etumatkalla ystävyyskaupungissa kolmannen talletusbonuksemme ansiosta!",
+  "seo": {
+    "title": "Win.Casino | Kolmannen talletuksen bonus"
+  }
+}

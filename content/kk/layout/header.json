@@ -1,0 +1,49 @@
+{
+  "loginButton": "Кіру",
+  "registrationButton": "Тіркеу",
+  "search": {
+    "placeholder": "Ойыныңызды іздеңіз",
+    "moreButton": "Көбірек жүктеңіз",
+    "emptyLabel": "Ештеңе табылмады",
+    "emptyText": "Басқа нәрсе іздеп көріңіз",
+    "tryLabel": "Немесе мына танымал ойындарды қолданып көріңіз:"
+  },
+  "depositButton": "Әмиян",
+  "balance": {
+    "tabs": {
+      "balanceTab": "Баланс",
+      "currencyTab": "Валюта"
+    },
+    "fiatToggler": "Fiat-да дисплей",
+    "items": {
+      "real": "Нағыз",
+      "bonus": "Бонус",
+      "withdrawal": "Алынатын",
+      "cashback": "Кэшбэк"
+    },
+    "wageringLabel": "Бәс тігу:",
+    "cashbackDateLabel": "Шығарылады: "
+  },
+  "playRealButton": "Нақты режим",
+  "pwa": {
+    "instructionLink": "/static/terms-and-conditions",
+    "mobile": {
+      "title": "Win.Casino - тегін қолданбаны алыңыз",
+      "description": "Ол телефоныңызда орын алмайды.",
+      "install": "Орнату"
+    },
+    "desktop": {
+      "application": "Қолдану",
+      "forOs": "{os} үшін"
+    },
+    "tooltip": {
+      "title": "Win.Casino - тегін қолданбаны алыңыз",
+      "description": "Ол телефоныңызда орын алмайды."
+    }
+  },
+  "wagerTooltip": {
+    "notInWagering": "ㅤ",
+    "wagerMultiplierLessThan": "ㅤ",
+    "wagerMultiplierMoreThan": "ㅤ"
+  }
+}

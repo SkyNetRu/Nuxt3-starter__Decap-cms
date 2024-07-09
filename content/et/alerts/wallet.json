@@ -1,0 +1,26 @@
+{
+  "withdrawalProcessed": {
+    "title": "Ootel!",
+    "description": "Teie väljamakseid töödeldakse. Me kontrollime teie taotlust mõne aja pärast."
+  },
+  "userCanceledWithdrawal": {
+    "title": "Edu",
+    "description": "Olete edukalt tühistanud oma väljamakse."
+  },
+  "depositSuccess": {
+    "title": "Edu",
+    "description": "Teie {date} tehtud {sum} sissemakse on edukas!"
+  },
+  "depositError": {
+    "title": "Viga",
+    "description": "Vabandame, kuid teie {sum} sissemakse {date} läks midagi valesti. Palun proovige uuesti."
+  },
+  "withdrawSuccess": {
+    "title": "Edu",
+    "description": "Teie {sum} väljamakse {date} on heaks kiidetud!"
+  },
+  "withdrawError": {
+    "title": "Tühistatud väljamakse",
+    "description": "Teie {sum} väljamakse {date} on tühistatud. Palun võtke lisateabe saamiseks ühendust meie klienditoega."
+  }
+}

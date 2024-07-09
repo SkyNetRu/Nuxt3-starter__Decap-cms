@@ -1,0 +1,42 @@
+{
+  "sentResetLink": {
+    "type": "done",
+    "title": "Success",
+    "description": "A password reset link was sent. Click the link in the email to create a new password."
+  },
+  "invalidResetCode": {
+    "type": "error",
+    "title": "Error",
+    "description": "Sorry, but your password reset link is not valid. Please request another password reset."
+  },
+  "passwordChanged": {
+    "type": "done",
+    "title": "Success",
+    "description": "You have successfully changed your password."
+  },
+  "accountBlocked": {
+    "type": "error",
+    "title": "Error",
+    "description": "Sorry, but your account is blocked. Please,contact our support team for more information."
+  },
+  "successRegistration": {
+    "type": "done",
+    "title": "Welcome",
+    "description": "You have been successfully registered!"
+  },
+  "copyAddressSuccess": {
+    "type": "done",
+    "title": "Success",
+    "description": "Client Id copied to clipboard"
+  },
+  "resentVerification": {
+    "title": "Success",
+    "description": "We have sent an email with the verification link to your email address.",
+    "type": "done"
+  },
+  "telegramAuthError": {
+    "type": "error",
+    "title": "Error",
+    "description": "Telegram authorization error."
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "pageUrl": "weekly-cashback",
+  "termsLabel": "Warunki bonusu:",
+  "termsContent": "**1.** Co tydzień obliczamy całkowitą różnicę między postawionymi zakładami a wypłatami z tych zakładów i wypłacamy zwrot pieniędzy.",
+  "button": {
+    "label": "Zdobądź bonus"
+  },
+  "backgroundColor": "gray",
+  "subtitle": "W każdy wtorek odbieraj zwrot gotówki aż do 15%.",
+  "title": "Cotygodniowy zwrot gotówki",
+  "image": "https://win.city/img/uploads/weekly-big.webp",
+  "description": "W każdy wtorek możesz odzyskać część postawionych pieniędzy dzięki naszemu cotygodniowemu zwrotowi gotówki. Odbierz swoje",
+  "seo": {
+    "title": "Win.Casino | Cotygodniowy zwrot gotówki"
+  }
+}

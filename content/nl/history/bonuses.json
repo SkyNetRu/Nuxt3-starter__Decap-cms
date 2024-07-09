@@ -1,0 +1,17 @@
+{
+  "tabLabel": "Bonussen",
+  "cashBonusTab": "Bonussen",
+  "freeSpinsTab": "Gratis Spins",
+  "tableColumns": {
+    "title": "Titel",
+    "status": "Status",
+    "amount": "Bedrag",
+    "progress": "Vooruitgang",
+    "created": "Datum",
+    "expired": "Geldig tot"
+  },
+  "empty": {
+    "title": "Er zijn nog geen gegevens!",
+    "description": "Je hebt nog geen bonussen ontvangen"
+  }
+}

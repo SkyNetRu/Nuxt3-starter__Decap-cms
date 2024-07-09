@@ -1,0 +1,32 @@
+{
+  "bonusCodeIncorrect": {
+    "title": "Desculpe, mas você digitou o código de bônus incorreto."
+  },
+  "bonusCodeNotAvailable": {
+    "title": "Desculpe, mas o bônus com o código de bônus inserido não está disponível para você."
+  },
+  "bonusIssued": {
+    "title": "Emitido",
+    "description": "O bônus {amount} foi emitido"
+  },
+  "bonusActivated": {
+    "title": "Ativo",
+    "description": "O bônus {amount} foi ativado"
+  },
+  "bonusPlayed": {
+    "title": "Finalizado",
+    "description": "O bônus {amount} foi apostado com sucesso. Seus ganhos já estão em seu saldo real"
+  },
+  "bonusCanceled": {
+    "title": "Cancelado",
+    "description": "O bônus {amount} foi cancelado"
+  },
+  "bonusExpired": {
+    "title": "Expirado",
+    "description": "O bônus {amount} expirou"
+  },
+  "bonusLost": {
+    "title": "Perdido",
+    "description": "O bônus {amount} não foi apostado"
+  }
+}

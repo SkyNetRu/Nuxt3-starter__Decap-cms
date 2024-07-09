@@ -1,0 +1,26 @@
+{
+  "withdrawalProcessed": {
+    "title": "Venter!",
+    "description": "Uttaket ditt er under behandling. Vi vil sjekke forespørselen din om kort tid."
+  },
+  "userCanceledWithdrawal": {
+    "title": "Vellykket",
+    "description": "Du har kansellert uttaket ditt."
+  },
+  "depositSuccess": {
+    "title": "Vellykket",
+    "description": "{sum}-innskuddet ditt fra {date} er vellykket!"
+  },
+  "depositError": {
+    "title": "Feil",
+    "description": "Beklager, men noe gikk galt med {sum}-innskuddet ditt fra {date}. Vennligst prøv igjen."
+  },
+  "withdrawSuccess": {
+    "title": "Vellykket",
+    "description": "Ditt {sum} uttak fra {date} ble godkjent!"
+  },
+  "withdrawError": {
+    "title": "Avbrutt uttak",
+    "description": "Ditt {sum} uttak fra {date} er kansellert. Ta kontakt med kundestøtte for mer informasjon."
+  }
+}

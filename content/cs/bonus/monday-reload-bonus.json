@@ -1,0 +1,16 @@
+{
+  "pageUrl": "sport-reload-bonus",
+  "termsLabel": "Bonusové podmínky:",
+  "termsContent": "1. Chcete-li získat bonus, musíte provést vklad alespoň 30 EUR nebo stejnou hodnotu v jiných měnách.\n2. Maximální výše bonusu je 100% z částky vkladu, ale ne více než 100 EUR nebo stejná hodnota v jiných měnách.\n3. Bonus za vklad je platný po dobu 5 dnů, počínaje datem, kdy jej obdržíte.\n4. Plné sázení vyžaduje sázení 5násobek částky obdrženého bonusu: (Vkladový bonus) × 5 \n5. Každá Kombinovaná sázka musí obsahovat 3 nebo více událostí, kombinované kurzy 1,4-2,4;",
+  "button": {
+    "label": "Získejte bonus"
+  },
+  "backgroundColor": "gray",
+  "subtitle": "100% bonus až do výše 100 EUR v sobotu",
+  "title": "Bonus Za Sobotní Sport",
+  "image": "https://win.city/img/uploads/monday-big.webp",
+  "description": "Užijte si víkend na vysoké úrovni s Win.Casino! Popadnout si 100% bonus až do výše 100 EUR je snadné:\n\n\n1. Proveďte vklad ve výši nejméně 30 EUR.\n2. Okamžitě obdržíte bonus v hodnotě 100% z částky, kterou jste vložili (až do maximální výše 100 EUR).",
+  "seo": {
+    "title": "Win.Casino | Monday Reload bonus"
+  }
+}

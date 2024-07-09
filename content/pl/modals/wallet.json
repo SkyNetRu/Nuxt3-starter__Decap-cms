@@ -1,0 +1,42 @@
+{
+  "balanceLabel": "Równowaga",
+  "methodMin": "min",
+  "percentageMax": "max",
+  "tabs": {
+    "deposit": "Depozyt",
+    "withdraw": "Wycofać"
+  },
+  "notAvailableText": "Przepraszamy, nie ma dostępnych metod płatności",
+  "deposit": {
+    "title": "Depozyt",
+    "sumLabel": "Suma depozytu",
+    "minSum": "Minimalny depozyt:",
+    "addressTitle": "Adres",
+    "addressInputLabel": "Wyślij dowolną kwotę do:",
+    "addressDescription": "To jest Twój osobisty adres do wpłat. Twoje środki będą dostępne, gdy tylko przejdą przez niezbędne potwierdzenia.",
+    "bonuses": {
+      "title": "Wybierz bonus",
+      "infoDescription": "Po zaksięgowaniu depozytu aktywuje on wybrany bonus. Jeśli dokonałeś już wpłaty, nie zmieniaj wybranego bonusu, dopóki depozyt nie zostanie zaksięgowany na saldzie gry.",
+      "minDeposit": "Minimalny Depozyt:",
+      "deposit": "Depozyt:",
+      "maxDeposit": "Maksymalny Depozyt:",
+      "moreInfo": "Więcej informacji"
+    },
+    "togglerLabel": "Mam kod bonusowy",
+    "addBonusCode": "Dodaj",
+    "cancelBonusCode": "Anuluj",
+    "depositButton": "Depozyt",
+    "limit": {
+      "title": "Osiągnąłeś limit wpłat",
+      "description": "Ustawiłeś limit wpłaty:",
+      "moreInfo": "Więcej informacji"
+    }
+  },
+  "withdraw": {
+    "title": "Wycofanie",
+    "withdrawLabel": "Możliwość wypłaty",
+    "sumLabel": "Kwota wypłaty",
+    "minSum": "Min wycofanie:",
+    "withdrawButton": "Wycofać"
+  }
+}

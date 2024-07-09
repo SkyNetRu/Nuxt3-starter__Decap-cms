@@ -1,0 +1,19 @@
+{
+  "demoLabel": "Klaar om echt te spelen?",
+  "demoButton": "Ja, echt spelen",
+  "plug": {
+    "title": "Inloggen",
+    "description": "Dit spel is niet beschikbaar in de funmodus, meld je aan of registreer je om te spelen."
+  },
+  "seo": {
+    "title": "Win.Casino | Speel meer dan 4.000 slots en spellen"
+  },
+  "demoModal": {
+    "label": "U bevindt zich in de demomodus",
+    "description": "Klaar voor de echte deals? Duik in de Real-modus en verhoog de inzet.",
+    "demo": "Speel demo",
+    "real": "Speel echt",
+    "deposit": "Borg",
+    "registration": "Registratie"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "tabLabel": "Inzetten",
+  "settledTab": "Afgehandeld",
+  "unsettledTab": "Onverhandeld",
+  "betCard": {
+    "coefficientLabel": "Kansen",
+    "betLabel": "Inzet",
+    "resultLabel": "Resultaat",
+    "copyButton": "ID weddenschap kopiëren",
+    "copyTooltip": "Inzet-ID gekopieerd naar klembord",
+    "comboLabel": "Combo",
+    "comboDisciplinesTooltip": "meer",
+    "comboBetsLabel": "Inzetten"
+  },
+  "empty": {
+    "title": "Er zijn nog geen gegevens!",
+    "description": "Je hebt nog geen weddenschappen geplaatst."
+  }
+}

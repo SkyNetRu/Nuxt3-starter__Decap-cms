@@ -1,0 +1,16 @@
+{
+  "moreButton": "Näytä kaikki",
+  "recommendedSubtitle": "Parhaat pelit sinulle",
+  "favorites": {
+    "label": "Suosikit"
+  },
+  "providers": {
+    "label": "Tarjoajat"
+  },
+  "latestWinners": {
+    "label": "Viimeisimmät voittajat"
+  },
+  "recentlyPlayed": {
+    "label": "Viimeksi pelatut"
+  }
+}

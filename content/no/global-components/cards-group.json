@@ -1,0 +1,16 @@
+{
+  "moreButton": "Vis alle",
+  "recommendedSubtitle": "De beste spillene for deg",
+  "favorites": {
+    "label": "Favoritter"
+  },
+  "providers": {
+    "label": "Tilbydere"
+  },
+  "latestWinners": {
+    "label": "Siste vinnere"
+  },
+  "recentlyPlayed": {
+    "label": "Nylig spilt"
+  }
+}

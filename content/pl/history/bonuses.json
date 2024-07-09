@@ -1,0 +1,17 @@
+{
+  "tabLabel": "Premie",
+  "cashBonusTab": "Bonusy gotówkowe",
+  "freeSpinsTab": "Darmowe spiny",
+  "tableColumns": {
+    "title": "Tytuł",
+    "status": "Status",
+    "amount": "Kwota",
+    "progress": "Postęp",
+    "created": "Data",
+    "expired": "Ważne do"
+  },
+  "empty": {
+    "title": "Nie ma jeszcze żadnych danych!",
+    "description": "Nie otrzymałeś jeszcze bonusów"
+  }
+}

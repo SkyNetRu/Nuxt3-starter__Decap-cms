@@ -1,0 +1,41 @@
+{
+  "title": "Grænser",
+  "addButtonLabel": "Tilføj ny",
+  "editButtonLabel": "Rediger grænser",
+  "doneButtonLabel": "Færdig med redigering",
+  "setButtonLabel": "Indstil",
+  "modeToggle": "Avanceret tilstand",
+  "titleTooltip": "Denne indstilling begrænser det beløb, du kan indbetale pr. dag, uge eller måned.",
+  "availableLimitSum": "{balance} af {amount} {currency} tilbage",
+  "activeStatusLabel": "Aktiv indtil {date}",
+  "pendingStatusLabel": "Afventer til {date}",
+  "statusPendingTimerLabel": "indtil aktiveret",
+  "statusActiveTimerLabel": "indtil nulstillet",
+  "timerAlmostDoneLabel": "Næsten færdig",
+  "deposit": {
+    "label": "Indbetalingsgrænser",
+    "hint": "Denne indstilling begrænser det beløb, du kan indbetale pr. dag, uge eller måned."
+  },
+  "loss": {
+    "label": "Grænser for tab",
+    "hint": "Denne indstilling begrænser det beløb, du kan indbetale pr. dag, uge eller måned."
+  },
+  "bet": {
+    "label": "Grænser for væddemål",
+    "hint": "Denne indstilling begrænser det beløb, du kan indbetale pr. dag, uge eller måned."
+  },
+  "coolingOff": {
+    "label": "Afkøling",
+    "selectLabel": "Ingen",
+    "hint": "Begrænsningen træder i kraft med det samme. Du vil ikke kunne foretage indbetalinger og spille i den angivne periode, og du vil også blive udelukket fra alle reklametilbud.",
+    "activeStatusLabel": "Aktiv indtil {date}",
+    "pendingStatusLabel": "Afventer. Vil blive aktiveret på {date}",
+    "deleteConfirmTitle": "Grænseopdatering med succes",
+    "deleteConfirmDescription": "Grænsen vil blive annulleret efter 24 timer"
+  },
+  "selfExclusion": {
+    "label": "Selvudelukkelse",
+    "selectLabel": "Ingen",
+    "hint": "Du kan indstille en grænse for selvudelukkelse for en bestemt eller en ubestemt tidsperiode. Begrænsningen træder i kraft med det samme. I den indstillede periode vil du ikke kunne logge ind på din konto. For at blive udelukket fra at spille på vores side i en ubestemt periode, bedes du kontakte vores supportteam via [live-chat](#)"
+  }
+}

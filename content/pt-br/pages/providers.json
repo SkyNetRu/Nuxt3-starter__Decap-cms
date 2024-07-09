@@ -1,0 +1,18 @@
+{
+  "title": "Lista de fornecedores",
+  "providersLabel": "Fornecedores",
+  "gamesLabel": "games",
+  "staticProvider": {
+    "identity": "turbo-games",
+    "button": "Para o céu"
+  },
+  "searchPlaceholder": "Pesquise o seu fornecedor",
+  "empty": {
+    "title": "Nada encontrado",
+    "description": "Tente procurar outra coisa"
+  },
+  "sortLabel": "Ordenar por:",
+  "seo": {
+    "title": "Win.Casino | Lista de fornecedores"
+  }
+}

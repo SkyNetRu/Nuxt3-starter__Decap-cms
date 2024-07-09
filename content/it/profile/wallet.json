@@ -1,0 +1,16 @@
+{
+  "title": "Portafoglio",
+  "addButton": "Aggiungere valuta",
+  "changeButton": "Utilizzare la valuta",
+  "hideButton": "Nascondere la valuta",
+  "depositButton": "Deposito",
+  "hideZeroBalances": "Hide zero balances",
+  "zeroBalance": {
+    "imgPath": "/img/uploads/empty.png",
+    "title": "There are no funds on your balance"
+  },
+  "withdrawButton": "Prelievo",
+  "seo": {
+    "title": "Portafoglio Win.Casino"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "tabLabel": "بونوس ها",
+  "cashBonusTab": "بونوس نقدی",
+  "freeSpinsTab": "چرخش رایگان",
+  "tableColumns": {
+    "title": "عنوان",
+    "status": "وضعیت",
+    "amount": "مقدار",
+    "progress": "در حال پردازش",
+    "created": "تاریخ",
+    "expired": "اعتبار دارد تا"
+  },
+  "empty": {
+    "title": "هنوز هیچ داده ای وجود ندارد!",
+    "description": "شما هنوز بونوس دریافت نکرده اید"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Bonificaciones",
+  "historyLink": "Consulta tu historial de bonificaciones",
+  "bonusCode": {
+    "title": "¿Tienes un promocode?",
+    "timerText": "hasta el próximo intento",
+    "buttonLabel": "Añadir",
+    "tryError": "El código del bono es incorrecto. Vuelva a intentarlo pasados 3 minutos"
+  },
+  "cashBonuses": {
+    "title": "Bonos en efectivo",
+    "wagerHintLabel": "Requisitos de apuesta",
+    "casinoWagerLabel": "Requisitos de apuesta del casino - x{wager} Bono",
+    "sportsbookWagerLabel": "Requisitos de apuesta en apuestas deportivas - x{wager} Bono",
+    "waitingResult": "A la espera de los resultados de las apuestas de Sportsbook."
+  },
+  "freeSpins": {
+    "title": "Tiradas gratis"
+  },
+  "seo": {
+    "title": "Win.Casino | Bonos"
+  }
+}

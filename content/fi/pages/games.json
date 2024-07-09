@@ -1,0 +1,13 @@
+{
+  "empty": {
+    "title": "Mitään ei löytynyt",
+    "description": "Yritä etsiä jotain muuta"
+  },
+  "providersLabel": "Palveluntarjoajat",
+  "sortLabel": "Järjestä",
+  "seo": {
+    "title": "Win.Casino | Löydä suosikkikolikkopelit ja -pelit"
+  },
+  "allProvidersOption": "Kaikki palveluntarjoajat",
+  "clearProviders": "Tyhjennä"
+}

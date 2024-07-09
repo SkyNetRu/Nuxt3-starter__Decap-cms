@@ -1,0 +1,21 @@
+{
+  "title": "Word lid van Win.Casino",
+  "agreeEmailLabel": "Ik ga akkoord met het ontvangen van bonus & marketing e-mails",
+  "agreeSmsLabel": "Promo's sturen per SMS",
+  "registrationButton": "Inschrijven",
+  "loginButton": "Ben je al lid? *Aanmelden*",
+  "promo": {
+    "title": "Welkomstpakket",
+    "secondTitle": "3000 EUR + 200 FS",
+    "additionalTitle": "over sport en casino",
+    "images": {
+      "mobile": {
+        "backgroundImage": "/img/uploads/registration-mobile.webp"
+      },
+      "desktop": {
+        "backgroundImage": "/img/uploads/eu-registration.webp"
+      }
+    },
+    "displayAdvantages": false
+  }
+}

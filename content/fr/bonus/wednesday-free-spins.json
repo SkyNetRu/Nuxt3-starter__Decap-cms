@@ -1,0 +1,14 @@
+{
+  "pageUrl": "wednesday-free-spins",
+  "title": "Spins gratuits du mercredi",
+  "subtitle": "Obtenez 100 tours gratuits tous les mercredis",
+  "description": "Les mercredis, nos joueurs reçoivent 30, 50 ou 100 tours gratuits juste pour avoir effectué un dépôt. Assurez-vous de saisir l'opportunité d'obtenir des tours gratuits le mercredi !",
+  "button": {
+    "label": "Obtenir un bonus"
+  },
+  "termsLabel": "Conditions du bonus:",
+  "termsContent": "1) Pour obtenir le bonus, entrez le code bonus WEDNESDAY avant le dépôt.\n2. Dépôt minimum pour obtenir un bonus :\n\n   * 20 tours gratuits - 1 mBTC ;\n   * 50 tours gratuits - 1,5 mBTC ;\n   * 100 tours gratuits - 2 mBTC.\n3. La mise complète nécessite de faire des paris pour un montant égal à 40 fois le montant du bonus reçu : (gains des tours gratuits) ×40.\n4. Les tours gratuits seront automatiquement crédités sur votre compte !\n5. La limite de la mise maximale pendant les paris est de 0,3 mBTC.\n6. Le bonus est disponible uniquement le mercredi de 00-00 à 23-59.",
+  "seo": {
+    "title": "Win.Casino | Free Spins du mercredi"
+  }
+}

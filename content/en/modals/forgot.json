@@ -1,0 +1,6 @@
+{
+  "title": "Forgot password?",
+  "description": "Enter your email address and we will send you a password reset link.",
+  "forgotButton": "Reset password",
+  "registrationButton": "Don't have an account? *Join*"
+}

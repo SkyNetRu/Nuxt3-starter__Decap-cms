@@ -1,0 +1,20 @@
+{
+  "verifyButton": "Überprüfen",
+  "verifiedLabel": "Ihre E-Mail ist verifiziert",
+  "cancelButton": "Stornieren",
+  "saveButton": "Änderungen speichern",
+  "unverifiedLabel": "Ihre E-Mail-Adresse ist nicht verifiziert",
+  "manageTitle": "Konto verwalten",
+  "title": "Profilinfo",
+  "sendButton": "Link senden",
+  "subscriptionTitle": "Abonnement",
+  "editButton": "Bearbeite dein Profil",
+  "seo": {
+    "text": {
+      "visible": "",
+      "hidden": "",
+      "button": ""
+    },
+    "title": "Win.Casino | Profilinfo"
+  }
+}

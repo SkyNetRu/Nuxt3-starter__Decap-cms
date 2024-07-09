@@ -1,0 +1,17 @@
+{
+  "tabLabel": "Bonukset",
+  "cashBonusTab": "Käteisbonukset",
+  "freeSpinsTab": "Ilmaiskierrokset",
+  "tableColumns": {
+    "title": "Otsikko",
+    "status": "Tila",
+    "amount": "Määrä",
+    "progress": "Edistyminen",
+    "created": "Päivämäärä",
+    "expired": "Voimassa asti"
+  },
+  "empty": {
+    "title": "Tietoja ei vielä ole!",
+    "description": "Et ole vielä saanut bonuksia"
+  }
+}

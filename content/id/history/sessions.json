@@ -1,0 +1,14 @@
+{
+  "tabLabel": "Sesi",
+  "sessionsStatuses": {
+    "current": "Saat ini",
+    "active": "Aktif",
+    "closed": "Ditutup"
+  },
+  "tableColumns": {
+    "country": "Negara",
+    "userAgent": "Agen Pengguna",
+    "createdAt": "Dibuat Pada",
+    "status": "Status"
+  }
+}

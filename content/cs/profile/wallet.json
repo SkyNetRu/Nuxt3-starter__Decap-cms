@@ -1,0 +1,16 @@
+{
+  "title": "Peněženka",
+  "addButton": "Přidání měny",
+  "changeButton": "Použití měny",
+  "hideButton": "Skrýt měnu",
+  "depositButton": "Vklad",
+  "hideZeroBalances": "Hide zero balances",
+  "zeroBalance": {
+    "imgPath": "/img/uploads/empty.png",
+    "title": "There are no funds on your balance"
+  },
+  "withdrawButton": "Výběr",
+  "seo": {
+    "title": "Win.Casino | Peněženka"
+  }
+}

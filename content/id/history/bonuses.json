@@ -1,0 +1,17 @@
+{
+  "tabLabel": "Bonus",
+  "cashBonusTab": "Bonus Uang Tunai",
+  "freeSpinsTab": "Putaran Gratis",
+  "tableColumns": {
+    "title": "Judul",
+    "status": "Status",
+    "amount": "Jumlah",
+    "progress": "Kemajuan",
+    "created": "Tanggal",
+    "expired": "Berlaku sampai"
+  },
+  "empty": {
+    "title": "Belum ada data!",
+    "description": "Anda belum menerima bonus"
+  }
+}

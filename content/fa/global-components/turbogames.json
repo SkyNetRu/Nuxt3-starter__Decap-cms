@@ -1,0 +1,8 @@
+{
+  "label": "بازی های توربو",
+  "showAll": {
+    "label": "نمایش تمام گزینه ها",
+    "url": "/games?category=turbogames"
+  },
+  "buttonLabel": "الان بازی کن"
+}

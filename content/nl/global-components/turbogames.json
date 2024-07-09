@@ -1,0 +1,8 @@
+{
+  "label": "Turbogames",
+  "showAll": {
+    "label": "Toon alle",
+    "url": "/games?category=turbogames"
+  },
+  "buttonLabel": "Nu spelen"
+}

@@ -1,0 +1,16 @@
+{
+  "pageUrl": "fourth-deposit-bonus",
+  "termsLabel": "Bonus shartlari:",
+  "termsContent": "1. **Casino toʻrtinchi depozit bonusi shartlari:**",
+  "button": {
+    "label": "Bonus oling"
+  },
+  "backgroundColor": "blue",
+  "subtitle": "Casino yoki Sport uchun 500 EUR gacha bonus bilan ko'proq o'ynang",
+  "title": "4-depozit bonusi",
+  "image": "/img/uploads/4-deposit.png",
+  "description": "To'rtinchi omonatingizni ikki baravar oshiramiz. Shunchaki o'ynang, qolganini biz siz uchun qilamiz.",
+  "seo": {
+    "title": "Win.Casino | To'rtinchi depozit bonusi"
+  }
+}

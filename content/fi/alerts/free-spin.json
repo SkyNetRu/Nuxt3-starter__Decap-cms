@@ -1,0 +1,22 @@
+{
+  "freeSpinIssued": {
+    "title": "Myönnetty",
+    "description": "Sinulle on myönnetty {count} {currency} lompakollesi {game} pelistä"
+  },
+  "freeSpinActivated": {
+    "title": "Aktiivinen",
+    "description": "{count} {currency} lompakossasi {game} varten on aktivoitu."
+  },
+  "freeSpinPlayed": {
+    "title": "Päättynyt",
+    "description": "Olet onnistuneesti pelannut {count} lompakossasi {currency} pelin {game} osalta"
+  },
+  "freeSpinCanceled": {
+    "title": "Peruutettu",
+    "description": "{count} sinun {currency} lompakossasi {game} peliä varten on peruutettu."
+  },
+  "freeSpinExpired": {
+    "title": "Expired",
+    "description": "{count} teidän {currency} lompakossa {game} peliä varten on vanhentunut"
+  }
+}

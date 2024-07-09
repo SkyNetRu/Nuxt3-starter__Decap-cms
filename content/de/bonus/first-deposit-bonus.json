@@ -1,0 +1,16 @@
+{
+  "pageUrl": "first-deposit-bonus",
+  "termsLabel": "Bonusbedingungen:",
+  "termsContent": "**Allgemeine Geschäftsbedingungen für den Casino-Ersteinzahlungsbonus:**",
+  "button": {
+    "label": "Bonus erhalten"
+  },
+  "backgroundColor": "red",
+  "subtitle": "Sichern Sie sich Ihren 100 % Bonus bis zu 500 EUR",
+  "title": "1. Einzahlungsbonus",
+  "image": "/img/uploads/1-deposit-new.png",
+  "description": "Win.Casino begrüßt Sie mit einem riesigen ersten Bonus! Da Sie neu bei uns sind, bieten wir Ihnen einen 100 % Bonus bis zu 500 EUR auf Ihre erste Einzahlung.",
+  "seo": {
+    "title": "Win.Casino | First deposit bonus"
+  }
+}

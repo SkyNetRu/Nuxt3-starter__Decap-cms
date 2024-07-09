@@ -1,0 +1,7 @@
+{
+  "title": "Bekräfta annullering av bonus",
+  "activeBonusDescription": "Alla dina vinster kommer att gå förlorade. Är du säker på att du vill avbryta denna bonus?",
+  "issuedBonusDescription": "Är du säker på att du vill avbryta denna bonus?",
+  "confirmButton": "Ja",
+  "cancelButton": "Nej"
+}

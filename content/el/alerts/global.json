@@ -1,0 +1,9 @@
+{
+  "somethingWrong": {
+    "title": "Σφάλμα!",
+    "description": "Κάτι πήγε στραβά!"
+  },
+  "sentMessage": {
+    "title": "Σας ευχαριστούμε!"
+  }
+}

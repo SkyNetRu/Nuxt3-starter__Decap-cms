@@ -1,0 +1,11 @@
+{
+  "somethingWrong": {
+    "type": "error",
+    "title": "Fehler!",
+    "description": "Da ist etwas schief gelaufen!"
+  },
+  "sentMessage": {
+    "type": "done",
+    "title": "Vielen Dank!"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "chooseCurrencyError": "Bitte wählen Sie Ihre Währung für das neue Einzahlungslimit aus",
+  "addBetLabel": "Neues Einsatzlimit",
+  "hint": "Die Einschränkung wird sofort wirksam. Sie können Ihr Limit jederzeit reduzieren, diese Änderung wird sofort wirksam. Sie können das Limit erhöhen, aber damit diese Änderung wirksam wird, benötigen Sie 24 Stunden. Die Stornierung des Einzahlungslimits dauert 24 Stunden. Nachdem das Limit überschritten wurde, erhalten Sie eine E-Mail-Benachrichtigung.",
+  "chooseCurrencyLabel": "Währung wählen",
+  "addLossLabel": "Neues Verlustlimit",
+  "addButton": "Hinzufügen",
+  "label": "New deposit limit",
+  "addDepositLabel": "Neues Einzahlungslimit",
+  "successConfirmLabel": "Limit erfolgreich gesetzt"
+}

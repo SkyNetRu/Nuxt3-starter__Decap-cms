@@ -1,0 +1,15 @@
+{
+  "tabLabel": "Lernabschnitte",
+  "tableColumns": {
+    "country": "Land",
+    "userAgent": "BenutzerProgramm",
+    "createdAt": "Erstellt am",
+    "status": "Status"
+  },
+  "sessionsStatuses": {
+    "current": "Aktuell",
+    "active": "Aktiv",
+    "closed": "Geschlossen"
+  },
+  "tabPosition": 1
+}

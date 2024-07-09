@@ -1,0 +1,16 @@
+{
+  "moreButton": "Tampilkan semua",
+  "recommendedSubtitle": "Game terbaik untuk Anda",
+  "favorites": {
+    "label": "Favorit"
+  },
+  "providers": {
+    "label": "Penyedia"
+  },
+  "latestWinners": {
+    "label": "Pemenang terbaru"
+  },
+  "recentlyPlayed": {
+    "label": "Baru saja dimainkan"
+  }
+}

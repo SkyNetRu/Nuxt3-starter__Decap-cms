@@ -1,0 +1,6 @@
+{
+  "title": "Confirm bonus update",
+  "description": "The status of the currently active bonus will change to Cancelled. Are you sure you want to activate this bonus?",
+  "confirmButton": "Yes",
+  "cancelButton": "No"
+}

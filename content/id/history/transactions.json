@@ -1,0 +1,27 @@
+{
+  "tabLabel": "Transaksi",
+  "dateLabel": "Tanggal dari / ke:",
+  "allFilterOption": "Semua",
+  "typeFilterLabel": "Jenis",
+  "currencyLabel": "Mata uang",
+  "statusFilterLabel": "Status:",
+  "tableColumns": {
+    "date": "Tanggal",
+    "type": "Jenis",
+    "method": "Metode Pembayaran",
+    "status": "Status",
+    "sum": "Jumlah"
+  },
+  "cancelPaymentButton": "Batalkan pembayaran",
+  "empty": {
+    "title": "Belum ada data!",
+    "description": "Anda belum memiliki transaksi yang berhasil."
+  },
+  "securityCode": {
+    "getCodeButton": "Ambil kode",
+    "codeLabel": "Kode rahasia:",
+    "codeTooltip": "Kode rahasia disalin",
+    "clientLabel": "ID Klien:",
+    "clientTooltip": "ID Klien disalin"
+  }
+}

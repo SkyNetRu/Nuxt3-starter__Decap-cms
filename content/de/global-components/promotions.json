@@ -1,0 +1,46 @@
+{
+  "label": "Win.Casino promotions",
+  "icon": "bonuses",
+  "items": [
+    {
+      "image": "/img/uploads/promotion-1.png",
+      "title": "Welcome pack",
+      "description": "5000 mBTC + 300 FS",
+      "buttonLabel": "Get bonus",
+      "link": {
+        "label": "Learn more",
+        "url": "/welcome-package"
+      }
+    },
+    {
+      "image": "/img/uploads/promotion-2.png",
+      "title": "Wednesday bonus",
+      "description": "100 free spins",
+      "buttonLabel": "Get bonus",
+      "link": {
+        "label": "Learn more",
+        "url": "/bonus/wednesday-free-spins"
+      }
+    },
+    {
+      "image": "/img/uploads/promotion-3.png",
+      "title": "Weekly Cashback",
+      "description": "Just play and get 10% cashback",
+      "buttonLabel": "Get bonus",
+      "link": {
+        "label": "Learn more",
+        "url": "/bonus/weekly-cashback"
+      }
+    },
+    {
+      "image": "/img/uploads/promotion-4.png",
+      "title": "30% Reload bonus",
+      "description": "every week",
+      "buttonLabel": "Get bonus",
+      "link": {
+        "label": "Learn more",
+        "url": "/bonus/monday-reload-bonus"
+      }
+    }
+  ]
+}

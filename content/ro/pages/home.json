@@ -1,0 +1,58 @@
+{
+  "banner": {
+    "title": "#### Joacă și câștigă la Win.Casino",
+    "button": {
+      "label": "Joacă acum"
+    },
+    "images": {
+      "backgroundImage": "/img/uploads/eu-banner-bg.webp",
+      "faceImage": "/img/uploads/eu-banner-person.webp"
+    }
+  },
+  "categories": {
+    "casino": {
+      "title": "Casino",
+      "description": "Bucurați-vă de peste 4 000 de jocuri corecte",
+      "button": {
+        "label": "Învârtiri gratuite",
+        "url": "/main"
+      },
+      "image": "/img/uploads/casino-new-1-.png"
+    },
+    "betting": {
+      "title": "Pariuri",
+      "description": "Cele mai competitive cote și piețe. Pariază și câștigă chiar acum",
+      "button": {
+        "label": "Pariați acum",
+        "url": "/betting"
+      },
+      "image": "/img/uploads/betting-new-1-.png"
+    },
+    "esports": {
+      "title": "Esports",
+      "description": "Piețe și evenimente grozave în Esport",
+      "button": {
+        "label": "Pariază acum",
+        "url": "/betting"
+      },
+      "image": "/img/uploads/esports-1.png"
+    }
+  },
+  "seo": {
+    "title": "Win.Casino | Cel mai sigur cazinou cripto",
+    "text": {
+      "visible": "## Win.Casino vă urează bun venit!",
+      "hidden": "## Cartea sportivă cu multe de oferit",
+      "button": "Arată mai mult"
+    }
+  },
+  "aeroGroup": {
+    "label": "Jocuri Win.Casino",
+    "collectionIdentity": "crash",
+    "game": {
+      "identity": "spribe-aviator",
+      "playButtonLabel": "Joaca acum",
+      "demoButtonLabel": "Demo"
+    }
+  }
+}

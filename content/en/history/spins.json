@@ -1,0 +1,30 @@
+{
+  "empty": {
+    "icon": "empty-bets-history",
+    "title": "There is no data yet!",
+    "description": "You have not placed any bets yet"
+  },
+  "resultFilterLabel": "Result",
+  "allFilterOption": "All",
+  "dateAllFilterOption": "All time",
+  "dateLabel": "Date from / to:",
+  "filter_buttons": {
+    "reset": "Reset",
+    "apply": "Apply",
+    "cancel": "Cancel"
+  },
+  "filter_title": "Filter",
+  "tabLabel": "Spins",
+  "tabPosition": 3,
+  "tableColumns": {
+    "game": "Game",
+    "bet": "Bet",
+    "result": "Result",
+    "date": "Date"
+  },
+  "filtersResult": {
+    "all": "All",
+    "win": "Win",
+    "Lose": "Lose"
+  }
+}

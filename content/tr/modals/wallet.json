@@ -1,0 +1,42 @@
+{
+  "balanceLabel": "Denge",
+  "methodMin": "min",
+  "percentageMax": "maks",
+  "tabs": {
+    "deposit": "Depozito",
+    "withdraw": "Çekilmek"
+  },
+  "notAvailableText": "Üzgünüz, mevcut ödeme yöntemleri yok",
+  "deposit": {
+    "title": "Depozito",
+    "sumLabel": "Depozito toplamı",
+    "minSum": "Minimum depozito:",
+    "addressTitle": "Adres",
+    "addressInputLabel": "Herhangi bir miktar gönder:",
+    "addressDescription": "Bu, depozitolar için kişisel adresinizdir. Paralarınız gerekli onaylardan geçer geçmez hazır olacaktır.",
+    "bonuses": {
+      "title": "Bir bonus seçti",
+      "infoDescription": "Depozitonuz yatırıldıktan sonra, seçilen bir bonusu etkinleştirir. Daha önce para yatırdıysanız, para yatırma işlemi oyun bakiyesine yatırılana kadar lütfen seçilen bonusu değiştirmeyin.",
+      "minDeposit": "Dk. Depozito:",
+      "deposit": "Depozito:",
+      "maxDeposit": "Maks. Depozito:",
+      "moreInfo": "Daha fazla bilgi"
+    },
+    "togglerLabel": "Bonus kodum var",
+    "addBonusCode": "Eklemek",
+    "cancelBonusCode": "İptal etmek",
+    "depositButton": "Depozito",
+    "limit": {
+      "title": "Para yatırma limitinize ulaştınız",
+      "description": "Para yatırma limitinizi ayarladınız:",
+      "moreInfo": "Daha fazla bilgi"
+    }
+  },
+  "withdraw": {
+    "title": "Para çekme",
+    "withdrawLabel": "Çekilebilir",
+    "sumLabel": "Para çekme toplamı",
+    "minSum": "Minimum para çekme:",
+    "withdrawButton": "Çekilmek"
+  }
+}

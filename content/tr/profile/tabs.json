@@ -1,0 +1,22 @@
+{
+  "profile": [
+    {
+      "title": "profil",
+      "path": "/profile/info"
+    },
+    {
+      "title": "ikramiyeler",
+      "path": "/profile/bonuses"
+    }
+  ],
+  "wallet": [
+    {
+      "title": "cüzdan",
+      "path": "/wallet"
+    },
+    {
+      "title": "tarih",
+      "path": "/wallet/history"
+    }
+  ]
+}

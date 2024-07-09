@@ -1,0 +1,8 @@
+{
+  "label": "टर्बोगेम्स",
+  "showAll": {
+    "label": "सब दिखाएं",
+    "url": "/games?category=turbogames"
+  },
+  "buttonLabel": "अब खेलते हैं"
+}

@@ -1,0 +1,32 @@
+{
+  "bonusCodeIncorrect": {
+    "title": "Anteeksi, mutta annoit väärän bonuskoodin."
+  },
+  "bonusCodeNotAvailable": {
+    "title": "Pahoittelen, mutta syötetyllä bonuskoodilla myönnetty bonus ei ole käytettävissäsi."
+  },
+  "bonusIssued": {
+    "title": "Myönnetty",
+    "description": "{amount} bonus on myönnetty"
+  },
+  "bonusActivated": {
+    "title": "Aktiivinen",
+    "description": "{amount} bonus on aktivoitu"
+  },
+  "bonusPlayed": {
+    "title": "Valmis",
+    "description": "{amount} bonus on onnistuneesti kierrätetty. Voittosi ovat jo oikeassa saldossasi."
+  },
+  "bonusCanceled": {
+    "title": "Peruutettu",
+    "description": "{amount} bonus on peruutettu."
+  },
+  "bonusExpired": {
+    "title": "Expired",
+    "description": "{amount} bonus on vanhentunut"
+  },
+  "bonusLost": {
+    "title": "Kadonnut",
+    "description": "{amount}-bonusta ei ole kierrätetty."
+  }
+}

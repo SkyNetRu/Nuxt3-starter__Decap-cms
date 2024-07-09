@@ -1,0 +1,13 @@
+{
+  "tabLabel": "Putaran",
+  "tableColumns": {
+    "game": "Permainan",
+    "bet": "Taruhan",
+    "result": "Hasil",
+    "date": "Tanggal"
+  },
+  "empty": {
+    "title": "Belum ada data!",
+    "description": "Anda belum memasang taruhan apa pun"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "label": "ألعاب التوربو",
+  "showAll": {
+    "label": "عرض الكل ",
+    "url": "/games?category=turbogames"
+  },
+  "buttonLabel": "العب الان"
+}

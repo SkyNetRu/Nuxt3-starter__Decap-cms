@@ -1,0 +1,6 @@
+{
+  "updateTitle": "Confirmar actualización de límite",
+  "updateDescription": "¿Está seguro de que desea establecer un límite de autoexclusión? Durante el periodo establecido no podrá acceder a su cuenta.",
+  "okButtonLabel": "Sí",
+  "cancelButtonLabel": "No"
+}

@@ -1,0 +1,49 @@
+{
+  "loginButton": "Logg Inn",
+  "registrationButton": "Registo",
+  "search": {
+    "placeholder": "Søk i spillet ditt",
+    "moreButton": "Last mer",
+    "emptyLabel": "Ingenting funnet",
+    "emptyText": "Prøv å søke etter noe annet",
+    "tryLabel": "Eller prøv disse populære spillene:"
+  },
+  "depositButton": "Lommebok",
+  "balance": {
+    "tabs": {
+      "balanceTab": "Balansere",
+      "currencyTab": "Valuta"
+    },
+    "fiatToggler": "Utstilling i Fiat",
+    "items": {
+      "real": "Ekte",
+      "bonus": "Bonus",
+      "withdrawal": "Uttrekkbar",
+      "cashback": "Penger tilbake"
+    },
+    "wageringLabel": "Veddemål:",
+    "cashbackDateLabel": "Skal utstedes:"
+  },
+  "playRealButton": "Ekte modus",
+  "pwa": {
+    "instructionLink": "/static/terms-and-conditions",
+    "mobile": {
+      "title": "Win.Casino - få ut gratis app",
+      "description": "Det tar ikke plass på telefonen din.",
+      "install": "Installere"
+    },
+    "desktop": {
+      "application": "applikasjon",
+      "forOs": "for {os}"
+    },
+    "tooltip": {
+      "title": "Win.Casino - få ut gratis app",
+      "description": "Det tar ikke plass på telefonen din."
+    }
+  },
+  "wagerTooltip": {
+    "notInWagering": "ㅤ",
+    "wagerMultiplierLessThan": "ㅤ",
+    "wagerMultiplierMoreThan": "ㅤ"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "tabLabel": "दांव",
+  "settledTab": "बसे हुए",
+  "unsettledTab": "अस्थिर",
+  "betCard": {
+    "coefficientLabel": "कठिनाइयाँ",
+    "betLabel": "शर्त",
+    "resultLabel": "परिणाम",
+    "copyButton": "शर्त आईडी कॉपी करें",
+    "copyTooltip": "बेट आईडी को क्लिपबोर्ड पर कॉपी किया गया",
+    "comboLabel": "कॉम्बो",
+    "comboDisciplinesTooltip": "अधिक",
+    "comboBetsLabel": "दांव"
+  },
+  "empty": {
+    "title": "अभी तक कोई डेटा नहीं है!",
+    "description": "आपने अभी तक कोई दांव नहीं लगाया है."
+  }
+}

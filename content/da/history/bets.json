@@ -1,0 +1,19 @@
+{
+  "tabLabel": "Væddemål",
+  "settledTab": "Afgjort",
+  "unsettledTab": "Ikke afgjort",
+  "betCard": {
+    "coefficientLabel": "Odds",
+    "betLabel": "Væddemål",
+    "resultLabel": "Resultat",
+    "copyButton": "Kopier væddemåls-ID",
+    "copyTooltip": "Væddemåls-ID kopieret til udklipsholder",
+    "comboLabel": "Kombination",
+    "comboDisciplinesTooltip": "mere",
+    "comboBetsLabel": "Væddemål"
+  },
+  "empty": {
+    "title": "Der er ingen data endnu!",
+    "description": "Du har ikke placeret nogen væddemål endnu."
+  }
+}

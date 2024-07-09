@@ -1,0 +1,10 @@
+{
+  "tabs": {
+    "allTab": "Todos os jogos",
+    "cryptoTab": "Cripto"
+  },
+  "empty": {
+    "title": "Já está!",
+    "description": "Já adicionou todas as moedas"
+  }
+}

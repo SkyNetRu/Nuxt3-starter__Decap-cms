@@ -1,0 +1,8 @@
+{
+  "title": "Jokin meni pieleen",
+  "description": "Sivua, jota yrität käyttää, ei ole olemassa tai se on siirretty. Yritä palata etusivulle.",
+  "button": {
+    "label": "Kotisivu",
+    "url": "/"
+  }
+}

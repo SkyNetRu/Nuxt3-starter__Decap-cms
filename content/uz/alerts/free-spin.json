@@ -1,0 +1,22 @@
+{
+  "freeSpinIssued": {
+    "title": "Berilgan sana",
+    "description": "{game} oʻyini uchun sizga {currency} hamyoningizda {count} mukofot berildi"
+  },
+  "freeSpinActivated": {
+    "title": "Faol",
+    "description": "{game} uchun {currency} hamyoningizdagi {count} faollashtirildi"
+  },
+  "freeSpinPlayed": {
+    "title": "Tugallandi",
+    "description": "{game} oʻyini uchun {currency} hamyoningizda muvaffaqiyatli {count} oʻynadingiz"
+  },
+  "freeSpinCanceled": {
+    "title": "Bekor qilingan",
+    "description": "{game} oʻyini uchun {currency} hamyoningizdagi {count} bekor qilindi"
+  },
+  "freeSpinExpired": {
+    "title": "Muddati tugagan",
+    "description": "{game} oʻyini uchun {currency} hamyoningizdagi {count} muddati tugagan"
+  }
+}

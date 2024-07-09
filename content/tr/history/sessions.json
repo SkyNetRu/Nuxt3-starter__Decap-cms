@@ -1,0 +1,14 @@
+{
+  "tabLabel": "Oturumlar",
+  "sessionsStatuses": {
+    "current": "Güncel",
+    "active": "Aktif",
+    "closed": "Kapalı"
+  },
+  "tableColumns": {
+    "country": "Ülke",
+    "userAgent": "Kullanıcı Aracısı",
+    "createdAt": "Şu Adreste Oluşturuldu",
+    "status": "Durum"
+  }
+}

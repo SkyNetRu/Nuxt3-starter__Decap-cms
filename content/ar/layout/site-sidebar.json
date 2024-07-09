@@ -1,0 +1,19 @@
+{
+  "gamesToggler": {
+    "buttonFirst": {
+      "label": "الكازينو",
+      "url": "/رئيسي"
+    },
+    "buttonSecond": {
+      "label": "الرياضات",
+      "url": "/ الرهان"
+    }
+  },
+  "topMenu": {
+    "integratedElement": {
+      "label": "AVIATOR",
+      "url": "https://win.city/games/spribe-aviator?real=true"
+    }
+  },
+  "chatLabel": "المحادثة"
+}

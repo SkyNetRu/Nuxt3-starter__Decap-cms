@@ -1,0 +1,19 @@
+{
+  "tabLabel": "Sázky",
+  "settledTab": "Vypořádáno",
+  "unsettledTab": "Nevyřízené",
+  "betCard": {
+    "coefficientLabel": "Kurzy",
+    "betLabel": "Sázka",
+    "resultLabel": "Výsledek",
+    "copyButton": "Kopírovat ID sázky",
+    "copyTooltip": "ID sázky zkopírované do schránky",
+    "comboLabel": "Combo",
+    "comboDisciplinesTooltip": "více",
+    "comboBetsLabel": "Sázky"
+  },
+  "empty": {
+    "title": "Zatím nejsou k dispozici žádná data!",
+    "description": "Zatím jste nepodali žádnou sázku."
+  }
+}

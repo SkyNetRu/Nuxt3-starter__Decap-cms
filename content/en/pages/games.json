@@ -1,0 +1,44 @@
+{
+  "empty": {
+    "image": "/img/uploads/search-bg.png",
+    "title": "Nothing found",
+    "description": "Try searching for something else"
+  },
+  "buttons": {
+    "cancel": "Cancel",
+    "apply": "Apply",
+    "reset": "Reset",
+    "close": "Close",
+    "back": "Back"
+  },
+  "providersLabel": "Providers",
+  "filter_title": "Filters",
+  "allProvidersOption": "All providers",
+  "clearProviders": "Clear all",
+  "searchPlaceholder": "Search",
+  "providerPlaceholder": "/img/uploads/provider-icon.png",
+  "sortLabel": "Sort by",
+  "seo": {
+    "text": {
+      "visible": ""
+    },
+    "title": "Win.Casino | Find favorite slots and games"
+  },
+  "sortOptions": [
+    {
+      "label": "Most popular",
+      "sortBy": "default",
+      "sortOrder": "asc"
+    },
+    {
+      "label": "A-Z", 
+      "sortBy": "name",
+      "sortOrder": "asc"
+    },
+    {
+      "label": "Z-A",
+      "sortBy": "name",
+      "sortOrder": "desc"
+    }
+  ]
+}

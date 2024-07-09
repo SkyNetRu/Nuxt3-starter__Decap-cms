@@ -1,0 +1,229 @@
+{
+  "promoMenu": {
+    "title": "Promo",
+    "items": [
+      {
+        "label": "Welcome package",
+        "url": "/welcome-package"
+      },
+      {
+        "label": "Reload Bonus",
+        "url": "/bonus/monday-reload-bonus"
+      },
+      {
+        "label": "Weekly Cashback",
+        "url": "/bonus/weekly-cashback"
+      }
+    ]
+  },
+  "infoMenu": {
+    "title": "Info",
+    "items": [
+      {
+        "label": "Payments",
+        "url": "/static/payments"
+      },
+      {
+        "label": "T&C",
+        "url": "/static/terms-and-conditions"
+      },
+      {
+        "label": "Bonus Terms",
+        "url": "/static/bonus-terms"
+      },
+      {
+        "label": "Privacy Policy",
+        "url": "/static/privacy-policy"
+      },
+      {
+        "label": "Gambling with responsibility",
+        "url": "/static/gambling-with-responsibility"
+      },
+      {
+        "label": "KYC Policy",
+        "url": "/static/kyc-policy"
+      },
+      {
+        "label": "For Affiliates",
+        "url": "https://Win.Casino.partners/"
+      },
+      {
+        "label": "For Agents",
+        "url": "https://winagents.city/"
+      }
+    ]
+  },
+  "helpMenu": {
+    "title": "Help",
+    "items": [
+      {
+        "label": "F.A.Q",
+        "url": "/questions"
+      },
+      {
+        "label": "Contact us",
+        "url": "/contact"
+      }
+    ]
+  },
+  "responsibilityLabel": "gamble responsibly",
+  "paymentsList": [
+    {
+      "image": "/img/uploads/ada.svg"
+    },
+    {
+      "image": "/img/uploads/axs.svg"
+    },
+    {
+      "image": "/img/uploads/bch.svg"
+    },
+    {
+      "image": "/img/uploads/bnb.svg"
+    },
+    {
+      "image": "/img/uploads/btc.svg"
+    },
+    {
+      "image": "/img/uploads/csc.svg"
+    },
+    {
+      "image": "/img/uploads/dai.svg"
+    },
+    {
+      "image": "/img/uploads/dash.svg"
+    },
+    {
+      "image": "/img/uploads/doge.svg"
+    },
+    {
+      "image": "/img/uploads/eth.svg"
+    },
+    {
+      "image": "/img/uploads/ht.svg"
+    },
+    {
+      "image": "/img/uploads/husd.svg"
+    },
+    {
+      "image": "/img/uploads/ltc.svg"
+    },
+    {
+      "image": "/img/uploads/matic.svg"
+    },
+    {
+      "image": "/img/uploads/mdao.svg"
+    },
+    {
+      "image": "/img/uploads/ray.svg"
+    },
+    {
+      "image": "/img/uploads/sol.svg"
+    },
+    {
+      "image": "/img/uploads/srm.svg"
+    },
+    {
+      "image": "/img/uploads/trx.svg"
+    },
+    {
+      "image": "/img/uploads/tusd.svg"
+    },
+    {
+      "image": "/img/uploads/usdc.svg"
+    },
+    {
+      "image": "/img/uploads/usdt.svg"
+    },
+    {
+      "image": "/img/uploads/wever.svg"
+    },
+    {
+      "image": "/img/uploads/xrp.svg"
+    },
+    {
+      "image": "/img/uploads/astropay.svg"
+    },
+    {
+      "image": "/img/uploads/bank-transfer.svg"
+    },
+    {
+      "image": "/img/uploads/boleto.svg"
+    },
+    {
+      "image": "/img/uploads/caixa.svg"
+    },
+    {
+      "image": "/img/uploads/cash.svg"
+    },
+    {
+      "image": "/img/uploads/giro-pay.svg"
+    },
+    {
+      "image": "/img/uploads/humo.svg"
+    },
+    {
+      "image": "/img/uploads/ideal.svg"
+    },
+    {
+      "image": "/img/uploads/inovapay.svg"
+    },
+    {
+      "image": "/img/uploads/jeton.svg"
+    },
+    {
+      "image": "/img/uploads/mastercard.svg"
+    },
+    {
+      "image": "/img/uploads/mefete.svg"
+    },
+    {
+      "image": "/img/uploads/minifity.svg"
+    },
+    {
+      "image": "/img/uploads/muchbetter.svg"
+    },
+    {
+      "image": "/img/uploads/neteller.svg"
+    },
+    {
+      "image": "/img/uploads/netwallet.svg"
+    },
+    {
+      "image": "/img/uploads/papara.svg"
+    },
+    {
+      "image": "/img/uploads/pay4fun.svg"
+    },
+    {
+      "image": "/img/uploads/paytm-upi.svg"
+    },
+    {
+      "image": "/img/uploads/paytm.svg"
+    },
+    {
+      "image": "/img/uploads/perfect.svg"
+    },
+    {
+      "image": "/img/uploads/pix.svg"
+    },
+    {
+      "image": "/img/uploads/simple-pay.svg"
+    },
+    {
+      "image": "/img/uploads/skrill.svg"
+    },
+    {
+      "image": "/img/uploads/sofort.svg"
+    },
+    {
+      "image": "/img/uploads/uz-card.svg"
+    },
+    {
+      "image": "/img/uploads/visa.svg"
+    }
+  ],
+  "curacao": {
+    "description": "Copyright © 2024 Win.Casino is owned and operated by Megasoft N.V., a company registered and established under the laws of Curaçao, with registration number 164292. Megasoft N.V. is licensed by the Autonomous Island of Anjouan, Union of Comors, and is authorised to conduct all type of gaming activities in accordance with the Betting and Gaming act of 2005 of Anjouan. BODGESOFT LTD (Reg. Number ΗΕ 452522) provides processing service on the website as a Billing Agent and with a registered office at Giannou Kranidioti & Pargas, 9, Floor 1, Flat/Office 102, 1065, Nicosia, Cyprus. All rights reserved and protected by law."
+  },
+  "copyright": "© 2024 Win.Casino | All Rights Reserved."
+}

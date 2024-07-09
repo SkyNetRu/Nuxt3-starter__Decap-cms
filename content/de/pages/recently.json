@@ -1,0 +1,14 @@
+{
+  "title": "Kürzlich gespielt",
+  "empty": {
+    "image": "/img/uploads/search-bg.png",
+    "title": "Nichts gefunden",
+    "description": "Du hast noch keine Spiele gespielt"
+  },
+  "seo": {
+    "text": {
+      "visible": ""
+    },
+    "title": "Win.Casino | Recently played"
+  }
+}

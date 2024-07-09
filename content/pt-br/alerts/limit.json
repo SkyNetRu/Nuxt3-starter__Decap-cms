@@ -1,0 +1,28 @@
+{
+  "limitedRealGame": {
+    "title": "Erro",
+    "description": "Desculpe, mas por enquanto não é possível jogar no modo real. Entre em contato com nossa equipe de suporte para obter mais informações."
+  },
+  "limitedDeposit": {
+    "title": "Erro",
+    "description": "Desculpe, mas você não pode depositar por enquanto. Entre em contato com nossa equipe de suporte para obter mais informações."
+  },
+  "cashLimitAdd": {
+    "title": "Limite definido com sucesso"
+  },
+  "cashLimitEditLargeAmount": {
+    "title": "Atualização do limite bem-sucedida",
+    "description": "Verifique seu e-mail e siga o link de confirmação recebido para ativar a alteração do limite."
+  },
+  "cashLimitEditSmallerAmount": {
+    "title": "Atualização de limite bem-sucedida"
+  },
+  "cashLimitCancel": {
+    "title": "Limite cancelado com sucesso",
+    "description": "Você cancelou o limite com sucesso. A alteração será aplicada em 24 horas."
+  },
+  "coolingOfLimitCancel": {
+    "title": "Atualização do limite bem-sucedida",
+    "description": "O limite será cancelado após 24 horas"
+  }
+}

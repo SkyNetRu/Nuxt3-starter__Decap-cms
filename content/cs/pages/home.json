@@ -1,0 +1,58 @@
+{
+  "banner": {
+    "title": "#### Hrajte a vyhrajte ve Win.Casino",
+    "button": {
+      "label": "Přehrát nyní"
+    },
+    "images": {
+      "backgroundImage": "/img/uploads/eu-banner-bg.webp",
+      "faceImage": "/img/uploads/eu-banner-person.webp"
+    }
+  },
+  "categories": {
+    "casino": {
+      "title": "Kasino",
+      "description": "Užijte si více než 4 000+ prokazatelně férových her",
+      "button": {
+        "label": "Roztočení zdarma",
+        "url": "/main"
+      },
+      "image": "/img/uploads/casino-new-1-.png"
+    },
+    "betting": {
+      "title": "Sázení",
+      "description": "Nejkonkurenceschopnější kurzy a trhy. Vsaďte a vyhrajte hned teď",
+      "button": {
+        "label": "Vsaďte si hned",
+        "url": "/betting"
+      },
+      "image": "/img/uploads/betting-new-1-.png"
+    },
+    "esports": {
+      "title": "Esports",
+      "description": "Skvělé trhy a akce v Esportu",
+      "button": {
+        "label": "Vsaďte si hned",
+        "url": "/betting"
+      },
+      "image": "/img/uploads/esports-1.png"
+    }
+  },
+  "seo": {
+    "title": "Win.Casino | Nejbezpečnější krypto kasino",
+    "text": {
+      "visible": "## Win.Casino vás vítá!",
+      "hidden": "## Sportovní kniha, která má co nabídnout",
+      "button": "Zobrazit více"
+    }
+  },
+  "aeroGroup": {
+    "label": "Hry Win.Casino",
+    "collectionIdentity": "crash",
+    "game": {
+      "identity": "spribe-aviator",
+      "playButtonLabel": "hrát hned",
+      "demoButtonLabel": "Demo"
+    }
+  }
+}

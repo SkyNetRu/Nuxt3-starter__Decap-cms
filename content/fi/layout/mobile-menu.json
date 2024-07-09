@@ -1,0 +1,22 @@
+{
+  "menuLabel": "Menu",
+  "items": {
+    "firstItem": {
+      "label": "Casino",
+      "url": "/main"
+    },
+    "secondItem": {
+      "label": "Urheilu",
+      "url": "/betting"
+    },
+    "thirdItem": {
+      "label": "Tuki",
+      "url": "/contact"
+    }
+  },
+  "chatLabel": "Live Chat",
+  "contactButton": {
+    "label": "Tuki",
+    "url": "/contact"
+  }
+}

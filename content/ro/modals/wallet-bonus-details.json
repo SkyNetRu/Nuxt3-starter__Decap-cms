@@ -1,0 +1,19 @@
+{
+  "title": "Detalii Bonus",
+  "readMore": "Citeste mai multe despre Bonusuri",
+  "infoLabels": {
+    "from": "Din:",
+    "to": "La:",
+    "excluded": "Excluded:",
+    "depositAmount": "Depozit:",
+    "bonusType": "Tipul Bonusului:",
+    "freeSpins": "Rotiri Gratuite:",
+    "casinoWager": "Cazinou Pariu:",
+    "sportsbookWager": "Pariuri Sportive:",
+    "maxWin": "Suma Maximă De Câștig:",
+    "casinoBetSum": "Cazinou Pariu:",
+    "sportsbookBetSum": "Pariuri Sportive:",
+    "providers": "Furnizori:",
+    "games": "Jocuri:"
+  }
+}

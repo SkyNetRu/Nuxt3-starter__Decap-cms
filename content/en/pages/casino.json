@@ -1,0 +1,73 @@
+{
+  "slider": [
+    {
+      "title": "## Get cashback",
+      "content": "* on your games activity",
+      "button": {
+        "label": "Get",
+        "url": "/welcome-package"
+      },
+      "images": {
+        "mobile": {
+          "backgroundImage": "/img/uploads/фон.png",
+          "faceImage": "/img/uploads/sport-and-casino-cashback-desktop-1-.png"
+        },
+        "desktop": {
+          "backgroundImage": "/img/uploads/фон.png",
+          "faceImage": "/img/uploads/sport-and-casino-cashback-desktop-1-.png"
+        }
+      },
+      "showFrom": "",
+      "showTo": ""
+    },
+    {
+      "images": {
+        "mobile": {
+          "backgroundImage": "/img/uploads/фон.png",
+          "faceImage": "/img/uploads/bonus-buy-for-casino-desktop-1-.png"
+        },
+        "desktop": {
+          "backgroundImage": "/img/uploads/фон.png",
+          "faceImage": "/img/uploads/bonus-buy-for-casino-desktop-1-.png"
+        }
+      },
+      "title": "## Bonus buy games",
+      "button": {
+        "label": "Get bonus",
+        "url": "/welcome-package"
+      },
+      "showFrom": "",
+      "showTo": "",
+      "content": ""
+    },
+    {
+      "title": "### GET A BONUS",
+      "button": {
+        "label": "Deposit",
+        "url": "/welcome-package"
+      },
+      "images": {
+        "mobile": {
+          "backgroundImage": "/img/uploads/фон.png",
+          "faceImage": "/img/uploads/get-a-bonus.png"
+        },
+        "desktop": {
+          "backgroundImage": "/img/uploads/фон.png",
+          "faceImage": "/img/uploads/get-a-bonus.png"
+        }
+      },
+      "showFrom": "",
+      "showTo": "",
+      "content": ""
+    }
+  ],
+  "seo": {
+    "title": "Win.Casino | Over 4 000+ games",
+    "description": "",
+    "text": {
+      "visible": "## Win.Casino welcomes you!",
+      "hidden": "## Sportsbook with a lot to offer",
+      "button": "Show more"
+    }
+  }
+}

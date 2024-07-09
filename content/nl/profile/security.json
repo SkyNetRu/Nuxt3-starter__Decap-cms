@@ -1,0 +1,35 @@
+{
+  "title": "Beveiliging en verificatie",
+  "documents": {
+    "hideText": "Tekst verbergen",
+    "moreInfo": "Meer info",
+    "uploadPlaceholder": "Selecteer een bestand of sleep hier",
+    "uploadHint": "De volgende bestandstypen worden geaccepteerd: .png, .jpg, .pdf. Max. grootte 2MB.",
+    "uploadButton": "Bestand uploaden",
+    "uploadMore": "Meer bestanden laden",
+    "identity": {
+      "label": "Identiteit",
+      "description": "Upload je identiteitsbewijs. Alle documenten moeten op een vlakke ondergrond liggen met alle 4 de hoeken binnen het kader. Alle informatie moet duidelijk en herkenbaar zijn. Upload ook je selfie met paspoort/ID in je handen.",
+      "identity_front": "Identiteitsbewijs (voorkant)",
+      "identity_back": "Identiteitsbewijs (achterkant)",
+      "identity_selfie_id": "Selfie & ID"
+    },
+    "address": {
+      "label": "Adres",
+      "description": "Upload de energierekening, telefoonrekening of bankafschrift waarop je naam staat.",
+      "address": "Bewijs van adres"
+    },
+    "payment": {
+      "label": "Betaling",
+      "description": "Upload de schermafbeelding of foto van online bank, bankafschrift, Skrill-pagina, enz.",
+      "payment": "Bewijs van betaling"
+    }
+  },
+  "password": {
+    "label": "Wachtwoord wijzigen",
+    "saveButton": "Wijzigingen opslaan"
+  },
+  "seo": {
+    "title": "Win.Casino | Veiligheid & Verificatie"
+  }
+}

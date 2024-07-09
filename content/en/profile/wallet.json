@@ -1,0 +1,22 @@
+{
+  "changeButton": "Active",
+  "depositButton": "Deposit",
+  "addButton": "Add currency",
+  "hideButton": "Hide currency",
+  "title": "Wallet",
+  "totalBalance": "Total Balance",
+  "hideZeroBalances": "Hide zero balances",
+  "withdrawButton": "Withdraw",
+  "zeroBalance": {
+    "imgPath": "/img/uploads/empty.png",
+    "title": "There are no funds on your balance"
+  },
+  "seo": {
+    "text": {
+      "visible": "",
+      "hidden": "",
+      "button": ""
+    },
+    "title": "Win.Casino | Wallet"
+  }
+}

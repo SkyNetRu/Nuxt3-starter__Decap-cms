@@ -1,0 +1,41 @@
+{
+  "title": "Limity",
+  "addButtonLabel": "Přidat nové",
+  "editButtonLabel": "Upravit limity",
+  "doneButtonLabel": "Hotovo s úpravami",
+  "setButtonLabel": "Nastavit",
+  "modeToggle": "Pokročilý režim",
+  "titleTooltip": "Toto nastavení omezuje částku, kterou můžete vložit za den, týden nebo měsíc.",
+  "availableLimitSum": "Zbývá {balance} {amount} {currency}",
+  "activeStatusLabel": "Aktivní do {date}",
+  "pendingStatusLabel": "Nevyřízeno do {date}",
+  "statusPendingTimerLabel": "do aktivace",
+  "statusActiveTimerLabel": "do obnovení",
+  "timerAlmostDoneLabel": "Téměř hotovo",
+  "deposit": {
+    "label": "Limity vkladů",
+    "hint": "Toto nastavení omezuje částku, kterou můžete vložit za den, týden nebo měsíc."
+  },
+  "loss": {
+    "label": "Limity ztrát",
+    "hint": "Toto nastavení omezuje částku, kterou můžete vložit za den, týden nebo měsíc."
+  },
+  "bet": {
+    "label": "Limity sázek",
+    "hint": "Toto nastavení omezuje částku, kterou můžete vložit za den, týden nebo měsíc."
+  },
+  "coolingOff": {
+    "label": "Ochlazení",
+    "selectLabel": "Žádné",
+    "hint": "Omezení se projeví okamžitě. V uvedeném období nebudete moci provádět vklady a hrát a také budete vyloučeni ze všech reklamních nabídek.",
+    "activeStatusLabel": "Aktivní do {date}",
+    "pendingStatusLabel": "Čeká na vypršení. Bude aktivováno v {date}.",
+    "deleteConfirmTitle": "Limit úspěšně aktualizován",
+    "deleteConfirmDescription": "Limit bude po 24 hodinách zrušen."
+  },
+  "selfExclusion": {
+    "label": "Vlastní vyloučení",
+    "selectLabel": "Žádné",
+    "hint": "Můžete nastavit limit samovyloučení na dobu určitou nebo neurčitou. Omezení nabývá účinnosti okamžitě. Během nastaveného období se nebudete moci přihlásit ke svému účtu. Chcete-li se nechat vyloučit z hraní na našich stránkách na dobu neurčitou, kontaktujte prosím náš tým podpory prostřednictvím [live-chat](#)."
+  }
+}

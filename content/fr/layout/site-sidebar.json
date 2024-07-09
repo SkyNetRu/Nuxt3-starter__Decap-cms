@@ -1,0 +1,133 @@
+{
+  "socials": {
+    "isShow": false
+  },
+  "bottomMenu": [
+    {
+      "label": "Soutien",
+      "url": "/contact",
+      "icon": "live-support"
+    }
+  ],
+  "userMenu": [
+    {
+      "label": "Favoris",
+      "url": "/favorites",
+      "icon": "heart"
+    },
+    {
+      "label": "Récemment joué",
+      "url": "/recently-played",
+      "icon": "history"
+    }
+  ],
+  "bonusesMenu": [
+    {
+      "label": "Bonus",
+      "icon": "bonuses",
+      "items": [
+        {
+          "label": "Trousse de bienvenue",
+          "url": "/welcome-package"
+        },
+        {
+          "label": "Bonus de Recharge du Lundi",
+          "url": "/bonus/monday-reload-bonus"
+        },
+        {
+          "url": "/bonus/wednesday-free-spins",
+          "label": "Tours Gratuits du Mercredi"
+        },
+        {
+          "url": "/bonus/weekly-cashback",
+          "label": "Remise Hebdomadaire"
+        }
+      ]
+    }
+  ],
+  "ctaMenu": {
+    "isShow": false
+  },
+  "topMenu": {
+    "integratedElement": {
+      "label": "AVIATOR",
+      "url": "https://win.city/games/spribe-aviator?real=true",
+      "backgroundImage": "/img/uploads/cta-bg.png",
+      "isShow": true,
+      "order": 2
+    },
+    "items": [
+      {
+        "label": "Fentes",
+        "url": "/games?category=slots",
+        "icon": "slots"
+      },
+      {
+        "label": "Casino en Direct",
+        "url": "/games?category=live",
+        "icon": "live-casino"
+      },
+      {
+        "label": "Jeux de Table",
+        "url": "/games?category=table",
+        "icon": "table-games"
+      },
+      {
+        "label": "Jeux Turbo",
+        "icon": "turbo-games",
+        "url": "/games?category=turbogames"
+      },
+      {
+        "url": "/betting",
+        "icon": "sport-book",
+        "label": "Livre de sport"
+      }
+    ]
+  },
+  "sidebarFooterMenu": [
+    {
+      "label": "T&C",
+      "url": "/static/terms-and-conditions"
+    },
+    {
+      "label": "Conditions du bonus",
+      "url": "/static/bonus-terms"
+    },
+    {
+      "label": "F.A.Q",
+      "url": "/questions"
+    },
+    {
+      "url": "/static/privacy-policy",
+      "label": "Politique de Confidentialité"
+    },
+    {
+      "url": "/static/gambling-with-responsibility",
+      "label": "Jouer avec responsabilité"
+    },
+    {
+      "url": "/static/kyc-policy",
+      "label": "Politique de Connaissance du Client"
+    }
+  ],
+  "tokenMenu": [
+    {
+      "label": "Pièce de Monnaie Win.Casino",
+      "url": "/sbt-token",
+      "icon": "tfs-token"
+    }
+  ],
+  "gamesToggler": {
+    "buttonFirst": {
+      "label": "Casino",
+      "url": "/main",
+      "icon": "cherry"
+    },
+    "buttonSecond": {
+      "label": "Sportif",
+      "url": "/betting",
+      "icon": "sport"
+    }
+  },
+  "chatLabel": "bavarder"
+}

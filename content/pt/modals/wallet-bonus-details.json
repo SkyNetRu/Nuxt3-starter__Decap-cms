@@ -1,0 +1,19 @@
+{
+  "title": "Detalhes Do Bónus",
+  "readMore": "Leia mais sobre Bónus",
+  "infoLabels": {
+    "from": "Da:",
+    "to": "Para:",
+    "excluded": "Excluídos:",
+    "depositAmount": "Depósito:",
+    "bonusType": "Tipo De Bónus:",
+    "freeSpins": "Rodadas Grátis:",
+    "casinoWager": "Aposta Do Casino:",
+    "sportsbookWager": "Apostas Desportivas:",
+    "maxWin": "Soma Máxima Da Vitória:",
+    "casinoBetSum": "Aposta Casino:",
+    "sportsbookBetSum": "Apostas Desportivas:",
+    "providers": "Fornecedores:",
+    "games": "Jogos:"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "addBetLabel": "Novo limite de aposta",
+  "addLossLabel": "Novo limite de perdas",
+  "addDepositLabel": "Novo limite de depósito",
+  "hint": "A restrição entra em vigor instantaneamente. Pode reduzir o seu limite em qualquer altura, esta alteração terá efeito imediato. Pode aumentar o limite, no entanto, para que esta alteração tenha efeito, necessita de 24 horas. A anulação do limite de depósito demora 24 horas. Se o limite for excedido, receberá uma notificação por correio eletrónico.",
+  "chooseCurrencyLabel": "Selecionar a moeda",
+  "chooseCurrencyError": "Por favor, seleccione a sua moeda para o novo limite de depósito",
+  "addButton": "Adicionar",
+  "successConfirmLabel": "Limite definido com sucesso"
+}

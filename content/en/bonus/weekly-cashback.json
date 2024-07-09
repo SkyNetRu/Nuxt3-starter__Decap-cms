@@ -1,0 +1,16 @@
+{
+  "pageUrl": "weekly-cashback",
+  "termsLabel": "Bonus Terms:",
+  "termsContent": "**1.** Every week we calculate the total difference between the bets placed and the payouts on those bets and pay out the cashback.",
+  "button": {
+    "label": "Get bonus"
+  },
+  "backgroundColor": "gray",
+  "subtitle": "Take your cashback up to 15% every Tuesday",
+  "title": "Weekly Cashback",
+  "image": "/img/uploads/weekly-big.png",
+  "description": "Every Tuesday you can get a portion of your staked money back thanks to our Weekly cashback. Receive yours",
+  "seo": {
+    "title": "Win.Casino | Weekly Cashback"
+  }
+}

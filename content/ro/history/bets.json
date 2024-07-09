@@ -1,0 +1,19 @@
+{
+  "tabLabel": "Pariuri",
+  "settledTab": "Reglate",
+  "unsettledTab": "Nerezolvate",
+  "betCard": {
+    "coefficientLabel": "Cotele",
+    "betLabel": "Pariu",
+    "resultLabel": "Rezultat",
+    "copyButton": "Copiați ID-ul pariului",
+    "copyTooltip": "ID-ul pariului copiat în clipboard",
+    "comboLabel": "Combo",
+    "comboDisciplinesTooltip": "mai multe",
+    "comboBetsLabel": "Pariuri"
+  },
+  "empty": {
+    "title": "Nu există încă date!",
+    "description": "Nu ați plasat încă niciun pariu."
+  }
+}

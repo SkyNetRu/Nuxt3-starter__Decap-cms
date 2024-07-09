@@ -1,0 +1,21 @@
+{
+  "title": "Liitu Win.Casino",
+  "agreeEmailLabel": "Nõustun boonus- ja turundussõnumite saamisega",
+  "agreeSmsLabel": "Saada promosid SMS-i teel",
+  "registrationButton": "Registreeru",
+  "loginButton": "Oled juba liige? *Sign in*",
+  "promo": {
+    "title": "Tervituspakett",
+    "secondTitle": "3000 EUROT + 200 FS",
+    "additionalTitle": "spordi ja kasiino kohta",
+    "images": {
+      "mobile": {
+        "backgroundImage": "/img/uploads/registration-mobile.webp"
+      },
+      "desktop": {
+        "backgroundImage": "/img/uploads/eu-registration.webp"
+      }
+    },
+    "displayAdvantages": false
+  }
+}

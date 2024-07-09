@@ -1,0 +1,32 @@
+{
+  "bonusCodeIncorrect": {
+    "title": "Ne pare rău, dar ați introdus un cod bonus incorect."
+  },
+  "bonusCodeNotAvailable": {
+    "title": "Ne pare rău, dar bonusul cu codul de bonus introdus nu este disponibil pentru dumneavoastră."
+  },
+  "bonusIssued": {
+    "title": "Eliberat",
+    "description": "A fost emis bonusul {amount}."
+  },
+  "bonusActivated": {
+    "title": "Activ",
+    "description": "Bonusul {amount} a fost activat"
+  },
+  "bonusPlayed": {
+    "title": "Terminat",
+    "description": "Bonusul {amount} a fost pariat cu succes. Câștigurile dvs. sunt deja în soldul dvs. real"
+  },
+  "bonusCanceled": {
+    "title": "Anulat",
+    "description": "Bonusul {amount} a fost anulat"
+  },
+  "bonusExpired": {
+    "title": "A expirat",
+    "description": "Bonusul {amount} a expirat"
+  },
+  "bonusLost": {
+    "title": "Pierdut",
+    "description": "Bonusul {amount} nu a fost pariat"
+  }
+}

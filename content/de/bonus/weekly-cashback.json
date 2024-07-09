@@ -1,0 +1,16 @@
+{
+  "pageUrl": "weekly-cashback",
+  "termsLabel": "Bonusbedingungen:",
+  "termsContent": "**1.** Jede Woche berechnen wir die Gesamtdifferenz zwischen den platzierten Wetten und den Auszahlungen für diese Wetten und zahlen den Cashback aus.",
+  "button": {
+    "label": "Bonus erhalten"
+  },
+  "backgroundColor": "gray",
+  "subtitle": "Holen Sie sich Ihr Geld jeden Dienstag bis zu 15% zurück",
+  "title": "Wöchentlicher Cashback",
+  "image": "/img/uploads/weekly-big.png",
+  "description": "Jeden Dienstag können Sie dank unseres wöchentlichen Cashbacks einen Teil Ihres eingesetzten Geldes zurückerhalten. Erhalten Sie Ihre",
+  "seo": {
+    "title": "Win.Casino | Weekly Cashback"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "title": "Piirid",
+  "addButtonLabel": "Lisa uus",
+  "editButtonLabel": "Limiitide muutmine",
+  "doneButtonLabel": "Valmis redigeerimine",
+  "setButtonLabel": "Määra",
+  "modeToggle": "Täiustatud režiim",
+  "titleTooltip": "See seade piirab summat, mida saate päevas, nädalas või kuus hoiustada.",
+  "availableLimitSum": "{balance} {amount} {currency} jäänud",
+  "activeStatusLabel": "Aktiivne kuni {date}",
+  "pendingStatusLabel": "Pending till {date}",
+  "statusPendingTimerLabel": "kuni aktiveerimiseni",
+  "statusActiveTimerLabel": "kuni lähtestamiseni",
+  "timerAlmostDoneLabel": "Peaaegu valmis",
+  "deposit": {
+    "label": "Deposiidi limiidid",
+    "hint": "See seadistus piirab summa, mida saate hoiustada päevas, nädalas või kuus"
+  },
+  "loss": {
+    "label": "Kaotuse piirangud",
+    "hint": "See seadistus piirab summat, mida saate päevas, nädalas või kuus hoiustada."
+  },
+  "bet": {
+    "label": "Panustamise piirangud",
+    "hint": "See seade piirab summat, mida saate päevas, nädalas või kuus hoiustada."
+  },
+  "coolingOff": {
+    "label": "Jahutamine",
+    "selectLabel": "Puudub",
+    "hint": "Piirang jõustub koheselt. Te ei saa määratud perioodil teha sissemakseid ega mängida, samuti välistatakse teid kõikidest reklaamipakkumistest.",
+    "activeStatusLabel": "Aktiivne kuni {date}",
+    "pendingStatusLabel": "Ootel. Aktiveeritakse {date}",
+    "deleteConfirmTitle": "Piirangu uuendamine edukalt",
+    "deleteConfirmDescription": "Limiit tühistatakse 24 tunni pärast"
+  },
+  "selfExclusion": {
+    "label": "Enda väljaarvamine",
+    "selectLabel": "Puudub",
+    "hint": "Saate määrata enesepiirangu kindlaks või määramata ajaks. Piirang jõustub koheselt. Määratud ajavahemiku jooksul ei saa te oma kontole sisse logida. Kui soovite meie saidil määramata ajaks hasartmängudest kõrvale jääda, võtke palun ühendust meie klienditoega [live-chat](#) kaudu."
+  }
+}

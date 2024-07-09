@@ -1,0 +1,49 @@
+{
+  "loginButton": "Přihlásit se",
+  "registrationButton": "Registo",
+  "search": {
+    "placeholder": "Prohledejte svou hru",
+    "moreButton": "Načíst další",
+    "emptyLabel": "Nic nalezeno",
+    "emptyText": "Zkuste hledat něco jiného",
+    "tryLabel": "Nebo vyzkoušejte tyto oblíbené hry:"
+  },
+  "depositButton": "Peněženka",
+  "balance": {
+    "tabs": {
+      "balanceTab": "Zůstatek",
+      "currencyTab": "Měna"
+    },
+    "fiatToggler": "Displej ve Fiatu",
+    "items": {
+      "real": "Nemovitý",
+      "bonus": "Bonus",
+      "withdrawal": "Vyjímatelné",
+      "cashback": "Cashback"
+    },
+    "wageringLabel": "Sázení:",
+    "cashbackDateLabel": "Které mají být vydány:"
+  },
+  "playRealButton": "Skutečný režim",
+  "pwa": {
+    "instructionLink": "/static/terms-and-conditions",
+    "mobile": {
+      "title": "Win.Casino - získejte bezplatnou aplikaci",
+      "description": "Nezabere vám místo v telefonu.",
+      "install": "Nainstalujte"
+    },
+    "desktop": {
+      "application": "aplikace",
+      "forOs": "pro {os}"
+    },
+    "tooltip": {
+      "title": "Win.Casino - získejte bezplatnou aplikaci",
+      "description": "Nezabere vám místo v telefonu."
+    }
+  },
+  "wagerTooltip": {
+    "notInWagering": "ㅤ",
+    "wagerMultiplierLessThan": "ㅤ",
+    "wagerMultiplierMoreThan": "ㅤ"
+  }
+}

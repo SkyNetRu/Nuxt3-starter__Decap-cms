@@ -1,0 +1,10 @@
+{
+  "tabs": {
+    "allTab": "Kaikki",
+    "cryptoTab": "Crypto"
+  },
+  "empty": {
+    "title": "Valmis!",
+    "description": "Olet jo lisännyt kaikki valuutat"
+  }
+}

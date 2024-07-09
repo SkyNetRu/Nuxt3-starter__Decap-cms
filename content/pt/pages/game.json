@@ -1,0 +1,19 @@
+{
+  "demoLabel": "Pronto para jogar a sério?",
+  "demoButton": "Sim, jogar a sério",
+  "plug": {
+    "title": "Por favor, faça o login",
+    "description": "Este jogo não está disponível no modo de diversão, por favor, faça o login ou registe-se para jogar."
+  },
+  "seo": {
+    "title": "Win.Casino | Jogue mais de 4 000 slots e jogos"
+  },
+  "demoModal": {
+    "label": "Você está no modo de demonstração",
+    "description": "Pronto para os negócios reais? Mergulhe no modo Real e aumente as apostas.",
+    "demo": "Jogar Demo",
+    "real": "Jogar Real",
+    "deposit": "Depósito",
+    "registration": "Registration"
+  }
+}

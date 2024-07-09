@@ -1,0 +1,60 @@
+{
+  "banner": {
+    "images": {
+      "backgroundImage": "/img/uploads/back-bg.webp",
+      "faceImage": "/img/uploads/eu-banner-person.webp"
+    },
+    "title": "#### Spielen und gewinnen Sie bei Win.Casino",
+    "button": {
+      "label": "Jetzt spielen",
+      "icon": "cherry"
+    }
+  },
+  "categories": {
+    "casino": {
+      "image": "/img/uploads/casino-new-1-.png",
+      "title": "Casino",
+      "description": "Genießen Sie mehr als 4.000 nachweislich faire Slots und Spiele",
+      "button": {
+        "label": "Freirunden",
+        "url": "/main"
+      }
+    },
+    "betting": {
+      "image": "/img/uploads/betting-new-1-.png",
+      "title": "Betting",
+      "description": "Die wettbewerbsfähigsten Quoten und Märkte. Wetten und gewinnen Sie jetzt",
+      "button": {
+        "label": "Jetzt wetten",
+        "url": "/betting"
+      }
+    },
+    "esports": {
+      "button": {
+        "label": "Jetzt wetten",
+        "url": "/betting"
+      },
+      "title": "Esports",
+      "description": "Die wettbewerbsfähigsten Quoten und Märkte",
+      "image": "/img/uploads/esports.png"
+    }
+  },
+  "seo": {
+    "title": "Win.Casino | Bestes Casino und Wetten",
+    "description": "",
+    "text": {
+      "visible": "##Win.Casino heißt Sie willkommen!",
+      "hidden": "###Zuverlässige Wetten",
+      "button": "Mehr anzeigen"
+    }
+  },
+  "aeroGroup": {
+    "label": "Win.Casino Spiele",
+    "collectionIdentity": "crash",
+    "game": {
+      "identity": "spribe-aviator",
+      "playButtonLabel": "Wetten",
+      "demoButtonLabel": "Wetten"
+    }
+  }
+}

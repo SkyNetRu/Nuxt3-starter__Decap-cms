@@ -1,0 +1,58 @@
+{
+  "banner": {
+    "title": "#### Spil og vind hos Win.Casino",
+    "button": {
+      "label": "Spil nu"
+    },
+    "images": {
+      "backgroundImage": "/img/uploads/eu-banner-bg.webp",
+      "faceImage": "/img/uploads/eu-banner-person.webp"
+    }
+  },
+  "categories": {
+    "casino": {
+      "title": "Kasino",
+      "description": "Nyd mere end 4.000+ beviseligt fair spil",
+      "button": {
+        "label": "Gratis spins",
+        "url": "/main"
+      },
+      "image": "/img/uploads/casino-new-1-.png"
+    },
+    "betting": {
+      "title": "Væddemål",
+      "description": "De mest konkurrencedygtige odds og markeder. Spil og vind lige nu",
+      "button": {
+        "label": "Spil nu",
+        "url": "/betting"
+      },
+      "image": "/img/uploads/betting-new-1-.png"
+    },
+    "esports": {
+      "title": "Esport",
+      "description": "Fantastiske markeder og begivenheder i Esport",
+      "button": {
+        "label": "Spil nu",
+        "url": "/betting"
+      },
+      "image": "/img/uploads/esports.png"
+    }
+  },
+  "seo": {
+    "title": "Win.Casino | Det sikreste kryptokasino",
+    "text": {
+      "visible": "## Win.Casino byder dig velkommen!",
+      "hidden": "## Sportsbog med meget at byde på",
+      "button": "Vis mere"
+    }
+  },
+  "aeroGroup": {
+    "label": "Win.Casino spil",
+    "collectionIdentity": "crash",
+    "game": {
+      "identity": "spribe-aviator",
+      "playButtonLabel": "Spil nu",
+      "demoButtonLabel": "Demo"
+    }
+  }
+}

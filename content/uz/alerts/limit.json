@@ -1,0 +1,28 @@
+{
+  "limitedRealGame": {
+    "title": "xato",
+    "description": "Kechirasiz, lekin hozircha real rejimda oʻynay olmaysiz. Qo'shimcha ma'lumot olish uchun qo'llab-quvvatlash guruhimizga murojaat qiling."
+  },
+  "limitedDeposit": {
+    "title": "xato",
+    "description": "Kechirasiz, lekin hozircha depozit qila olmaysiz. Qo'shimcha ma'lumot olish uchun qo'llab-quvvatlash guruhimizga murojaat qiling."
+  },
+  "cashLimitAdd": {
+    "title": "Cheklov muvaffaqiyatli belgilandi"
+  },
+  "cashLimitEditLargeAmount": {
+    "title": "Yangilanishni cheklash muvaffaqiyatli",
+    "description": "Iltimos, elektron pochtangizni tekshiring va limitni o'zgartirishni faollashtirish uchun olingan tasdiqlash havolasiga o'ting."
+  },
+  "cashLimitEditSmallerAmount": {
+    "title": "Yangilanishni cheklash muvaffaqiyatli"
+  },
+  "cashLimitCancel": {
+    "title": "Cheklov muvaffaqiyatli bekor qilindi",
+    "description": "Siz cheklovni muvaffaqiyatli bekor qildingiz. O'zgartirish 24 soat ichida qo'llaniladi."
+  },
+  "coolingOfLimitCancel": {
+    "title": "Yangilanishni cheklash muvaffaqiyatli",
+    "description": "Limit 24 soatdan keyin bekor qilinadi"
+  }
+}

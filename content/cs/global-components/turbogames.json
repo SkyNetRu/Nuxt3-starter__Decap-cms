@@ -1,0 +1,8 @@
+{
+  "label": "Turbogames",
+  "showAll": {
+    "label": "Zobrazit všechny",
+    "url": "/games?category=turbogames"
+  },
+  "buttonLabel": "Hrát nyní"
+}

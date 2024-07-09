@@ -1,0 +1,27 @@
+{
+  "tabLabel": "Мәмілелер",
+  "dateLabel": "Күні/күні:",
+  "allFilterOption": "Барлық",
+  "typeFilterLabel": "Түрі:",
+  "currencyLabel": "Валюта:",
+  "statusFilterLabel": "Күйі:",
+  "tableColumns": {
+    "date": "Күн",
+    "type": "Түр",
+    "method": "Төлем тәсілі",
+    "status": "Күй",
+    "sum": "сомасы"
+  },
+  "cancelPaymentButton": "Төлемді тоқтату",
+  "empty": {
+    "title": "Әзірге деректер жоқ!",
+    "description": "Сізде әлі сәтті транзакциялар жоқ."
+  },
+  "securityCode": {
+    "getCodeButton": "Кодты алыңыз",
+    "codeLabel": "Құпия код:",
+    "codeTooltip": "Құпия код көшірілді",
+    "clientLabel": "Клиент идентификаторы:",
+    "clientTooltip": "Клиент идентификаторы көшірілді"
+  }
+}

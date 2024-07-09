@@ -1,0 +1,18 @@
+{
+  "title": "Sağlayıcılar listesi",
+  "providersLabel": "Sağlayıcılar",
+  "gamesLabel": "oyunlar",
+  "staticProvider": {
+    "identity": "turbo-games",
+    "button": "Gökyüzüne"
+  },
+  "searchPlaceholder": "Sağlayıcınızı arayın",
+  "empty": {
+    "title": "Hiçbir şey bulunamadı",
+    "description": "Başka bir şey aramayı dene"
+  },
+  "sortLabel": "Göre sırala:",
+  "seo": {
+    "title": "Win.Casino | Sağlayıcılar listesi"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "title": "Limites",
+  "addButtonLabel": "Adicionar novos",
+  "editButtonLabel": "Editar limites",
+  "doneButtonLabel": "Edição concluída",
+  "setButtonLabel": "Definir",
+  "modeToggle": "Modo avançado",
+  "titleTooltip": "Essa configuração limita o valor que você pode depositar por dia, semana ou mês.",
+  "availableLimitSum": "{balance} de {amount} {currency} restante",
+  "activeStatusLabel": "Ativo até {date}",
+  "pendingStatusLabel": "Pendente até {date}",
+  "statusPendingTimerLabel": "até ativar",
+  "statusActiveTimerLabel": "until reset",
+  "timerAlmostDoneLabel": "Quase pronto",
+  "deposit": {
+    "label": "Limites de depósito",
+    "hint": "Essa configuração limita o valor que você pode depositar por dia, semana ou mês"
+  },
+  "loss": {
+    "label": "Limites de perda",
+    "hint": "Essa configuração limita o valor que você pode depositar por dia, semana ou mês"
+  },
+  "bet": {
+    "label": "Limites de apostas",
+    "hint": "Essa configuração limita o valor que você pode depositar por dia, semana ou mês"
+  },
+  "coolingOff": {
+    "label": "Resfriamento",
+    "selectLabel": "Nenhum",
+    "hint": "A restrição entra em vigor instantaneamente. Você não poderá fazer depósitos e jogar durante o período especificado e também será excluído de todas as ofertas de publicidade.",
+    "activeStatusLabel": "Ativo até {date}",
+    "pendingStatusLabel": "Pendente. Será ativada em {date}",
+    "deleteConfirmTitle": "Atualização do limite bem-sucedida",
+    "deleteConfirmDescription": "O limite será cancelado após 24 horas"
+  },
+  "selfExclusion": {
+    "label": "Autoexclusão",
+    "selectLabel": "Não há",
+    "hint": "Você pode definir um limite de autoexclusão por um período de tempo definido ou indefinido. A restrição entra em vigor instantaneamente. Durante o período definido, você não poderá fazer login na sua conta. Para ser excluído dos jogos de azar em nosso site por um período indefinido, entre em contato com nossa equipe de suporte via [live-chat](#)"
+  }
+}

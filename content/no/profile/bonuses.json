@@ -1,0 +1,23 @@
+{
+  "title": "Bonuser",
+  "historyLink": "Se bonushistorikken din",
+  "bonusCode": {
+    "title": "Har du en kampanjekode?",
+    "timerText": "til neste forsøk",
+    "buttonLabel": "Legg til",
+    "tryError": "Bonuskoden er feil. Prøv igjen etter 3 minutter"
+  },
+  "cashBonuses": {
+    "title": "Kontantbonuser",
+    "wagerHintLabel": "Krav til omsetning",
+    "casinoWagerLabel": "Omsetningskrav for casino - x{wager} Bonus",
+    "sportsbookWagerLabel": "Omsetningskrav for sportsbetting - x{wager} Bonus",
+    "waitingResult": "Venter på resultater fra Sportsbook-spill."
+  },
+  "freeSpins": {
+    "title": "Gratis spinn"
+  },
+  "seo": {
+    "title": "Win.Casino | Bonuser"
+  }
+}

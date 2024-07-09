@@ -1,0 +1,26 @@
+{
+  "withdrawalProcessed": {
+    "title": "Күтуде!",
+    "description": "Шешіміңіз өңделуде. Сұрауыңызды аз уақытта тексереміз."
+  },
+  "userCanceledWithdrawal": {
+    "title": "Жетістік",
+    "description": "Шығарудан сәтті бас тарттыңыз."
+  },
+  "depositSuccess": {
+    "title": "Жетістік",
+    "description": "{date} күні жасаған {sum} салымыңыз сәтті болды!"
+  },
+  "depositError": {
+    "title": "Қате",
+    "description": "Кешіріңіз, бірақ {date} күнінен бастап {sum} депозитінде бірдеңе дұрыс болмады. Қайталап көріңіз."
+  },
+  "withdrawSuccess": {
+    "title": "Жетістік",
+    "description": "{date} күні {sum} ақшаңызды алуыңыз мақұлданды!"
+  },
+  "withdrawError": {
+    "title": "Шығарудан бас тартылды",
+    "description": "{date} күні {sum} алуыңыздан бас тартылуда. Қосымша ақпарат алу үшін қолдау көрсету тобына хабарласыңыз."
+  }
+}

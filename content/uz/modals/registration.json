@@ -1,0 +1,21 @@
+{
+  "title": "Win.Casino-ga qo'shiling",
+  "agreeEmailLabel": "Men bonus olish uchun rozi & marketing vergul",
+  "agreeSmsLabel": "SMS orqali reklama xabarlarini yuboring",
+  "registrationButton": "Ro'yxatdan o'tish",
+  "loginButton": "Allaqachon a'zomisiz? *Tizimga kirish*",
+  "promo": {
+    "title": "xush kelibsiz paketi",
+    "secondTitle": "3000 YEVRO + 200 FS",
+    "additionalTitle": "sport va kazino haqida",
+    "images": {
+      "mobile": {
+        "backgroundImage": "/img/uploads/registration-mobile.webp"
+      },
+      "desktop": {
+        "backgroundImage": "/img/uploads/eu-registration.webp"
+      }
+    },
+    "displayAdvantages": false
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Tervetuloa paketti. Jopa 3 000 euroa + 300 ilmaiskierrosta",
+  "description": "Tervetuliaispaketti on yksi anteliaimmista Win.Casino-tarjouksista! Se on bonuspaketti 4 ensimmäiselle talletuksellesi rekisteröinnin jälkeen!",
+  "howGet": {
+    "label": "Miten saat bonuksesi:",
+    "first": "Tee onnistunut talletus 20 eurosta alkaen",
+    "second": "Siirry Bonukset-välilehdelle ja aktivoi ilmaiskierroksesi ja käteisbonuksesi",
+    "third": "Nauti mahtavasta pelikokemuksesta!"
+  },
+  "welcome": {
+    "label": "Tervetuliaispaketti"
+  },
+  "bonuses": {
+    "label": "Viikoittaiset bonukset"
+  },
+  "seo": {
+    "title": "Win.Casino | Bonukset"
+  }
+}

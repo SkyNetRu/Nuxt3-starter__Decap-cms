@@ -1,0 +1,20 @@
+{
+  "pageUrl": "sport-reload-bonus",
+  "termsLabel": "Bonus Terms:",
+  "termsContent": "1. To get the bonus, you must make a deposit of at least 30 EUR or the same value in other currencies.\n2. The maximum bonus amount is 100% of the deposit amount, but not more than 100 EUR or the same value in other currencies.\n3. Bonus code: \"**saturdaysport**\"\n4. The deposit bonus is valid for 6 days, starting from the date you receive it.\n5. Full wagering requires making bets 5 times the amount of the bonus  received:(deposit bonus) × 5 \n6. Each Combo bet must contain 3 or more events, combo odds 1.4 - 2.4;",
+  "button": {
+    "label": "Get bonus"
+  },
+  "backgroundColor": "gray",
+  "subtitle": "100% bonus up to 100 EUR on Saturday",
+  "title": "Saturday Sport Reload Bonus",
+  "image": "/img/uploads/monday-big.png",
+  "description": "Enjoy your weekend on a high note with Win.Casino! Grabbing yourself a 100% bonus up to 100 EUR is easy:\n\n1. Make a deposit of at least 30 EUR.\n2. Use the bonus code \"**saturdaysport\"** to activate reload bonus!\n3. Instantly receive a bonus worth 100% of the amount you deposited (up to a maximum of 100 EUR)",
+  "seo": {
+    "text": {
+      "visible": "",
+      "hidden": ""
+    },
+    "title": "Win.Casino | Saturday Sport Reload Bonus"
+  }
+}

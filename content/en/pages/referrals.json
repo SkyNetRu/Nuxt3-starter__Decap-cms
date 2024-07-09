@@ -1,0 +1,69 @@
+{
+  "received": "Received",
+  "yourReferrals": "Your Referrals",
+  "yourReferralLink": "Your Referral Link",
+  "referralDetail": "For each person who clicked on your link, you will receive a percentage from each of his deposits to the balance, as well as from all deposits by his referrals up to the 3rd level. Income is unlimited. Even a few invitees can bring you a tangible income.",
+  "levels": [
+    {
+      "level": "Lv 1"
+    },
+    {
+      "level": "Lv 2"
+    },
+    {
+      "level": "Lv 3"
+    },
+    {
+      "level": "Lv 4"
+    },
+    {
+      "level": "Lv 5"
+    }
+  ],
+  "people": "People",
+  "playerCard": {
+    "player": "Player",
+    "brought": "Brought",
+    "dateRegistered": "Date registered",
+    "referrals": "Referrals",
+    "ID": "ID"
+  },
+  "showConditions": "Show Conditions",
+  "noReferrals": "No Referrals",
+  "title": "Referrals",
+  "noReferralsEmpty": {
+    "noReferralHeading": "There are no referrals here yet",
+    "noReferralBody": "You haven't invited anyone yet"
+  },
+  "conditions": [
+    {
+      "condition": "You will receive 5% of the amount of deposit of the 1st level referral"
+    },
+    {
+      "condition": "You will receive 2% of the amount of deposit of the 2nd level referral"
+    },
+    {
+      "condition": "You will receive 2% of the amount of deposit of the 3rd level referral"
+    },
+    {
+      "condition": "You will receive 1% of the amount of deposit of the 4th level referral"
+    },
+    {
+      "condition": "You will receive 1% of the amount of deposit of the 5th level referral"
+    }
+  ],
+  "referralTypes": [
+    {
+      "referral": "Income"
+    },
+    {
+      "referral": "Number of referrals"
+    }
+  ],
+  "headerCard": {
+    "headerCardHeading": "Earn 10%",
+    "headerCardBody": "From revenues",
+    "headerCardImage": "/img/uploads/image.png"
+  },
+  "yourReferralLevels": "Your referral Levels"
+}

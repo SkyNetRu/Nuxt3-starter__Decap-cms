@@ -1,0 +1,21 @@
+{
+  "title": "Připojte se ke službě Win.Casino",
+  "agreeEmailLabel": "Souhlasím se zasíláním bonusových a marketingových e-mailů",
+  "agreeSmsLabel": "Zasílání promo zpráv SMS",
+  "registrationButton": "Zaregistrujte se",
+  "loginButton": "Už jste členem? *Přihlaste se*",
+  "promo": {
+    "title": "Uvítací balíček",
+    "secondTitle": "3000 EUR + 200 FS",
+    "additionalTitle": "na sport a kasino",
+    "images": {
+      "mobile": {
+        "backgroundImage": "/img/uploads/registration-mobile.webp"
+      },
+      "desktop": {
+        "backgroundImage": "/img/uploads/eu-registration.webp"
+      }
+    },
+    "displayAdvantages": false
+  }
+}

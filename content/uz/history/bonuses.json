@@ -1,0 +1,17 @@
+{
+  "tabLabel": "Bonuslar",
+  "cashBonusTab": "Naqd pul bonuslari",
+  "freeSpinsTab": "Bepul aylanishlar",
+  "tableColumns": {
+    "title": "Sarlavha",
+    "status": "Holat",
+    "amount": "Miqdori",
+    "progress": "taraqqiyot",
+    "created": "Sana",
+    "expired": "Yaroqlilik muddati"
+  },
+  "empty": {
+    "title": "Hali hech qanday ma'lumot yo'q!",
+    "description": "Siz hali bonuslarni olmagansiz"
+  }
+}

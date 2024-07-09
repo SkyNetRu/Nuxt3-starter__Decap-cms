@@ -1,0 +1,13 @@
+{
+  "tabLabel": "Giros",
+  "tableColumns": {
+    "game": "Jogo",
+    "bet": "Aposta",
+    "result": "Resultado",
+    "date": "Data"
+  },
+  "empty": {
+    "title": "Ainda não há dados!",
+    "description": "Você ainda não fez nenhuma aposta"
+  }
+}

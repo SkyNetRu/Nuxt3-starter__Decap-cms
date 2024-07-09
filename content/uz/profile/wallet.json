@@ -1,0 +1,16 @@
+{
+  "title": "Hamyon",
+  "addButton": "Valyuta qo'shing",
+  "changeButton": "Valyutadan foydalaning",
+  "hideButton": "Valyutani yashirish",
+  "depositButton": "depozit",
+  "hideZeroBalances": "Hide zero balances",
+  "zeroBalance": {
+    "imgPath": "/img/uploads/empty.png",
+    "title": "There are no funds on your balance"
+  },
+  "withdrawButton": "Olib tashlash",
+  "seo": {
+    "title": "Win.Casino | Hamyon"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "addBetLabel": "Nuovo limite di puntata",
+  "addLossLabel": "Nuovo limite di perdita",
+  "addDepositLabel": "Nuovo limite di deposito",
+  "hint": "La restrizione ha effetto immediato. Potete ridurre il vostro limite in qualsiasi momento, la modifica avrà effetto immediato. È possibile aumentare il limite, ma per rendere effettiva la modifica sono necessarie 24 ore. L'annullamento del limite di deposito richiede 24 ore. Una volta superato il limite, riceverete una notifica via e-mail.",
+  "chooseCurrencyLabel": "Scegliere la valuta",
+  "chooseCurrencyError": "Selezionare la valuta per il nuovo limite di deposito",
+  "addButton": "Aggiungi",
+  "successConfirmLabel": "Limite impostato con successo"
+}

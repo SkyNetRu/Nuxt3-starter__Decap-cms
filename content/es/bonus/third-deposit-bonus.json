@@ -1,0 +1,16 @@
+{
+  "pageUrl": "third-deposit-bonus",
+  "termsLabel": "Términos del bono:",
+  "termsContent": "**Términos y condiciones del bono de tercer depósito del casino:**",
+  "button": {
+    "label": "Conseguir bono"
+  },
+  "backgroundColor": "green",
+  "subtitle": "¡Más bonificaciones, más diversión! Obtenga un bono de casino de hasta 500 EUR y 50 FS y un bono deportivo de hasta 1000 EUR",
+  "title": "Bonificación por tercer depósito",
+  "image": "/img/uploads/3-deposit.png",
+  "description": "¡Aprovecha la oportunidad de jugar con ventaja en una ciudad gemela gracias a nuestro bono de tercer depósito!",
+  "seo": {
+    "title": "Win.Casino | Bono de tercer depósito"
+  }
+}

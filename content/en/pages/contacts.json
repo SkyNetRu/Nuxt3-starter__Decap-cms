@@ -1,0 +1,12 @@
+{
+  "image": "/img/uploads/msg.png",
+  "title": "Contact us",
+  "description": "Please, fill the information below. All Fields are required.",
+  "buttonLabel": "Let's talk!",
+  "seo": {
+    "text": {
+      "visible": ""
+    },
+    "title": "Win.Casino | Contact Us"
+  }
+}

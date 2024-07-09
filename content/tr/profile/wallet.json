@@ -1,0 +1,16 @@
+{
+  "title": "Cüzdan",
+  "addButton": "Para birimi ekle",
+  "changeButton": "Para birimi kullanın",
+  "hideButton": "Para birimini gizle",
+  "depositButton": "Depozito",
+  "hideZeroBalances": "Hide zero balances",
+  "zeroBalance": {
+    "imgPath": "/img/uploads/empty.png",
+    "title": "There are no funds on your balance"
+  },
+  "withdrawButton": "Geri Çekilme",
+  "seo": {
+    "title": "Win.Casino | Cüzdan"
+  }
+}

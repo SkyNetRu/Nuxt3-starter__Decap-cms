@@ -1,0 +1,26 @@
+{
+  "successRegistration": {
+    "title": "Välkommen",
+    "description": "Du har framgångsrikt registrerats!"
+  },
+  "sentResetLink": {
+    "title": "Framgång",
+    "description": "En länk för återställning av lösenord skickades. Klicka på länken i e-postmeddelandet för att skapa ett nytt lösenord."
+  },
+  "invalidResetCode": {
+    "title": "Fel",
+    "description": "Tyvärr, men din länk för återställning av lösenord är inte giltig. Vänligen begär en annan återställning av lösenord."
+  },
+  "passwordChanged": {
+    "title": "Lyckad",
+    "description": "Du har ändrat ditt lösenord."
+  },
+  "accountBlocked": {
+    "title": "Fel",
+    "description": "Tyvärr, men ditt konto är blockerat. Vänligen kontakta vårt supportteam för mer information."
+  },
+  "resentVerification": {
+    "title": "Lyckad",
+    "description": "Vi har skickat ett e-postmeddelande med verifieringslänken till din e-postadress."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "freeSpinIssued": {
+    "title": "واریز شد",
+    "description": "برای بازی {game} در کیف پول {currency} خود {count} دریافت کرده"
+  },
+  "freeSpinActivated": {
+    "title": "فعال",
+    "description": "{count} در کیف پول {currency} شما برای بازی {game} فعال شده است"
+  },
+  "freeSpinPlayed": {
+    "title": "پایان یافت",
+    "description": "شما با موفقیت {count} در کیف پول {currency} خود برای بازی {game} بازی کردید"
+  },
+  "freeSpinCanceled": {
+    "title": "لغو شد",
+    "description": "{count} در کیف پول {currency} شما برای بازی {game} لغو شده است"
+  },
+  "freeSpinExpired": {
+    "title": "منقصی شد",
+    "description": "{count} در کیف پول {currency} شما برای بازی {game} منقضی شده است"
+  }
+}

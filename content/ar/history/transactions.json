@@ -1,0 +1,27 @@
+{
+  "tabLabel": "المعاملات",
+  "dateLabel": "التاريخ من / إلى:",
+  "allFilterOption": "الكل",
+  "typeFilterLabel": "النوع:",
+  "currencyLabel": "العملة:",
+  "statusFilterLabel": "الحالة:",
+  "tableColumns": {
+    "date": "التاريخ",
+    "type": "النوع",
+    "method": "طريقة الدفع او السداد",
+    "status": "الحالة",
+    "sum": "المجموع"
+  },
+  "cancelPaymentButton": "الغاء الدفع",
+  "securityCode": {
+    "getCodeButton": "الحصول على رمز",
+    "codeLabel": "الرمز السري:",
+    "codeTooltip": "تم نسخ الرمز السري",
+    "clientLabel": "معرف العميل:",
+    "clientTooltip": "تم نسخ معرف العميل"
+  },
+  "empty": {
+    "title": "لا توجد بيانات حتى الآن!",
+    "description": "ليس لديك أي معاملات ناجحة حتى الآن."
+  }
+}

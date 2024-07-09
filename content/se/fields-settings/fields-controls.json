@@ -1,0 +1,155 @@
+{
+  "password": {
+    "label": "Lösenord",
+    "placeholder": "Ange ditt lösenord"
+  },
+  "currentPassword": {
+    "label": "Aktuellt lösenord",
+    "placeholder": "Ange ditt nuvarande lösenord"
+  },
+  "newPassword": {
+    "label": "Nytt lösenord",
+    "placeholder": "Ange nytt lösenord"
+  },
+  "repeatNewPassword": {
+    "label": "Nytt lösenord igen",
+    "placeholder": "Ange nytt lösenord igen"
+  },
+  "firstName": {
+    "label": "Förnamn",
+    "placeholder": "Ange förnamn"
+  },
+  "lastName": {
+    "label": "Efternamn",
+    "placeholder": "Ange efternamn"
+  },
+  "nationality": {
+    "label": "Nationalitet",
+    "placeholder": "Ange din nationalitet"
+  },
+  "nickname": {
+    "label": "Smeknamn",
+    "placeholder": "Ange ditt smeknamn"
+  },
+  "gender": {
+    "label": "Kön",
+    "maleLabel": "man",
+    "femaleLabel": "Kvinna",
+    "otherLabel": "Annat kön"
+  },
+  "city": {
+    "label": "Stad",
+    "placeholder": "Ange din stad"
+  },
+  "address": {
+    "label": "Adress",
+    "placeholder": "Ange din adress"
+  },
+  "additionalAddress": {
+    "label": "Ytterligare adress",
+    "placeholder": "Ange din ytterligare adress"
+  },
+  "postalCode": {
+    "label": "Postnummer",
+    "placeholder": "Ange postnummer"
+  },
+  "timeZone": {
+    "label": "Tidszon",
+    "placeholder": "Välj tidszon"
+  },
+  "profession": {
+    "label": "Yrke",
+    "placeholder": "Ange ditt yrke"
+  },
+  "language": {
+    "label": "Språk",
+    "placeholder": "Ange ditt språk"
+  },
+  "bonusCode": {
+    "label": "Kod (valfritt)",
+    "placeholder": "Ange kod"
+  },
+  "securityQuestion": {
+    "label": "Säkerhetsfråga",
+    "placeholder": "Ange din säkerhetsfråga"
+  },
+  "securityAnswer": {
+    "label": "Svar på säkerhetsfråga",
+    "placeholder": "Ange ett svar på din säkerhetsfråga"
+  },
+  "email": {
+    "label": "E-postadress",
+    "placeholder": "Ange din e-postadress"
+  },
+  "country": {
+    "label": "Land",
+    "placeholder": "Välj ditt land"
+  },
+  "currency": {
+    "label": "Valuta",
+    "placeholder": "Välj din valuta"
+  },
+  "agreements": {
+    "label": "Jag accepterar <a href=\"/static/terms-and-conditions\" target=\"_blank\" >Villkoren</a> och <a href=\"/static/privacy-policy\" target=\"_blank\" >Privacy Policy</a>"
+  },
+  "receiveEmailPromo": {
+    "label": "Skicka kampanjer via e-post"
+  },
+  "receiveSmsPromo": {
+    "label": "Skicka kampanjer via SMS"
+  },
+  "receiveBonus": {
+    "label": "Ta emot bonusar"
+  },
+  "phone": {
+    "label": "Mobiltelefon",
+    "placeholder": "Ange telefonnummer"
+  },
+  "birthdate": {
+    "label": "Födelsedatum",
+    "placeholderDay": "Dag",
+    "placeholderMonth": "Månad",
+    "placeholderYear": "År"
+  },
+  "placeOfBirth": {
+    "label": "Födelseort",
+    "placeholder": "Ange din födelseort"
+  },
+  "personalIdNumber": {
+    "label": "Personligt ID-nummer",
+    "placeholder": "Referensnummer för identitet (om tillgängligt)"
+  },
+  "message": {
+    "label": "Text",
+    "placeholder": "Ange ditt meddelande"
+  },
+  "wallet_id": {
+    "label": "Plånbokens adress",
+    "placeholder": "Ange plånbokens adress"
+  },
+  "card_number": {
+    "label": "Kortnummer",
+    "placeholder": "Ange kortnummer"
+  },
+  "card_holder": {
+    "label": "Kortinnehavare",
+    "placeholder": "Ange kreditkortsinnehavarens namn"
+  },
+  "exp_month": {
+    "label": "Utgångsmånad",
+    "placeholder": "Ange utgångsmånad"
+  },
+  "exp_year": {
+    "label": "Utgångsår",
+    "placeholder": "Ange utgångsår"
+  },
+  "networkSelect": {
+    "label": "Välj ditt nätverk",
+    "placeholder": "Nätverk",
+    "info": "För att fortsätta,<br>välja nätverk 👆👆👆"
+  },
+  "age": {
+    "label": "Ålder",
+    "placeholder": "Ange din ålder"
+  }
+}

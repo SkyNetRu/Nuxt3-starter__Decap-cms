@@ -1,0 +1,26 @@
+{
+  "withdrawalProcessed": {
+    "title": "In attesa!",
+    "description": "Il suo prelievo è in fase di elaborazione. Controlleremo la sua richiesta a breve."
+  },
+  "userCanceledWithdrawal": {
+    "title": "Successo",
+    "description": "Il prelievo è stato annullato con successo."
+  },
+  "depositSuccess": {
+    "title": "Successo",
+    "description": "Il deposito di {sum} effettuato il {date} è andato a buon fine!"
+  },
+  "depositError": {
+    "title": "Errore",
+    "description": "Siamo spiacenti, ma qualcosa è andato storto con il deposito di {sum} effettuato in data {date}. La preghiamo di riprovare."
+  },
+  "withdrawSuccess": {
+    "title": "Successo",
+    "description": "Il suo prelievo di {sum} da {date} è stato approvato!"
+  },
+  "withdrawError": {
+    "title": "Prelievo annullato",
+    "description": "Il suo prelievo di {sum} da {date} è stato annullato. Per favore, contatta il nostro Team di Supporto per maggiori informazioni."
+  }
+}

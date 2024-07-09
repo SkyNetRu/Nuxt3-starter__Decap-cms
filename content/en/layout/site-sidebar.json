@@ -1,0 +1,191 @@
+{
+  "socials": {
+    "isShow": false,
+    "items": [
+      {
+        "url": "/#",
+        "icon": "twitter"
+      },
+      {
+        "icon": "facebook",
+        "url": "/#"
+      },
+      {
+        "icon": "google",
+        "url": "/#"
+      },
+      {
+        "url": "/#",
+        "icon": "twitch"
+      },
+      {
+        "url": "/#",
+        "icon": "telegram"
+      }
+    ]
+  },
+  "bottomMenu": [
+    {
+      "label": "Support",
+      "url": "/contact",
+      "icon": "live-support"
+    }
+  ],
+  "userMenu": [
+    {
+      "label": "Favorites",
+      "url": "/favorites",
+      "icon": "heart"
+    },
+    {
+      "label": "Recently played",
+      "url": "/recently-played",
+      "icon": "history"
+    }
+  ],
+  "bonusesMenu": [
+    {
+      "label": "Bonuses",
+      "icon": "bonuses",
+      "items": [
+        {
+          "label": "Welcome package",
+          "url": "/welcome-package"
+        },
+        {
+          "label": "Monday Reload Bonus",
+          "url": "/bonus/sport-reload-bonus"
+        },
+        {
+          "label": "Wednesday Free Spins",
+          "url": "/bonus/wednesday-free-spins"
+        },
+        {
+          "label": "Weekly Cashback",
+          "url": "/bonus/weekly-cashback"
+        },
+        {
+          "label": "Saturday Reload Bonus",
+          "url": "/bonus/sport-reload-bonus"
+        }
+      ]
+    }
+  ],
+  "ctaMenu": {
+    "isShow": false,
+    "items": [
+      {
+        "url": "/#",
+        "title": "Daily",
+        "subTitle": "Mission",
+        "image": "/img/uploads/daily-mission-2x.png"
+      },
+      {
+        "url": "/#",
+        "title": "Cash",
+        "subTitle": "Back",
+        "image": "/img/uploads/cash-back.png"
+      }
+    ]
+  },
+  "topMenu": {
+    "integratedElement": {
+      "isShow": true,
+      "order": 2,
+      "backgroundImage": "/img/uploads/cta-bg.png",
+      "url": "https://win.city/games/spribe-aviator?real=true",
+      "label": "AVIATOR"
+    },
+    "items": [
+      {
+        "label": "Slots",
+        "url": "/games?category=slots",
+        "icon": "slots"
+      },
+      {
+        "label": "Live Casino",
+        "url": "/games?category=live",
+        "icon": "live-casino"
+      },
+      {
+        "label": "Table Games",
+        "url": "/games?category=table",
+        "icon": "table-games"
+      },
+      {
+        "label": "TOP games",
+        "url": "/games?category=top",
+        "icon": "turbo-games",
+        "gameList": [
+          {
+            "gameIdentity": "crash-x-turbo-games"
+          },
+          {
+            "gameIdentity": "dice-twice-turbo-games"
+          },
+          {
+            "gameIdentity": "mines-turbo-games"
+          },
+          {
+            "gameIdentity": "turbo-games-turboplinko"
+          }
+        ]
+      },
+      {
+        "label": "Sportsbook",
+        "url": "/betting",
+        "icon": "sport-book"
+      }
+    ]
+  },
+  "sidebarFooterMenu": [
+    {
+      "label": "Payments",
+      "url": "/static/payments"
+    },
+    {
+      "label": "KYC Policy",
+      "url": "/static/kyc-policy"
+    },
+    {
+      "label": "T&C",
+      "url": "/static/terms-and-conditions"
+    },
+    {
+      "label": "Bonus terms",
+      "url": "/static/bonus-terms"
+    },
+    {
+      "label": "F.A.Q",
+      "url": "/questions"
+    },
+    {
+      "label": "Privacy Policy",
+      "url": "/static/privacy-policy"
+    },
+    {
+      "label": "Gambling with responsibility",
+      "url": "/static/gambling-with-responsibility"
+    }
+  ],
+  "tokenMenu": [
+    {
+      "label": "Win.Casino Coin",
+      "url": "/sbt-token",
+      "icon": "tfs-token"
+    }
+  ],
+  "gamesToggler": {
+    "buttonFirst": {
+      "label": "Casino",
+      "url": "/main",
+      "icon": "cherry"
+    },
+    "buttonSecond": {
+      "label": "Sports",
+      "url": "/betting",
+      "icon": "sport"
+    }
+  },
+  "chatLabel": "chat"
+}

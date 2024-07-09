@@ -1,0 +1,42 @@
+{
+  "balanceLabel": "Equilibrio",
+  "methodMin": "min",
+  "percentageMax": "max",
+  "tabs": {
+    "deposit": "Deposito",
+    "withdraw": "Ritirare"
+  },
+  "notAvailableText": "Spiacenti, non ci sono metodi di pagamento disponibili",
+  "deposit": {
+    "title": "Deposito",
+    "sumLabel": "Deposit sum",
+    "minSum": "Deposito minimo:",
+    "addressTitle": "Indirizzo",
+    "addressInputLabel": "Invia qualsiasi importo a:",
+    "addressDescription": "Questo è il tuo indirizzo personale per i depositi. I tuoi fondi saranno disponibili non appena passeranno attraverso le conferme necessarie.",
+    "bonuses": {
+      "title": "Scegli un bonus",
+      "infoDescription": "Una volta che il deposito è accreditato, attiverà un bonus selezionato. Se hai già effettuato un deposito, non modificare il bonus selezionato fino a quando il deposito non viene accreditato sul saldo di gioco.",
+      "minDeposit": "Min. Deposito:",
+      "deposit": "Deposito:",
+      "maxDeposit": "Max. Deposito:",
+      "moreInfo": "Maggiori informazioni"
+    },
+    "togglerLabel": "Ho il codice bonus",
+    "addBonusCode": "Aggiungere",
+    "cancelBonusCode": "Annullare",
+    "depositButton": "Deposito",
+    "limit": {
+      "title": "Hai raggiunto il limite di deposito",
+      "description": "Hai impostato il tuo limite di deposito:",
+      "moreInfo": "Maggiori informazioni"
+    }
+  },
+  "withdraw": {
+    "title": "Ritiro",
+    "withdrawLabel": "Ritirabile",
+    "sumLabel": "Somma di prelievo",
+    "minSum": "Ritiro minimo:",
+    "withdrawButton": "Ritirare"
+  }
+}

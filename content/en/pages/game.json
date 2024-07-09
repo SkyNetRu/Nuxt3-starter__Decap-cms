@@ -1,0 +1,23 @@
+{
+  "demoLabel": "Ready to play for real?",
+  "demoButton": "Yes, play for real",
+  "demoModal": {
+    "label": "You-re in Demo Mode",
+    "description": "Ready for the real deals? Dive into Real mode and up the stakes.",
+    "demo": "Play Demo",
+    "real": "Play Real",
+    "deposit": "Deposit",
+    "registration": "Registration"
+  },
+  "seo": {
+    "text": {
+      "visible": ""
+    },
+    "title": "Win.Casino | Play over 4 000 slots and games"
+  },
+  "plug": {
+    "title": "Please, login",
+    "image": "/img/uploads/ex-sign.svg",
+    "description": "This game is not available in the fun mode, please login or register to play."
+  }
+}

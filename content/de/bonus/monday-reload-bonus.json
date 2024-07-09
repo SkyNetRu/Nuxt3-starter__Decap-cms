@@ -1,0 +1,20 @@
+{
+  "pageUrl": "sport-reload-bonus",
+  "termsLabel": "Bonusbedingungen:",
+  "termsContent": "1. Um den Bonus zu erhalten, müssen Sie eine Einzahlung von mindestens 30 EUR oder den gleichen Wert in anderen Währungen tätigen.\n2. Der maximale Bonusbetrag beträgt 100% des Einzahlungsbetrags, jedoch nicht mehr als 100 EUR oder den gleichen Wert in anderen Währungen.\n3. Der Einzahlungsbonus ist ab dem Datum, an dem Sie ihn erhalten, 5 Tage lang gültig.\n4. Für den vollständigen Einsatz müssen Wetten abgeschlossen werden, die das 5-fache des erhaltenen Bonusbetrags betragen: (Einzahlungsbonus) × 5 \n5. Jede Kombiwette muss 3 oder mehr Ereignisse enthalten, Kombiquoten 1,4 - 2,4;",
+  "button": {
+    "label": "Bonus erhalten"
+  },
+  "backgroundColor": "gray",
+  "subtitle": "100% Bonus bis zu 100 EUR am Samstag",
+  "title": "Samstag Sport Aufladebonus",
+  "image": "/img/uploads/monday-big.png",
+  "description": "Genießen Sie Ihr Wochenende auf hohem Niveau mit Win City! Es ist einfach, sich einen 100% Bonus bis zu 100 EUR zu sichern:\n\n\n1. Machen Sie eine Einzahlung von mindestens 30 EUR.\n2. Erhalten Sie sofort einen Bonus im Wert von 100% des von Ihnen eingezahlten Betrags (bis zu einem Maximum von 100 EUR).",
+  "seo": {
+    "text": {
+      "visible": "",
+      "hidden": ""
+    },
+    "title": "Win.Casino | Monday Reload bonus"
+  }
+}

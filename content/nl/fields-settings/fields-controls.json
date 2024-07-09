@@ -1,0 +1,155 @@
+{
+  "password": {
+    "label": "Wachtwoord",
+    "placeholder": "Voer je wachtwoord in"
+  },
+  "currentPassword": {
+    "label": "Huidig wachtwoord",
+    "placeholder": "Voer je huidige wachtwoord in"
+  },
+  "newPassword": {
+    "label": "Nieuw wachtwoord",
+    "placeholder": "Voer nieuw wachtwoord in"
+  },
+  "repeatNewPassword": {
+    "label": "Nieuw wachtwoord opnieuw",
+    "placeholder": "Nieuw wachtwoord opnieuw invoeren"
+  },
+  "firstName": {
+    "label": "Voornaam",
+    "placeholder": "Voer voornaam in"
+  },
+  "lastName": {
+    "label": "Achternaam",
+    "placeholder": "Voer achternaam in"
+  },
+  "nationality": {
+    "label": "Nationaliteit",
+    "placeholder": "Vul uw nationaliteit in"
+  },
+  "nickname": {
+    "label": "Bijnaam",
+    "placeholder": "Voer uw bijnaam in"
+  },
+  "gender": {
+    "label": "Geslacht",
+    "maleLabel": "Mannelijk",
+    "femaleLabel": "Vrouw",
+    "otherLabel": "Andere"
+  },
+  "city": {
+    "label": "Stad",
+    "placeholder": "Voer uw stad in"
+  },
+  "address": {
+    "label": "Adres",
+    "placeholder": "Vul je adres in"
+  },
+  "additionalAddress": {
+    "label": "Extra adres",
+    "placeholder": "Voer uw extra adres in"
+  },
+  "postalCode": {
+    "label": "Postcode",
+    "placeholder": "Postcode invoeren"
+  },
+  "timeZone": {
+    "label": "Tijdzone",
+    "placeholder": "Selecteer tijdzone"
+  },
+  "profession": {
+    "label": "Beroep",
+    "placeholder": "Voer uw beroep in"
+  },
+  "language": {
+    "label": "Taal",
+    "placeholder": "Voer je taal in"
+  },
+  "bonusCode": {
+    "label": "Code (optioneel)",
+    "placeholder": "Voer code in"
+  },
+  "securityQuestion": {
+    "label": "Beveiligingsvraag",
+    "placeholder": "Voer je beveiligingsvraag in"
+  },
+  "securityAnswer": {
+    "label": "Beveiligingsantwoord",
+    "placeholder": "Voer een antwoord op uw beveiligingsvraag in"
+  },
+  "email": {
+    "label": "E-mailadres",
+    "placeholder": "Voer uw e-mailadres in"
+  },
+  "country": {
+    "label": "Land",
+    "placeholder": "Selecteer je land"
+  },
+  "currency": {
+    "label": "Valuta",
+    "placeholder": "Selecteer uw valuta"
+  },
+  "agreements": {
+    "label": "Ik accepteer de <a href=\"/statisch/voorwaarden\" target=\"_blank\" > Algemene voorwaarden</a> en <a href=\"/statisch/privacybeleid\" target=\"_blank\" >Privacybeleid</a>"
+  },
+  "receiveEmailPromo": {
+    "label": "Stuur promo's per e-mail"
+  },
+  "receiveSmsPromo": {
+    "label": "Stuur promo's via SMS"
+  },
+  "receiveBonus": {
+    "label": "Bonussen ontvangen"
+  },
+  "phone": {
+    "label": "Mobiele telefoon",
+    "placeholder": "Voer telefoonnummer in"
+  },
+  "birthdate": {
+    "label": "Geboortedatum",
+    "placeholderDay": "Dag",
+    "placeholderMonth": "Maand",
+    "placeholderYear": "Jaar"
+  },
+  "placeOfBirth": {
+    "label": "Geboorteplaats",
+    "placeholder": "Voer je geboorteplaats in"
+  },
+  "personalIdNumber": {
+    "label": "Persoonlijk ID-nummer",
+    "placeholder": "Identiteitsnummer (indien beschikbaar)"
+  },
+  "message": {
+    "label": "Tekst",
+    "placeholder": "Voer je bericht in"
+  },
+  "wallet_id": {
+    "label": "Adres portemonnee",
+    "placeholder": "Voer het adres van de portemonnee in"
+  },
+  "card_number": {
+    "label": "Kaartnummer",
+    "placeholder": "Kaartnummer invoeren"
+  },
+  "card_holder": {
+    "label": "Kaarthouder",
+    "placeholder": "Voer de naam van de creditcardhouder in"
+  },
+  "exp_month": {
+    "label": "Verval maand",
+    "placeholder": "Vervaldatum maand invoeren"
+  },
+  "exp_year": {
+    "label": "Vervaldatum jaar",
+    "placeholder": "Vervaldatum jaar invoeren"
+  },
+  "networkSelect": {
+    "label": "Selecteer uw netwerk",
+    "placeholder": "Netwerk",
+    "info": "Om door te gaan,<br>selecteer netwerk 👆👆👆"
+  },
+  "age": {
+    "label": "Leeftijd",
+    "placeholder": "Voer uw leeftijd in"
+  }
+}

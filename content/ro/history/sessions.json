@@ -1,0 +1,14 @@
+{
+  "tabLabel": "Sesiuni",
+  "sessionsStatuses": {
+    "current": "Actual",
+    "active": "Active",
+    "closed": "Închis"
+  },
+  "tableColumns": {
+    "country": "Țara",
+    "userAgent": "Agent utilizator",
+    "createdAt": "Creat la",
+    "status": "Stare"
+  }
+}

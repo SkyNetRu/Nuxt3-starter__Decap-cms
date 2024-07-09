@@ -1,0 +1,6 @@
+{
+  "title": "Kinnitage boonuse uuendamine",
+  "description": "Hetkel aktiivse boonuse staatus muutub tühistatuks. Kas olete kindel, et soovite selle boonuse aktiveerida?",
+  "confirmButton": "Jah",
+  "cancelButton": "Ei"
+}

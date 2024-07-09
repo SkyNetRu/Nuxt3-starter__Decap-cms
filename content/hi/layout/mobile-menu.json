@@ -1,0 +1,22 @@
+{
+  "menuLabel": "मेन्यू",
+  "items": {
+    "firstItem": {
+      "label": "कैसीनो",
+      "url": "/main"
+    },
+    "secondItem": {
+      "label": "खेल",
+      "url": "/betting"
+    },
+    "thirdItem": {
+      "label": "सहायता",
+      "url": "/contact"
+    }
+  },
+  "chatLabel": "Live Chat",
+  "contactButton": {
+    "label": "सहायता",
+    "url": "/contact"
+  }
+}

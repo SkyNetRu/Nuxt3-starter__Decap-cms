@@ -1,0 +1,22 @@
+{
+  "freeSpinIssued": {
+    "title": "Dikeluarkan",
+    "description": "Anda telah mendapatkan {count} pada dompet {currency} Anda untuk permainan {game}"
+  },
+  "freeSpinActivated": {
+    "title": "Aktif",
+    "description": "{count} di dompet {currency} Anda untuk permainan {game} telah diaktifkan"
+  },
+  "freeSpinPlayed": {
+    "title": "Selesai",
+    "description": "Anda telah berhasil memainkan {count} di dompet {currency} Anda untuk permainan {game}"
+  },
+  "freeSpinCanceled": {
+    "title": "Dibatalkan",
+    "description": "{count} di dompet {currency} Anda untuk permainan {game} telah dibatalkan"
+  },
+  "freeSpinExpired": {
+    "title": "Kadaluarsa",
+    "description": "{count} di dompet {currency} Anda untuk permainan {game} telah kedaluwarsa"
+  }
+}

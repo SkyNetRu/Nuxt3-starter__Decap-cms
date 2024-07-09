@@ -1,0 +1,147 @@
+{
+  "socials": {
+    "isShow": false
+  },
+  "bottomMenu": [
+    {
+      "label": "Suport",
+      "icon": "live-support",
+      "url": "/contact"
+    }
+  ],
+  "userMenu": [
+    {
+      "url": "/favorites",
+      "icon": "heart",
+      "label": "Favorite"
+    },
+    {
+      "url": "/recently-played",
+      "icon": "history",
+      "label": "Jucat recent"
+    }
+  ],
+  "bonusesMenu": [
+    {
+      "items": [
+        {
+          "label": "Pachet de bun venit",
+          "url": "/welcome-package"
+        },
+        {
+          "url": "/bonus/monday-reload-bonus",
+          "label": "Bonus De Reîncărcare Luni"
+        },
+        {
+          "label": "Miercuri Rotiri Gratuite",
+          "url": "/bonus/wednesday-free-spins"
+        },
+        {
+          "url": "/bonus/weekly-cashback",
+          "label": "Cashback Săptămânal"
+        }
+      ],
+      "label": "Bonusuri",
+      "icon": "bonuses"
+    }
+  ],
+  "ctaMenu": {
+    "isShow": false
+  },
+  "topMenu": {
+    "integratedElement": {
+      "label": "AVIATOR",
+      "url": "https://win.city/games/spribe-aviator?real=true",
+      "isShow": true,
+      "backgroundImage": "/img/uploads/cta-bg.png",
+      "order": 2
+    },
+    "items": [
+      {
+        "label": "Sloturi",
+        "url": "/games?category=slots",
+        "icon": "slots"
+      },
+      {
+        "icon": "live-casino",
+        "label": "Cazino Live",
+        "url": "/games?category=live"
+      },
+      {
+        "icon": "table-games",
+        "label": "Jocuri De Masă",
+        "url": "/games?category=table"
+      },
+      {
+        "gameList": [
+          {
+            "gameIdentity": "crash-x-turbo-games"
+          },
+          {
+            "gameIdentity": "dice-twice-turbo-games"
+          },
+          {
+            "gameIdentity": "mines-turbo-games"
+          },
+          {
+            "gameIdentity": "turbo-games-turboplinko"
+          }
+        ],
+        "icon": "turbo-games",
+        "label": "Jocuri cu turbogame",
+        "url": "/games?category=turbogames"
+      },
+      {
+        "icon": "sport-book",
+        "label": "Pariuri sportive",
+        "url": "/betting"
+      }
+    ]
+  },
+  "sidebarFooterMenu": [
+    {
+      "label": "T&C",
+      "url": "/static/terms-and-conditions"
+    },
+    {
+      "url": "/static/bonus-terms",
+      "label": "Termeni Bonus"
+    },
+    {
+      "url": "/questions",
+      "label": "F.A.Q"
+    },
+    {
+      "url": "/static/privacy-policy",
+      "label": "Politica De Confidențialitate"
+    },
+    {
+      "url": "/static/gambling-with-responsibility",
+      "label": "Jocuri de noroc cu responsabilitate"
+    },
+    {
+      "url": "/static/kyc-policy",
+      "label": "Politica KYC"
+    }
+  ],
+  "tokenMenu": [
+    {
+      "label": "Moneda Win.Casino",
+      "icon": "tfs-token",
+      "url": "/sbt-token"
+    }
+  ],
+  "gamesToggler": {
+    "buttonFirst": {
+      "label": "Casino",
+      "url": "/main",
+      "icon": "cherry"
+    },
+    "buttonSecond": {
+      "label": "Sporturi",
+      "url": "/betting",
+      "icon": "sport"
+    }
+  },
+  "chatLabel": "chat"
+}

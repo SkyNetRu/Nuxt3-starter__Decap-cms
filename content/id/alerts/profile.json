@@ -1,0 +1,26 @@
+{
+  "successRegistration": {
+    "title": "Selamat datang",
+    "description": "Anda telah berhasil terdaftar!"
+  },
+  "sentResetLink": {
+    "title": "Berhasil",
+    "description": "Tautan pengaturan ulang kata sandi telah dikirim. Klik tautan di email untuk membuat kata sandi baru."
+  },
+  "invalidResetCode": {
+    "title": "Kesalahan",
+    "description": "Maaf, tautan pengaturan ulang kata sandi Anda tidak valid. Silakan minta pengaturan ulang kata sandi lain."
+  },
+  "passwordChanged": {
+    "title": "Berhasil",
+    "description": "Anda telah berhasil mengubah kata sandi Anda."
+  },
+  "accountBlocked": {
+    "title": "Kesalahan",
+    "description": "Maaf, tetapi akun Anda diblokir. Silakan hubungi tim dukungan kami untuk informasi lebih lanjut."
+  },
+  "resentVerification": {
+    "title": "Berhasil",
+    "description": "Kami telah mengirimkan email berisi tautan verifikasi ke alamat email Anda."
+  }
+}

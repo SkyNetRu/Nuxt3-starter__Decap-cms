@@ -1,0 +1,21 @@
+{
+  "changeButton": "Währung verwenden",
+  "depositButton": "Einzahlung",
+  "addButton": "Währung hinzufügen",
+  "hideButton": "Währung ausblenden",
+  "title": "Brieftasche",
+  "hideZeroBalances": "Hide zero balances",
+  "zeroBalance": {
+    "imgPath": "/img/uploads/empty.png",
+    "title": "There are no funds on your balance"
+  },
+  "withdrawButton": "Zurückziehen",
+  "seo": {
+    "text": {
+      "visible": "",
+      "hidden": "",
+      "button": ""
+    },
+    "title": "Win.Casino | Brieftasche"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "tabLabel": "Sessioner",
+  "sessionsStatuses": {
+    "current": "Nuværende",
+    "active": "Aktive",
+    "closed": "Lukket"
+  },
+  "tableColumns": {
+    "country": "Land",
+    "userAgent": "Brugeragent",
+    "createdAt": "Oprettet på",
+    "status": "Status"
+  }
+}

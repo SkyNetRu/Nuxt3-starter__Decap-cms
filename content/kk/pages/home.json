@@ -1,0 +1,58 @@
+{
+  "banner": {
+    "title": "#### Win.Casino сайтында ойнаңыз және жеңіңіз",
+    "button": {
+      "label": "Қазір ойнаңыз"
+    },
+    "images": {
+      "backgroundImage": "/img/uploads/back-bg.webp",
+      "faceImage": "/img/uploads/front-bg.webp"
+    }
+  },
+  "categories": {
+    "casino": {
+      "title": "Казино",
+      "description": "4 000-нан астам әділ ойындардан ләззат алыңыз",
+      "button": {
+        "label": "Тегін айналдыру",
+        "url": "/main"
+      },
+      "image": "/img/uploads/casino-new-1-.png"
+    },
+    "betting": {
+      "title": "Бәс тігу",
+      "description": "Ең бәсекеге қабілетті коэффициенттер мен нарықтар. Дәл қазір бәс тігіп, ұтып алыңыз",
+      "button": {
+        "label": "Қазір бәс тігу",
+        "url": "/betting"
+      },
+      "image": "/img/uploads/betting-new-1-.png"
+    },
+    "esports": {
+      "title": "Esports",
+      "description": "Ең бәсекеге қабілетті коэффициенттер мен нарықтар.",
+      "button": {
+        "label": "Қазір бәс тігу",
+        "url": "/betting"
+      },
+      "image": "/img/uploads/esports-1.png"
+    }
+  },
+  "seo": {
+    "title": "Win.Casino | Ең қауіпсіз криптографиялық казино",
+    "text": {
+      "visible": "## Win.Casino сізді қарсы алады!",
+      "hidden": "## Ұсынатыны көп спорт кітабы",
+      "button": "Көбірек көрсет"
+    }
+  },
+  "aeroGroup": {
+    "label": "Win.Casino ойындары",
+    "collectionIdentity": "crash",
+    "game": {
+      "identity": "spribe-aviator",
+      "playButtonLabel": "Қазір ойнаңыз",
+      "demoButtonLabel": "Демо"
+    }
+  }
+}

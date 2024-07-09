@@ -1,0 +1,79 @@
+{
+  "slider": [
+    {
+      "title": "##### Choose the safest crypto casino.",
+      "content": "* Provably fair slots & games;\n* 24/7 Live Chat Support;\n* Privacy and security.",
+      "button": {
+        "label": "Get bonus"
+      },
+      "images": {
+        "mobile": {
+          "backgroundImage": "/img/uploads/mobile-background-2.png",
+          "faceImage": "/img/uploads/mobile-face-2.png"
+        },
+        "desktop": {
+          "backgroundImage": "/img/uploads/banner-3-bg_fixed.png",
+          "faceImage": "/img/uploads/bannr-3-girl-2-1-.png"
+        }
+      }
+    },
+    {
+      "images": {
+        "mobile": {
+          "backgroundImage": "/img/uploads/mobile-background-1.png",
+          "faceImage": "/img/uploads/mobile-face-1.png"
+        },
+        "desktop": {
+          "backgroundImage": "/img/uploads/banner-2-1-bg-figma.png",
+          "faceImage": "/img/uploads/banner-2-girl-with-gift.png"
+        }
+      },
+      "title": "#### Welcome package<br>Get 5000 mBTC + 300 FS",
+      "button": {
+        "label": "Get bonus"
+      }
+    },
+    {
+      "title": "##### Enjoy fast games on<br>Win.Casino",
+      "button": {
+        "label": "Play now"
+      },
+      "images": {
+        "mobile": {
+          "backgroundImage": "/img/uploads/3-mobile-background.png",
+          "faceImage": "/img/uploads/3-mobile-face.png"
+        },
+        "desktop": {
+          "backgroundImage": "/img/uploads/3-desktop-background.png",
+          "faceImage": "/img/uploads/3-desktop-face.png"
+        }
+      }
+    },
+    {
+      "title": "##### Get bonuses every week",
+      "content": "* 30% bonus every Monday;\n* 100 FS every Wednesday;\n* 10% cashback every Friday.",
+      "button": {
+        "label": "Get bonus"
+      },
+      "images": {
+        "mobile": {
+          "backgroundImage": "/img/uploads/mobile-background-4_1.png",
+          "faceImage": "/img/uploads/mobile-face-4_1.png"
+        },
+        "desktop": {
+          "backgroundImage": "/img/uploads/banner-4-bg-1-.png",
+          "faceImage": "/img/uploads/girl-banner-4-1-1-.png"
+        }
+      }
+    }
+  ],
+  "seo": {
+    "title": "Win.Casino | Über 4000+ Slots und Spiele",
+    "description": "",
+    "text": {
+      "visible": "## Win.Casino heißt Sie willkommen!",
+      "hidden": "## Sportwetten mit viel zu bieten",
+      "button": "Mehr anzeigen"
+    }
+  }
+}

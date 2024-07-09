@@ -1,0 +1,49 @@
+{
+  "loginButton": "Giriş yapmak",
+  "registrationButton": "Kayıt",
+  "search": {
+    "placeholder": "Oyununu ara",
+    "moreButton": "Daha fazla yükle",
+    "emptyLabel": "Hiçbirşey Bulunamadı",
+    "emptyText": "Başka bir şey aramayı deneyin",
+    "tryLabel": "Veya şu popüler oyunları deneyin:"
+  },
+  "depositButton": "Cüzdan",
+  "balance": {
+    "tabs": {
+      "balanceTab": "Denge",
+      "currencyTab": "Para birimi"
+    },
+    "fiatToggler": "Fiat'ta ekran",
+    "items": {
+      "real": "Gerçek",
+      "bonus": "Bonus",
+      "withdrawal": "Çekmeceli",
+      "cashback": "Nakit para"
+    },
+    "wageringLabel": "Bahis:",
+    "cashbackDateLabel": "Yayınlanacak:"
+  },
+  "playRealButton": "Gerçek mod",
+  "pwa": {
+    "instructionLink": "/static/terms-and-conditions",
+    "mobile": {
+      "title": "Win.Casino - ücretsiz uygulamadan çıkın",
+      "description": "Telefonunuzda yer kaplamaz.",
+      "install": "Düzenlemek"
+    },
+    "desktop": {
+      "application": "Başvuru",
+      "forOs": "{os} için"
+    },
+    "tooltip": {
+      "title": "Win.Casino - ücretsiz uygulamadan çıkın",
+      "description": "Telefonunuzda yer kaplamaz."
+    }
+  },
+  "wagerTooltip": {
+    "notInWagering": "ㅤ",
+    "wagerMultiplierLessThan": "ㅤ",
+    "wagerMultiplierMoreThan": "ㅤ"
+  }
+}

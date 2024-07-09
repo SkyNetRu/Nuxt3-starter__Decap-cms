@@ -1,0 +1,16 @@
+{
+  "title": "Portfel",
+  "addButton": "Dodaj walutę",
+  "changeButton": "Używanie waluty",
+  "hideButton": "Ukryj walutę",
+  "depositButton": "Wpłata",
+  "hideZeroBalances": "Hide zero balances",
+  "zeroBalance": {
+    "imgPath": "/img/uploads/empty.png",
+    "title": "There are no funds on your balance"
+  },
+  "withdrawButton": "Wypłata",
+  "seo": {
+    "title": "Win.Casino | Portfel"
+  }
+}

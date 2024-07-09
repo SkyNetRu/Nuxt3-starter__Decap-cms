@@ -1,0 +1,35 @@
+{
+  "title": "Seguridad y verificación",
+  "documents": {
+    "hideText": "Ocultar texto",
+    "moreInfo": "Más información",
+    "uploadPlaceholder": "Seleccione un archivo o arrástrelo y suéltelo aquí",
+    "uploadHint": "Se aceptan los siguientes tipos de archivo: .png, .jpg, .pdf. Tamaño máximo 2 MB.",
+    "uploadButton": "Cargar archivo",
+    "uploadMore": "Cargar más archivos",
+    "identity": {
+      "label": "Identidad",
+      "description": "Cargue su documento de identidad. Todos los documentos deben estar colocados sobre una superficie plana con las 4 esquinas dentro del marco. Toda la información debe ser clara e identificable. Suba también su selfie con el pasaporte/documento de identidad en las manos.",
+      "identity_front": "Documento de identidad (anverso)",
+      "identity_back": "Prueba de identidad (reverso)",
+      "identity_selfie_id": "Selfie y DNI"
+    },
+    "address": {
+      "label": "Dirección",
+      "description": "Por favor, suba la factura de servicios públicos, la factura de teléfono o el extracto bancario en el que figure su nombre.",
+      "address": "Justificante de dirección"
+    },
+    "payment": {
+      "label": "Pago",
+      "description": "Por favor, suba la captura de pantalla o foto del banco online, extracto bancario, página de Skrill, etc.",
+      "payment": "Prueba de pago"
+    }
+  },
+  "password": {
+    "label": "Cambiar contraseña",
+    "saveButton": "Guardar cambios"
+  },
+  "seo": {
+    "title": "Win.Casino | Seguridad y verificación"
+  }
+}

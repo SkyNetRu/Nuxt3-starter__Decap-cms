@@ -1,0 +1,42 @@
+{
+  "balanceLabel": "Solde",
+  "methodMin": "min",
+  "percentageMax": "max",
+  "tabs": {
+    "deposit": "Dépôt",
+    "withdraw": "Retrait"
+  },
+  "notAvailableText": "Désolé, il n'y a pas de méthodes de paiement disponibles",
+  "deposit": {
+    "title": "Dépôt",
+    "sumLabel": "Montant du dépôt",
+    "minSum": "Dépôt minimum:",
+    "addressTitle": "Adresse",
+    "addressInputLabel": "Envoyez n'importe quel montant à:",
+    "addressDescription": "Ceci est votre adresse personnelle pour les dépôts. Vos fonds seront disponibles dès qu'ils auront passé les confirmations nécessaires.",
+    "bonuses": {
+      "title": "Choisissez un bonus",
+      "infoDescription": "Une fois votre dépôt crédité, il activera un bonus sélectionné. Si vous avez déjà effectué un dépôt, veuillez ne pas modifier le bonus sélectionné tant que le dépôt n'est pas crédité sur le solde du jeu.",
+      "minDeposit": "Min. Dépôt:",
+      "deposit": "Dépôt:",
+      "maxDeposit": "Max. Dépôt:",
+      "moreInfo": "Plus d'infos"
+    },
+    "togglerLabel": "J'ai un code bonus",
+    "addBonusCode": "Ajouter",
+    "cancelBonusCode": "Annuler",
+    "depositButton": "Dépôt",
+    "limit": {
+      "title": "Vous avez atteint votre limite de dépôt",
+      "description": "Vous avez configuré votre limite de dépôt:",
+      "moreInfo": "Plus d'infos"
+    }
+  },
+  "withdraw": {
+    "title": "Retrait",
+    "withdrawLabel": "Retirable",
+    "sumLabel": "Somme de retrait",
+    "minSum": "Retrait minimum:",
+    "withdrawButton": "Retrait"
+  }
+}

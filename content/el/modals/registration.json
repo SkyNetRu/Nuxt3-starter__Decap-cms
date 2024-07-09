@@ -1,0 +1,21 @@
+{
+  "title": "Εγγραφείτε στην Win.Casino",
+  "agreeEmailLabel": "Συμφωνώ να λαμβάνω μηνύματα ηλεκτρονικού ταχυδρομείου μπόνους και μάρκετινγκ",
+  "agreeSmsLabel": "Αποστολή διαφημιστικών μηνυμάτων μέσω SMS",
+  "registrationButton": "Εγγραφείτε",
+  "loginButton": "Είστε ήδη μέλος; *Είσοδος*",
+  "promo": {
+    "title": "Πακέτο καλωσορίσματος",
+    "secondTitle": "3000 EUR + 200 FS",
+    "additionalTitle": "σχετικά με τον αθλητισμό και το καζίνο",
+    "images": {
+      "mobile": {
+        "backgroundImage": "/img/uploads/registration-mobile.webp"
+      },
+      "desktop": {
+        "backgroundImage": "/img/uploads/eu-registration.webp"
+      }
+    },
+    "displayAdvantages": false
+  }
+}

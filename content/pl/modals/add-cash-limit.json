@@ -1,0 +1,10 @@
+{
+  "addBetLabel": "Nowy limit zakładu",
+  "addLossLabel": "Nowy limit strat",
+  "addDepositLabel": "Nowy limit wpłat",
+  "hint": "Ograniczenie wchodzi w życie natychmiast. Możesz zmniejszyć swój limit w dowolnym momencie, ta zmiana zacznie obowiązywać natychmiast. Możesz zwiększyć limit, jednak aby ta zmiana weszła w życie, potrzebujesz 24 godzin. Anulowanie limitu wpłat trwa 24 godziny. Po przekroczeniu limitu otrzymasz powiadomienie e-mail.",
+  "chooseCurrencyLabel": "Wybierz walutę",
+  "chooseCurrencyError": "Wybierz walutę dla nowego limitu wpłat",
+  "addButton": "Dodaj",
+  "successConfirmLabel": "Limit ustawiony pomyślnie"
+}

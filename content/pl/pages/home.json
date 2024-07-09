@@ -1,0 +1,58 @@
+{
+  "banner": {
+    "title": "#### Graj i wygrywaj w Win.Casino",
+    "button": {
+      "label": "Zagraj teraz"
+    },
+    "images": {
+      "backgroundImage": "/img/uploads/eu-banner-bg.webp",
+      "faceImage": "/img/uploads/eu-banner-person.webp"
+    }
+  },
+  "categories": {
+    "casino": {
+      "title": "Kasyno",
+      "description": "Ciesz się ponad 4 000 gier, które można udowodnić, że są uczciwe",
+      "button": {
+        "label": "Darmowe spiny",
+        "url": "/main"
+      },
+      "image": "/img/uploads/casino-new-1-.png"
+    },
+    "betting": {
+      "title": "Zakłady",
+      "description": "Najbardziej konkurencyjne kursy i rynki. Postaw zakład i wygraj już teraz",
+      "button": {
+        "label": "Postaw teraz",
+        "url": "/betting"
+      },
+      "image": "/img/uploads/betting-new-1-.png"
+    },
+    "esports": {
+      "title": "Esports",
+      "description": "Świetne rynki i wydarzenia w e-sporcie",
+      "button": {
+        "label": "Postaw teraz",
+        "url": "/betting"
+      },
+      "image": "/img/uploads/esports-1.png"
+    }
+  },
+  "seo": {
+    "title": "Win.Casino | Najbezpieczniejsze kasyno kryptowalutowe",
+    "text": {
+      "visible": "## Win.Casino wita Cię!",
+      "hidden": "## Książka sportowa z wieloma ofertami",
+      "button": "Pokaż więcej"
+    }
+  },
+  "aeroGroup": {
+    "label": "Gry Win.Casino",
+    "collectionIdentity": "crash",
+    "game": {
+      "identity": "spribe-aviator",
+      "playButtonLabel": "Zagraj terazZagraj teraz",
+      "demoButtonLabel": "Próbny"
+    }
+  }
+}

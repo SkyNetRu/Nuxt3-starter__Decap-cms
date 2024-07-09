@@ -1,0 +1,10 @@
+{
+  "addBetLabel": "Nový limit sázek",
+  "addLossLabel": "Nový limit prohry",
+  "addDepositLabel": "Nový limit vkladů",
+  "hint": "Omezení nabývá účinnosti okamžitě. Svůj limit můžete kdykoli snížit, tato změna se projeví okamžitě. Limit můžete zvýšit, aby se však tato změna projevila, potřebujete k tomu 24 hodin. Zrušení limitu vkladu trvá 24 hodin. Po překročení limitu obdržíte e-mailové oznámení.",
+  "chooseCurrencyLabel": "Výběr měny",
+  "chooseCurrencyError": "Zvolte prosím měnu pro nový limit vkladu",
+  "addButton": "Přidat",
+  "successConfirmLabel": "Limit byl úspěšně nastaven"
+}

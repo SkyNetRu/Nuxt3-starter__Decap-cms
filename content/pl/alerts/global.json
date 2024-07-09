@@ -1,0 +1,9 @@
+{
+  "somethingWrong": {
+    "title": "Błąd!",
+    "description": "Coś poszło nie tak!"
+  },
+  "sentMessage": {
+    "title": "Dziękujemy!"
+  }
+}

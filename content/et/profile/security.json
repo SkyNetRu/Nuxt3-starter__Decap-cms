@@ -1,0 +1,35 @@
+{
+  "title": "Turvalisus ja kontroll",
+  "documents": {
+    "hideText": "Teksti varjamine",
+    "moreInfo": "Rohkem infot",
+    "uploadPlaceholder": "Valige fail või lohistage siia",
+    "uploadHint": "Lubatud on järgmised failitüübid: .png, .jpg, .pdf. Maksimaalne suurus 2 MB.",
+    "uploadButton": "Faili üleslaadimine",
+    "uploadMore": "Laadige rohkem faile",
+    "identity": {
+      "label": "Identiteet",
+      "description": "Palun laadige üles oma isikut tõendav dokument. Kõik dokumendid peavad olema tasasel pinnal ja kõik 4 nurka peavad olema raami sees. Kogu teave peab olema selge ja tuvastatav. Laadige üles ka oma selfie passiga/ID-ga käes.",
+      "identity_front": "Isikut tõendav dokument (esikülg)",
+      "identity_back": "Isikut tõendav dokument (tagakülg)",
+      "identity_selfie_id": "Selfie ja isikut tõendav dokument"
+    },
+    "address": {
+      "label": "Aadress",
+      "description": "Palun laadige üles kommunaalarve, telefoniarve või pangakonto väljavõte, kus on teie nimi.",
+      "address": "Aadressitõend"
+    },
+    "payment": {
+      "label": "Makse",
+      "description": "Palun laadige üles ekraanipilt või foto internetipangast, pangakonto väljavõte, Skrilli leht jne.",
+      "payment": "Maksetõend"
+    }
+  },
+  "password": {
+    "label": "Muuda parooli",
+    "saveButton": "Salvesta muudatused"
+  },
+  "seo": {
+    "title": "Win.Casino | Turvalisus ja kontroll"
+  }
+}

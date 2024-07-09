@@ -1,0 +1,18 @@
+{
+  "title": "Elenco fornitori",
+  "providersLabel": "Fornitori",
+  "gamesLabel": "Giochi",
+  "staticProvider": {
+    "identity": "turbo-games",
+    "button": "Fino al cielo"
+  },
+  "searchPlaceholder": "Cerca il tuo fornitore",
+  "empty": {
+    "title": "Non abbiamo trovato nulla",
+    "description": "Prova a cercare qualcos'altro"
+  },
+  "sortLabel": "Ordina per:",
+  "seo": {
+    "title": "Win City | Elenco fornitori"
+  }
+}

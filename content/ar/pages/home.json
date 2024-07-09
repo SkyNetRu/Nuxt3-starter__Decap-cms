@@ -1,0 +1,51 @@
+{
+  "banner": {
+    "title": "#### العب واربح في Win.Casino",
+    "button": {
+      "label": "العب الآن"
+    }
+  },
+  "categories": {
+    "casino": {
+      "title": "الكازينو",
+      "description": "استمتع بأكثر من 4000+ لعبة عادلة يمكن إثباتها",
+      "button": {
+        "label": "اللفات المجانية",
+        "url": "/الرئيسي"
+      }
+    },
+    "betting": {
+      "title": "الرهان",
+      "description": "الاحتمالات والأسواق الأكثر تنافسية. الرهان والفوز الآن",
+      "button": {
+        "label": "راهن الآن",
+        "url": "/الرهان"
+      }
+    },
+    "esports": {
+      "title": "الرياضات الإلكترونية",
+      "description": "الأسواق والفعاليات الرائعة في الرياضات الإلكترونية",
+      "button": {
+        "label": "راهن الآن",
+        "url": "/الرهان"
+      }
+    }
+  },
+  "aeroGroup": {
+    "label": "العاب Win.Casino ",
+    "collectionIdentity": "تحطيم",
+    "game": {
+      "identity": "spribe-aviator",
+      "playButtonLabel": "العب الان",
+      "demoButtonLabel": "العرض التوضيحي"
+    }
+  },
+  "seo": {
+    "title": "Win.Casino | كازينو التشفير الأكثر أمانا",
+    "text": {
+      "visible": "## Win.Casino ترحب بك!",
+      "hidden": "## كتاب رياضي مع الكثير من العروض",
+      "button": "عرض المزيد"
+    }
+  }
+}

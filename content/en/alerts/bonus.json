@@ -1,0 +1,40 @@
+{
+  "bonusCodeIncorrect": {
+    "title": "Sorry, but you entered the incorrect bonus code.",
+    "type": "error"
+  },
+  "bonusCodeNotAvailable": {
+    "title": "Sorry, but the bonus with the entered bonus code is not available for you.",
+    "type": "warning"
+  },
+  "bonusIssued": {
+    "title": "Issued",
+    "description": "The {amount} bonus has been issued",
+    "type": "pending"
+  },
+  "bonusActivated": {
+    "type": "done",
+    "title": "Active",
+    "description": "The {amount} bonus has been activated"
+  },
+  "bonusPlayed": {
+    "title": "Finished",
+    "description": "The {amount} bonus has been successfully wagered. Your winnings are already in your real balance",
+    "type": "done"
+  },
+  "bonusCanceled": {
+    "title": "Canceled",
+    "description": "The {amount} bonus has been canceled",
+    "type": "error"
+  },
+  "bonusExpired": {
+    "title": "Expired",
+    "description": "The {amount} bonus has expired",
+    "type": "error"
+  },
+  "bonusLost": {
+    "title": "Lost",
+    "description": "The {amount} bonus hasn’t been wagered",
+    "type": "error"
+  }
+}

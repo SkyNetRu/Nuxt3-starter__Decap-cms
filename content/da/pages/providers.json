@@ -1,0 +1,18 @@
+{
+  "title": "Udbyder liste",
+  "providersLabel": "Udbydere",
+  "gamesLabel": "spil",
+  "staticProvider": {
+    "identity": "turbo-games",
+    "button": "Til himlen"
+  },
+  "searchPlaceholder": "Søg efter din udbyder",
+  "empty": {
+    "title": "Intet fundet",
+    "description": "Prøv at søge efter noget andet"
+  },
+  "sortLabel": "Sorter efter:",
+  "seo": {
+    "title": "Win.Casino | Udbyder liste"
+  }
+}

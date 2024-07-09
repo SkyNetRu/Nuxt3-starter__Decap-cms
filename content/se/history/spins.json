@@ -1,0 +1,13 @@
+{
+  "tabLabel": "Snurr",
+  "tableColumns": {
+    "game": "Spel",
+    "bet": "Insats",
+    "result": "Resultat",
+    "date": "Datum"
+  },
+  "empty": {
+    "title": "Det finns inga data ännu!",
+    "description": "Du har inte placerat några spel ännu"
+  }
+}

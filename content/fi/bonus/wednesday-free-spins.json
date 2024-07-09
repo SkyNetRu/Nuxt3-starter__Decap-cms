@@ -1,0 +1,14 @@
+{
+  "pageUrl": "wednesday-free-spins",
+  "title": "Keskiviikon ilmaiskierrokset",
+  "subtitle": "Hanki 100 ilmaiskierrosta joka keskiviikko",
+  "description": "Keskiviikkoisin pelaajamme saavat joko 30, 50 tai 100 ilmaiskierrosta vain talletuksen tekemiseen. Varmista, että tartut tilaisuuteen ja saat keskiviikon ilmaiskierroksia, kun se päivä koittaa!",
+  "button": {
+    "label": "Hanki bonus"
+  },
+  "termsLabel": "Bonusehdot:",
+  "termsContent": "1. Saadaksesi bonuksen, kirjoita bonuskoodi WEDNESDAY ennen talletusta.\n2. Minimitalletus bonuksen saamiseksi:\n\n   * 20 ilmaiskierrosta - 1 mBTC;\n   * 50 ilmaiskierrosta - 1,5 mBTC;\n   * 100 ilmaiskierrosta - 2 mBTC.\n3. Täysi kierrätys edellyttää panostamista 40 kertaa saadun bonuksen määrän verran: (ilmaiskierroksista saadut voitot) × 40.\n4. Ilmaiskierrokset hyvitetään tilillesi automaattisesti!\n5. Maksimipanoksen rajoitus kierrättämisen aikana on 0,3 mBTC.\n6. Bonus on saatavilla vain keskiviikkoisin klo 00-00-23-59.",
+  "seo": {
+    "title": "Win.Casino | Keskiviikon ilmaiskierrokset"
+  }
+}

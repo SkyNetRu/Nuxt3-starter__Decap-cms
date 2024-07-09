@@ -1,0 +1,17 @@
+{
+  "title": "Settings",
+  "tabs": [
+    {
+      "title": "Account",
+      "path": "/profile/settings"
+    },
+    {
+      "title": "Limits",
+      "path": "/profile/settings/limits"
+    },
+    {
+      "title": "Notifications",
+      "path": "/profile/settings/notifications"
+    }
+  ]
+}

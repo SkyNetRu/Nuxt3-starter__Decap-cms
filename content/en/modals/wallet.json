@@ -1,0 +1,79 @@
+{
+  "balanceLabel": "Balance",
+  "methodMin": "min",
+  "paymentMethods": {
+    "visa": "Visa  & Mastercard",
+    "crypto": "Cryptocurrencies",
+    "cash_agent": "Cash agent",
+    "changelly": "Deposit crypto via bank card",
+    "bilblend": "Deposit fiat via bank card"
+  },
+  "percentageMax": "max",
+  "notAvailableText": "Sorry, there are no available payment methods",
+  "deposit": {
+    "title": "Deposit",
+    "sumLabel": "Deposit sum",
+    "minSum": "Min deposit:",
+    "addressTitle": "Address",
+    "addressInputLabel": "Send any amount to:",
+    "addressDescription": "This is your personal address for deposits. Your funds will be available as soon as they pass through the necessary confirmations.",
+    "bonuses": {
+      "title": "Chose a bonus",
+      "infoDescription": "Once your deposit is credited, it will activate a selected bonus. If you have already made a deposit, please don't change the selected bonus until the deposit is credited to the game balance.",
+      "minDeposit": "Min. Deposit:",
+      "deposit": "Deposit:",
+      "maxDeposit": "Max. Deposit:",
+      "moreInfo": "More info"
+    },
+    "togglerLabel": "I have bonus code",
+    "addBonusCode": "Add",
+    "cancelBonusCode": "Cancel",
+    "depositButton": "Deposit",
+    "cash_agent": {
+      "title": "Tell the agent your details",
+      "description": "Do not tell anyone except the agent your ID!",
+      "copyIdLabel": "Your ID",
+      "copyIdBtn": "Copy ID"
+    },
+    "limit": {
+      "title": "You have reached your deposit limit",
+      "description": "You have setup your deposit limit:",
+      "moreInfo": "More info"
+    },
+    "copyAddress": "Copy address"
+  },
+  "withdraw": {
+    "title": "Withdrawal",
+    "withdrawLabel": "Withdrawable",
+    "sumLabel": "Withdrawal sum",
+    "minSum": "Min withdrawal:",
+    "withdrawButton": "Withdraw",
+    "cash_agent": {
+      "title": "Tell the agent your details",
+      "copyIdLabel": "Your ID",
+      "copyIdBtn": "Copy ID",
+      "secretCodeLabel": "Secret code",
+      "secretCodeBtn": "Copy secret code"
+    }
+  },
+  "walletConnect": {
+    "title": "WalletConnect",
+    "label": "Or deposit with Web3 wallet",
+    "connected": "Connected",
+    "amount": "Amount",
+    "balance": "Balance",
+    "pay": "Pay"
+  },
+  "buttonBonusLabel": "Bonus",
+  "closeBtn": "Close",
+  "tabs": {
+    "deposit": "Deposit",
+    "withdraw": "Withdraw"
+  },
+  "noPaymentMethods": "No payment methods here",
+  "tryAnotherRegion": "There are no payment methods in the selected country. Please try another region",
+  "countryAutomatic": "The country has been selected automatically. You can change the selection, but the list of payment providers and the fee amount may change. Make the best choice",
+  "selectCurrency": "Select currency",
+  "youWillGet": "You will get",
+  "fee": "Fee"
+}
