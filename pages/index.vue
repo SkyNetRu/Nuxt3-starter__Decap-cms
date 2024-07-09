@@ -6,12 +6,12 @@
 </template>
 
 <script setup>
-
-// const { data: home } = reactive(await useAsyncData("home", () =>
-// 	queryContent("/pages/home").findOne())
-// );
 //
-// setSeoHead(home.SEOmetaData);
+//const { data: home } = reactive(await useAsyncData("home", () =>
+//	queryContent("/pages/home").findOne())
+//);
+//
+//setSeoHead(home?.SEOmetaData);
 
 </script>
 

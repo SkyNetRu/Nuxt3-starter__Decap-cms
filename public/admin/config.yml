@@ -2,6 +2,7 @@ backend:
   cms_label_prefix: cms/$LOCALE/
   repo: platform/customer-frontends/tg-wincity
   branch: mega-main
+  name: 'contentTest'
 media_folder: public/img/uploads
 public_folder: /img/uploads
 collections:
