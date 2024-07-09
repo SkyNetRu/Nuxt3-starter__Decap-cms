@@ -6,6 +6,1194 @@ backend:
 media_folder: public/img/uploads
 public_folder: /img/uploads
 collections:
+  - name: alerts
+    label: Alerts
+    extension: json
+    format: json
+    editor:
+      preview: false
+    files:
+      - label: Bonus
+        name: bonus
+        file: content/alerts/bonus.json
+        fields:
+          - name: bonusCodeIncorrect
+            label: Bonus Code Incorrect
+            widget: object
+            fields:
+              - name: title
+                label: Title
+                widget: string
+              - name: type
+                label: Type
+                widget: string
+          - name: bonusCodeNotAvailable
+            label: Bonus Code Not Available
+            widget: object
+            fields:
+              - name: title
+                label: Title
+                widget: string
+              - name: type
+                label: Type
+                widget: string
+          - name: bonusIssued
+            label: Bonus Issued
+            widget: object
+            fields:
+              - name: title
+                label: Title
+                widget: string
+              - name: description
+                label: Description
+                widget: string
+              - name: type
+                label: Type
+                widget: string
+          - name: bonusActivated
+            label: Bonus Activated
+            widget: object
+            fields:
+              - name: type
+                label: Type
+                widget: string
+              - name: title
+                label: Title
+                widget: string
+              - name: description
+                label: Description
+                widget: string
+          - name: bonusPlayed
+            label: Bonus Played
+            widget: object
+            fields:
+              - name: title
+                label: Title
+                widget: string
+              - name: description
+                label: Description
+                widget: string
+              - name: type
+                label: Type
+                widget: string
+          - name: bonusCanceled
+            label: Bonus Canceled
+            widget: object
+            fields:
+              - name: title
+                label: Title
+                widget: string
+              - name: description
+                label: Description
+                widget: string
+              - name: type
+                label: Type
+                widget: string
+          - name: bonusExpired
+            label: Bonus Expired
+            widget: object
+            fields:
+              - name: title
+                label: Title
+                widget: string
+              - name: description
+                label: Description
+                widget: string
+              - name: type
+                label: Type
+                widget: string
+          - name: bonusLost
+            label: Bonus Lost
+            widget: object
+            fields:
+              - name: title
+                label: Title
+                widget: string
+              - name: description
+                label: Description
+                widget: string
+              - name: type
+                label: Type
+                widget: string
+      - label: Free Spin
+        name: freeSpin
+        file: content/alerts/free-spin.json
+        fields:
+          - name: freeSpinIssued
+            label: Free Spin Issued
+            widget: object
+            fields:
+              - name: title
+                label: Title
+                widget: string
+              - name: description
+                label: Description
+                widget: string
+              - name: type
+                label: Type
+                widget: string
+          - name: freeSpinActivated
+            label: Free Spin Activated
+            widget: object
+            fields:
+              - name: title
+                label: Title
+                widget: string
+              - name: description
+                label: Description
+                widget: string
+              - name: type
+                label: Type
+                widget: string
+          - name: freeSpinPlayed
+            label: Free Spin Played
+            widget: object
+            fields:
+              - name: title
+                label: Title
+                widget: string
+              - name: description
+                label: Description
+                widget: string
+              - name: type
+                label: Type
+                widget: string
+          - name: freeSpinCanceled
+            label: Free Spin Canceled
+            widget: object
+            fields:
+              - name: title
+                label: Title
+                widget: string
+              - name: description
+                label: Description
+                widget: string
+              - name: type
+                label: Type
+                widget: string
+          - name: freeSpinExpired
+            label: Free Spin Expired
+            widget: object
+            fields:
+              - name: title
+                label: Title
+                widget: string
+              - name: description
+                label: Description
+                widget: string
+              - name: type
+                label: Type
+                widget: string
+      - label: Global
+        name: global
+        file: content/alerts/global.json
+        fields:
+          - name: somethingWrong
+            label: Something Wrong
+            widget: object
+            fields:
+              - name: type
+                label: Type
+                widget: string
+              - name: title
+                label: Title
+                widget: string
+              - name: description
+                label: Description
+                widget: string
+          - name: sentMessage
+            label: Sent Message
+            widget: object
+            fields:
+              - name: type
+                label: Type
+                widget: string
+              - name: title
+                label: Title
+                widget: string
+      - label: Limit
+        name: limit
+        file: content/alerts/limit.json
+        fields:
+          - name: limitedRealGame
+            label: Limited Real Game
+            widget: object
+            fields:
+              - name: type
+                label: Type
+                widget: string
+              - name: title
+                label: Title
+                widget: string
+              - name: description
+                label: Description
+                widget: string
+          - name: limitedDeposit
+            label: Limited Deposit
+            widget: object
+            fields:
+              - name: type
+                label: Type
+                widget: string
+              - name: title
+                label: Title
+                widget: string
+              - name: description
+                label: Description
+                widget: string
+          - name: cashLimitAdd
+            label: Cash Limit Add
+            widget: object
+            fields:
+              - name: title
+                label: Title
+                widget: string
+              - name: type
+                label: Type
+                widget: string
+          - name: cashLimitEditLargeAmount
+            label: Cash Limit Edit Large Amount
+            widget: object
+            fields:
+              - name: title
+                label: Title
+                widget: string
+              - name: description
+                label: Description
+                widget: string
+              - name: type
+                label: Type
+                widget: string
+          - name: cashLimitEditSmallerAmount
+            label: Cash Limit Edit Smaller Amount
+            widget: object
+            fields:
+              - name: title
+                label: Title
+                widget: string
+              - name: type
+                label: Type
+                widget: string
+          - name: cashLimitCancel
+            label: Cash Limit Cancel
+            widget: object
+            fields:
+              - name: title
+                label: Title
+                widget: string
+              - name: description
+                label: Description
+                widget: string
+              - name: type
+                label: Type
+                widget: string
+          - name: coolingOfLimitCancel
+            label: Cooling Of Limit Cancel
+            widget: object
+            fields:
+              - name: title
+                label: Title
+                widget: string
+              - name: description
+                label: Description
+                widget: string
+              - name: type
+                label: Type
+                widget: string
+      - label: Profile
+        name: profile
+        file: content/alerts/profile.json
+        fields:
+          - name: sentResetLink
+            label: Sent Reset Link
+            widget: object
+            fields:
+              - name: type
+                label: Type
+                widget: string
+              - name: title
+                label: Title
+                widget: string
+              - name: description
+                label: Description
+                widget: string
+          - name: invalidResetCode
+            label: Invalid Reset Code
+            widget: object
+            fields:
+              - name: type
+                label: Type
+                widget: string
+              - name: title
+                label: Title
+                widget: string
+              - name: description
+                label: Description
+                widget: string
+          - name: passwordChanged
+            label: Password Changed
+            widget: object
+            fields:
+              - name: type
+                label: Type
+                widget: string
+              - name: title
+                label: Title
+                widget: string
+              - name: description
+                label: Description
+                widget: string
+          - name: accountBlocked
+            label: Account Blocked
+            widget: object
+            fields:
+              - name: type
+                label: Type
+                widget: string
+              - name: title
+                label: Title
+                widget: string
+              - name: description
+                label: Description
+                widget: string
+          - name: successRegistration
+            label: Success Registration
+            widget: object
+            fields:
+              - name: type
+                label: Type
+                widget: string
+              - name: title
+                label: Title
+                widget: string
+              - name: description
+                label: Description
+                widget: string
+          - name: copyAddressSuccess
+            label: Copy Address Success
+            widget: object
+            fields:
+              - name: type
+                label: Type
+                widget: string
+              - name: title
+                label: Title
+                widget: string
+              - name: description
+                label: Description
+                widget: string
+          - name: resentVerification
+            label: Resent Verification
+            widget: object
+            fields:
+              - name: title
+                label: Title
+                widget: string
+              - name: description
+                label: Description
+                widget: string
+              - name: type
+                label: Type
+                widget: string
+          - name: telegramAuthError
+            label: Telegram Auth Error
+            widget: object
+            fields:
+              - name: type
+                label: Type
+                widget: string
+              - name: title
+                label: Title
+                widget: string
+              - name: description
+                label: Description
+                widget: string
+      - label: Wallet
+        name: wallet
+        file: content/alerts/wallet.json
+        fields:
+          - name: withdrawalProcessed
+            label: Withdrawal Processed
+            widget: object
+            fields:
+              - name: type
+                label: Type
+                widget: string
+              - name: title
+                label: Title
+                widget: string
+              - name: description
+                label: Description
+                widget: string
+          - name: copyUniqueNumberSuccess
+            label: Copy Unique Number Success
+            widget: object
+            fields:
+              - name: type
+                label: Type
+                widget: string
+              - name: title
+                label: Title
+                widget: string
+              - name: description
+                label: Description
+                widget: string
+          - name: copySecretCodeSuccess
+            label: Copy Secret Code Success
+            widget: object
+            fields:
+              - name: type
+                label: Type
+                widget: string
+              - name: title
+                label: Title
+                widget: string
+              - name: description
+                label: Description
+                widget: string
+          - name: userCanceledWithdrawal
+            label: User Canceled Withdrawal
+            widget: object
+            fields:
+              - name: type
+                label: Type
+                widget: string
+              - name: title
+                label: Title
+                widget: string
+              - name: description
+                label: Description
+                widget: string
+          - name: depositSuccess
+            label: Deposit Success
+            widget: object
+            fields:
+              - name: type
+                label: Type
+                widget: string
+              - name: title
+                label: Title
+                widget: string
+              - name: description
+                label: Description
+                widget: string
+          - name: depositError
+            label: Deposit Error
+            widget: object
+            fields:
+              - name: title
+                label: Title
+                widget: string
+              - name: description
+                label: Description
+                widget: string
+              - name: type
+                label: Type
+                widget: string
+          - name: withdrawSuccess
+            label: Withdraw Success
+            widget: object
+            fields:
+              - name: title
+                label: Title
+                widget: string
+              - name: description
+                label: Description
+                widget: string
+              - name: type
+                label: Type
+                widget: string
+          - name: withdrawError
+            label: Withdraw Error
+            widget: object
+            fields:
+              - name: type
+                label: Type
+                widget: string
+              - name: title
+                label: Title
+                widget: string
+              - name: description
+                label: Description
+                widget: string
+          - name: copyAddressSuccess
+            label: Copy Address Success
+            widget: object
+            fields:
+              - name: type
+                label: Type
+                widget: string
+              - name: title
+                label: Title
+                widget: string
+              - name: description
+                label: Description
+                widget: string
+          - name: transactionSent
+            label: Transaction Sent
+            widget: object
+            fields:
+              - name: type
+                label: Type
+                widget: string
+              - name: title
+                label: Title
+                widget: string
+              - name: description
+                label: Description
+                widget: string
+          - name: transactionIsPending
+            label: Transaction Is Pending
+            widget: object
+            fields:
+              - name: type
+                label: Type
+                widget: string
+              - name: title
+                label: Title
+                widget: string
+              - name: description
+                label: Description
+                widget: string
+  - name: bonusPages
+    label: Bonus Pages
+    create: true
+    slug: '{{fields.pageUrl}}'
+    summary: '{{fields.title}}'
+    extension: json
+    format: json
+    folder: content/bonus
+    editor:
+      preview: false
+    fields:
+      - name: pageUrl
+        label: Page Url (setting)
+        widget: string
+      - name: backgroundColor
+        label: Image Background Color
+        widget: select
+        options:
+          - gray
+          - red
+          - yellow
+          - green
+          - blue
+      - name: image
+        label: Image
+        widget: image
+      - name: title
+        label: Title
+        widget: string
+      - name: subtitle
+        label: Subtitle
+        widget: string
+      - name: description
+        label: Description
+        widget: markdown
+      - name: button
+        label: Button
+        widget: object
+        fields:
+          - name: url
+            label: Url
+            widget: string
+            required: false
+          - name: label
+            label: Label
+            widget: string
+      - name: termsLabel
+        label: Terms Label
+        widget: string
+      - name: termsContent
+        label: Terms Content
+        widget: markdown
+      - &ref_3
+        seo:
+          name: IPageMeta
+          label: Page Seo
+          widget: object
+          collapsed: true
+          fields:
+            - name: title
+              label: Page Title
+              widget: string
+              required: false
+            - name: description
+              label: Page Description
+              widget: text
+              required: false
+            - name: text
+              label: Page Seo Text
+              widget: object
+              fields:
+                - name: visible
+                  label: Visible Text
+                  widget: markdown
+                  required: false
+                - name: hidden
+                  label: Hidden Text
+                  widget: markdown
+                  required: false
+                - name: button
+                  label: More Button Label
+                  widget: string
+                  required: false
+  - name: fieldsSettings
+    label: Fields Settings
+    extension: json
+    format: json
+    editor:
+      preview: false
+    files:
+      - label: Fields Controls
+        name: fieldsControls
+        file: content/fields-settings/fields-controls.json
+        fields:
+          - name: repeatNewPassword
+            label: Repeat New Password
+            widget: object
+            fields:
+              - name: label
+                label: Label
+                widget: string
+              - name: placeholder
+                label: Placeholder
+                widget: string
+          - name: placeOfBirth
+            label: Place Of Birth
+            widget: object
+            fields:
+              - name: label
+                label: Label
+                widget: string
+              - name: placeholder
+                label: Placeholder
+                widget: string
+          - name: lastName
+            label: Last Name
+            widget: object
+            fields:
+              - name: label
+                label: Label
+                widget: string
+              - name: placeholder
+                label: Placeholder
+                widget: string
+          - name: gender
+            label: Gender
+            widget: object
+            fields:
+              - name: label
+                label: Label
+                widget: string
+              - name: maleLabel
+                label: Male Label
+                widget: string
+              - name: femaleLabel
+                label: Female Label
+                widget: string
+              - name: otherLabel
+                label: Other Label
+                widget: string
+          - name: clipboardButton
+            label: Clipboard Button
+            widget: object
+            fields:
+              - name: label
+                label: Label
+                widget: string
+          - name: walletId
+            label: Wallet Id
+            widget: object
+            fields:
+              - name: label
+                label: Label
+                widget: string
+              - name: placeholder
+                label: Placeholder
+                widget: string
+          - name: personalIdNumber
+            label: Personal Id Number
+            widget: object
+            fields:
+              - name: label
+                label: Label
+                widget: string
+              - name: placeholder
+                label: Placeholder
+                widget: string
+          - name: securityQuestion
+            label: Security Question
+            widget: object
+            fields:
+              - name: label
+                label: Label
+                widget: string
+              - name: placeholder
+                label: Placeholder
+                widget: string
+          - name: message
+            label: Message
+            widget: object
+            fields:
+              - name: label
+                label: Label
+                widget: string
+              - name: placeholder
+                label: Placeholder
+                widget: string
+          - name: agreements
+            label: Agreements
+            widget: object
+            fields:
+              - name: label
+                label: Label
+                widget: string
+          - name: balance
+            label: Balance
+            widget: object
+            fields:
+              - name: label
+                label: Label
+                widget: string
+          - name: depositAmount
+            label: Deposit Amount
+            widget: object
+            fields:
+              - name: label
+                label: Label
+                widget: string
+          - name: currencySelect
+            label: Currency Select
+            widget: object
+            fields:
+              - name: label
+                label: Label
+                widget: string
+          - name: networkSelect
+            label: Network Select
+            widget: object
+            fields:
+              - name: label
+                label: Label
+                widget: string
+              - name: info
+                label: Info
+                widget: markdown
+              - name: placeholder
+                label: Placeholder
+                widget: string
+          - name: city
+            label: City
+            widget: object
+            fields:
+              - name: label
+                label: Label
+                widget: string
+              - name: placeholder
+                label: Placeholder
+                widget: string
+          - name: bonusCode
+            label: Bonus Code
+            widget: object
+            fields:
+              - name: label
+                label: Label
+                widget: string
+              - name: placeholder
+                label: Placeholder
+                widget: string
+          - name: birthdate
+            label: Birthdate
+            widget: object
+            fields:
+              - name: label
+                label: Label
+                widget: string
+              - name: placeholderDay
+                label: Placeholder Day
+                widget: string
+              - name: placeholderMonth
+                label: Placeholder Month
+                widget: string
+              - name: placeholderYear
+                label: Placeholder Year
+                widget: string
+          - name: additionalAddress
+            label: Additional Address
+            widget: object
+            fields:
+              - name: label
+                label: Label
+                widget: string
+              - name: placeholder
+                label: Placeholder
+                widget: string
+          - name: nickname
+            label: Nickname
+            widget: object
+            fields:
+              - name: label
+                label: Label
+                widget: string
+              - name: placeholder
+                label: Placeholder
+                widget: string
+          - name: phone
+            label: Phone
+            widget: object
+            fields:
+              - name: label
+                label: Label
+                widget: string
+              - name: placeholder
+                label: Placeholder
+                widget: string
+          - name: currency
+            label: Currency
+            widget: object
+            fields:
+              - name: label
+                label: Label
+                widget: string
+              - name: placeholder
+                label: Placeholder
+                widget: string
+          - name: currentPassword
+            label: Current Password
+            widget: object
+            fields:
+              - name: label
+                label: Label
+                widget: string
+              - name: placeholder
+                label: Placeholder
+                widget: string
+          - name: address
+            label: Address
+            widget: object
+            fields:
+              - name: label
+                label: Label
+                widget: string
+              - name: placeholder
+                label: Placeholder
+                widget: string
+          - name: receiveEmailPromo
+            label: Receive Email Promo
+            widget: object
+            fields:
+              - name: label
+                label: Label
+                widget: string
+          - name: country
+            label: Country
+            widget: object
+            fields:
+              - name: label
+                label: Label
+                widget: string
+              - name: placeholder
+                label: Placeholder
+                widget: string
+          - name: postalCode
+            label: Postal Code
+            widget: object
+            fields:
+              - name: label
+                label: Label
+                widget: string
+              - name: placeholder
+                label: Placeholder
+                widget: string
+          - name: language
+            label: Language
+            widget: object
+            fields:
+              - name: label
+                label: Label
+                widget: string
+              - name: placeholder
+                label: Placeholder
+                widget: string
+          - name: cardNumber
+            label: Card Number
+            widget: object
+            fields:
+              - name: label
+                label: Label
+                widget: string
+              - name: placeholder
+                label: Placeholder
+                widget: string
+          - name: timeZone
+            label: Time Zone
+            widget: object
+            fields:
+              - name: label
+                label: Label
+                widget: string
+              - name: placeholder
+                label: Placeholder
+                widget: string
+          - name: receiveSmsPromo
+            label: Receive Sms Promo
+            widget: object
+            fields:
+              - name: label
+                label: Label
+                widget: string
+          - name: locale
+            label: Locale
+            widget: string
+          - name: newPassword
+            label: New Password
+            widget: object
+            fields:
+              - name: label
+                label: Label
+                widget: string
+              - name: placeholder
+                label: Placeholder
+                widget: string
+          - name: firstName
+            label: First Name
+            widget: object
+            fields:
+              - name: label
+                label: Label
+                widget: string
+              - name: placeholder
+                label: Placeholder
+                widget: string
+          - name: cardHolder
+            label: Card Holder
+            widget: object
+            fields:
+              - name: placeholder
+                label: Placeholder
+                widget: string
+              - name: label
+                label: Label
+                widget: string
+          - name: password
+            label: Password
+            widget: object
+            fields:
+              - name: label
+                label: Label
+                widget: string
+              - name: placeholder
+                label: Placeholder
+                widget: string
+          - name: profession
+            label: Profession
+            widget: object
+            fields:
+              - name: label
+                label: Label
+                widget: string
+              - name: placeholder
+                label: Placeholder
+                widget: string
+          - name: nationality
+            label: Nationality
+            widget: object
+            fields:
+              - name: label
+                label: Label
+                widget: string
+              - name: placeholder
+                label: Placeholder
+                widget: string
+          - name: receiveBonus
+            label: Receive Bonus
+            widget: object
+            fields:
+              - name: label
+                label: Label
+                widget: string
+          - name: email
+            label: Email
+            widget: object
+            fields:
+              - name: label
+                label: Label
+                widget: string
+              - name: placeholder
+                label: Placeholder
+                widget: string
+          - name: expMonth
+            label: Exp Month
+            widget: object
+            fields:
+              - name: label
+                label: Label
+                widget: string
+              - name: placeholder
+                label: Placeholder
+                widget: string
+          - name: securityAnswer
+            label: Security Answer
+            widget: object
+            fields:
+              - name: label
+                label: Label
+                widget: string
+              - name: placeholder
+                label: Placeholder
+                widget: string
+          - name: expYear
+            label: Exp Year
+            widget: object
+            fields:
+              - name: label
+                label: Label
+                widget: string
+              - name: placeholder
+                label: Placeholder
+                widget: string
+          - name: age
+            label: Age
+            widget: object
+            fields:
+              - name: label
+                label: Label
+                widget: string
+              - name: placeholder
+                label: Placeholder
+                widget: string
+          - name: search
+            label: Search
+            widget: object
+            fields:
+              - name: label
+                label: Label
+                widget: string
+              - name: placeholder
+                label: Placeholder
+                widget: string
+      - label: Validation Messages
+        name: validationMessages
+        file: content/fields-settings/validation-messages.json
+        fields:
+          - name: ContentName
+            label: ' Content Name'
+            widget: string
+          - name: countryCode
+            label: Country Code
+            widget: string
+          - name: macAddress
+            label: Mac Address
+            widget: string
+          - name: max
+            label: Max
+            widget: string
+          - name: alphaNum
+            label: Alpha Num
+            widget: string
+          - name: languageCode
+            label: Language Code
+            widget: string
+          - name: digits
+            label: Digits
+            widget: string
+          - name: regex
+            label: Regex
+            widget: string
+          - name: ip
+            label: Ip
+            widget: string
+          - name: accepted
+            label: Accepted
+            widget: string
+          - name: boolean
+            label: Boolean
+            widget: string
+          - name: login
+            label: Login
+            widget: string
+          - name: minAge
+            label: Min Age
+            widget: string
+          - name: numeric
+            label: Numeric
+            widget: string
+          - name: declined
+            label: Declined
+            widget: string
+          - name: phone
+            label: Phone
+            widget: string
+          - name: date
+            label: Date
+            widget: string
+          - name: url
+            label: Url
+            widget: string
+          - name: digitsBetween
+            label: Digits Between
+            widget: string
+          - name: dateEquals
+            label: Date Equals
+            widget: string
+          - name: string
+            label: String
+            widget: string
+          - name: lowercase
+            label: Lowercase
+            widget: string
+          - name: min
+            label: Min
+            widget: string
+          - name: uppercase
+            label: Uppercase
+            widget: string
+          - name: alphaDash
+            label: Alpha Dash
+            widget: string
+          - name: beforeOrEqual
+            label: Before Or Equal
+            widget: string
+          - name: different
+            label: Different
+            widget: string
+          - name: array
+            label: Array
+            widget: string
+          - name: afterOrEqual
+            label: After Or Equal
+            widget: string
+          - name: maxAge
+            label: Max Age
+            widget: string
+          - name: notRegex
+            label: Not Regex
+            widget: string
+          - name: after
+            label: After
+            widget: string
+          - name: email
+            label: Email
+            widget: string
+          - name: requiredIf
+            label: Required If
+            widget: string
+          - name: alpha
+            label: Alpha
+            widget: string
+          - name: confirmed
+            label: Confirmed
+            widget: string
+          - name: before
+            label: Before
+            widget: string
+          - name: required
+            label: Required
+            widget: string
+          - name: integer
+            label: Integer
+            widget: string
   - name: globalComponents
     label: Global Components
     extension: json
@@ -125,7 +1313,7 @@ collections:
         file: content/global-components/categories.json
         fields:
           - name: categoriesList
-            label: Cards
+            label: Categories List
             widget: list
             fields:
               - name: icon
@@ -152,19 +1340,19 @@ collections:
             widget: object
             fields:
               - name: '1'
-                label: Cash Bonus
+                label: Cash
                 widget: string
               - name: '2'
-                label: Percentage Bonus
+                label: Percentage
                 widget: string
               - name: '3'
-                label: Freespin Bonus
+                label: Free Spin
                 widget: string
               - name: '4'
-                label: Cashback Bonus
+                label: Cashback
                 widget: string
           - name: betStatuses
-            label: Bet Statuses
+            label: Sportsbook Bet Statuses
             widget: object
             fields:
               - name: '1'
@@ -183,7 +1371,7 @@ collections:
                 label: Cash Out
                 widget: string
           - name: invoiceStatuses
-            label: Invoice Statuses
+            label: Transaction Statuses
             widget: object
             fields:
               - name: '1'
@@ -292,13 +1480,13 @@ collections:
             widget: object
             fields:
               - name: allTab
-                label: All Tab
+                label: All Currencies Tab
                 widget: string
               - name: cryptoTab
-                label: Crypto Tab
+                label: Crypto Currencies Tab
                 widget: string
           - name: empty
-            label: Empty
+            label: Empty Area
             widget: object
             fields:
               - name: title
@@ -332,24 +1520,31 @@ collections:
         file: content/global-components/game-tags.json
         fields:
           - name: gameTagsList
-            label: Cards
+            label:
+              label: Tag label
             widget: list
             fields:
               - name: identity
-                label: Identity
+                label: Tag Identity
                 widget: string
+                hint: Must be the same as identity in BackOffice!
               - name: label
-                label: Label
+                label: Tag label
                 widget: string
               - name: color
-                label: Color
+                label: Tag Color
                 widget: string
               - name: icon
                 label: Icon
                 widget: select
                 options: *ref_0
-            label_singular: card
-            summary: '{{fields.title}}'
+            label_singular: tag
+            summary: '{{fields.label}}'
+            identity:
+              hint: Must be the same as identity in BackOffice!
+              label: Tag Identity
+            color:
+              label: Tag Color
       - label: Global Seo
         name: globalSeo
         file: content/global-components/global-seo.json
@@ -365,7 +1560,7 @@ collections:
         file: content/global-components/originals.json
         fields:
           - name: items
-            label: Cards
+            label: Items
             widget: list
             fields:
               - name: identity
@@ -381,7 +1576,7 @@ collections:
             widget: select
             options: *ref_0
           - name: display
-            label: Display
+            label: Show Content
             widget: boolean
       - label: Promotions
         name: promotions
@@ -395,7 +1590,7 @@ collections:
             widget: select
             options: *ref_0
           - name: items
-            label: Cards
+            label: Items
             widget: list
             fields:
               - name: image
@@ -427,7 +1622,7 @@ collections:
         file: content/global-components/turbogames.json
         fields:
           - name: isShow
-            label: Is Show
+            label: Show Content
             widget: boolean
           - name: label
             label: Label
@@ -440,7 +1635,7 @@ collections:
             label: Button Label
             widget: string
           - name: items
-            label: Cards
+            label: Items
             widget: list
             fields:
               - name: url
@@ -467,3 +1662,3166 @@ collections:
               - name: url
                 label: Url
                 widget: string
+  - name: history
+    label: History
+    extension: json
+    format: json
+    editor:
+      preview: false
+    files:
+      - label: Bets
+        name: bets
+        file: content/history/bets.json
+        fields:
+          - name: tabLabel
+            label: Tab Label
+            widget: string
+          - name: tabPosition
+            label: Tab Position
+            widget: number
+          - name: empty
+            label: Empty
+            widget: object
+            fields:
+              - name: title
+                label: Title
+                widget: string
+              - name: description
+                label: Description
+                widget: string
+          - name: settledTab
+            label: Settled Tab
+            widget: string
+          - name: unsettledTab
+            label: Unsettled Tab
+            widget: string
+          - name: betCard
+            label: Bet Card
+            widget: object
+            fields:
+              - name: coefficientLabel
+                label: Coefficient Label
+                widget: string
+              - name: betLabel
+                label: Bet Label
+                widget: string
+              - name: resultLabel
+                label: Result Label
+                widget: string
+              - name: copyButton
+                label: Copy Button
+                widget: string
+              - name: copyTooltip
+                label: Copy Tooltip
+                widget: string
+              - name: comboLabel
+                label: Combo Label
+                widget: string
+              - name: comboDisciplinesTooltip
+                label: Combo Disciplines Tooltip
+                widget: string
+              - name: comboBetsLabel
+                label: Combo Bets Label
+                widget: string
+      - label: Bonuses
+        name: bonuses
+        file: content/history/bonuses.json
+        fields:
+          - name: empty
+            label: Empty
+            widget: object
+            fields:
+              - name: icon
+                label: Icon
+                widget: select
+                options: *ref_0
+              - name: title
+                label: Title
+                widget: string
+              - name: description
+                label: Description
+                widget: string
+          - name: tabLabel
+            label: Tab Label
+            widget: string
+          - name: dateAllFilterOption
+            label: Date All Filter Option
+            widget: string
+          - name: dateLabel
+            label: Date Label
+            widget: string
+          - name: filterButtons
+            label: Filter Buttons
+            widget: object
+            fields:
+              - name: reset
+                label: Reset
+                widget: string
+              - name: apply
+                label: Apply
+                widget: string
+              - name: cancel
+                label: Cancel
+                widget: string
+          - name: filterTitle
+            label: Filter Title
+            widget: string
+          - name: tabPosition
+            label: Tab Position
+            widget: number
+          - name: tableColumns
+            label: Table Columns
+            widget: object
+            fields:
+              - name: title
+                label: Title
+                widget: string
+              - name: status
+                label: Status
+                widget: string
+              - name: amount
+                label: Amount
+                widget: string
+              - name: progress
+                label: Progress
+                widget: string
+              - name: created
+                label: Created
+                widget: string
+              - name: expired
+                label: Expired
+                widget: string
+          - name: cashBonusTab
+            label: Cash Bonus Tab
+            widget: string
+          - name: freeSpinsTab
+            label: Free Spins Tab
+            widget: string
+      - label: Sessions
+        name: sessions
+        file: content/history/sessions.json
+        fields:
+          - name: tabLabel
+            label: Tab Label
+            widget: string
+          - name: tableColumns
+            label: Table Columns
+            widget: object
+            fields:
+              - name: country
+                label: Country
+                widget: string
+              - name: userAgent
+                label: User Agent
+                widget: string
+              - name: createdAt
+                label: Created At
+                widget: string
+              - name: status
+                label: Status
+                widget: string
+          - name: sessionsStatuses
+            label: Sessions Statuses
+            widget: object
+            fields:
+              - name: current
+                label: Current
+                widget: string
+              - name: active
+                label: Active
+                widget: string
+              - name: closed
+                label: Closed
+                widget: string
+          - name: tabPosition
+            label: Tab Position
+            widget: number
+      - label: Spins
+        name: spins
+        file: content/history/spins.json
+        fields:
+          - name: empty
+            label: Empty
+            widget: object
+            fields:
+              - name: icon
+                label: Icon
+                widget: select
+                options: *ref_0
+              - name: title
+                label: Title
+                widget: string
+              - name: description
+                label: Description
+                widget: string
+          - name: resultFilterLabel
+            label: Result Filter Label
+            widget: string
+          - name: allFilterOption
+            label: All Filter Option
+            widget: string
+          - name: dateAllFilterOption
+            label: Date All Filter Option
+            widget: string
+          - name: dateLabel
+            label: Date Label
+            widget: string
+          - name: filterButtons
+            label: Filter Buttons
+            widget: object
+            fields:
+              - name: reset
+                label: Reset
+                widget: string
+              - name: apply
+                label: Apply
+                widget: string
+              - name: cancel
+                label: Cancel
+                widget: string
+          - name: filterTitle
+            label: Filter Title
+            widget: string
+          - name: tabLabel
+            label: Tab Label
+            widget: string
+          - name: tabPosition
+            label: Tab Position
+            widget: number
+          - name: tableColumns
+            label: Table Columns
+            widget: object
+            fields:
+              - name: game
+                label: Game
+                widget: string
+              - name: bet
+                label: Bet
+                widget: string
+              - name: result
+                label: Result
+                widget: string
+              - name: date
+                label: Date
+                widget: string
+          - name: filtersResult
+            label: Filters Result
+            widget: object
+            fields:
+              - name: all
+                label: All
+                widget: string
+              - name: win
+                label: Win
+                widget: string
+              - name: Lose
+                label: ' Lose'
+                widget: string
+      - label: Transactions
+        name: transactions
+        file: content/history/transactions.json
+        fields:
+          - name: currencyLabel
+            label: Currency Label
+            widget: string
+          - name: dateLabel
+            label: Date Label
+            widget: string
+          - name: statusFilterLabel
+            label: Status Filter Label
+            widget: string
+          - name: empty
+            label: Empty
+            widget: object
+            fields:
+              - name: icon
+                label: Icon
+                widget: select
+                options: *ref_0
+              - name: title
+                label: Title
+                widget: string
+              - name: description
+                label: Description
+                widget: string
+          - name: allFilterOption
+            label: All Filter Option
+            widget: string
+          - name: dateAllFilterOption
+            label: Date All Filter Option
+            widget: string
+          - name: filterButtons
+            label: Filter Buttons
+            widget: object
+            fields:
+              - name: reset
+                label: Reset
+                widget: string
+              - name: apply
+                label: Apply
+                widget: string
+              - name: cancel
+                label: Cancel
+                widget: string
+          - name: filterTitle
+            label: Filter Title
+            widget: string
+          - name: securityCode
+            label: Security Code
+            widget: object
+            fields:
+              - name: getCodeButton
+                label: Get Code Button
+                widget: string
+              - name: codeLabel
+                label: Code Label
+                widget: string
+              - name: codeTooltip
+                label: Code Tooltip
+                widget: string
+              - name: clientLabel
+                label: Client Label
+                widget: string
+              - name: clientTooltip
+                label: Client Tooltip
+                widget: string
+          - name: tableColumns
+            label: Table Columns
+            widget: object
+            fields:
+              - name: date
+                label: Date
+                widget: string
+              - name: type
+                label: Type
+                widget: string
+              - name: method
+                label: Method
+                widget: string
+              - name: status
+                label: Status
+                widget: string
+              - name: sum
+                label: Sum
+                widget: string
+          - name: cancelPayment
+            label: Cancel Payment
+            widget: object
+            fields:
+              - name: title
+                label: Title
+                widget: string
+              - name: description
+                label: Description
+                widget: string
+              - name: cancel
+                label: Cancel
+                widget: string
+              - name: reset
+                label: Reset
+                widget: string
+          - name: getCode
+            label: Get Code
+            widget: object
+            fields:
+              - name: title
+                label: Title
+                widget: string
+              - name: description
+                label: Description
+                widget: string
+              - name: copy
+                label: Copy
+                widget: string
+              - name: close
+                label: Close
+                widget: string
+              - name: button
+                label: Button
+                widget: string
+          - name: typeFilterLabel
+            label: Type Filter Label
+            widget: string
+          - name: cancelPaymentButton
+            label: Cancel Payment Button
+            widget: string
+          - name: tabPosition
+            label: Tab Position
+            widget: number
+          - name: tabLabel
+            label: Tab Label
+            widget: string
+  - name: layout
+    label: Layout
+    extension: json
+    format: json
+    editor:
+      preview: false
+    files:
+      - label: Cookie
+        name: cookie
+        file: content/layout/cookie.json
+        fields:
+          - name: text
+            label: Text
+            widget: markdown
+          - name: acceptButton
+            label: Accept Button
+            widget: string
+      - label: Footer
+        name: footer
+        file: content/layout/footer.json
+        fields:
+          - name: promoMenu
+            label: Promo Menu
+            widget: object
+            fields:
+              - name: title
+                label: Title
+                widget: string
+              - name: items
+                label: Items
+                widget: list
+                fields:
+                  - name: label
+                    label: Label
+                    widget: string
+                  - name: url
+                    label: Url
+                    widget: string
+                label_singular: card
+                summary: '{{fields.title}}'
+          - name: infoMenu
+            label: Info Menu
+            widget: object
+            fields:
+              - name: title
+                label: Title
+                widget: string
+              - name: items
+                label: Items
+                widget: list
+                fields:
+                  - name: label
+                    label: Label
+                    widget: string
+                  - name: url
+                    label: Url
+                    widget: string
+                label_singular: card
+                summary: '{{fields.title}}'
+          - name: helpMenu
+            label: Help Menu
+            widget: object
+            fields:
+              - name: title
+                label: Title
+                widget: string
+              - name: items
+                label: Items
+                widget: list
+                fields:
+                  - name: label
+                    label: Label
+                    widget: string
+                  - name: url
+                    label: Url
+                    widget: string
+                label_singular: card
+                summary: '{{fields.title}}'
+          - name: responsibilityLabel
+            label: Responsibility Label
+            widget: string
+          - name: paymentsList
+            label: Payments List
+            widget: list
+            fields:
+              - name: image
+                label: Image
+                widget: image
+            label_singular: card
+            summary: '{{fields.title}}'
+          - name: curacaoLicence
+            label: Curacao Licence
+            widget: object
+            fields:
+              - name: description
+                label: Description
+                widget: markdown
+          - name: copyright
+            label: Copyright
+            widget: string
+      - label: Header
+        name: header
+        file: content/layout/header.json
+        fields:
+          - name: loginButton
+            label: Login Button
+            widget: string
+          - name: registrationButton
+            label: Registration Button
+            widget: string
+          - name: search
+            label: Search
+            widget: object
+            fields:
+              - name: placeholder
+                label: Placeholder
+                widget: string
+              - name: moreButton
+                label: More Button
+                widget: string
+              - name: emptyLabel
+                label: Empty Label
+                widget: string
+              - name: emptyText
+                label: Empty Text
+                widget: string
+              - name: tryLabel
+                label: Try Label
+                widget: string
+          - name: depositButton
+            label: Deposit Button
+            widget: string
+          - name: playRealButton
+            label: Play Real Button
+            widget: string
+          - name: balance
+            label: Balance Popup
+            widget: object
+            fields:
+              - name: tabs
+                label: Tabs
+                widget: object
+                fields:
+                  - name: balanceTab
+                    label: Balance Tab
+                    widget: string
+                  - name: currencyTab
+                    label: Currency Tab
+                    widget: string
+                  - name: coins
+                    label: Coins
+                    widget: string
+              - name: fiatToggler
+                label: Display In Fiat
+                widget: string
+              - name: currencyToggler
+                label: Currency Toggler
+                widget: string
+              - name: wageringLabel
+                label: Bonus Wagering Label
+                widget: string
+              - name: cashbackDateLabel
+                label: Cashback Date Label
+                widget: string
+              - name: items
+                label: Items
+                widget: object
+                fields:
+                  - name: real
+                    label: Real Label
+                    widget: string
+                  - name: bonus
+                    label: Bonus Label
+                    widget: string
+                  - name: withdrawal
+                    label: Withdrawal Label
+                    widget: string
+                  - name: cashback
+                    label: Cashback Label
+                    widget: string
+            fiatToggler:
+              label: Display In Fiat
+            wageringLabel:
+              label: Bonus Wagering Label
+            items:
+              real:
+                label: Real Label
+              bonus:
+                label: Bonus Label
+              withdrawal:
+                label: Withdrawal Label
+              cashback:
+                label: Cashback Label
+          - name: pwa
+            label: Pwa
+            widget: object
+            fields:
+              - name: instructionLink
+                label: PWA Instruction Link (static page)
+                widget: string
+              - name: mobile
+                label: Mobile
+                widget: object
+                fields:
+                  - name: title
+                    label: Title
+                    widget: string
+                  - name: description
+                    label: Description
+                    widget: string
+                  - name: install
+                    label: Install
+                    widget: string
+              - name: desktop
+                label: Desktop
+                widget: object
+                fields:
+                  - name: application
+                    label: Application
+                    widget: string
+                  - name: forOs
+                    label: For Os
+                    widget: string
+              - name: tooltip
+                label: Tooltip
+                widget: object
+                fields:
+                  - name: title
+                    label: Title
+                    widget: string
+                  - name: description
+                    label: Description
+                    widget: string
+                  - name: backgroundImage
+                    label: Background Image
+                    widget: image
+                  - name: image
+                    label: Image
+                    widget: image
+      - label: Mobile Menu
+        name: mobileMenu
+        file: content/layout/mobile-menu.json
+        fields:
+          - name: menu
+            label: Menu
+            widget: list
+            fields:
+              - name: label
+                label: Label
+                widget: string
+              - name: url
+                label: Url
+                widget: string
+              - name: icon
+                label: Icon
+                widget: select
+                options: *ref_0
+            label_singular: card
+            summary: '{{fields.title}}'
+      - label: Profile Sidebar
+        name: profileSidebar
+        file: content/layout/profile-sidebar.json
+        fields:
+          - name: profileLinks
+            label: Profile Links
+            widget: list
+            fields:
+              - name: label
+                label: Label
+                widget: string
+              - name: url
+                label: Url
+                widget: string
+              - name: icon
+                label: Icon
+                widget: select
+                options: *ref_0
+            label_singular: card
+            summary: '{{fields.title}}'
+          - name: logoutButton
+            label: Logout Button
+            widget: string
+      - label: Return Game
+        name: returnGame
+        file: content/layout/return-game.json
+        fields:
+          - name: playLabel
+            label: Play Label
+            widget: string
+      - label: Site Sidebar
+        name: siteSidebar
+        file: content/layout/site-sidebar.json
+        fields:
+          - name: socials
+            label: Socials
+            widget: object
+            fields:
+              - name: isShow
+                label: Show Content
+                widget: boolean
+                default: false
+              - name: items
+                label: Socials List
+                widget: list
+                fields:
+                  - name: url
+                    label: Url
+                    widget: string
+                  - name: icon
+                    label: Icon
+                    widget: select
+                    options: *ref_0
+                label_singular: card
+                summary: '{{fields.title}}'
+                icon:
+                  options:
+                    - twitter
+                    - facebook
+                    - google
+                    - twitch
+                    - steam
+                    - telegram
+          - name: bottomMenu
+            label: Bottom Menu
+            widget: list
+            fields:
+              - name: label
+                label: Label
+                widget: string
+              - name: url
+                label: Url
+                widget: string
+                required: false
+              - name: icon
+                label: Icon
+                widget: select
+                options: *ref_0
+            label_singular: item
+            summary: '{{fields.title}}'
+            collapsed: true
+            url: &ref_1
+              required: false
+            items: &ref_2
+              label_singular: link
+          - name: userMenu
+            label: User Menu
+            widget: list
+            fields:
+              - name: label
+                label: Label
+                widget: string
+              - name: url
+                label: Url
+                widget: string
+                required: false
+              - name: icon
+                label: Icon
+                widget: select
+                options: *ref_0
+            label_singular: item
+            summary: '{{fields.title}}'
+            collapsed: true
+            url: *ref_1
+            items: *ref_2
+          - name: bonusesMenu
+            label: Bonuses Menu
+            widget: list
+            fields:
+              - name: label
+                label: Label
+                widget: string
+              - name: icon
+                label: Icon
+                widget: select
+                options: *ref_0
+              - name: items
+                label: Items
+                widget: list
+                fields:
+                  - name: label
+                    label: Label
+                    widget: string
+                  - name: url
+                    label: Url
+                    widget: string
+                label_singular: link
+                summary: '{{fields.title}}'
+            label_singular: item
+            summary: '{{fields.title}}'
+            collapsed: true
+            url: *ref_1
+            items: *ref_2
+          - name: ctaMenu
+            label: Cta Menu
+            widget: object
+            fields:
+              - name: isShow
+                label: Show Content
+                widget: boolean
+                default: false
+              - name: items
+                label: Cta List
+                widget: list
+                fields:
+                  - name: url
+                    label: Url
+                    widget: string
+                  - name: title
+                    label: Title
+                    widget: string
+                  - name: subTitle
+                    label: Sub Title
+                    widget: string
+                  - name: image
+                    label: Image
+                    widget: image
+                    hint: Recomended image size is 48x48 or 2x
+                label_singular: card
+                summary: '{{fields.title}}'
+                image:
+                  hint: Recomended image size is 48x48 or 2x
+          - name: topMenu
+            label: Top Menu
+            widget: object
+            fields:
+              - name: integratedElement
+                label: Integrated Element
+                widget: object
+                fields:
+                  - name: isShow
+                    label: Show Content
+                    widget: boolean
+                  - name: order
+                    label: Element Order In Menu
+                    widget: number
+                  - name: backgroundImage
+                    label: Background Image
+                    widget: image
+                    hint: Recommended image size is 208x40 or 2x
+                  - name: url
+                    label: Url
+                    widget: string
+                  - name: label
+                    label: Label
+                    widget: string
+              - name: items
+                label: Items
+                widget: list
+                fields:
+                  - name: label
+                    label: Label
+                    widget: string
+                  - name: url
+                    label: Url
+                    widget: string
+                  - name: icon
+                    label: Icon
+                    widget: select
+                    options: *ref_0
+                label_singular: item
+                summary: '{{fields.title}}'
+                gameList:
+                  label_singular: game identity
+                  summary: '{{fields.gameIdentity}}'
+          - name: sidebarFooterMenu
+            label: Sidebar Footer Menu
+            widget: list
+            fields:
+              - name: label
+                label: Label
+                widget: string
+              - name: url
+                label: Url
+                widget: string
+            label_singular: link
+            summary: '{{fields.title}}'
+            collapsed: true
+          - name: tokenMenu
+            label: Token Menu
+            widget: list
+            fields:
+              - name: label
+                label: Label
+                widget: string
+              - name: url
+                label: Url
+                widget: string
+                required: false
+              - name: icon
+                label: Icon
+                widget: select
+                options: *ref_0
+            label_singular: item
+            summary: '{{fields.title}}'
+            collapsed: true
+            url: *ref_1
+            items: *ref_2
+          - name: gamesToggler
+            label: Games Toggler
+            widget: object
+            fields:
+              - name: buttonFirst
+                label: Button First
+                widget: object
+                fields:
+                  - name: label
+                    label: Label
+                    widget: string
+                  - name: url
+                    label: Url
+                    widget: string
+                  - name: icon
+                    label: Icon
+                    widget: select
+                    options: *ref_0
+              - name: buttonSecond
+                label: Button Second
+                widget: object
+                fields:
+                  - name: label
+                    label: Label
+                    widget: string
+                  - name: url
+                    label: Url
+                    widget: string
+                  - name: icon
+                    label: Icon
+                    widget: select
+                    options: *ref_0
+          - name: chatLabel
+            label: Chat Label
+            widget: string
+  - name: modals
+    label: Modals
+    extension: json
+    format: json
+    editor:
+      preview: false
+    files:
+      - label: Add Cash Limit
+        name: addCashLimit
+        file: content/modals/add-cash-limit.json
+        fields:
+          - name: chooseCurrencyError
+            label: Choose Currency Error
+            widget: string
+          - name: addBetLabel
+            label: Add Bet Label
+            widget: string
+          - name: hint
+            label: Hint
+            widget: string
+          - name: chooseCurrencyLabel
+            label: Choose Currency Label
+            widget: string
+          - name: addLossLabel
+            label: Add Loss Label
+            widget: string
+          - name: addButton
+            label: Add Button
+            widget: string
+          - name: label
+            label: Label
+            widget: string
+          - name: addDepositLabel
+            label: Add Deposit Label
+            widget: string
+          - name: successConfirmLabel
+            label: Success Confirm Label
+            widget: string
+      - label: Balance In Fiat
+        name: balanceInFiat
+        file: content/modals/balance-in-fiat.json
+        fields:
+          - name: title
+            label: Title
+            widget: string
+          - name: description
+            label: Description
+            widget: string
+          - name: balance
+            label: Balance
+            widget: string
+      - label: Cancel Bonus
+        name: cancelBonus
+        file: content/modals/cancel-bonus.json
+        fields:
+          - name: title
+            label: Title
+            widget: string
+          - name: activeBonusDescription
+            label: Active Bonus Description
+            widget: string
+          - name: issuedBonusDescription
+            label: Issued Bonus Description
+            widget: string
+          - name: confirmButton
+            label: Confirm Button
+            widget: string
+          - name: cancelButton
+            label: Cancel Button
+            widget: string
+      - label: Cancel Deposit
+        name: cancelDeposit
+        file: content/modals/cancel-deposit.json
+        fields:
+          - name: title
+            label: Title
+            widget: string
+          - name: content
+            label: Content
+            widget: markdown
+          - name: primaryButton
+            label: Primary Button
+            widget: string
+          - name: secondaryButton
+            label: Secondary Button
+            widget: string
+          - name: confirm
+            label: Confirm
+            widget: string
+      - label: Cancel Registration
+        name: cancelRegistration
+        file: content/modals/cancel-registration.json
+        fields:
+          - name: title
+            label: Title
+            widget: string
+          - name: bonusImage
+            label: Bonus Image
+            widget: image
+          - name: bonusText
+            label: Bonus Text
+            widget: string
+            hint: Put text inside "*" to highlight it
+          - name: backButton
+            label: Back Button
+            widget: string
+          - name: closeButton
+            label: Close Button
+            widget: string
+      - label: Change Active Bonus
+        name: changeActiveBonus
+        file: content/modals/change-active-bonus.json
+        fields:
+          - name: title
+            label: Title
+            widget: string
+          - name: description
+            label: Description
+            widget: string
+          - name: confirmButton
+            label: Confirm Button
+            widget: string
+          - name: cancelButton
+            label: Cancel Button
+            widget: string
+      - label: Delete Cash Limit
+        name: deleteCashLimit
+        file: content/modals/delete-cash-limit.json
+        fields:
+          - name: title
+            label: Title
+            widget: string
+          - name: description
+            label: Description
+            widget: string
+          - name: cancel
+            label: Cancel
+            widget: string
+          - name: apply
+            label: Apply
+            widget: string
+      - label: Deposit
+        name: deposit
+        file: content/modals/deposit.json
+        fields: []
+      - label: Edit Cash Limit
+        name: editCashLimit
+        file: content/modals/edit-cash-limit.json
+        fields:
+          - name: greaterAmountTitle
+            label: Greater Amount Title
+            widget: string
+          - name: lessAmountTitle
+            label: Less Amount Title
+            widget: string
+          - name: hint
+            label: Hint
+            widget: string
+          - name: popupLabel
+            label: Popup Label
+            widget: object
+            fields:
+              - name: editWeekly_1
+                label: Edit Weekly_1
+                widget: string
+              - name: editWeekly_2
+                label: Edit Weekly_2
+                widget: string
+              - name: editMonthly_1
+                label: Edit Monthly_1
+                widget: string
+              - name: editWeekly_3
+                label: Edit Weekly_3
+                widget: string
+              - name: editMonthly_2
+                label: Edit Monthly_2
+                widget: string
+              - name: editMonthly_3
+                label: Edit Monthly_3
+                widget: string
+              - name: editDaily_1
+                label: Edit Daily_1
+                widget: string
+              - name: editDaily_2
+                label: Edit Daily_2
+                widget: string
+              - name: editDaily_3
+                label: Edit Daily_3
+                widget: string
+          - name: greaterAmountDescription
+            label: Greater Amount Description
+            widget: string
+          - name: label
+            label: Label
+            widget: string
+          - name: placeholder
+            label: Placeholder
+            widget: string
+          - name: actions
+            label: Actions
+            widget: object
+            fields:
+              - name: updateButtonLabel
+                label: Update Button Label
+                widget: string
+              - name: deleteButtonLabel
+                label: Delete Button Label
+                widget: string
+              - name: cancelButtonLabel
+                label: Cancel Button Label
+                widget: string
+      - label: Error
+        name: error
+        file: content/modals/error.json
+        fields:
+          - name: title
+            label: Title
+            widget: string
+          - name: description
+            label: Description
+            widget: markdown
+          - name: button
+            label: Button
+            widget: string
+      - label: Forgot
+        name: forgot
+        file: content/modals/forgot.json
+        fields:
+          - name: title
+            label: Title
+            widget: string
+          - name: description
+            label: Description
+            widget: string
+            required: false
+          - name: forgotButton
+            label: Forgot Button
+            widget: string
+          - name: registrationButton
+            label: Registration Button
+            widget: string
+            hint: Put text inside "*" to highlight it
+      - label: Game Limit Reached
+        name: gameLimitReached
+        file: content/modals/game-limit-reached.json
+        fields:
+          - name: label
+            label: Label
+            widget: string
+          - name: description
+            label: Description
+            widget: string
+      - label: Login
+        name: login
+        file: content/modals/login.json
+        fields:
+          - name: title
+            label: Title
+            widget: string
+          - name: loginButton
+            label: Login Button
+            widget: string
+          - name: forgotButton
+            label: Forgot Button
+            widget: string
+            hint: Put text inside "*" to highlight it
+          - name: registrationButton
+            label: Registration Button
+            widget: string
+            hint: Put text inside "*" to highlight it
+      - label: Mobile Game
+        name: mobileGame
+        file: content/modals/mobile-game.json
+        fields:
+          - name: deposit
+            label: Deposit
+            widget: string
+          - name: demo
+            label: Demo
+            widget: string
+          - name: registration
+            label: Registration
+            widget: string
+          - name: login
+            label: Login
+            widget: string
+          - name: onlyReal
+            label: Only Real
+            widget: string
+      - label: Profile Confirmed
+        name: profileConfirmed
+        file: content/modals/profile-confirmed.json
+        fields:
+          - name: title
+            label: Title
+            widget: string
+          - name: button
+            label: Button
+            widget: string
+      - label: Registration
+        name: registration
+        file: content/modals/registration.json
+        fields:
+          - name: title
+            label: Title
+            widget: string
+          - name: registrationButton
+            label: Registration Button
+            widget: string
+          - name: loginButton
+            label: Login Button
+            widget: string
+            hint: Put text inside "*" to highlight it
+          - name: promo
+            label: Promo
+            widget: object
+            fields:
+              - name: title
+                label: Title
+                widget: string
+              - name: secondTitle
+                label: Second Title
+                widget: string
+              - name: additionalTitle
+                label: Additional Title
+                widget: string
+              - name: advantages
+                label: Advantages
+                widget: list
+                fields:
+                  - name: icon
+                    label: Icon
+                    widget: select
+                    options: *ref_0
+                  - name: label
+                    label: Label
+                    widget: string
+                label_singular: item
+                summary: '{{fields.label}}'
+              - name: displayAdvantages
+                label: Show Content
+                widget: boolean
+              - name: images
+                label: Images
+                widget: object
+                fields:
+                  - name: mobile
+                    label: Mobile
+                    widget: object
+                    fields:
+                      - name: backgroundImage
+                        label: Background Image
+                        widget: image
+                  - name: desktop
+                    label: Desktop
+                    widget: object
+                    fields:
+                      - name: backgroundImage
+                        label: Background Image
+                        widget: image
+          - name: agreeEmailLabel
+            label: Agree Email Label
+            widget: string
+          - name: agreeSmsLabel
+            label: Agree Sms Label
+            widget: string
+      - label: Reset
+        name: reset
+        file: content/modals/reset.json
+        fields:
+          - name: title
+            label: Title
+            widget: string
+          - name: resetButton
+            label: Reset Button
+            widget: string
+      - label: Self Exclusion Confirm
+        name: selfExclusionConfirm
+        file: content/modals/self-exclusion-confirm.json
+        fields:
+          - name: updateTitle
+            label: Update Title
+            widget: string
+          - name: updateDescription
+            label: Update Description
+            widget: string
+          - name: okButtonLabel
+            label: Ok Button Label
+            widget: string
+          - name: cancelButtonLabel
+            label: Cancel Button Label
+            widget: string
+      - label: Success
+        name: success
+        file: content/modals/success.json
+        fields:
+          - name: title
+            label: Title
+            widget: string
+          - name: description
+            label: Description
+            widget: markdown
+          - name: button
+            label: Button
+            widget: string
+      - label: Wallet Bonus Details
+        name: walletBonusDetails
+        file: content/modals/wallet-bonus-details.json
+        fields:
+          - name: title
+            label: Title
+            widget: string
+          - name: titleImage
+            label: Title Image
+            widget: image
+          - name: readMore
+            label: Read More
+            widget: string
+          - name: infoLabels
+            label: Info Labels
+            widget: object
+            fields:
+              - name: from
+                label: From
+                widget: string
+              - name: to
+                label: To
+                widget: string
+              - name: excluded
+                label: Excluded
+                widget: string
+              - name: depositAmount
+                label: Deposit Amount
+                widget: string
+              - name: bonusType
+                label: Bonus Type
+                widget: string
+              - name: freeSpins
+                label: Free Spins
+                widget: string
+              - name: casinoWager
+                label: Casino Wager
+                widget: string
+              - name: sportsbookWager
+                label: Sportsbook Wager
+                widget: string
+              - name: maxWin
+                label: Max Win
+                widget: string
+              - name: casinoBetSum
+                label: Casino Bet Sum
+                widget: string
+              - name: sportsbookBetSum
+                label: Sportsbook Bet Sum
+                widget: string
+              - name: providers
+                label: Providers
+                widget: string
+              - name: games
+                label: Games
+                widget: string
+      - label: Wallet
+        name: wallet
+        file: content/modals/wallet.json
+        fields:
+          - name: balanceLabel
+            label: Balance Label
+            widget: string
+          - name: methodMin
+            label: Method Min
+            widget: string
+          - name: paymentMethods
+            label: Payment Methods
+            widget: object
+            fields:
+              - name: visa
+                label: Visa
+                widget: string
+              - name: crypto
+                label: Crypto
+                widget: string
+              - name: cashAgent
+                label: Cash Agent
+                widget: string
+              - name: changelly
+                label: Changelly
+                widget: string
+              - name: bilblend
+                label: Bilblend
+                widget: string
+          - name: percentageMax
+            label: Percentage Max
+            widget: string
+          - name: notAvailableText
+            label: Not Available Text
+            widget: string
+          - name: deposit
+            label: Deposit
+            widget: object
+            fields:
+              - name: title
+                label: Title
+                widget: string
+              - name: sumLabel
+                label: Sum Label
+                widget: string
+              - name: minSum
+                label: Min Sum
+                widget: string
+              - name: addressTitle
+                label: Address Title
+                widget: string
+              - name: addressInputLabel
+                label: Address Input Label
+                widget: string
+              - name: addressDescription
+                label: Address Description
+                widget: string
+              - name: bonuses
+                label: Bonuses
+                widget: object
+                fields:
+                  - name: title
+                    label: Title
+                    widget: string
+                  - name: infoDescription
+                    label: Info Description
+                    widget: string
+                  - name: minDeposit
+                    label: Min Deposit
+                    widget: string
+                  - name: deposit
+                    label: Deposit
+                    widget: string
+                  - name: maxDeposit
+                    label: Max Deposit
+                    widget: string
+                  - name: moreInfo
+                    label: More Info
+                    widget: string
+              - name: togglerLabel
+                label: Toggler Label
+                widget: string
+              - name: addBonusCode
+                label: Add Bonus Code
+                widget: string
+              - name: cancelBonusCode
+                label: Cancel Bonus Code
+                widget: string
+              - name: depositButton
+                label: Deposit Button
+                widget: string
+              - name: cashAgent
+                label: Cash Agent
+                widget: object
+                fields:
+                  - name: title
+                    label: Title
+                    widget: string
+                  - name: description
+                    label: Description
+                    widget: string
+                  - name: copyIdLabel
+                    label: Copy Id Label
+                    widget: string
+                  - name: copyIdBtn
+                    label: Copy Id Btn
+                    widget: string
+              - name: limit
+                label: Limit
+                widget: object
+                fields:
+                  - name: title
+                    label: Title
+                    widget: string
+                  - name: description
+                    label: Description
+                    widget: string
+                  - name: moreInfo
+                    label: More Info
+                    widget: string
+              - name: copyAddress
+                label: Copy Address
+                widget: string
+          - name: withdraw
+            label: Withdraw
+            widget: object
+            fields:
+              - name: title
+                label: Title
+                widget: string
+              - name: withdrawLabel
+                label: Withdraw Label
+                widget: string
+              - name: sumLabel
+                label: Sum Label
+                widget: string
+              - name: minSum
+                label: Min Sum
+                widget: string
+              - name: withdrawButton
+                label: Withdraw Button
+                widget: string
+              - name: cashAgent
+                label: Cash Agent
+                widget: object
+                fields:
+                  - name: title
+                    label: Title
+                    widget: string
+                  - name: copyIdLabel
+                    label: Copy Id Label
+                    widget: string
+                  - name: copyIdBtn
+                    label: Copy Id Btn
+                    widget: string
+                  - name: secretCodeLabel
+                    label: Secret Code Label
+                    widget: string
+                  - name: secretCodeBtn
+                    label: Secret Code Btn
+                    widget: string
+          - name: walletConnect
+            label: Wallet Connect
+            widget: object
+            fields:
+              - name: title
+                label: Title
+                widget: string
+              - name: label
+                label: Label
+                widget: string
+              - name: connected
+                label: Connected
+                widget: string
+              - name: amount
+                label: Amount
+                widget: string
+              - name: balance
+                label: Balance
+                widget: string
+              - name: pay
+                label: Pay
+                widget: string
+          - name: buttonBonusLabel
+            label: Button Bonus Label
+            widget: string
+          - name: closeBtn
+            label: Close Btn
+            widget: string
+          - name: tabs
+            label: Tabs
+            widget: object
+            fields:
+              - name: deposit
+                label: Deposit
+                widget: string
+              - name: withdraw
+                label: Withdraw
+                widget: string
+          - name: noPaymentMethods
+            label: No Payment Methods
+            widget: string
+          - name: tryAnotherRegion
+            label: Try Another Region
+            widget: string
+          - name: countryAutomatic
+            label: Country Automatic
+            widget: string
+          - name: selectCurrency
+            label: Select Currency
+            widget: string
+          - name: youWillGet
+            label: You Will Get
+            widget: string
+          - name: fee
+            label: Fee
+            widget: string
+  - name: pages
+    label: Pages
+    extension: json
+    format: json
+    editor:
+      preview: false
+    files:
+      - label: Casino
+        name: casino
+        file: content/pages/casino.json
+        fields:
+          - name: slider
+            label: Slider
+            widget: list
+            fields:
+              - name: title
+                label: Title
+                widget: markdown
+              - name: content
+                label: Content
+                widget: markdown
+              - name: button
+                label: Button
+                widget: object
+                fields:
+                  - name: label
+                    label: Label
+                    widget: string
+                  - name: url
+                    label: Url
+                    widget: string
+              - name: images
+                label: Images
+                widget: object
+                fields:
+                  - name: mobile
+                    label: Mobile
+                    widget: object
+                    fields:
+                      - name: backgroundImage
+                        label: Background Image
+                        widget: image
+                      - name: faceImage
+                        label: Face Image
+                        widget: image
+                  - name: desktop
+                    label: Desktop
+                    widget: object
+                    fields:
+                      - name: backgroundImage
+                        label: Background Image
+                        widget: image
+                      - name: faceImage
+                        label: Face Image
+                        widget: image
+              - name: showFrom
+                label: Show From
+                widget: string
+              - name: showTo
+                label: Show To
+                widget: string
+            label_singular: slide
+            summary: '{{fields.title}}'
+            collapsed: true
+            title:
+              widget: markdown
+            content:
+              widget: markdown
+          - name: seo
+            label: Seo
+            widget: object
+            fields:
+              - name: title
+                label: Title
+                widget: string
+              - name: description
+                label: Description
+                widget: string
+              - name: text
+                label: Text
+                widget: object
+                fields:
+                  - name: visible
+                    label: Visible
+                    widget: string
+                  - name: hidden
+                    label: Hidden
+                    widget: string
+                  - name: button
+                    label: Button
+                    widget: string
+            seo: *ref_3
+      - label: Contacts
+        name: contacts
+        file: content/pages/contacts.json
+        fields:
+          - name: image
+            label: Image
+            widget: image
+          - name: title
+            label: Title
+            widget: string
+          - name: description
+            label: Description
+            widget: string
+          - name: buttonLabel
+            label: Button Label
+            widget: string
+          - name: seo
+            label: Seo
+            widget: object
+            fields:
+              - name: text
+                label: Text
+                widget: object
+                fields:
+                  - name: visible
+                    label: Visible
+                    widget: string
+              - name: title
+                label: Title
+                widget: string
+            seo: *ref_3
+      - label: Favorites
+        name: favorites
+        file: content/pages/favorites.json
+        fields:
+          - name: title
+            label: Title
+            widget: string
+          - name: empty
+            label: Empty
+            widget: object
+            fields:
+              - name: image
+                label: Image
+                widget: image
+              - name: title
+                label: Title
+                widget: string
+              - name: description
+                label: Description
+                widget: string
+          - name: seo
+            label: Seo
+            widget: object
+            fields:
+              - name: text
+                label: Text
+                widget: object
+                fields:
+                  - name: visible
+                    label: Visible
+                    widget: string
+                  - name: hidden
+                    label: Hidden
+                    widget: string
+                  - name: button
+                    label: Button
+                    widget: string
+              - name: title
+                label: Title
+                widget: string
+            seo: *ref_3
+      - label: Game
+        name: game
+        file: content/pages/game.json
+        fields:
+          - name: demoLabel
+            label: Demo Label
+            widget: string
+          - name: demoButton
+            label: Demo Button
+            widget: string
+          - name: demoModal
+            label: Demo Modal
+            widget: object
+            fields:
+              - name: label
+                label: Label
+                widget: string
+              - name: description
+                label: Description
+                widget: string
+              - name: demo
+                label: Demo
+                widget: string
+              - name: real
+                label: Real
+                widget: string
+              - name: deposit
+                label: Deposit
+                widget: string
+              - name: registration
+                label: Registration
+                widget: string
+          - name: seo
+            label: Seo
+            widget: object
+            fields:
+              - name: text
+                label: Text
+                widget: object
+                fields:
+                  - name: visible
+                    label: Visible
+                    widget: string
+              - name: title
+                label: Title
+                widget: string
+            seo: *ref_3
+          - name: plug
+            label: Plug
+            widget: object
+            fields:
+              - name: title
+                label: Title
+                widget: string
+              - name: image
+                label: Image
+                widget: image
+              - name: description
+                label: Description
+                widget: string
+      - label: Games
+        name: games
+        file: content/pages/games.json
+        fields:
+          - name: empty
+            label: Empty
+            widget: object
+            fields:
+              - name: image
+                label: Image
+                widget: image
+              - name: title
+                label: Title
+                widget: string
+              - name: description
+                label: Description
+                widget: string
+          - name: buttons
+            label: Buttons
+            widget: object
+            fields:
+              - name: cancel
+                label: Cancel
+                widget: string
+              - name: apply
+                label: Apply
+                widget: string
+              - name: reset
+                label: Reset
+                widget: string
+              - name: close
+                label: Close
+                widget: string
+              - name: back
+                label: Back
+                widget: string
+          - name: providersLabel
+            label: Providers Label
+            widget: string
+          - name: filterTitle
+            label: Filter Title
+            widget: string
+          - name: allProvidersOption
+            label: All Providers Option
+            widget: string
+          - name: clearProviders
+            label: Clear Providers
+            widget: string
+          - name: searchPlaceholder
+            label: Search Placeholder
+            widget: string
+          - name: providerPlaceholder
+            label: Provider Placeholder
+            widget: string
+          - name: sortLabel
+            label: Sort Label
+            widget: string
+          - name: seo
+            label: Seo
+            widget: object
+            fields:
+              - name: text
+                label: Text
+                widget: object
+                fields:
+                  - name: visible
+                    label: Visible
+                    widget: string
+              - name: title
+                label: Title
+                widget: string
+            seo: *ref_3
+          - name: sortOptions
+            label: Sort Options
+            widget: list
+            fields:
+              - name: label
+                label: Label
+                widget: string
+              - name: sortBy
+                label: Sort By
+                widget: string
+              - name: sortOrder
+                label: Sort Order
+                widget: string
+            label_singular: card
+            summary: '{{fields.title}}'
+      - label: Home
+        name: home
+        file: content/pages/home.json
+        fields:
+          - name: banner
+            label: Banner
+            widget: object
+            fields:
+              - name: images
+                label: Images
+                widget: object
+                fields:
+                  - name: backgroundImage
+                    label: Background Image
+                    widget: image
+                    allow_multiple: false
+                  - name: faceImage
+                    label: Face Image
+                    widget: image
+                    allow_multiple: false
+              - name: title
+                label: Title
+                widget: markdown
+              - name: button
+                label: Button
+                widget: object
+                fields:
+                  - name: label
+                    label: Label
+                    widget: string
+                  - name: icon
+                    label: Icon
+                    widget: select
+                    options: *ref_0
+          - name: categories
+            label: Categories
+            widget: object
+            fields:
+              - name: casino
+                label: Casino
+                widget: object
+                fields:
+                  - name: image
+                    label: Image
+                    widget: image
+                  - name: title
+                    label: Title
+                    widget: string
+                  - name: description
+                    label: Description
+                    widget: string
+                  - name: button
+                    label: Button
+                    widget: object
+                    fields:
+                      - name: label
+                        label: Label
+                        widget: string
+                      - name: url
+                        label: Url
+                        widget: string
+              - name: betting
+                label: Betting
+                widget: object
+                fields:
+                  - name: image
+                    label: Image
+                    widget: image
+                  - name: title
+                    label: Title
+                    widget: string
+                  - name: description
+                    label: Description
+                    widget: string
+                  - name: button
+                    label: Button
+                    widget: object
+                    fields:
+                      - name: label
+                        label: Label
+                        widget: string
+                      - name: url
+                        label: Url
+                        widget: string
+              - name: esports
+                label: Esports
+                widget: object
+                fields:
+                  - name: button
+                    label: Button
+                    widget: object
+                    fields:
+                      - name: label
+                        label: Label
+                        widget: string
+                      - name: url
+                        label: Url
+                        widget: string
+                  - name: title
+                    label: Title
+                    widget: string
+                  - name: description
+                    label: Description
+                    widget: string
+                  - name: image
+                    label: Image
+                    widget: image
+          - name: aeroGroup
+            label: Aero Group
+            widget: object
+            fields:
+              - name: images
+                label: Images
+                widget: object
+                fields:
+                  - name: mobile
+                    label: Mobile
+                    widget: object
+                    fields:
+                      - name: backgroundImage
+                        label: Background Image
+                        widget: image
+                  - name: desktop
+                    label: Desktop
+                    widget: object
+                    fields:
+                      - name: backgroundImage
+                        label: Background Image
+                        widget: image
+              - name: game
+                label: Game
+                widget: object
+                fields:
+                  - name: identity
+                    label: Identity
+                    widget: string
+                  - name: image
+                    label: Image
+                    widget: image
+                  - name: playButtonLabel
+                    label: Play Button Label
+                    widget: string
+                  - name: demoButtonLabel
+                    label: Demo Button Label
+                    widget: string
+              - name: collectionIdentity
+                label: Collection Identity
+                widget: string
+              - name: label
+                label: Label
+                widget: string
+              - name: display
+                label: Show Content
+                widget: boolean
+          - name: seo
+            label: Seo
+            widget: object
+            fields:
+              - name: title
+                label: Title
+                widget: string
+              - name: description
+                label: Description
+                widget: string
+              - name: text
+                label: Text
+                widget: object
+                fields:
+                  - name: visible
+                    label: Visible
+                    widget: string
+                  - name: hidden
+                    label: Hidden
+                    widget: string
+                  - name: button
+                    label: Button
+                    widget: string
+            seo: *ref_3
+      - label: Providers
+        name: providers
+        file: content/pages/providers.json
+        fields:
+          - name: title
+            label: Title
+            widget: string
+          - name: providersLabel
+            label: Providers Label
+            widget: string
+          - name: gamesLabel
+            label: Games Label
+            widget: string
+          - name: defaultProviderLogo
+            label: Default Provider Logo
+            widget: string
+          - name: staticProvider
+            label: Static Provider
+            widget: object
+            fields:
+              - name: identity
+                label: Identity
+                widget: string
+              - name: bgImage
+                label: Bg Image
+                widget: image
+              - name: button
+                label: Button
+                widget: string
+          - name: searchPlaceholder
+            label: Search Placeholder
+            widget: string
+          - name: empty
+            label: Empty
+            widget: object
+            fields:
+              - name: image
+                label: Image
+                widget: image
+              - name: title
+                label: Title
+                widget: string
+              - name: description
+                label: Description
+                widget: string
+          - name: sortLabel
+            label: Sort Label
+            widget: string
+          - name: sortOptions
+            label: Sort Options
+            widget: list
+            fields:
+              - name: label
+                label: Label
+                widget: string
+              - name: sortBy
+                label: Sort By
+                widget: string
+              - name: sortOrder
+                label: Sort Order
+                widget: string
+            label_singular: card
+            summary: '{{fields.title}}'
+          - name: seo
+            label: Seo
+            widget: object
+            fields:
+              - name: title
+                label: Title
+                widget: string
+            seo: *ref_3
+      - label: Question
+        name: question
+        file: content/pages/question.json
+        fields:
+          - name: title
+            label: Title
+            widget: string
+          - name: seo
+            label: Seo
+            widget: object
+            fields:
+              - name: text
+                label: Text
+                widget: object
+                fields:
+                  - name: visible
+                    label: Visible
+                    widget: string
+                  - name: button
+                    label: Button
+                    widget: string
+                  - name: hidden
+                    label: Hidden
+                    widget: string
+              - name: title
+                label: Title
+                widget: string
+            seo: *ref_3
+      - label: Recently
+        name: recently
+        file: content/pages/recently.json
+        fields:
+          - name: title
+            label: Title
+            widget: string
+          - name: empty
+            label: Empty
+            widget: object
+            fields:
+              - name: image
+                label: Image
+                widget: image
+              - name: title
+                label: Title
+                widget: string
+              - name: description
+                label: Description
+                widget: string
+          - name: seo
+            label: Seo
+            widget: object
+            fields:
+              - name: text
+                label: Text
+                widget: object
+                fields:
+                  - name: visible
+                    label: Visible
+                    widget: string
+              - name: title
+                label: Title
+                widget: string
+            seo: *ref_3
+      - label: Referrals
+        name: referrals
+        file: content/pages/referrals.json
+        fields:
+          - name: received
+            label: Received
+            widget: string
+          - name: yourReferrals
+            label: Your Referrals
+            widget: string
+          - name: yourReferralLink
+            label: Your Referral Link
+            widget: string
+          - name: referralDetail
+            label: Referral Detail
+            widget: string
+          - name: levels
+            label: Levels
+            widget: list
+            fields:
+              - name: level
+                label: Level
+                widget: string
+            label_singular: card
+            summary: '{{fields.title}}'
+          - name: people
+            label: People
+            widget: string
+          - name: playerCard
+            label: Player Card
+            widget: object
+            fields:
+              - name: player
+                label: Player
+                widget: string
+              - name: brought
+                label: Brought
+                widget: string
+              - name: dateRegistered
+                label: Date Registered
+                widget: string
+              - name: referrals
+                label: Referrals
+                widget: string
+              - name: ID
+                label: ' I D'
+                widget: string
+          - name: showConditions
+            label: Show Conditions
+            widget: string
+          - name: noReferrals
+            label: No Referrals
+            widget: string
+          - name: title
+            label: Title
+            widget: string
+          - name: noReferralsEmpty
+            label: No Referrals Empty
+            widget: object
+            fields:
+              - name: noReferralHeading
+                label: No Referral Heading
+                widget: string
+              - name: noReferralBody
+                label: No Referral Body
+                widget: string
+          - name: conditions
+            label: Conditions
+            widget: list
+            fields:
+              - name: condition
+                label: Condition
+                widget: string
+            label_singular: card
+            summary: '{{fields.title}}'
+          - name: referralTypes
+            label: Referral Types
+            widget: list
+            fields:
+              - name: referral
+                label: Referral
+                widget: string
+            label_singular: card
+            summary: '{{fields.title}}'
+          - name: headerCard
+            label: Header Card
+            widget: object
+            fields:
+              - name: headerCardHeading
+                label: Header Card Heading
+                widget: string
+              - name: headerCardBody
+                label: Header Card Body
+                widget: string
+              - name: headerCardImage
+                label: Header Card Image
+                widget: image
+          - name: yourReferralLevels
+            label: Your Referral Levels
+            widget: string
+      - label: Sportsbook
+        name: sportsbook
+        file: content/pages/sportsbook.json
+        fields:
+          - name: seo
+            label: Seo
+            widget: object
+            fields:
+              - name: text
+                label: Text
+                widget: object
+                fields:
+                  - name: visible
+                    label: Visible
+                    widget: string
+              - name: title
+                label: Title
+                widget: string
+            seo: *ref_3
+      - label: Support
+        name: support
+        file: content/pages/support.json
+        fields:
+          - name: title
+            label: Title
+            widget: string
+      - label: Token
+        name: token
+        file: content/pages/token.json
+        fields:
+          - name: seo
+            label: Seo
+            widget: object
+            fields:
+              - name: text
+                label: Text
+                widget: object
+                fields:
+                  - name: visible
+                    label: Visible
+                    widget: string
+              - name: title
+                label: Title
+                widget: string
+            seo: *ref_3
+      - label: Welcome Bonuses
+        name: welcomeBonuses
+        file: content/pages/welcome-bonuses.json
+        fields:
+          - name: title
+            label: Title
+            widget: string
+          - name: description
+            label: Description
+            widget: string
+          - name: howGet
+            label: How Get
+            widget: object
+            fields:
+              - name: label
+                label: Label
+                widget: string
+              - name: steps
+                label: Steps
+                widget: list
+                fields:
+                  - name: '0'
+                    label: M
+                    widget: string
+                  - name: '1'
+                    label: a
+                    widget: string
+                  - name: '2'
+                    label: k
+                    widget: string
+                  - name: '3'
+                    label: e
+                    widget: string
+                  - name: '4'
+                    label: ' '
+                    widget: string
+                  - name: '5'
+                    label: a
+                    widget: string
+                  - name: '6'
+                    label: ' '
+                    widget: string
+                  - name: '7'
+                    label: s
+                    widget: string
+                  - name: '8'
+                    label: u
+                    widget: string
+                  - name: '9'
+                    label: c
+                    widget: string
+                  - name: '10'
+                    label: c
+                    widget: string
+                  - name: '11'
+                    label: e
+                    widget: string
+                  - name: '12'
+                    label: s
+                    widget: string
+                  - name: '13'
+                    label: s
+                    widget: string
+                  - name: '14'
+                    label: f
+                    widget: string
+                  - name: '15'
+                    label: u
+                    widget: string
+                  - name: '16'
+                    label: l
+                    widget: string
+                  - name: '17'
+                    label: ' '
+                    widget: string
+                  - name: '18'
+                    label: d
+                    widget: string
+                  - name: '19'
+                    label: e
+                    widget: string
+                  - name: '20'
+                    label: p
+                    widget: string
+                  - name: '21'
+                    label: o
+                    widget: string
+                  - name: '22'
+                    label: s
+                    widget: string
+                  - name: '23'
+                    label: i
+                    widget: string
+                  - name: '24'
+                    label: t
+                    widget: string
+                  - name: '25'
+                    label: ' '
+                    widget: string
+                  - name: '26'
+                    label: f
+                    widget: string
+                  - name: '27'
+                    label: r
+                    widget: string
+                  - name: '28'
+                    label: o
+                    widget: string
+                  - name: '29'
+                    label: m
+                    widget: string
+                  - name: '30'
+                    label: ' '
+                    widget: string
+                  - name: '31'
+                    label: '2'
+                    widget: string
+                  - name: '32'
+                    label: '0'
+                    widget: string
+                  - name: '33'
+                    label: ' '
+                    widget: string
+                  - name: '34'
+                    label: E
+                    widget: string
+                  - name: '35'
+                    label: U
+                    widget: string
+                  - name: '36'
+                    label: R
+                    widget: string
+                label_singular: card
+                summary: '{{fields.title}}'
+              - name: image
+                label: Image
+                widget: image
+          - name: welcome
+            label: Welcome
+            widget: object
+            fields:
+              - name: label
+                label: Label
+                widget: string
+              - name: items
+                label: Items
+                widget: list
+                fields:
+                  - name: topLabel
+                    label: Top Label
+                    widget: string
+                  - name: image
+                    label: Image
+                    widget: image
+                  - name: title
+                    label: Title
+                    widget: string
+                  - name: buttonLabel
+                    label: Button Label
+                    widget: string
+                  - name: link
+                    label: Link
+                    widget: object
+                    fields:
+                      - name: label
+                        label: Label
+                        widget: string
+                      - name: url
+                        label: Url
+                        widget: string
+                label_singular: card
+                summary: '{{fields.title}}'
+          - name: bonuses
+            label: Bonuses
+            widget: object
+            fields:
+              - name: label
+                label: Label
+                widget: string
+              - name: items
+                label: Items
+                widget: list
+                fields:
+                  - name: title
+                    label: Title
+                    widget: string
+                  - name: subtitle
+                    label: Subtitle
+                    widget: string
+                  - name: image
+                    label: Image
+                    widget: image
+                  - name: buttonLabel
+                    label: Button Label
+                    widget: string
+                  - name: link
+                    label: Link
+                    widget: object
+                    fields:
+                      - name: label
+                        label: Label
+                        widget: string
+                      - name: url
+                        label: Url
+                        widget: string
+                label_singular: card
+                summary: '{{fields.title}}'
+          - name: seo
+            label: Seo
+            widget: object
+            fields:
+              - name: text
+                label: Text
+                widget: object
+                fields:
+                  - name: visible
+                    label: Visible
+                    widget: string
+              - name: title
+                label: Title
+                widget: string
+            seo: *ref_3
+          - name: IPageMeta
+            label: ' I Page Meta'
+            widget: object
+            fields:
+              - name: title
+                label: Title
+                widget: string
+  - name: profile
+    label: Profile
+    extension: json
+    format: json
+    editor:
+      preview: false
+    files:
+      - label: Account
+        name: account
+        file: content/profile/account.json
+        fields:
+          - name: connectionsTitle
+            label: Connections Title
+            widget: string
+      - label: Bonuses
+        name: bonuses
+        file: content/profile/bonuses.json
+        fields:
+          - name: title
+            label: Title
+            widget: string
+          - name: historyLink
+            label: History Link
+            widget: string
+          - name: bonusCode
+            label: Bonus Code
+            widget: object
+            fields:
+              - name: title
+                label: Title
+                widget: string
+              - name: timerText
+                label: Timer Text
+                widget: string
+              - name: buttonLabel
+                label: Button Label
+                widget: string
+              - name: buttonCancel
+                label: Button Cancel
+                widget: string
+              - name: tryError
+                label: Try Error
+                widget: string
+          - name: cashBonuses
+            label: Cash Bonuses
+            widget: object
+            fields:
+              - name: title
+                label: Title
+                widget: string
+              - name: wagerHintLabel
+                label: Wager Hint Label
+                widget: string
+              - name: casinoWagerLabel
+                label: Casino Wager Label
+                widget: string
+              - name: sportsbookWagerLabel
+                label: Sportsbook Wager Label
+                widget: string
+              - name: waitingResult
+                label: Waiting Result
+                widget: string
+          - name: seo
+            label: Seo
+            widget: object
+            fields:
+              - name: title
+                label: Title
+                widget: string
+            seo: *ref_3
+          - name: freeSpins
+            label: Free Spins
+            widget: object
+            fields:
+              - name: title
+                label: Title
+                widget: string
+      - label: History
+        name: history
+        file: content/profile/history.json
+        fields:
+          - name: title
+            label: Title
+            widget: string
+          - name: seo
+            label: Seo
+            widget: object
+            fields:
+              - name: title
+                label: Title
+                widget: string
+            seo: *ref_3
+      - label: Info
+        name: info
+        file: content/profile/info.json
+        fields:
+          - name: verifyButton
+            label: Verify Button
+            widget: string
+          - name: verifiedLabel
+            label: Verified Label
+            widget: string
+          - name: cancelButton
+            label: Cancel Button
+            widget: string
+          - name: closeButton
+            label: Close Button
+            widget: string
+          - name: saveButton
+            label: Save Button
+            widget: string
+          - name: unverifiedLabel
+            label: Unverified Label
+            widget: string
+          - name: manageTitle
+            label: Manage Title
+            widget: string
+          - name: title
+            label: Title
+            widget: string
+          - name: sendButton
+            label: Send Button
+            widget: string
+          - name: subscriptionTitle
+            label: Subscription Title
+            widget: string
+          - name: editButton
+            label: Edit Button
+            widget: string
+          - name: emailPlaceholder
+            label: Email Placeholder
+            widget: string
+          - name: emailLabel
+            label: Email Label
+            widget: string
+          - name: languageLabel
+            label: Language Label
+            widget: string
+          - name: supportLabel
+            label: Support Label
+            widget: string
+          - name: supportbtnLabel
+            label: Supportbtn Label
+            widget: string
+          - name: menuTitle
+            label: Menu Title
+            widget: object
+            fields:
+              - name: favoriteGames
+                label: Favorite Games
+                widget: string
+              - name: recentlyPlayed
+                label: Recently Played
+                widget: string
+              - name: referrals
+                label: Referrals
+                widget: string
+              - name: bonuses
+                label: Bonuses
+                widget: string
+              - name: promocode
+                label: Promocode
+                widget: string
+              - name: settings
+                label: Settings
+                widget: string
+              - name: language
+                label: Language
+                widget: string
+              - name: onlineSupport
+                label: Online Support
+                widget: string
+          - name: seo
+            label: Seo
+            widget: object
+            fields:
+              - name: text
+                label: Text
+                widget: object
+                fields:
+                  - name: visible
+                    label: Visible
+                    widget: string
+                  - name: hidden
+                    label: Hidden
+                    widget: string
+                  - name: button
+                    label: Button
+                    widget: string
+              - name: title
+                label: Title
+                widget: string
+            seo: *ref_3
+      - label: Limits
+        name: limits
+        file: content/profile/limits.json
+        fields:
+          - name: setButtonLabel
+            label: Set Button Label
+            widget: string
+          - name: doneButtonLabel
+            label: Done Button Label
+            widget: string
+          - name: addButtonLabel
+            label: Add Button Label
+            widget: string
+          - name: cancelButtonLabel
+            label: Cancel Button Label
+            widget: string
+          - name: selfExclusion
+            label: Self Exclusion
+            widget: object
+            fields:
+              - name: label
+                label: Label
+                widget: string
+              - name: hint
+                label: Hint
+                widget: markdown
+              - name: chatLinkText
+                label: Chat Link Text
+                widget: string
+              - name: selectLabel
+                label: Select Label
+                widget: string
+          - name: loss
+            label: Loss
+            widget: object
+            fields:
+              - name: hint
+                label: Hint
+                widget: string
+              - name: label
+                label: Label
+                widget: string
+          - name: statusActiveTimerLabel
+            label: Status Active Timer Label
+            widget: string
+          - name: pendingStatusLabel
+            label: Pending Status Label
+            widget: string
+          - name: titleTooltip
+            label: Title Tooltip
+            widget: string
+          - name: bet
+            label: Bet
+            widget: object
+            fields:
+              - name: label
+                label: Label
+                widget: string
+              - name: hint
+                label: Hint
+                widget: string
+          - name: statusPendingTimerLabel
+            label: Status Pending Timer Label
+            widget: string
+          - name: coolingOff
+            label: Cooling Off
+            widget: object
+            fields:
+              - name: label
+                label: Label
+                widget: string
+              - name: hint
+                label: Hint
+                widget: string
+              - name: pendingStatusLabel
+                label: Pending Status Label
+                widget: string
+              - name: deleteConfirmTitle
+                label: Delete Confirm Title
+                widget: string
+              - name: deleteConfirmDescription
+                label: Delete Confirm Description
+                widget: string
+              - name: selectLabel
+                label: Select Label
+                widget: string
+              - name: activeStatusLabel
+                label: Active Status Label
+                widget: string
+          - name: modeToggle
+            label: Mode Toggle
+            widget: string
+          - name: title
+            label: Title
+            widget: string
+          - name: editButtonLabel
+            label: Edit Button Label
+            widget: string
+          - name: availableLimitSum
+            label: Available Limit Sum
+            widget: string
+          - name: activeStatusLabel
+            label: Active Status Label
+            widget: string
+          - name: deposit
+            label: Deposit
+            widget: object
+            fields:
+              - name: label
+                label: Label
+                widget: string
+              - name: hint
+                label: Hint
+                widget: string
+          - name: timerAlmostDoneLabel
+            label: Timer Almost Done Label
+            widget: string
+      - label: Security
+        name: security
+        file: content/profile/security.json
+        fields:
+          - name: title
+            label: Title
+            widget: string
+          - name: password
+            label: Password
+            widget: object
+            fields:
+              - name: label
+                label: Label
+                widget: string
+              - name: saveButton
+                label: Save Button
+                widget: string
+          - name: seo
+            label: Seo
+            widget: object
+            fields:
+              - name: title
+                label: Title
+                widget: string
+            seo: *ref_3
+          - name: documents
+            label: Documents
+            widget: object
+            fields:
+              - name: moreInfo
+                label: More Info
+                widget: string
+              - name: payment
+                label: Payment
+                widget: object
+                fields:
+                  - name: label
+                    label: Label
+                    widget: string
+                  - name: description
+                    label: Description
+                    widget: string
+                  - name: payment
+                    label: Payment
+                    widget: string
+              - name: uploadHint
+                label: Upload Hint
+                widget: string
+              - name: hideText
+                label: Hide Text
+                widget: string
+              - name: uploadPlaceholder
+                label: Upload Placeholder
+                widget: string
+              - name: uploadButton
+                label: Upload Button
+                widget: string
+              - name: address
+                label: Address
+                widget: object
+                fields:
+                  - name: label
+                    label: Label
+                    widget: string
+                  - name: description
+                    label: Description
+                    widget: string
+                  - name: address
+                    label: Address
+                    widget: string
+              - name: uploadMore
+                label: Upload More
+                widget: string
+              - name: identity
+                label: Identity
+                widget: object
+                fields:
+                  - name: label
+                    label: Label
+                    widget: string
+                  - name: description
+                    label: Description
+                    widget: string
+                  - name: identityFront
+                    label: Identity Front
+                    widget: string
+                  - name: identityBack
+                    label: Identity Back
+                    widget: string
+                  - name: identitySelfieId
+                    label: Identity Selfie Id
+                    widget: string
+      - label: Settings
+        name: settings
+        file: content/profile/settings.json
+        fields:
+          - name: title
+            label: Title
+            widget: string
+          - name: tabs
+            label: Tabs
+            widget: list
+            fields:
+              - name: title
+                label: Title
+                widget: string
+              - name: path
+                label: Path
+                widget: string
+            label_singular: card
+            summary: '{{fields.title}}'
+      - label: Tabs
+        name: tabs
+        file: content/profile/tabs.json
+        fields:
+          - name: profile
+            label: Profile
+            widget: list
+            fields:
+              - name: title
+                label: Title
+                widget: string
+              - name: path
+                label: Path
+                widget: string
+            label_singular: card
+            summary: '{{fields.title}}'
+          - name: wallet
+            label: Wallet
+            widget: list
+            fields:
+              - name: title
+                label: Title
+                widget: string
+              - name: path
+                label: Path
+                widget: string
+            label_singular: card
+            summary: '{{fields.title}}'
+      - label: Wallet
+        name: wallet
+        file: content/profile/wallet.json
+        fields:
+          - name: changeButton
+            label: Change Button
+            widget: string
+          - name: depositButton
+            label: Deposit Button
+            widget: string
+          - name: addButton
+            label: Add Button
+            widget: string
+          - name: hideButton
+            label: Hide Button
+            widget: string
+          - name: title
+            label: Title
+            widget: string
+          - name: totalBalance
+            label: Total Balance
+            widget: string
+          - name: hideZeroBalances
+            label: Hide Zero Balances
+            widget: string
+          - name: withdrawButton
+            label: Withdraw Button
+            widget: string
+          - name: zeroBalance
+            label: Zero Balance
+            widget: object
+            fields:
+              - name: imgPath
+                label: Img Path
+                widget: string
+              - name: title
+                label: Title
+                widget: string
+          - name: seo
+            label: Seo
+            widget: object
+            fields:
+              - name: text
+                label: Text
+                widget: object
+                fields:
+                  - name: visible
+                    label: Visible
+                    widget: string
+                  - name: hidden
+                    label: Hidden
+                    widget: string
+                  - name: button
+                    label: Button
+                    widget: string
+              - name: title
+                label: Title
+                widget: string
+            seo: *ref_3
+  - name: questionPages
+    label: Question Pages
+    create: true
+    slug: '{{fields.pageUrl}}'
+    summary: '{{fields.title}}'
+    extension: json
+    format: json
+    folder: content/question-pages
+    editor:
+      preview: false
+    fields:
+      - name: pageUrl
+        label: Page Url (setting)
+        widget: string
+      - name: title
+        label: Title
+        widget: string
+      - name: position
+        label: Position In Menu
+        widget: number
+        value_type: int
+        required: false
+      - name: questionList
+        label: Question List
+        widget: list
+        label_singular: question
+        collapsed: true
+        fields:
+          - name: question
+            label: Question
+            widget: string
+          - name: answer
+            label: Answer
+            widget: markdown
+      - name: icon
+        label: Icon
+        widget: select
+        options: *ref_0
+  - name: staticPages
+    label: Static Pages
+    create: true
+    slug: '{{fields.pageUrl}}'
+    summary: '{{fields.title}}'
+    extension: json
+    format: json
+    folder: content/static
+    editor:
+      preview: false
+    fields:
+      - name: pageUrl
+        label: Page Url (setting)
+        widget: string
+      - name: title
+        label: Page Title
+        widget: string
+      - name: content
+        label: Page Content
+        widget: markdown
+      - *ref_3
