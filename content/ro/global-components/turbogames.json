@@ -1,8 +1,0 @@
-{
-  "label": "Turbogames",
-  "showAll": {
-    "label": "Arată tot",
-    "url": "/games?category=turbogames"
-  },
-  "buttonLabel": "Joacă acum"
-}

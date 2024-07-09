@@ -1,8 +1,0 @@
-{
-  "title": "Algo deu errado",
-  "description": "A página que você está tentando acessar não existe ou foi movida. Tente voltar à nossa página inicial.",
-  "button": {
-    "label": "Página inicial",
-    "url": "/"
-  }
-}

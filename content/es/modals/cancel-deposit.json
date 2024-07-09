@@ -1,7 +1,0 @@
-{
-  "title": "¿Tiene problemas con el depósito?",
-  "content": "* Pruebe con una tarjeta cuyo número comience con \" 5 \"o\"6\"",
-  "primaryButton": "Pruebe con otra tarjeta",
-  "secondaryButton": "Cambiar el método de depósito",
-  "confirm": "Cancelar depósito"
-}

@@ -1,8 +1,0 @@
-{
-  "label": "Turbogames",
-  "showAll": {
-    "label": "Pokaż wszystkie",
-    "url": "/games?category=turbogames"
-  },
-  "buttonLabel": "Zagraj teraz"
-}

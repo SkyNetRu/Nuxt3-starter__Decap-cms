@@ -1,6 +1,0 @@
-{
-  "title": "Confirmar a atualização do bónus",
-  "description": "O estado do bónus atualmente ativo será alterado para Cancelado. Tem a certeza de que pretende ativar este bónus?",
-  "confirmButton": "Sim",
-  "cancelButton": "Não"
-}

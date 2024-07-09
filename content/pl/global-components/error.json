@@ -1,8 +1,0 @@
-{
-  "title": "Coś poszło nie tak",
-  "description": "Strona, do której próbujesz uzyskać dostęp, nie istnieje lub została przeniesiona. Spróbuj wrócić do naszej strony głównej.",
-  "button": {
-    "label": "Strona główna",
-    "url": "/"
-  }
-}

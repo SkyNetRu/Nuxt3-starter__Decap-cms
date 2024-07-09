@@ -1,8 +1,0 @@
-{
-  "label": "Turbogames",
-  "showAll": {
-    "label": "Εμφάνιση όλων",
-    "url": "/games?category=turbogames"
-  },
-  "buttonLabel": "Παίξτε τώρα"
-}

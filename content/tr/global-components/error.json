@@ -1,8 +1,0 @@
-{
-  "title": "Bir şeyler ters gitti",
-  "description": "Erişmeye çalıştığınız sayfa mevcut değil veya taşınmış. Ana sayfamıza geri dönmeyi deneyin.",
-  "button": {
-    "label": "Anasayfa",
-    "url": "/"
-  }
-}

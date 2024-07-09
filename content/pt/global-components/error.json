@@ -1,8 +1,0 @@
-{
-  "title": "Algo correu mal",
-  "description": "A página a que está a tentar aceder não existe ou foi movida. Tente voltar à nossa página inicial.",
-  "button": {
-    "label": "Página inicial",
-    "url": "/"
-  }
-}
