@@ -607,8 +607,8 @@ collections:
       - name: termsContent
         label: Terms Content
         widget: markdown
-      - &ref_3
-        seo:
+      - &ref_4
+        seo: &ref_3
           name: IPageMeta
           label: Page Seo
           widget: object
@@ -4825,4 +4825,4 @@ collections:
       - name: content
         label: Page Content
         widget: markdown
-      - *ref_3
+      - *ref_4
