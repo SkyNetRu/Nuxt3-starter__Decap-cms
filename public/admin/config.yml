@@ -2,7 +2,7 @@ backend:
   cms_label_prefix: cms/$LOCALE/
   repo: SkyNetRu/Nuxt3-starter__Decap-cm
   branch: main
-  name: 'GitHub'
+  name: 'git-gateway'
 media_folder: public/img/uploads
 public_folder: /img/uploads
 collections:
