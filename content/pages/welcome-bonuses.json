@@ -4,9 +4,9 @@
   "howGet": {
     "label": "How to get your bonuses:",
     "steps": [
-      "Make a successful deposit from 20 EUR",
-      "Go to Bonuses tab and activate your Free spin",
-      "Enjoy the great gaming experience!"
+      {"step": "Make a successful deposit from 20 EUR"},
+      {"step":  "Go to Bonuses tab and activate your Free spin"},
+      {"step":  "Enjoy the great gaming experience!"}
     ],
     "image": "/img/uploads/nft_gift.png"
   },
