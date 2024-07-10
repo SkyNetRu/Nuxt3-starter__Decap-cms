@@ -2586,7 +2586,674 @@ collections:
     format: json
     editor:
       preview: false
-    files: false
+    files:
+      - label: Add Cash Limit
+        name: addCashLimit
+        file: content/$LOCALE/modals/add-cash-limit.json
+        fields:
+          - name: chooseCurrencyError
+            label: Choose Currency Error
+            widget: string
+          - name: addBetLabel
+            label: Add Bet Label
+            widget: string
+          - name: hint
+            label: Hint
+            widget: string
+          - name: chooseCurrencyLabel
+            label: Choose Currency Label
+            widget: string
+          - name: addLossLabel
+            label: Add Loss Label
+            widget: string
+          - name: addButton
+            label: Add Button
+            widget: string
+          - name: label
+            label: Label
+            widget: string
+          - name: addDepositLabel
+            label: Add Deposit Label
+            widget: string
+          - name: successConfirmLabel
+            label: Success Confirm Label
+            widget: string
+      - label: Balance In Fiat
+        name: balanceInFiat
+        file: content/$LOCALE/modals/balance-in-fiat.json
+        fields:
+          - name: title
+            label: Title
+            widget: string
+          - name: description
+            label: Description
+            widget: string
+          - name: balance
+            label: Balance
+            widget: string
+      - label: Cancel Bonus
+        name: cancelBonus
+        file: content/$LOCALE/modals/cancel-bonus.json
+        fields:
+          - name: title
+            label: Title
+            widget: string
+          - name: activeBonusDescription
+            label: Active Bonus Description
+            widget: string
+          - name: issuedBonusDescription
+            label: Issued Bonus Description
+            widget: string
+          - name: confirmButton
+            label: Confirm Button
+            widget: string
+          - name: cancelButton
+            label: Cancel Button
+            widget: string
+      - label: Cancel Deposit
+        name: cancelDeposit
+        file: content/$LOCALE/modals/cancel-deposit.json
+        fields:
+          - name: title
+            label: Title
+            widget: string
+          - name: content
+            label: Content
+            widget: markdown
+          - name: primaryButton
+            label: Primary Button
+            widget: string
+          - name: secondaryButton
+            label: Secondary Button
+            widget: string
+          - name: confirm
+            label: Confirm
+            widget: string
+      - label: Cancel Registration
+        name: cancelRegistration
+        file: content/$LOCALE/modals/cancel-registration.json
+        fields:
+          - name: title
+            label: Title
+            widget: string
+          - name: bonusImage
+            label: Bonus Image
+            widget: image
+          - name: bonusText
+            label: Bonus Text
+            widget: string
+            hint: Put text inside "*" to highlight it
+          - name: backButton
+            label: Back Button
+            widget: string
+          - name: closeButton
+            label: Close Button
+            widget: string
+      - label: Change Active Bonus
+        name: changeActiveBonus
+        file: content/$LOCALE/modals/change-active-bonus.json
+        fields:
+          - name: title
+            label: Title
+            widget: string
+          - name: description
+            label: Description
+            widget: string
+          - name: confirmButton
+            label: Confirm Button
+            widget: string
+          - name: cancelButton
+            label: Cancel Button
+            widget: string
+      - label: Delete Cash Limit
+        name: deleteCashLimit
+        file: content/$LOCALE/modals/delete-cash-limit.json
+        fields:
+          - name: title
+            label: Title
+            widget: string
+          - name: description
+            label: Description
+            widget: string
+          - name: cancel
+            label: Cancel
+            widget: string
+          - name: apply
+            label: Apply
+            widget: string
+      - label: Edit Cash Limit
+        name: editCashLimit
+        file: content/$LOCALE/modals/edit-cash-limit.json
+        fields:
+          - name: greaterAmountTitle
+            label: Greater Amount Title
+            widget: string
+          - name: lessAmountTitle
+            label: Less Amount Title
+            widget: string
+          - name: hint
+            label: Hint
+            widget: string
+          - name: popupLabel
+            label: Popup Label
+            widget: object
+            fields:
+              - name: editWeekly_1
+                label: Edit Weekly_1
+                widget: string
+              - name: editWeekly_2
+                label: Edit Weekly_2
+                widget: string
+              - name: editMonthly_1
+                label: Edit Monthly_1
+                widget: string
+              - name: editWeekly_3
+                label: Edit Weekly_3
+                widget: string
+              - name: editMonthly_2
+                label: Edit Monthly_2
+                widget: string
+              - name: editMonthly_3
+                label: Edit Monthly_3
+                widget: string
+              - name: editDaily_1
+                label: Edit Daily_1
+                widget: string
+              - name: editDaily_2
+                label: Edit Daily_2
+                widget: string
+              - name: editDaily_3
+                label: Edit Daily_3
+                widget: string
+          - name: greaterAmountDescription
+            label: Greater Amount Description
+            widget: string
+          - name: label
+            label: Label
+            widget: string
+          - name: placeholder
+            label: Placeholder
+            widget: string
+          - name: actions
+            label: Actions
+            widget: object
+            fields:
+              - name: updateButtonLabel
+                label: Update Button Label
+                widget: string
+              - name: deleteButtonLabel
+                label: Delete Button Label
+                widget: string
+              - name: cancelButtonLabel
+                label: Cancel Button Label
+                widget: string
+      - label: Error
+        name: error
+        file: content/$LOCALE/modals/error.json
+        fields:
+          - name: title
+            label: Title
+            widget: string
+          - name: description
+            label: Description
+            widget: markdown
+          - name: button
+            label: Button
+            widget: string
+      - label: Forgot
+        name: forgot
+        file: content/$LOCALE/modals/forgot.json
+        fields:
+          - name: title
+            label: Title
+            widget: string
+          - name: description
+            label: Description
+            widget: string
+            required: false
+          - name: forgotButton
+            label: Forgot Button
+            widget: string
+          - name: registrationButton
+            label: Registration Button
+            widget: string
+            hint: Put text inside "*" to highlight it
+      - label: Game Limit Reached
+        name: gameLimitReached
+        file: content/$LOCALE/modals/game-limit-reached.json
+        fields:
+          - name: label
+            label: Label
+            widget: string
+          - name: description
+            label: Description
+            widget: string
+      - label: Login
+        name: login
+        file: content/$LOCALE/modals/login.json
+        fields:
+          - name: title
+            label: Title
+            widget: string
+          - name: loginButton
+            label: Login Button
+            widget: string
+          - name: forgotButton
+            label: Forgot Button
+            widget: string
+            hint: Put text inside "*" to highlight it
+          - name: registrationButton
+            label: Registration Button
+            widget: string
+            hint: Put text inside "*" to highlight it
+      - label: Mobile Game
+        name: mobileGame
+        file: content/$LOCALE/modals/mobile-game.json
+        fields:
+          - name: deposit
+            label: Deposit
+            widget: string
+          - name: demo
+            label: Demo
+            widget: string
+          - name: registration
+            label: Registration
+            widget: string
+          - name: login
+            label: Login
+            widget: string
+          - name: onlyReal
+            label: Only Real
+            widget: string
+      - label: Profile Confirmed
+        name: profileConfirmed
+        file: content/$LOCALE/modals/profile-confirmed.json
+        fields:
+          - name: title
+            label: Title
+            widget: string
+          - name: button
+            label: Button
+            widget: string
+      - label: Registration
+        name: registration
+        file: content/$LOCALE/modals/registration.json
+        fields:
+          - name: title
+            label: Title
+            widget: string
+          - name: registrationButton
+            label: Registration Button
+            widget: string
+          - name: loginButton
+            label: Login Button
+            widget: string
+            hint: Put text inside "*" to highlight it
+          - name: promo
+            label: Promo
+            widget: object
+            fields:
+              - name: title
+                label: Title
+                widget: string
+              - name: secondTitle
+                label: Second Title
+                widget: string
+              - name: additionalTitle
+                label: Additional Title
+                widget: string
+              - name: advantages
+                label: Advantages
+                widget: list
+                fields:
+                  - name: icon
+                    label: Icon
+                    widget: select
+                    options: *ref_0
+                  - name: label
+                    label: Label
+                    widget: string
+                label_singular: item
+                summary: '{{fields.label}}'
+              - name: displayAdvantages
+                label: Show Content
+                widget: boolean
+              - name: images
+                label: Images
+                widget: object
+                fields:
+                  - name: mobile
+                    label: Mobile
+                    widget: object
+                    fields:
+                      - name: backgroundImage
+                        label: Background Image
+                        widget: image
+                  - name: desktop
+                    label: Desktop
+                    widget: object
+                    fields:
+                      - name: backgroundImage
+                        label: Background Image
+                        widget: image
+          - name: agreeEmailLabel
+            label: Agree Email Label
+            widget: string
+          - name: agreeSmsLabel
+            label: Agree Sms Label
+            widget: string
+      - label: Reset
+        name: reset
+        file: content/$LOCALE/modals/reset.json
+        fields:
+          - name: title
+            label: Title
+            widget: string
+          - name: resetButton
+            label: Reset Button
+            widget: string
+      - label: Self Exclusion Confirm
+        name: selfExclusionConfirm
+        file: content/$LOCALE/modals/self-exclusion-confirm.json
+        fields:
+          - name: updateTitle
+            label: Update Title
+            widget: string
+          - name: updateDescription
+            label: Update Description
+            widget: string
+          - name: okButtonLabel
+            label: Ok Button Label
+            widget: string
+          - name: cancelButtonLabel
+            label: Cancel Button Label
+            widget: string
+      - label: Success
+        name: success
+        file: content/$LOCALE/modals/success.json
+        fields:
+          - name: title
+            label: Title
+            widget: string
+          - name: description
+            label: Description
+            widget: markdown
+          - name: button
+            label: Button
+            widget: string
+      - label: Wallet Bonus Details
+        name: walletBonusDetails
+        file: content/$LOCALE/modals/wallet-bonus-details.json
+        fields:
+          - name: title
+            label: Title
+            widget: string
+          - name: titleImage
+            label: Title Image
+            widget: image
+          - name: readMore
+            label: Read More
+            widget: string
+          - name: infoLabels
+            label: Info Labels
+            widget: object
+            fields:
+              - name: from
+                label: From
+                widget: string
+              - name: to
+                label: To
+                widget: string
+              - name: excluded
+                label: Excluded
+                widget: string
+              - name: depositAmount
+                label: Deposit Amount
+                widget: string
+              - name: bonusType
+                label: Bonus Type
+                widget: string
+              - name: freeSpins
+                label: Free Spins
+                widget: string
+              - name: casinoWager
+                label: Casino Wager
+                widget: string
+              - name: sportsbookWager
+                label: Sportsbook Wager
+                widget: string
+              - name: maxWin
+                label: Max Win
+                widget: string
+              - name: casinoBetSum
+                label: Casino Bet Sum
+                widget: string
+              - name: sportsbookBetSum
+                label: Sportsbook Bet Sum
+                widget: string
+              - name: providers
+                label: Providers
+                widget: string
+              - name: games
+                label: Games
+                widget: string
+      - label: Wallet
+        name: wallet
+        file: content/$LOCALE/modals/wallet.json
+        fields:
+          - name: balanceLabel
+            label: Balance Label
+            widget: string
+          - name: methodMin
+            label: Method Min
+            widget: string
+          - name: paymentMethods
+            label: Payment Methods
+            widget: object
+            fields:
+              - name: visa
+                label: Visa
+                widget: string
+              - name: crypto
+                label: Crypto
+                widget: string
+              - name: cashAgent
+                label: Cash Agent
+                widget: string
+              - name: changelly
+                label: Changelly
+                widget: string
+              - name: bilblend
+                label: Bilblend
+                widget: string
+          - name: percentageMax
+            label: Percentage Max
+            widget: string
+          - name: notAvailableText
+            label: Not Available Text
+            widget: string
+          - name: deposit
+            label: Deposit
+            widget: object
+            fields:
+              - name: title
+                label: Title
+                widget: string
+              - name: sumLabel
+                label: Sum Label
+                widget: string
+              - name: minSum
+                label: Min Sum
+                widget: string
+              - name: addressTitle
+                label: Address Title
+                widget: string
+              - name: addressInputLabel
+                label: Address Input Label
+                widget: string
+              - name: addressDescription
+                label: Address Description
+                widget: string
+              - name: bonuses
+                label: Bonuses
+                widget: object
+                fields:
+                  - name: title
+                    label: Title
+                    widget: string
+                  - name: infoDescription
+                    label: Info Description
+                    widget: string
+                  - name: minDeposit
+                    label: Min Deposit
+                    widget: string
+                  - name: deposit
+                    label: Deposit
+                    widget: string
+                  - name: maxDeposit
+                    label: Max Deposit
+                    widget: string
+                  - name: moreInfo
+                    label: More Info
+                    widget: string
+              - name: togglerLabel
+                label: Toggler Label
+                widget: string
+              - name: addBonusCode
+                label: Add Bonus Code
+                widget: string
+              - name: cancelBonusCode
+                label: Cancel Bonus Code
+                widget: string
+              - name: depositButton
+                label: Deposit Button
+                widget: string
+              - name: cashAgent
+                label: Cash Agent
+                widget: object
+                fields:
+                  - name: title
+                    label: Title
+                    widget: string
+                  - name: description
+                    label: Description
+                    widget: string
+                  - name: copyIdLabel
+                    label: Copy Id Label
+                    widget: string
+                  - name: copyIdBtn
+                    label: Copy Id Btn
+                    widget: string
+              - name: limit
+                label: Limit
+                widget: object
+                fields:
+                  - name: title
+                    label: Title
+                    widget: string
+                  - name: description
+                    label: Description
+                    widget: string
+                  - name: moreInfo
+                    label: More Info
+                    widget: string
+              - name: copyAddress
+                label: Copy Address
+                widget: string
+          - name: withdraw
+            label: Withdraw
+            widget: object
+            fields:
+              - name: title
+                label: Title
+                widget: string
+              - name: withdrawLabel
+                label: Withdraw Label
+                widget: string
+              - name: sumLabel
+                label: Sum Label
+                widget: string
+              - name: minSum
+                label: Min Sum
+                widget: string
+              - name: withdrawButton
+                label: Withdraw Button
+                widget: string
+              - name: cashAgent
+                label: Cash Agent
+                widget: object
+                fields:
+                  - name: title
+                    label: Title
+                    widget: string
+                  - name: copyIdLabel
+                    label: Copy Id Label
+                    widget: string
+                  - name: copyIdBtn
+                    label: Copy Id Btn
+                    widget: string
+                  - name: secretCodeLabel
+                    label: Secret Code Label
+                    widget: string
+                  - name: secretCodeBtn
+                    label: Secret Code Btn
+                    widget: string
+          - name: walletConnect
+            label: Wallet Connect
+            widget: object
+            fields:
+              - name: title
+                label: Title
+                widget: string
+              - name: label
+                label: Label
+                widget: string
+              - name: connected
+                label: Connected
+                widget: string
+              - name: amount
+                label: Amount
+                widget: string
+              - name: balance
+                label: Balance
+                widget: string
+              - name: pay
+                label: Pay
+                widget: string
+          - name: buttonBonusLabel
+            label: Button Bonus Label
+            widget: string
+          - name: closeBtn
+            label: Close Btn
+            widget: string
+          - name: tabs
+            label: Tabs
+            widget: object
+            fields:
+              - name: deposit
+                label: Deposit
+                widget: string
+              - name: withdraw
+                label: Withdraw
+                widget: string
+          - name: noPaymentMethods
+            label: No Payment Methods
+            widget: string
+          - name: tryAnotherRegion
+            label: Try Another Region
+            widget: string
+          - name: countryAutomatic
+            label: Country Automatic
+            widget: string
+          - name: selectCurrency
+            label: Select Currency
+            widget: string
+          - name: youWillGet
+            label: You Will Get
+            widget: string
+          - name: fee
+            label: Fee
+            widget: string
   - name: pages
     label: Pages
     extension: json
@@ -3338,13 +4005,6 @@ collections:
             fields: *ref_3
             collapsed: true
             required: false
-          - name: IPageMeta
-            label: ' I Page Meta'
-            widget: object
-            fields:
-              - name: title
-                label: Title
-                widget: string
   - name: profile
     label: Profile
     extension: json
@@ -3876,5 +4536,6 @@ collections:
         label: Page Content
         widget: markdown
       - *ref_4
+
 
 
